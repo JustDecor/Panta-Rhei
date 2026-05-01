@@ -2480,3 +2480,9 @@ Entries:
       message: adjusted the voresystem
   id: 310
   time: '2026-04-29T10:16:12.0000000+00:00'
+- author: sprkl
+  changes:
+    - type: Fix
+      message: Wardens will now spawn with the correct headset.
+  id: 311
+  time: '2026-05-01T04:55:28.0000000+00:00'
