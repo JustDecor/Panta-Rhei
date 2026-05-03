@@ -2579,3 +2579,9 @@ Entries:
         to 5
   id: 322
   time: '2026-05-03T04:38:29.0000000+00:00'
+- author: Mnemotechnician
+  changes:
+    - type: Fix
+      message: Saltern should appear in rotation again.
+  id: 323
+  time: '2026-05-03T17:56:54.0000000+00:00'
