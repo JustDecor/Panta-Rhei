@@ -2585,3 +2585,11 @@ Entries:
       message: Saltern should appear in rotation again.
   id: 323
   time: '2026-05-03T17:56:54.0000000+00:00'
+- author: WhiteLightningTwister
+  changes:
+    - type: Add
+      message: >-
+        adjusted glaicer, security & epistemics have had major overhauls,
+        engineering, hop, librarian, psychologist have been touched up.
+  id: 324
+  time: '2026-05-03T17:58:04.0000000+00:00'
