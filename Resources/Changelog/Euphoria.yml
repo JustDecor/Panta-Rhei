@@ -2792,3 +2792,9 @@ Entries:
         throwing damage.
   id: 349
   time: '2026-05-13T09:32:20.0000000+00:00'
+- author: youtubepoopfuneral
+  changes:
+    - type: Tweak
+      message: Redesigned service quadborg. Horse mode UNLOCKED.
+  id: 350
+  time: '2026-05-13T09:38:39.0000000+00:00'
