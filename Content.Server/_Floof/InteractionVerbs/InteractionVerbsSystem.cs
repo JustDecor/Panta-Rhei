@@ -15,7 +15,6 @@ public sealed class InteractionVerbsSystem : SharedInteractionVerbsSystem
 {
     [Dependency] private readonly IChatManager _chatManager = default!;
     [Dependency] private readonly SharedInteractionSystem _interactions = default!;
-    [Dependency] private readonly ExamineSystem _examine = default!;
 
     private EntityQuery<OccluderComponent> _occluderQuery;
 
