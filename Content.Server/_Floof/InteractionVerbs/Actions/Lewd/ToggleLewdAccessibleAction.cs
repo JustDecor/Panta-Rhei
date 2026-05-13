@@ -20,6 +20,7 @@ public sealed partial class ToggleLewdAccessBypassAction : InteractionAction
             return false;
 
         lewd.BypassClothingChecks = !lewd.BypassClothingChecks;
+        deps.EntMan.Dirty(args.Target, lewd);
         return true;
     }
 }
