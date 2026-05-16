@@ -61,8 +61,11 @@ public sealed partial class MeleeWeaponSystem
 
             length = (1 / meleeWeaponComponent.AttackRate) * 0.6f;
             offset = meleeWeaponComponent.AnimationOffset;
+
+            if (meleeWeaponComponent.ChangeSwingDirection) meleeWeaponComponent.SwingLeft = !meleeWeaponComponent.SwingLeft; // DeltaV - Nice swing animation for desword
         }
         _sprite.SetRotation((animationUid, sprite), localPos.ToWorldAngle());
+        var distance = Math.Clamp(localPos.Length() / 2f, 0.2f, 1f);
 
         var xform = _xformQuery.GetComponent(animationUid);
         TrackUserComponent track;

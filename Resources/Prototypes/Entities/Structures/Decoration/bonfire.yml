@@ -57,6 +57,11 @@
   - type: Construction
     graph: Bonfire
     node: bonfire
+  # Floofstation - campfire construction start
+  - type: Construction
+    graph: Bonfire
+    node: BonfireLit
+  # Floofstation - campfire construction end
 
 - type: entity
   parent: BaseBonfire

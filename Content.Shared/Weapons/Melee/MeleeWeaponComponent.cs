@@ -119,6 +119,12 @@ public sealed partial class MeleeWeaponComponent : Component
     public bool SwingLeft;
 
     /// <summary>
+    /// DeltaV: if true, weapon will swing in different direction each strike. Purely cosmetic.
+    /// </summary>
+    [DataField]
+    public bool ChangeSwingDirection;
+
+    /// <summary>
     /// Change <see cref="SwingLeft"/> after every attack. Allows each attack to take turns being either left or right.
     /// Thats looks cool visually
     /// </summary>
@@ -132,6 +138,7 @@ public sealed partial class MeleeWeaponComponent : Component
     /// </summary>
     [DataField]
     public float AnimationOffset = 1f;
+
 
     // Sounds
 
