@@ -1,6 +1,6 @@
 - type: entity
-  id: [BaseHumanOrgan, BaseOrganRotting] # Floof - added the rotting parent
-  parent: BaseItem
+  id: BaseHumanOrgan
+  parent: [BaseItem, BaseOrganRotting] # Floof - added the rotting parent
   abstract: true
   components:
   - type: Sprite

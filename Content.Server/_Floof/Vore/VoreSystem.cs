@@ -19,6 +19,7 @@ using Content.Shared.Polymorph;
 using Content.Shared.Destructible;
 using Robust.Shared.Configuration;
 using Content.Shared._DV.Carrying;
+using Content.Shared.Gibbing;
 using Robust.Shared.Timing;
 namespace Content.Server._Floof.Vore;
 
