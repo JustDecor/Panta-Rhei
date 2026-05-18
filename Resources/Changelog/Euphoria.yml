@@ -2915,3 +2915,9 @@ Entries:
       message: Bad Aim and Can't Aim traits.
   id: 364
   time: '2026-05-16T22:57:05.0000000+00:00'
+- author: kivdon
+  changes:
+    - type: Tweak
+      message: 'Changed fixture radius of Chitinids to no longer get stuck in doors. '
+  id: 365
+  time: '2026-05-18T02:23:24.0000000+00:00'
