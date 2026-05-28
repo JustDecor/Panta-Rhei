@@ -3188,3 +3188,9 @@ Entries:
       message: Changed Jerma's examine text.
   id: 399
   time: '2026-05-28T10:05:27.0000000+00:00'
+- author: Dunrab
+  changes:
+    - type: Fix
+      message: Tarot cards should now stack properly.
+  id: 400
+  time: '2026-05-28T10:06:57.0000000+00:00'
