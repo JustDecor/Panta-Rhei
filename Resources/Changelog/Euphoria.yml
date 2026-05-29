@@ -3206,3 +3206,11 @@ Entries:
       message: Harpy purrs no longer have a chance to sound like an APLU.
   id: 402
   time: '2026-05-29T11:00:51.0000000+00:00'
+- author: Aureuix
+  changes:
+    - type: Tweak
+      message: >-
+        Changed paramedic and surgeon loadouts to give them more jumpsuit
+        options.
+  id: 403
+  time: '2026-05-29T11:05:28.0000000+00:00'
