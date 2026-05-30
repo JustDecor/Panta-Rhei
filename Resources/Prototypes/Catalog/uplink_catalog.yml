@@ -878,16 +878,19 @@
   - UplinkDeception
 
 # Delta-V: replaced by syndicate radio implant
-#- type: listing
-#  id: UplinkHeadsetEncryptionKey
-#  name: uplink-encryption-key-name
-#  description: uplink-encryption-key-desc
-#  icon: { sprite: /Textures/Objects/Devices/encryption_keys.rsi, state: synd_label }
-#  productEntity: BoxEncryptionKeySyndie # Two for the price of one
-#  cost:
-#    Telecrystal: 2
-#  categories:
-#  - UplinkDeception
+- type: listing
+  id: UplinkHeadsetEncryptionKey
+  name: uplink-encryption-key-name
+  description: uplink-encryption-key-desc
+  icon: { sprite: /Textures/Objects/Devices/encryption_keys.rsi, state: synd_label }
+  #productEntity: BoxEncryptionKeySyndie # Two for the price of one
+  productEntity: EncryptionKeySyndie
+  #Euphoria | Changed to TC 0, cost removed to properly label it "free"
+  categories:
+  - UplinkDeception
+  conditions:
+  - !type:ListingLimitedStockCondition
+    stock: 1
 
 - type: listing
   id: UplinkBinaryTranslatorKey
@@ -1125,7 +1128,8 @@
   categories:
   - UplinkDisruption
 
-# Note: Removed for the time being until surgery/newmed is added. Considered bloat until then.
+# Duplicate entry: See Resources\Prototypes\_DV\Catalog\Uplink\disruption.yml
+#// Note: Removed for the time being until surgery/newmed is added. Considered bloat until then.
 # - type: listing
 #   id: UplinkDuffelSurgery
 #   name: uplink-duffel-surgery-name
@@ -1412,18 +1416,18 @@
       tags:
       - NukeOpsUplink
 
-#- type: listing # DeltaV - Remove syndicats
-#  id: UplinkMobCatMicrobomb
-#  name: uplink-mobcat-microbomb-name
-#  description: uplink-mobcat-microbomb-desc
-#  icon: { sprite: Objects/Devices/communication.rsi, state: old-radio-syndicat }
-#  productEntity: ReinforcementRadioSyndicateSyndiCat
-#  discountCategory: usualDiscounts
-#  discountDownTo:
+# - type: listing # DeltaV - Remove syndicats
+#   id: UplinkMobCatMicrobomb
+#   name: uplink-mobcat-microbomb-name
+#   description: uplink-mobcat-microbomb-desc
+#   icon: { sprite: Objects/Devices/communication.rsi, state: old-radio-syndicat }
+#   productEntity: ReinforcementRadioSyndicateSyndiCat
+#   discountCategory: usualDiscounts
+#   discountDownTo:
 #    Telecrystal: 3
-#  cost:
+#   cost:
 #    Telecrystal: 6
-#  categories:
+#   categories:
 #    - UplinkAllies
 
 - type: listing
@@ -1963,15 +1967,16 @@
   categories:
   - UplinkPointless
 
-#- type: listing # DeltaV - Remove cat ears
-#  id: UplinkCatEars
-#  name: uplink-cat-ears-name
-#  description: uplink-cat-ears-desc
-#  productEntity: ClothingHeadHatCatEars
-#  cost:
-#    Telecrystal: 26
-#  categories:
-#  - UplinkPointless
+# Euphoria | The people yearn for the UWU
+- type: listing # DeltaV - Remove cat ears
+  id: UplinkCatEars
+  name: uplink-cat-ears-name
+  description: uplink-cat-ears-desc
+  productEntity: ClothingHeadHatCatEars
+  cost:
+   Telecrystal: 2
+  categories:
+   - UplinkPointless
 
 - type: listing
   id: UplinkOutlawHat
@@ -2018,8 +2023,7 @@
   name: uplink-operative-suit-name
   description: uplink-operative-suit-desc
   productEntity: ClothingUniformJumpsuitOperative
-  cost:
-    Telecrystal: 0 # DeltaV - was 1
+  #Euphoria | Was TC 0, cost removed to properly label it "free"
   categories:
   - UplinkPointless
   conditions: # DeltaV - free so limited stock
@@ -2031,8 +2035,7 @@
   name: uplink-operative-skirt-name
   description: uplink-operative-skirt-desc
   productEntity: ClothingUniformJumpskirtOperative
-  cost:
-    Telecrystal: 0 # DeltaV - was 1
+  #Euphoria | Was TC 0, cost removed to properly label it "free"
   categories:
   - UplinkPointless
   conditions: # DeltaV - free so limited stock
