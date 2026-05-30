@@ -3242,3 +3242,9 @@ Entries:
       message: Chaplains should now have access to all the hats that passengers do.
   id: 406
   time: '2026-05-30T05:52:37.0000000+00:00'
+- author: sprkl
+  changes:
+    - type: Add
+      message: A new blazer and skirt combo has been added!
+  id: 407
+  time: '2026-05-30T05:53:48.0000000+00:00'
