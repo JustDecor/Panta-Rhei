@@ -3268,3 +3268,19 @@ Entries:
       message: The silly bibles will now have inhand sprites.
   id: 410
   time: '2026-05-30T06:21:30.0000000+00:00'
+- author: sprkl
+  changes:
+    - type: Tweak
+      message: Various enhancements to Nukie Mice, including the ability to be a hat
+    - type: Tweak
+      message: Various enhancements to SyndiCats, Including access to the radio
+    - type: Tweak
+      message: Various enhancements to cats, including the ability to purr
+    - type: Tweak
+      message: Mice can now see in the dark
+    - type: Tweak
+      message: Felinids can now trill, both ways
+    - type: Tweak
+      message: Trill emotes have slightly more fitting icons on the wheel
+  id: 411
+  time: '2026-05-30T06:31:44.0000000+00:00'
