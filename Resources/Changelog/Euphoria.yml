@@ -3326,3 +3326,9 @@ Entries:
         viewing.
   id: 417
   time: '2026-06-02T17:23:48.0000000+00:00'
+- author: Dunrab
+  changes:
+    - type: Add
+      message: Gun safes can now be built with id locks.
+  id: 418
+  time: '2026-06-02T17:45:32.0000000+00:00'
