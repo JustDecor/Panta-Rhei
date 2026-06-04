@@ -3355,3 +3355,15 @@ Entries:
       message: Added Italian plushie.
   id: 421
   time: '2026-06-04T12:04:32.0000000+00:00'
+- author: kivdon
+  changes:
+    - type: Add
+      message: >-
+        Added traits for increasing or decreasing Critical and Dead thresholds.
+        Die to a stiff breeze if you want!
+    - type: Tweak
+      message: >-
+        Adjusted Redshirt to halve your Dead threshold instead of making it a
+        flat 100. Same result in most cases.
+  id: 422
+  time: '2026-06-04T12:05:47.0000000+00:00'
