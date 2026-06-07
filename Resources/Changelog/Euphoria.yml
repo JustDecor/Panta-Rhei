@@ -3399,3 +3399,11 @@ Entries:
       message: lovelox ears marking now has actual ears
   id: 427
   time: '2026-06-06T06:04:47.0000000+00:00'
+- author: Eagle0600
+  changes:
+    - type: Add
+      message: >-
+        An array of new traits allows you to customise your characters' blood.
+        Custom species rejoice.
+  id: 428
+  time: '2026-06-07T04:39:32.0000000+00:00'
