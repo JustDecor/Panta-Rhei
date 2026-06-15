@@ -3604,3 +3604,9 @@ Entries:
         adjusted.
   id: 452
   time: '2026-06-15T07:09:26.0000000+00:00'
+- author: Dunrab
+  changes:
+    - type: Add
+      message: The Carp Chew Toy is now available in loadouts.
+  id: 453
+  time: '2026-06-15T07:11:06.0000000+00:00'
