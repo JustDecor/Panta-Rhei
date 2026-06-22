@@ -3806,3 +3806,15 @@ Entries:
       message: Made 🍤 Fisher Outfit warm enough to walk outside on Glacier
   id: 476
   time: '2026-06-21T07:51:35.0000000+00:00'
+- author: Dunrab
+  changes:
+    - type: Add
+      message: Botany can now grow peanuts, seeds can be found in the seed vendor.
+    - type: Add
+      message: Peanuts have a recipe to be turned into peanut butter.
+    - type: Add
+      message: >-
+        Peanut Butter can be used in various new food recipes and one drink
+        recipe.
+  id: 477
+  time: '2026-06-22T09:12:36.0000000+00:00'
