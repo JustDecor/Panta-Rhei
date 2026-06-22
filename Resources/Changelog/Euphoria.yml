@@ -3847,3 +3847,9 @@ Entries:
         preview should now correctly display loadouts with a custom color tint.
   id: 480
   time: '2026-06-22T09:19:57.0000000+00:00'
+- author: Dunrab
+  changes:
+    - type: Add
+      message: Potted plants are now carriable the same way players are.
+  id: 481
+  time: '2026-06-22T09:21:44.0000000+00:00'
