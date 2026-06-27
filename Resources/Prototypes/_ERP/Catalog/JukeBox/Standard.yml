@@ -243,3 +243,63 @@
   name: MGR - Rules-of-Nature
   path:
     path: /Audio/_ERP/Jukebox/Rules-of-Nature.ogg
+
+- type: jukebox
+  id: songDemons
+  name: Omana - Демони
+  path:
+    path: /Audio/_ERP/Jukebox/Demons.ogg
+
+- type: jukebox
+  id: songDVD
+  name: Shmiska - DVD
+  path:
+    path: /Audio/_ERP/Jukebox/DVD.ogg
+
+- type: jukebox
+  id: songHoyda
+  name: Unknown - Гаї Шумлять
+  path:
+    path: /Audio/_ERP/Jukebox/Gai_shumlyat'.ogg
+
+- type: jukebox
+  id: songKillGods
+  name: Хейтспіч - Я вб'ю всіх богів
+  path:
+    path: /Audio/_ERP/Jukebox/Kill_gods.ogg
+
+- type: jukebox
+  id: songMoskva
+  name: Хейтспіч - Москва
+  path:
+    path: /Audio/_ERP/Jukebox/Moskva.ogg
+
+- type: jukebox
+  id: songPohlady
+  name: Туди-сюди-і-смерть - Погляди
+  path:
+    path: /Audio/_ERP/Jukebox/Pohlady.ogg
+
+- type: jukebox
+  id: songTydySydy
+  name: Туди-сюди-і-смерть - Туди-сюди-і-смерть
+  path:
+    path: /Audio/_ERP/Jukebox/Tydy-sydy.ogg
+
+- type: jukebox
+  id: songProhnos
+  name: Діти-інженерів - Прогноз
+  path:
+    path: /Audio/_ERP/Jukebox/Prohnos.ogg
+
+- type: jukebox
+  id: songRybtsi
+  name: Діти-інженерів - Рубці
+  path:
+    path: /Audio/_ERP/Jukebox/Rybtsi.ogg
+
+- type: jukebox
+  id: songZlo
+  name: Діти-інженерів - Зло
+  path:
+    path: /Audio/_ERP/Jukebox/Zlo.ogg
