@@ -1,6 +1,13 @@
-handheld-radio-component-on-use = The radio is now {$radioState}.
-handheld-radio-component-on-examine = It's set to broadcast over the {$frequency} frequency.
-handheld-radio-component-on-state = on
-handheld-radio-component-off-state = off
-handheld-radio-component-channel-set = Channel set to {$channel}
-handheld-radio-component-chennel-examine = The current channel is {$channel}.
+handheld-radio-component-on-use = Радіо зараз {$radioState}.
+handheld-radio-component-on-examine = Він налаштований на трансляцію на частоті {$frequency}
+handheld-radio-component-on-state = увімкнено
+handheld-radio-component-off-state = вимкнено
+handheld-radio-component-channel-set = Канал встановлено на {$channel}
+handheld-radio-component-channel-examine = Канал: [color={$color}]{$channel}[/color]
+
+# Nuclear-14-Start
+handheld-radio-menu-title = Рація
+handheld-radio-current-text-frequency = Частота мовлення
+handheld-radio-button-text-mic = Мкрф.
+handheld-radio-button-text-speaker = Динм.
+handheld-radio-flavor-text-left = HandiComms, 1000-3000 кГц

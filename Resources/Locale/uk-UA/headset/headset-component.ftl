@@ -1,25 +1,21 @@
 # Chat window radio wrap (prefix and postfix)
-# Floosation - support for languages. Also, $color was renamed to $channelColor.
-# Notice that we explicitly DO NOT COLOR THE TEXT OF THE MESSAGE. The $textColor variable is used only in the language hint to make multilingual radio chatter more readable.
-chat-radio-message-wrap = [color={$channelColor}]{$channel} {$name} {$verb} [font={$fontType} size={$fontSize}]"{$message}"{chat-manager-language-hint}[/font][/color]
-chat-radio-message-wrap-bold = [color={$channelColor}]{$channel} {$name} {$verb} [font={$fontType} size={$fontSize}][bold]"{$message}"{chat-manager-language-hint}[/bold][/font][/color]
+chat-radio-message-wrap = [color={$color}]{$channel} [bold]{$name}[/bold] {$verb}, "[/color][font="{$fontType}" size={$fontSize}][color={$languageColor}]{$message}[/color][/font][color={$color}]"[/color]
+chat-radio-message-wrap-bold = [color={$color}]{$channel} [bold]{$name}[/bold] {$verb}, "[/color][color={$languageColor}][font="{$fontType}" size={$fontSize}][bold]{$message}[/bold][/font][/color][color={$color}]"[/color]
 
-examine-headset-default-channel = Use {$prefix} for the default channel ([color={$color}]{$channel}[/color]).
+examine-headset-default-channel = Використовуйте {$prefix} для загального каналу ([color={$color}]{$channel}[/color]).
 
-chat-radio-common = Common
-chat-radio-centcom = CentComm
-chat-radio-command = Command
-chat-radio-engineering = Engineering
-chat-radio-medical = Medical
-chat-radio-science = Epistemics
-chat-radio-security = Security
-chat-radio-service = Service
-chat-radio-supply = Logistics
-chat-radio-syndicate = Syndicate
-chat-radio-freelance = Freelance
+chat-radio-common = Загальний
+chat-radio-centcom = ЦентКом
+chat-radio-command = Керівництво
+chat-radio-engineering = Інженерний
+chat-radio-medical = Медичний
+chat-radio-science = Науковий
+chat-radio-security = Служба безпеки
+chat-radio-service = Сервісний
+chat-radio-supply = Карго
+chat-radio-syndicate = Синдикат
+chat-radio-freelance = Позаштатний
 
 # not headset but whatever
-chat-radio-handheld = Handheld
-chat-radio-binary = Binary
-chat-radio-xenoborg = Xenoborg
-chat-radio-mothership = Mothership
+chat-radio-handheld = Портативний
+chat-radio-binary = Двійковий
