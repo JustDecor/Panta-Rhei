@@ -3964,3 +3964,11 @@ Entries:
       message: Chittin will now display properly when spoken.
   id: 494
   time: '2026-06-30T04:22:11.0000000+00:00'
+- author: Eagle0600
+  changes:
+    - type: Add
+      message: Added kitten heels and ballet heels
+    - type: Add
+      message: Added high-heeled jackboots from Moff Station
+  id: 495
+  time: '2026-06-30T10:38:15.0000000+00:00'
