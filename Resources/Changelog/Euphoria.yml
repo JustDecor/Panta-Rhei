@@ -4060,3 +4060,9 @@ Entries:
       message: Added the Food Critic as a ghost role.
   id: 506
   time: '2026-07-04T01:51:17.0000000+00:00'
+- author: Dunrab
+  changes:
+    - type: Add
+      message: Two pet spiders are now available in loadouts.
+  id: 507
+  time: '2026-07-04T01:51:58.0000000+00:00'
