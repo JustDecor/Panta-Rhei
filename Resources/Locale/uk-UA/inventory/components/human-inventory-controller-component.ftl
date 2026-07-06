@@ -1,1 +1,1 @@
-set-outfit-verb-get-data-text = Налаштувати Спорядження
+set-outfit-verb-get-data-text = Set Outfit

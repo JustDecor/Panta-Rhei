@@ -1,19 +1,23 @@
-mech-verb-enter = Увійти
-mech-verb-exit = Витягнути пілота
+mech-verb-enter = Enter
+mech-verb-exit = Remove pilot
 
-mech-equipment-begin-install = Встановлення {THE($item)}...
-mech-equipment-finish-install = Встановлено {THE($item)}
+mech-equipment-begin-install = Installing the {THE($item)}...
+mech-equipment-finish-install = Finished installing the {THE($item)}
 
-mech-equipment-select-popup = {$item} вибрано
-mech-equipment-select-none-popup = Нічого не вибрано
+mech-equipment-select-popup = {$item} selected
+mech-equipment-select-none-popup = Nothing selected
 
-mech-ui-open-verb = Відкрити панель
+mech-ui-open-verb = Open control panel
 
-mech-menu-title = панель контролю
+mech-menu-title = mech control panel
 
-mech-integrity-display = Цілістність: {$amount}%
-mech-energy-display = Зарядка: {$amount}%
-mech-energy-missing = Енергія: ВІДСУТНЯ
-mech-slot-display = Доступні місця: {$amount}
+mech-integrity-display = Integrity: {$amount}%
+mech-energy-display = Energy: {$amount}%
+mech-energy-missing = Energy: MISSING
+mech-slot-display = Open Slots: {$amount}
 
-mech-no-enter = Ви не можете пілотувати це.
+mech-no-enter = You cannot pilot this.
+
+mech-eject-pilot-alert = {$user} is pulling the pilot out of the {$item}!
+
+mech-construction-guide-string = All mech parts must be attached to the harness.

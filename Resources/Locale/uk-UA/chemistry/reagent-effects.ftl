@@ -1,1 +1,1 @@
-effect-sleepy = Очі злипаються, хочеться спати.
+effect-sleepy = You feel a bit sleepy.

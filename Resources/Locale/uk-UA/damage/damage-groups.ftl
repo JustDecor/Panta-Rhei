@@ -1,7 +1,6 @@
-damage-group-brute = Тілесні
-damage-group-burn = Опіки
-damage-group-airloss = Асфіксія
-damage-group-toxin = Токсини
-damage-group-genetic = Генетичні
-damage-group-immaterial = Нематеріальні
-damage-group-metaphysical = Метафізичний
+damage-group-brute = Brute
+damage-group-burn = Burn
+damage-group-airloss = Airloss
+damage-group-toxin = Toxin
+damage-group-genetic = Genetic
+damage-group-metaphysical = Metaphysical

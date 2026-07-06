@@ -1,1 +1,1 @@
-door-pry = Відчинити двері
+door-pry = Pry door

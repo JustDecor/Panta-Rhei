@@ -1,2 +1,2 @@
-marking-ADTAllShavedFemale = Організований
-marking-ADTAllhonor = Честь
+marking-ADTAllShavedFemale = Organized
+marking-ADTAllhonor = Honor

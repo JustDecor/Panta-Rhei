@@ -1,1 +1,1 @@
-qm-clipboard-computer-verb-text = Перемикання Запитів
+qm-clipboard-computer-verb-text = Toggle Requests

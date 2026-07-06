@@ -1,11 +1,11 @@
 ## ExamineSystem
 
-examine-system-entity-does-not-exist = Ця сутність не існує
+examine-system-entity-does-not-exist = That entity doesn't exist
 
-examine-system-cant-see-entity = Ви не можете розібрати, що це таке.
+examine-system-cant-see-entity = You can't make out whatever that is.
 
-examine-verb-name = Базувати
+examine-verb-name = Basic
 
-examinable-anchored = Воно [color=darkgreen]пригвинчено[/color] до підлоги
+examinable-anchored = It is [color=darkgreen]anchored[/color] to the floor.
 
-examinable-unanchored = Воно [color=darkred]відгвинчено[/color] від підлоги
+examinable-unanchored = It is [color=darkred]unanchored[/color] from the floor.

@@ -1,2 +1,2 @@
-sheath-insert-verb = Обкладинка
-sheath-eject-verb = Розпакуйте
+sheath-insert-verb = Sheathe
+sheath-eject-verb = Unsheathe

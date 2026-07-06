@@ -1,1 +1,1 @@
-marking-WingsRoboticMerciful = Милосердні роботизовані крила
+marking-WingsRoboticMerciful = Merciful Robotic Wings

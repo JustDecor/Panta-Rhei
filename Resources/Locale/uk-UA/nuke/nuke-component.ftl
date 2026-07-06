@@ -1,31 +1,34 @@
-nuke-component-cant-anchor-floor = Анкерні болти не можуть зафіксуватися у підлозі!
-nuke-component-announcement-sender = Ядерна боєголовка
-nuke-component-announcement-armed = Увага! Механізм самознищення станції було увімкнено {$location}. {$time} секунд до детонації. Якщо це було зроблено помилково, механізм може бути розміновано.
-nuke-component-announcement-unarmed = Самознищення станції припинено! Гарного дня!
-nuke-component-announcement-send-codes = Увага! Коди самознищення надіслано на факси керівництва станції.
-nuke-component-doafter-warning = Ви починаєте возитися з дротами та ручками, щоб розмінувати ядерний заряд. Це може зайняти деякий час.
+nuke-component-cant-anchor-floor = The anchoring bolts fail to lock into the floor!
+nuke-component-cant-anchor-toggle = The nuclear authentication disk is required to toggle the floor bolts!
+nuke-component-announcement-sender = Nuclear Fission Explosive
+nuke-component-announcement-armed = Attention! The station's self-destruct mechanism has been engaged {$location}. {$time} seconds until detonation. If this was made in error, the mechanism may still be disarmed.
+nuke-component-announcement-unarmed = The station's self-destruct was deactivated! Have a nice day!
+nuke-component-announcement-send-codes = Attention! Self-destruction codes have been sent to designated fax machines.
+nuke-component-doafter-warning = You start fiddling with wires and knobs in order to disarm the nuke.. This may take a while.
+
+nuke-disk-component-microwave = The disk sparks and fizzles a bit, but seems mostly unharmed?
 
 # Nuke UI
-nuke-user-interface-title = Вибухівка з Ядерним Зарядом
-nuke-user-interface-arm-button = ЗАМІНУВАТИ
-nuke-user-interface-disarm-button = РОЗМІНУВАТИ
-nuke-user-interface-anchor-button = ПРИКРУТИТИ
-nuke-user-interface-eject-button = ДІСТАТИ
+nuke-user-interface-title = Nuclear Fission Explosive
+nuke-user-interface-arm-button = ARM
+nuke-user-interface-disarm-button = DISARM
+nuke-user-interface-anchor-button = ANCHOR
+nuke-user-interface-eject-button = EJECT
 
 ## Upper status
-nuke-user-interface-first-status-device-locked = ПРИСТРІЙ ЗАБЛОКОВАНО
-nuke-user-interface-first-status-input-code = ВВЕДІТЬ КОД
-nuke-user-interface-first-status-input-time = ВВЕДІТЬ ЧАС
-nuke-user-interface-first-status-device-ready = ПРИСТРІЙ ГОТОВИЙ
-nuke-user-interface-first-status-device-armed = ПРИСТРІЙ ЗАМІНОВАНО
-nuke-user-interface-first-status-device-cooldown = ДЕАКТИВОВАНО
-nuke-user-interface-status-error = ПОМИЛКА
+nuke-user-interface-first-status-device-locked = DEVICE LOCKED
+nuke-user-interface-first-status-input-code = INPUT CODE
+nuke-user-interface-first-status-input-time = INPUT TIME
+nuke-user-interface-first-status-device-ready = DEVICE READY
+nuke-user-interface-first-status-device-armed = DEVICE ARMED
+nuke-user-interface-first-status-device-cooldown = DEACTIVATED
+nuke-user-interface-status-error = ERROR
 
 ## Lower status
-nuke-user-interface-second-status-await-disk = ДИСК ВІДСУТНІЙ
-nuke-user-interface-second-status-time = ЧАС: {$time}
-nuke-user-interface-second-status-current-code = КОД: {$code}
-nuke-user-interface-second-status-cooldown-time = ЗАЧЕКАЙТЕ: {$time}
+nuke-user-interface-second-status-await-disk = AWAIT DISK
+nuke-user-interface-second-status-time = TIME: {$time}
+nuke-user-interface-second-status-current-code = CODE: {$code}
+nuke-user-interface-second-status-cooldown-time = WAIT: {$time}
 
 ## Nuke labels
 nuke-label-nanotrasen = NT-{$serial}
@@ -35,13 +38,13 @@ nuke-label-nanotrasen = NT-{$serial}
 nuke-label-syndicate = SYN-{$serial}
 
 # Codes
-nuke-codes-message = [color=red]НАДЗВИЧАЙНО СЕКРЕТНО![/color]
-nuke-codes-list = {$name} код: {$code}
-nuke-codes-fax-paper-name = коди активації ядерної боєголовки
+nuke-codes-message = [color=red]TOP SECRET![/color]
+nuke-codes-list = {$name} code: {$code}
+nuke-codes-fax-paper-name = nuclear authentication codes
 
 # Nuke disk slot
-nuke-slot-component-slot-name-disk = Диск
+nuke-slot-component-slot-name-disk = Disk
 
 ## Examine
-nuke-examine-armed = Ей, а чому це [color=red]червоне світло[/color] блимає?
-nuke-examine-exploding = Та... Думаю, вже запізно, друже.
+nuke-examine-armed = Hey uh, why's that [color=red]red light[/color] blinking?
+nuke-examine-exploding = Yeah... I think it's too late buddy.

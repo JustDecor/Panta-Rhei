@@ -1,4 +1,4 @@
-carry-verb = Нести
+carry-verb = Carry
 
-carry-too-heavy = Ви недостатньо сильні.
-carry-started = {THE($carrier)} намагається підняти вас!
+carry-too-heavy = You're not strong enough.
+carry-started = {THE($carrier)} is trying to pick you up!

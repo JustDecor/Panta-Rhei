@@ -1,1 +1,1 @@
-objective-condition-steal-research-title = Викрадіть {$count} технологій.
+objective-condition-steal-research-title = Steal {$count} technologies.

@@ -1,23 +1,23 @@
-marking-SlimeGradientLeftArm-gradient_l_arm = Ліва рука слизу (градієнт)
-marking-SlimeGradientLeftArm = Ліва Рука Cлаймолюдини (градієнт)
+marking-SlimeGradientLeftArm-gradient_l_arm = Slime Left Arm (Gradient)
+marking-SlimeGradientLeftArm = Slime Left Arm (Gradient)
 
-marking-SlimeGradientRightArm-gradient_r_arm = Права рука слизу (градієнт)
-marking-SlimeGradientRightArm = Права Рука Слаймолюдини (градієнт)
+marking-SlimeGradientRightArm-gradient_r_arm = Slime Right Arm (Gradient)
+marking-SlimeGradientRightArm = Slime Right Arm (Gradient)
 
-marking-SlimeGradientLeftFoot-gradient_l_foot = Ліва нога слизу (градієнт)
-marking-SlimeGradientLeftFoot = Ліва Стопа Cлаймолюдини (градієнт)
+marking-SlimeGradientLeftFoot-gradient_l_foot = Slime Left Foot (Gradient)
+marking-SlimeGradientLeftFoot = Slime Left Foot (Gradient)
 
-marking-SlimeGradientRightFoot-gradient_r_foot = Слиз права нога (градієнт)
-marking-SlimeGradientRightFoot = Права Стопа Слаймолюдини (градієнт)
+marking-SlimeGradientRightFoot-gradient_r_foot = Slime Right Foot (Gradient)
+marking-SlimeGradientRightFoot = Slime Right Foot (Gradient)
 
-marking-SlimeGradientLeftLeg-gradient_l_leg = Ліва нога слизу (градієнт)
-marking-SlimeGradientLeftLeg = Ліва Нога Cлаймолюдини (градієнт)
+marking-SlimeGradientLeftLeg-gradient_l_leg = Slime Left Leg (Gradient)
+marking-SlimeGradientLeftLeg = Slime Left Leg (Gradient)
 
-marking-SlimeGradientRightLeg-gradient_r_leg = Слиз права нога (градієнт)
-marking-SlimeGradientRightLeg = Права Нога Слаймолюдини (градієнт)
+marking-SlimeGradientRightLeg-gradient_r_leg = Slime Right Leg (Gradient)
+marking-SlimeGradientRightLeg = Slime Right Leg (Gradient)
 
-marking-SlimeGradientLeftHand-gradient_l_hand = Лівий шлам (градієнт)
-marking-SlimeGradientLeftHand = Ліва Долоня Cлаймолюдини (градієнт)
+marking-SlimeGradientLeftHand-gradient_l_hand = Slime Left Hand (Gradient)
+marking-SlimeGradientLeftHand = Slime Left Hand (Gradient)
 
-marking-SlimeGradientRightHand-gradient_r_hand = Слизь права рука (градієнт)
-marking-SlimeGradientRightHand = Права Долоня Слаймолюдини (градієнт)
+marking-SlimeGradientRightHand-gradient_r_hand = Slime Right Hand (Gradient)
+marking-SlimeGradientRightHand = Slime Right Hand (Gradient)
