@@ -1,2 +1,2 @@
 ﻿# Reference entries
-guide-entry-medicalrecipes = Medical Recipes
+guide-entry-medicalrecipes = Медичні рецепти

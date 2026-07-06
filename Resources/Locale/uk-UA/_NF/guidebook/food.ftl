@@ -1,20 +1,22 @@
 ﻿guidebook-food-name = [bold][color={$color}]{CAPITALIZE($name)}[/color][/bold]
-guidebook-food-unknown-proto = Unknown prototype
-# Frontier
-guidebook-food-recipes-header = Recipes
-guidebook-food-recipes-ent-wrapper = [bold]{$name}[/bold] \[{$amount}\]
-guidebook-food-sources-header = Sources
-guidebook-food-sources-ent-wrapper = [bold]{$name}[/bold] \[1\]
-# Frontier: Chemical composition<Nutritional Value
-guidebook-food-reagents-header = Nutritional Value
+guidebook-food-unknown-proto = Невідомий прототип
 
-guidebook-food-processing-butchering = Butcher
-guidebook-food-processing-slicing = Slice
+# Frontier
+guidebook-food-recipes-header = Рецепти
+guidebook-food-recipes-ent-wrapper = [bold]{$name}[/bold] \[{$amount}\]
+guidebook-food-sources-header = Джерела
+guidebook-food-sources-ent-wrapper = [bold]{$name}[/bold] \[1\]
+
+# Frontier: Chemical composition<Nutritional Value
+guidebook-food-reagents-header = Харчова цінність
+
+guidebook-food-processing-butchering = Обробка
+guidebook-food-processing-slicing = Нарізання
 # Frontier: Microwave<Cook (multiple machine types)
-guidebook-food-processing-cooking = {CAPITALIZE($processingTypes)} for {$time}s
+guidebook-food-processing-cooking = {CAPITALIZE($processingTypes)} протягом {$time}с
 # Frontier: deep fryer cook type
-guidebook-food-processing-deep-fry = {CAPITALIZE($processingTypes)} for {$time} cycles
-guidebook-food-processing-reaction = Mix
+guidebook-food-processing-deep-fry = {CAPITALIZE($processingTypes)} протягом {$time} циклів
+guidebook-food-processing-reaction = Змішування
 
 guidebook-food-processing-recipe = {$ingredients}
 guidebook-food-ingredient-solid = [bold]{$name}[/bold] \[{$amount}\]
@@ -23,10 +25,10 @@ guidebook-food-ingredient-liquid = [bold]{$name}[/bold] \[{$amount}u\]
 guidebook-food-output = [bold]{$name}[/bold] \[{$number}\]
 
 # Frontier: processing types
-guidebook-food-processing-type-microwave = microwave
-guidebook-food-processing-type-oven = bake
-guidebook-food-processing-type-assembler = assemble
-guidebook-food-processing-type-medical-assembler = assemble
-guidebook-food-processing-type-medical-generic = cook
-guidebook-food-processing-type-deepfryer = deep fry
+guidebook-food-processing-type-microwave = мікрохвильова обробка
+guidebook-food-processing-type-oven = запікання
+guidebook-food-processing-type-assembler = збирання
+guidebook-food-processing-type-medical-assembler = збирання
+guidebook-food-processing-type-medical-generic = приготування
+guidebook-food-processing-type-deepfryer = смаження у фритюрі
 # End Frontier: processing types
