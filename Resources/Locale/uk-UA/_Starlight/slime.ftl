@@ -1,36 +1,36 @@
 # Chest
 
-marking-bubble = Bubbles
-marking-bubble-bubble = Bubbles
+marking-bubble = Бульбашки
+marking-bubble-bubble = Бульбашки
 
-marking-fishbowl = Fishbowl
-marking-fishbowl-fishbowl1 = Fish
-marking-fishbowl-fishbowl2 = Fish bubbles
+marking-fishbowl = Акваріум
+marking-fishbowl-fishbowl1 = Рибка
+marking-fishbowl-fishbowl2 = Бульбашки рибки
 
-marking-SlimeBonechest = Floating Ribcage
-marking-SlimeBonechest-bone = Floating Ribcage
+marking-SlimeBonechest = Левітуюча грудна клітка
+marking-SlimeBonechest-bone = Левітуюча грудна клітка
 
-marking-SlimeCore = Core
-marking-SlimeCore-core = Core
+marking-SlimeCore = Ядро
+marking-SlimeCore-core = Ядро
 
-marking-SlimeLungs = Lungs
-marking-SlimeLungs-lungs = Lungs
+marking-SlimeLungs = Легені
+marking-SlimeLungs-lungs = Легені
 
 # Head
 
-marking-FadingStars = Fading Starlight
-marking-FadingStars-fadingstars1 = Brightest
-marking-FadingStars-fadingstars2 = Middling
-marking-FadingStars-fadingstars3 = Darkest
+marking-FadingStars = Згасаюче зоряне сяйво
+marking-FadingStars-fadingstars1 = Найяскравіші
+marking-FadingStars-fadingstars2 = Середні
+marking-FadingStars-fadingstars3 = Найтемніші
 
-marking-fizz = Fizz
-marking-fizz-fizz = Fizz
+marking-fizz = Шипіння
+marking-fizz-fizz = Шипіння
 
-marking-SlimeBonehead = Floating Skull
-marking-SlimeBonehead-bone = Floating Skull
+marking-SlimeBonehead = Левітуючий череп
+marking-SlimeBonehead-bone = Левітуючий череп
 
-marking-SlimeBrain = Brain
-marking-SlimeBrain-brain = Brain
+marking-SlimeBrain = Мозок
+marking-SlimeBrain-brain = Мозок
 
 # Snout
 
@@ -38,23 +38,23 @@ marking-SlimeBrain-brain = Brain
 
 # RArm
 
-marking-SlimeBonearmright = Floating Bones (Right Arm)
-marking-SlimeBonearmright-bone = Floating Bones (Right Arm)
+marking-SlimeBonearmright = Левітуючі кістки (Права рука)
+marking-SlimeBonearmright-bone = Левітуючі кістки (Права рука)
 
 # LArm
 
-marking-SlimeBonearmleft = Floating Bones (Left Arm)
-marking-SlimeBonearmleft-bone = Floating Bones (Left Arm)
+marking-SlimeBonearmleft = Левітуючі кістки (Ліва рука)
+marking-SlimeBonearmleft-bone = Левітуючі кістки (Ліва рука)
 
 # RLeg
 
-marking-SlimeBonelegright = Floating Bones (Right Leg)
-marking-SlimeBonelegright-bone = Floating Bones (Right Leg)
+marking-SlimeBonelegright = Левітуючі кістки (Права нога)
+marking-SlimeBonelegright-bone = Левітуючі кістки (Права нога)
 
 # LLeg
 
-marking-SlimeBonelegleft = Floating Bones (Left Leg)
-marking-SlimeBonelegleft-bone = Floating Bones (Left Leg)
+marking-SlimeBonelegleft = Левітуючі кістки (Ліва нога)
+marking-SlimeBonelegleft-bone = Левітуючі кістки (Ліва нога)
 
 # UndergarmentBottom
 
@@ -62,23 +62,23 @@ marking-SlimeBonelegleft-bone = Floating Bones (Left Leg)
 
 # LFoot
 
-marking-SlimeBonefootleft = Floating Bones (Left Foot)
-marking-SlimeBonefootleft-bone = Floating Bones (Left Foot)
+marking-SlimeBonefootleft = Левітуючі кістки (Ліва стопа)
+marking-SlimeBonefootleft-bone = Левітуючі кістки (Ліва стопа)
 
 # RFoot
 
-marking-SlimeBonefootright = Floating Bones (Right Foot)
-marking-SlimeBonefootright-bone = Floating Bones (Right Foot)
+marking-SlimeBonefootright = Левітуючі кістки (Права стопа)
+marking-SlimeBonefootright-bone = Левітуючі кістки (Права стопа)
 
 # LHand
 
-marking-SlimeBonehandleft = Floating Bones (Left Hand)
-marking-SlimeBonehandleft-bone = Floating Bones (Left Hand)
+marking-SlimeBonehandleft = Левітуючі кістки (Ліва кисть)
+marking-SlimeBonehandleft-bone = Левітуючі кістки (Ліва кисть)
 
 # RHand
 
-marking-SlimeBonehandright = Floating Bones (Right Hand)
-marking-SlimeBonehandright-bone = Floating Bones (Right Hand)
+marking-SlimeBonehandright = Левітуючі кістки (Права кисть)
+marking-SlimeBonehandright-bone = Левітуючі кістки (Права кисть)
 
 # FacialHair
 
