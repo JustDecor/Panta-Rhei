@@ -1,4 +1,4 @@
-## Anomalites
+## Аномаліти
 
-petting-success-anomalite = You pet {THE($target)} on their anomalous little head.
-petting-failure-anomalite = You try to pet {THE($target)}, but your fingers are zapped by its energy field!
+petting-success-anomalite = Ви гладите {THE($target)} по його маленькій аномальній голівці.
+petting-failure-anomalite = Ви намагаєтеся погладити {THE($target)}, але ваші пальці обпікає його енергетичне поле!
