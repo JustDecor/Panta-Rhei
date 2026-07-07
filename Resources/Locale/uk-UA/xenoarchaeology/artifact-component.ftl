@@ -1,22 +1,23 @@
 ﻿### Verbs
-artifact-verb-make-always-active = Make artifact always active
-artifact-verb-activate = Activate artifact
 
-### Unlocking
-artifact-unlock-state-begin = It begins to shift in strange ways...
-artifact-unlock-state-end-success = It slows down, visibly changed.
-artifact-unlock-state-end-failure = It slows down before uneventfully stopping.
+artifact-verb-make-always-active = Зробити артефакт завжди активним
+artifact-verb-activate = Активувати артефакт
 
-### Activation
-artifact-activation-fail = Nothing happens...
-artifact-activation-artifexium = The liquid seeps into the pores of the artifact...
+### Розблокування
+artifact-unlock-state-begin = Він починає дивно змінюватися...
+artifact-unlock-state-end-success = Він сповільнюється, помітно змінившись.
+artifact-unlock-state-end-failure = Він сповільнюється, а потім без жодних подій зупиняється.
 
-### Misc.
-artifact-examine-trigger-desc = [color=gray][italic]Am I on your mind?[/italic][/color]
+### Активація
+artifact-activation-fail = Нічого не відбувається...
+artifact-activation-artifexium = Рідина просочується в пори артефакту...
 
-artifact-node-class-1 = [color=#ff2bb1]Hylic[/color]
-artifact-node-class-2 = [color=#ff8b2b]Psychic[/color]
-artifact-node-class-3 = [color=#a9ff38]Pneumatic[/color]
-artifact-node-class-4 = [color=#2bfff8]Archon[/color]
-artifact-node-class-5 = [color=#7883ff]Luminary[/color]
-artifact-node-class-6 = [color=#be78ff]Demiurge[/color]
+### Інше
+artifact-examine-trigger-desc = [color=gray][italic]Я у твоїх думках?[/italic][/color]
+
+artifact-node-class-1 = [color=#ff2bb1]Гілік[/color]
+artifact-node-class-2 = [color=#ff8b2b]Психічний[/color]
+artifact-node-class-3 = [color=#a9ff38]Пневматичний[/color]
+artifact-node-class-4 = [color=#2bfff8]Архонт[/color]
+artifact-node-class-5 = [color=#7883ff]Світило[/color]
+artifact-node-class-6 = [color=#be78ff]Деміург[/color]
