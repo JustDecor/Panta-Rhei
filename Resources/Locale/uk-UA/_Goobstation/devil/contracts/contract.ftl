@@ -1,49 +1,50 @@
-devil-contract-contractee = contractee
-devil-contract-contractor = contractor
+devil-contract-contractee = сторона угоди
+devil-contract-contractor = укладач угоди
 
-devil-contract-early-sign-failed = The contractor must wait for the contractee to sign first!
-devil-contract-no-soul-sign-failed = You do not have a soul to sell!
-devil-sign-invalid-user = You do not have the power to fulfill this contract!
-revival-contract-no-mind = They have no mind to accept a deal!
-devil-contract-mind-shielded-failed = A voice comes from your Nanotrasen™ mindshield. "Nice try."
+devil-contract-early-sign-failed = Укладач угоди має спершу дочекатися підпису сторони угоди!
+devil-contract-no-soul-sign-failed = У вас немає душі для продажу!
+devil-sign-invalid-user = У вас немає сили виконати цей контракт!
+revival-contract-no-mind = У них немає розуму, щоб прийняти угоду!
+devil-contract-mind-shielded-failed = З вашого нанотрейзенівського™ щитка розуму лунає голос: «Гарна спроба».
 
-contract-summon-flavor = {$name}'s hand bursts into flames before revealing a black roll of parchment...
-burn-contract-prompt = Burn contract.
-burn-contract-popup-success = The contract bursts into flames! It seems someones fate has been sealed...
-burn-contract-popup-fail = You cannot burn a contract during a deal!
+contract-summon-flavor = Рука {$name} спалахує полум'ям, перш ніж розкрити чорний сувій пергаменту...
+burn-contract-prompt = Спалити контракт.
+burn-contract-popup-success = Контракт спалахує полум'ям! Схоже, чиясь доля була визначена...
+burn-contract-popup-fail = Ви не можете спалити контракт під час угоди!
 
 
-contract-victim-signed = A chill runs down your spine as you lift the pen...
-contract-devil-signed = The contract pulses with dark energy...
-contract-soul-added = You gain another soul in your possession...
-contract-uneven-odds = These odds aren't fair. You need {$number} more contract weight.
-devil-contract-examined = This contract has a weight of: {$weight}.
+contract-victim-signed = Холод пробігає вашим хребтом, коли ви піднімаєте перо...
+contract-devil-signed = Контракт пульсує темною енергією...
+contract-soul-added = Ви отримуєте ще одну душу у своє володіння...
+contract-uneven-odds = Ці умови несправедливі. Вам потрібно ще {$number} ваги контракту.
+devil-contract-examined = Цей контракт має вагу: {$weight}.
 
-devil-deal-time-ran-out = Your vision goes black as your muscles fail you. You've run out of time.
+devil-deal-time-ran-out = Ваш зір темніє, а м'язи перестають слухатися. Ваш час вичерпано.
 
-revival-contract-accepted = You feel your connection to your body strengthen...
-revival-contract-rejected = You reject the unholy offer.
-revival-contract-expired = Times up.
-revival-contract-prompt = {$offerer} offers to restore your life for a price... Do you accept?
-revival-contract-use-success = You offer {$target} a deal no man could refuse...
-revival-contract-use-failed = You cannot offer {$target} this deal.
+revival-contract-accepted = Ви відчуваєте, як ваш зв'язок із тілом зміцнюється...
+revival-contract-rejected = Ви відкидаєте нечестиву пропозицію.
+revival-contract-expired = Час вийшов.
+revival-contract-prompt = {$offerer} пропонує повернути вам життя за певну ціну... Ви приймаєте?
+revival-contract-use-success = Ви пропонуєте {$target} угоду, від якої жодна людина не відмовиться...
+revival-contract-use-failed = Ви не можете запропонувати {$target} цю угоду.
 
-revival-contract-prompt-reject = Reject Offer
-revival-contract-prompt-accept = Accept Offer
+revival-contract-prompt-reject = Відхилити пропозицію
+revival-contract-prompt-accept = Прийняти пропозицію
 
-revival-contract-menu-title = Contract From the Depths
-revival-contract-menu-prompt = Sell your soul for a second chance?
+revival-contract-menu-title = Контракт із глибин
+revival-contract-menu-prompt = Продати свою душу за другий шанс?
 
-default-contract-content = This binding contract made this day between:
 
-            - The Infernal Party (Hereinafter "Contractor")
-            - The Mortal Party (Hereinafter "Contractee")
+default-contract-content = Цей обов'язковий контракт укладено цього дня між:
 
-            {"["}bold]Clauses of Binding:{"["}/bold]
-            {"["}italic]The following parties give up the following possessions{"["}/italic{"]"}
+            - Пекельною стороною (надалі «Укладач угоди»)
+            - Смертною стороною (надалі «Сторона угоди»)
 
-            Contractee: Soul Ownership
-            Contractee: Death
+            {"["}bold]Пункти угоди:{"["}/bold]
+            {"["}italic]Наступні сторони відмовляються від наступних володінь:{"["}/italic{"]"}
 
-            {"["}italic]All clauses come into effect upon signing of this paper by both parties.{"["}/italic]
-            {"["}italic]{"["}color=#ac3a0d]Clauses may not be broken. Ever.{"["}/color]{"["}/italic]
+            Сторона угоди: Право власності на душу
+            Сторона угоди: Смерть
+
+            {"["}italic]Усі пункти набувають чинності після підписання цього документа обома сторонами.{"["}/italic]
+            {"["}italic]{"["}color=#ac3a0d]Пункти не можуть бути порушені. Ніколи.{"["}/color]{"["}/italic]

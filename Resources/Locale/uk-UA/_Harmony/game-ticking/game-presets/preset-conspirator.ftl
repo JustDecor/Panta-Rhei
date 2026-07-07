@@ -1,17 +1,17 @@
-conspirator-objective-issuer = [color=#724F29]Conspiracy[/color]
+conspirator-objective-issuer = [color=#724F29]Змова[/color]
 
 conspirator-role-greeting = 
-    You are a conspirator. 
-    You start knowing the identities of the other conspirators and have been implanted with a radio to communicate with them.
-    Work together and stop at nothing to bring the conspiracy to life.
+    Ви є змовником.
+    Ви одразу знаєте особи інших змовників і маєте імплантований радіопередавач для зв'язку з ними.
+    Працюйте разом і не зупиняйтеся ні перед чим, щоб втілити змову в життя.
 
-conspirator-count = There were {$count} conspirators:
-conspirator-name-user = [color=white]{CAPITALIZE($name)}[/color] ([color=gray]{$username}[/color]) was a conspirator.
-conspirator-objective = The conspiracy's objective was to: [color=white]{$objective}[/color].
+conspirator-count = Було {$count} змовників:
+conspirator-name-user = [color=white]{CAPITALIZE($name)}[/color] ([color=gray]{$username}[/color]) був змовником.
+conspirator-objective = Метою змови було: [color=white]{$objective}[/color].
 
-conspirator-identities = The conspirators are:
-conspirator-name = {$name} is a conspirator.
-conspirator-radio-implant = Communicate with other conspirators using your radio implant (:o).
+conspirator-identities = Змовники:
+conspirator-name = {$name} є змовником.
+conspirator-radio-implant = Спілкуйтеся з іншими змовниками за допомогою свого радіоімпланта (:o).
 
-conspiracy-title = Conspiracy
-conspiracy-description = A conspiracy is afoot!
+conspiracy-title = Змова
+conspiracy-description = Змова набирає обертів!
