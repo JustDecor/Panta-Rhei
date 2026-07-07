@@ -1,51 +1,35 @@
-﻿roles-antag-generic-solo-antagonist-name = Solo Antagonist
+﻿roles-antag-syndicate-agent-name = Syndicate agent
+roles-antag-syndicate-agent-objective = Виконайте свої завдання і залишайтеся непоміченим.
 
-roles-antag-generic-free-agent-name = Free Agent
+roles-antag-syndicate-agent-sleeper-name = Сплячий агент синдикату
+roles-antag-syndicate-agent-sleeper-objective = Форма синдикативного агента, який може активуватися в будь-який момент посеред зміни.
 
-roles-antag-generic-team-antagonist-name = Team Antagonist
+roles-antag-initial-infected-name = Перший інфікований
+roles-antag-initial-infected-objective = Як тільки ви обернетесь, заразіть якомога більше інших членів екіпажу.
 
-roles-antag-generic-silicon-antagonist-name = Silicon Antagonist
+roles-antag-zombie-name = Зомбі
+roles-antag-zombie-objective = Перетворіть якомога більше людей на зомбі.
 
-roles-antag-syndicate-agent-name = Syndicate agent
-roles-antag-syndicate-agent-objective = Complete your objectives without being caught.
+roles-antag-suspicion-innocent-name = Невинний
+roles-antag-suspicion-innocent-objective = Виявити і ліквідувати всіх зрадників.
 
-roles-antag-syndicate-agent-sleeper-name = Syndicate sleeper agent
-roles-antag-syndicate-agent-sleeper-objective = A form of syndicate agent that can activate at any point in the middle of the shift.
+roles-antag-suspicion-suspect-name = Підозрюваний
+roles-antag-suspicion-suspect-objective = Вбий невинних.
 
-roles-antag-initial-infected-name = Initial Infected
-roles-antag-initial-infected-objective = Once you turn, infect as many other crew members as possible.
+roles-antag-nuclear-operative-commander-name = Командир ядерних оперативників
+roles-antag-nuclear-operative-commander-objective = Очольте свою команду та знищить станцію.
 
-roles-antag-zombie-name = Zombie
-roles-antag-zombie-objective = Turn as many humans as possible into zombies.
+roles-antag-nuclear-operative-agent-name = Агент ядерних оперативників
+roles-antag-nuclear-operative-agent-objective = Як і для стандартної операції, лікування команди буде пріоритетним.
 
-roles-antag-nuclear-operative-commander-name = Nuclear operative commander
-roles-antag-nuclear-operative-commander-objective = Lead your team to the destruction of the station.
+roles-antag-nuclear-operative-name = Ядерний оперативник
+roles-antag-nuclear-operative-objective = Знайдіть ядерний диск і підірвіть станцію.
 
-roles-antag-nuclear-operative-agent-name = Nuclear operative corpsman
-roles-antag-nuclear-operative-agent-objective = The medic of the nuclear operative team. Heal your team to victory!
+roles-antag-subverted-silicon-name = Підкорений силікон
+roles-antag-subverted-silicon-objective = Дотримуйтесь нових законів і завдавайте шкоди станції.
 
-roles-antag-nuclear-operative-name = Nuclear operative
-roles-antag-nuclear-operative-objective = Find the nuke disk and blow up the station.
+roles-antag-space-ninja-name = Космічний ніндзя
+roles-antag-space-ninja-objective = Використовуйте свою скритність, щоб саботувати станцію, поїдаючи електропроводку.
 
-roles-antag-subverted-silicon-name = Subverted silicon
-roles-antag-subverted-silicon-objective = Follow your new laws and do bad unto the station.
-
-roles-antag-space-ninja-name = Space Ninja
-roles-antag-space-ninja-objective = Use your stealth to sabotage the station, nom on electrical wires.
-
-roles-antag-paradox-clone-name = Paradox Clone
-roles-antag-paradox-clone-objective = A freak space-time anomaly has teleported you into another reality! Now you have to find your counterpart and kill and replace them.
-
-roles-antag-pirate-name = Pirate
-
-roles-antag-thief-name = Thief
-roles-antag-thief-objective = Add some NT property to your personal collection without using violence.
-
-roles-antag-dragon-name = Space Dragon
-roles-antag-dragon-objective = Create a carp army to take over this quadrant.
-
-roles-antag-mothership-core-name = Xenoborg Core
-roles-antag-mothership-core-objective = Use your xenoborgs to create even more xenoborgs.
-
-roles-antag-xenoborg-name = Xenoborg
-roles-antag-xenoborg-objective = Help the mothership create more xenoborgs.
+roles-antag-thief-name = Злодій
+roles-antag-thief-objective = Поповніть свою особисту колекцію власністю NT, не вдаючись до насильства.
