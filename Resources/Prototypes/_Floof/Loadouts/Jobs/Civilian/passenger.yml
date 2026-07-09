@@ -1758,6 +1758,12 @@
     neck: ClothingNeckCollarBellPetIdAlternative
   groupBy: "petids"
 
+#Den NSFW Holos
+- type: loadout
+  id: HoloprojectorNSFW
+  storage:
+    back:
+    - HoloprojectorNSFW
 
 # top undergarment
 - type: loadout
