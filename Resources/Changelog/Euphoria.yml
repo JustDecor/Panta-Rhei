@@ -4176,3 +4176,9 @@ Entries:
       message: Adds the NSFW holoprojector for marking your area.
   id: 517
   time: '2026-07-09T05:54:53.0000000+00:00'
+- author: sprkl
+  changes:
+    - type: Fix
+      message: Surgery related circuit boards are now sporting the medical blue!
+  id: 518
+  time: '2026-07-09T07:47:30.0000000+00:00'
