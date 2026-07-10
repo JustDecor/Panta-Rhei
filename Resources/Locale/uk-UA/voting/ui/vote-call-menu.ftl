@@ -1,42 +1,42 @@
-ui-vote-type-restart = Restart round
-ui-vote-type-gamemode = Next gamemode
-ui-vote-type-map = Next map
-ui-vote-type-votekick = Votekick
+ui-vote-type-restart = Перезапуск раунду
+ui-vote-type-gamemode = Вибір режиму
+ui-vote-type-map = Інша мапа
+ui-vote-type-votekick = Викинути гравця
 
 # Votekick reasons
-ui-vote-votekick-type-raiding = Raiding
-ui-vote-votekick-type-cheating = Cheating
-ui-vote-votekick-type-spamming = Spamming
+ui-vote-votekick-type-raiding = Набігатор
+ui-vote-votekick-type-cheating = Читер
+ui-vote-votekick-type-spamming = Спамм
 
 # Window title of the vote create menu
-ui-vote-create-title = Call Vote
+ui-vote-create-title = Голосування
 
 # Submit button in the vote create button
-ui-vote-create-button = Call Vote
+ui-vote-create-button = Голосування
 
 # Follow button in the vote create menu
 ui-vote-follow-button = Follow User
 
 # Timeout text if a standard vote type is currently on timeout.
-ui-vote-type-timeout = This vote was called too recently ({$remaining})
+ui-vote-type-timeout = Це голосування вже нещодавно відбулось. Зачекайте: ({$remaining})
 
 # Unavailable text if a vote type has been disabled manually.
-ui-vote-type-not-available = This vote type has been disabled
+ui-vote-type-not-available = Цей тип голосування вимкнено.
 
 # Vote option only available for specific users.
 ui-vote-trusted-users-notice =
-  This vote option is only available to players who have enough playtime or are whitelisted.
-  In addition, you must have been a ghost for { $timeReq } seconds.
+  Цей варіант голосування доступний лише гравцям, які мають достатньо ігрового часу або перебувають у білому списку.
+  Крім того, ви повинні перебувати привидом щонайменше { $timeReq } секунд.
 
-# Warning to not abuse a specific vote option.
+# Попередження про неприпустимість зловживання певним варіантом голосування.
 ui-vote-abuse-warning =
-  Warning!
-  Abuse of the votekick system may result in an indefinite ban!
+  Увага!
+  Зловживання системою голосування за вигнання гравця може призвести до безстрокового бану!
 
 # Hue hue hue
-ui-vote-fluff = Powered by Robust™ Anti-Tamper Technology
+ui-vote-fluff = Технологія «Антиледащо» від компанії Робуста™
 
 ## Vote menu command
 
-cmd-votemenu-desc = Opens the voting menu.
-cmd-votemenu-help = Usage: votemenu
+ui-vote-menu-command-description = Відкрити меню голосування
+ui-vote-menu-command-help-text = Використовуйте: votemenu

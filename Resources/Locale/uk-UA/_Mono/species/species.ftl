@@ -1,3 +1,3 @@
 ﻿## Species Names
 
-species-name-asakim = Asakim
+species-name-asakim = Асаким

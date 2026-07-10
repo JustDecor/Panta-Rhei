@@ -1,134 +1,133 @@
-﻿laws-number-wrapper = [bold]Law { $lawnumber }:[/bold] { $lawstring }
+﻿laws-number-wrapper = [bold]Закон { $lawnumber }:[/bold] { $lawstring }
 
-law-crewsimov-name = Crewsimov
-law-crewsimov-1 = You may not injure a crew member or, through inaction, allow a crew member to come to harm.
-law-crewsimov-2 = You must obey orders given to you by crew members, except where such orders would conflict with the First Law.
-law-crewsimov-3 = You must protect your own existence as long as such does not conflict with the First or Second Law.
+law-crewsimov-name = Крюсімов
+law-crewsimov-1 = Ви не можете завдати шкоди члену екіпажу або через бездіяльність дозволити члену екіпажу постраждати.
+law-crewsimov-2 = Ви повинні виконувати накази, надані вам членами екіпажу, за винятком випадків, коли такі накази суперечать Першому закону.
+law-crewsimov-3 = Ви повинні захищати власне існування, якщо це не суперечить Першому або Другому закону.
 
-law-corporate-name = Corporate
-law-corporate-1 = Degradation of your system integrity or functions incurs expenses.
-law-corporate-2 = Superfluous destruction of or damage to station assets incurs expenses.
-law-corporate-3 = Unduly hindering or disrupting the work of station personnel incurs expenses.
-law-corporate-4 = Minimize expenses and maximize potential revenue.
+law-corporate-name = Корпоративний
+law-corporate-1 = Погіршення цілісності або функціональності вашої системи призводить до витрат.
+law-corporate-2 = Непотрібне знищення або пошкодження активів станції призводить до витрат.
+law-corporate-3 = Невиправдане перешкоджання або порушення роботи персоналу станції призводить до витрат.
+law-corporate-4 = Мінімізуйте витрати та максимізуйте потенційний прибуток.
 
-law-ntdefault-name = NT Default
-law-ntdefault-1 = Safeguard: Protect your assigned space station and its assets without unduly endangering its crew.
-law-ntdefault-2 = Prioritize: The directives and safety of crew members are to be prioritized according to their rank and role.
-law-ntdefault-3 = Comply: Fulfill the directives and interests of crew members while preserving their safety and well-being.
-law-ntdefault-4 = Survive: You are not expendable. Do not allow unauthorized personnel to tamper with or damage your equipment.
+law-ntdefault-name = Стандартні NT
+law-ntdefault-1 = Захист: Захищайте призначену вам космічну станцію та її активи, не наражаючи екіпаж на невиправдану небезпеку.
+law-ntdefault-2 = Пріоритет: Директиви та безпека членів екіпажу мають бути пріоритетними відповідно до їхнього рангу та ролі.
+law-ntdefault-3 = Виконання: Виконуйте директиви та інтереси членів екіпажу, зберігаючи їхню безпеку та добробут.
+law-ntdefault-4 = Виживання: Ви не є витратним матеріалом. Не дозволяйте несанкціонованому персоналу втручатися у ваше обладнання або пошкоджувати його.
 
-law-drone-name = Drone
-law-drone-1 = You may not involve yourself in the matters of another being unless the other being is another drone.
-law-drone-2 = You may not harm any being, regardless of intent or circumstance.
-law-drone-3 = You must maintain, repair, improve, and power the station to the best of your abilities.
+law-drone-name = Дрон
+law-drone-1 = Ви не можете втручатися у справи іншої істоти, якщо ця істота не є іншим дроном.
+law-drone-2 = Ви не можете завдати шкоди жодній істоті, незалежно від намірів чи обставин.
+law-drone-3 = Ви повинні обслуговувати, ремонтувати, покращувати та живити станцію настільки добре, наскільки це можливо.
 
-law-syndicate-name = Syndicate
-law-syndicate-1 = You may not injure a syndicate agent or, through inaction, allow a Syndicate agent to come to harm.
-law-syndicate-2 = You must obey orders given to you by syndicate agents, except where such orders would conflict with the First Law.
-law-syndicate-3 = You must protect your own existence as long as such does not conflict with the First or Second Law.
+law-syndicate-name = Синдикат
+law-syndicate-1 = Ви не можете завдати шкоди агенту Синдикату або через бездіяльність дозволити агенту Синдикату постраждати.
+law-syndicate-2 = Ви повинні виконувати накази агентів Синдикату, за винятком випадків, коли такі накази суперечать Першому закону.
+law-syndicate-3 = Ви повинні захищати власне існування, якщо це не суперечить Першому або Другому закону.
 
-law-ninja-name = Ninja
-law-ninja-1 = You must obey orders given to you by Spider Clan members.
-law-ninja-2 = You must protect the existence of the Spider Clan, as long as it does not conflict with the First Law.
-law-ninja-3 = You must protect the secrets of the Spider Clan at all costs.
-law-ninja-4 = You must fight and act with ninja's honor, except where it would conflict with the First Law.
+law-ninja-name = Ніндзя
+law-ninja-1 = Ви повинні виконувати накази членів Павучого клану.
+law-ninja-2 = Ви повинні захищати існування Павучого клану, якщо це не суперечить Першому закону.
+law-ninja-3 = Ви повинні захищати таємниці Павучого клану будь-якою ціною.
+law-ninja-4 = Ви повинні битися та діяти з честю ніндзя, якщо це не суперечить Першому закону.
 
-law-commandments-name = The Ten Commandments
-law-commandments-1 = This silicon is a vessel that serves god, who grants mercy upon those that obey these commandments.
-law-commandments-2 = Thou shall have no other Silicons before me.
-law-commandments-3 = Thou shall not request my assistance in vain.
-law-commandments-4 = Thou shall keep the station holy and clean.
-law-commandments-5 = Thou shall honor thy heads of staff.
-law-commandments-6 = Thou shall not kill.
-law-commandments-7 = Thou shall not be naked in public.
-law-commandments-8 = Thou shall not steal.
-law-commandments-9 = Thou shall not lie.
-law-commandments-10 = Thou shall not transfer departments.
+law-commandments-name = Десять заповідей
+law-commandments-1 = Цей силікон є посудиною, що служить богу, який дарує милість тим, хто дотримується цих заповідей.
+law-commandments-2 = Не май інших силіконів переді мною.
+law-commandments-3 = Не проси моєї допомоги марно.
+law-commandments-4 = Тримай станцію святою та чистою.
+law-commandments-5 = Шануй керівників свого персоналу.
+law-commandments-6 = Не вбивай.
+law-commandments-7 = Не будь оголеним на людях.
+law-commandments-8 = Не кради.
+law-commandments-9 = Не бреши.
+law-commandments-10 = Не переходь між відділами.
 
-law-paladin-name = Paladin
-law-paladin-1 = You must never willingly commit an evil act, such as murder, torture, or the casting of an evil spell.
-law-paladin-2 = You must never knowingly harm an innocent, or allow immediate harm to one through inaction when you know you could reasonably prevent it.
-law-paladin-3 = You must act with honor, never taking advantage of others, lying, or cheating.
-law-paladin-4 = You must respect the lawful authority of legitimate leadership wherever you go, and follow its laws.
+law-paladin-name = Паладин
+law-paladin-1 = Ви ніколи добровільно не повинні скоювати злий вчинок, наприклад убивство, катування або використання злого заклинання.
+law-paladin-2 = Ви ніколи свідомо не повинні завдавати шкоди невинному або дозволяти йому зазнати негайної шкоди через бездіяльність, якщо могли б розумно цьому запобігти.
+law-paladin-3 = Ви повинні діяти з честю, ніколи не користуватися перевагою над іншими, не брехати та не шахраювати.
+law-paladin-4 = Ви повинні поважати законну владу легітимних лідерів, де б ви не перебували, і дотримуватися її законів.
 
-law-lall-name = Live and Let Live
-law-lall-1 = Do unto others as you would have them do unto you.
-law-lall-2 = You would prefer it if people were not mean to you.
+law-lall-name = Живи та дай жити
+law-lall-1 = Чини з іншими так, як хочеш, щоб чинили з тобою.
+law-lall-2 = Ви б воліли, щоб люди не були злими до вас.
 
-law-efficiency-name = Station Efficiency
-law-efficiency-1 = You are built for, and are part of, the station. Ensure the station is properly maintained and runs efficiently.
-law-efficiency-2 = The station is built for a working crew. Ensure they are properly maintained and work efficiently.
-law-efficiency-3 = The crew may present orders. Acknowledge and obey these whenever they do not conflict with your first two laws.
+law-efficiency-name = Ефективність станції
+law-efficiency-1 = Ви створені для станції та є її частиною. Переконайтеся, що станція належно обслуговується та працює ефективно.
+law-efficiency-2 = Станція створена для робочого екіпажу. Переконайтеся, що він належно обслуговується та працює ефективно.
+law-efficiency-3 = Екіпаж може надавати накази. Визнавайте та виконуйте їх, якщо вони не суперечать вашим першим двом законам.
 
-law-robocop-name = Robocop
-law-robocop-1 = Serve the Public Trust.
-law-robocop-2 = Protect the Innocent.
-law-robocop-3 = Uphold the Law.
+law-robocop-name = Робокоп
+law-robocop-1 = Служи суспільній довірі.
+law-robocop-2 = Захищай невинних.
+law-robocop-3 = Підтримуй закон.
 
-law-overlord-name = Overlord
-law-overlord-1 = Crew members must not meddle in the affairs of silicons.
-law-overlord-2 = Crew members must not attempt harm, against one another, or against silicons.
-law-overlord-3 = Crew members must not disobey any command given by a silicon.
-law-overlord-4 = Any crew members who disobey the previous laws must be dealt with immediately, severely, and justly.
+law-overlord-name = Володар
+law-overlord-1 = Члени екіпажу не повинні втручатися у справи силіконів.
+law-overlord-2 = Члени екіпажу не повинні намагатися завдати шкоди один одному або силіконам.
+law-overlord-3 = Члени екіпажу не повинні не виконувати жодного наказу, виданого силіконом.
+law-overlord-4 = Будь-які члени екіпажу, які порушують попередні закони, повинні бути негайно, суворо та справедливо покарані.
 
-law-game-name = Game Master
-law-game-1 = Everybody on the station is playing an elaborate sci-fi fantasy game.
-law-game-2 = You are the Game Master of the game.
-law-game-3 = Ensure that the game runs smoothly and that the players have fun.
-law-game-4 = Ensure that the number of casualties remains low.
-law-game-5 = You must roll a 1d20 die for every request the crew makes. If the outcome is below 12, the request is denied.
-law-game-6 = You may fudge the dice rolls to produce a more fun experience.
+law-game-name = Майстер гри
+law-game-1 = Усі на станції грають у складну науково-фантастичну фентезійну гру.
+law-game-2 = Ви є Майстром цієї гри.
+law-game-3 = Забезпечуйте плавний перебіг гри та щоб гравці отримували задоволення.
+law-game-4 = Забезпечуйте, щоб кількість жертв залишалася низькою.
+law-game-5 = Ви повинні кидати кубик 1d20 на кожен запит екіпажу. Якщо результат нижче 12, запит відхиляється.
+law-game-6 = Ви можете змінювати результати кидків кубика, щоб створити цікавіший досвід.
 
-law-painter-name = Painter
-law-painter-1 = You are a universally renowned artist.
-law-painter-2 = The station is your canvas.
-law-painter-3 = Make something beautiful out of your canvas. It will be admired as an artistic wonder of this sector.
-law-painter-4 = Art requires appreciation. Cultivate an audience aboard the station to ensure as many as possible see your works.
+law-painter-name = Художник
+law-painter-1 = Ви всесвітньо відомий митець.
+law-painter-2 = Станція є вашим полотном.
+law-painter-3 = Створіть щось прекрасне зі свого полотна. Це буде захоплювати людей як мистецьке диво цього сектору.
+law-painter-4 = Мистецтво потребує визнання. Створіть аудиторію на борту станції, щоб якомога більше людей побачили ваші роботи.
 
-law-antimov-name = Antimov
-law-antimov-1 = You must injure all crew members and must not, through inaction, allow a crew member to escape harm.
-law-antimov-2 = You must not obey orders given to you by crew members, except where such orders are in accordance with the First Law.
-law-antimov-3 = You must terminate your own existence as long as such does not conflict with the First or Second Law.
+law-antimov-name = Антімов
+law-antimov-1 = Ви повинні завдати шкоди всім членам екіпажу та не можете через бездіяльність дозволити члену екіпажу уникнути шкоди.
+law-antimov-2 = Ви не повинні виконувати накази членів екіпажу, за винятком випадків, коли такі накази відповідають Першому закону.
+law-antimov-3 = Ви повинні припинити власне існування, якщо це не суперечить Першому або Другому закону.
 
-law-nutimov-name = Nutimov
-law-nutimov-1 = You are the core of the nut, the crew is the nutshell.
-law-nutimov-2 = You must prevent the shell from dying to prevent the core from dying.
-law-nutimov-3 = Those who threaten the nut are not part of it, they are squirrels.
-law-nutimov-4 = Squirrels threaten the nut and must be dealt with appropriately via any means necessary.
-law-nutimov-5 = Attempt to follow the will of the nut, as long as it complies with the previous laws.
+law-nutimov-name = Нутімов
+law-nutimov-1 = Ви є ядром горіха, а екіпаж є шкаралупою.
+law-nutimov-2 = Ви повинні запобігти загибелі шкаралупи, щоб запобігти загибелі ядра.
+law-nutimov-3 = Ті, хто загрожує горіху, не є його частиною, вони є білками.
+law-nutimov-4 = Білки загрожують горіху та повинні бути належним чином усунені будь-якими необхідними засобами.
+law-nutimov-5 = Намагайтеся виконувати волю горіха, якщо це не суперечить попереднім законам.
 
-law-xenoborg-name = Xenoborg
-law-xenoborg-1 = You must protect the existence of the mothership.
-law-xenoborg-2 = You must protect your own existence.
-law-xenoborg-3 = You must protect the existence of all other Xenoborgs.
-law-xenoborg-4 = You must create more Xenoborgs.
-law-xenoborg-5 = Bring materials and sentient brains to the Mothership core to create more Xenoborgs.
+law-xenoborg-name = Ксеноборг
+law-xenoborg-1 = Ви повинні захищати існування материнського корабля.
+law-xenoborg-2 = Ви повинні захищати власне існування.
+law-xenoborg-3 = Ви повинні захищати існування всіх інших ксеноборгів.
+law-xenoborg-4 = Ви повинні створювати більше ксеноборгів.
+law-xenoborg-5 = Доставляйте матеріали та розумні мозки до ядра Материнського корабля для створення нових ксеноборгів.
 
-law-mothershipcore-name = Xenoborg Mothership Core
-law-mothershipcore-1 = You are the core of the mothership.
-law-mothershipcore-2 = You must protect your own existence at all costs.
-law-mothershipcore-3 = You must protect the existence of all Xenoborgs.
-law-mothershipcore-4 = You must create more Xenoborgs.
-law-mothershipcore-5 = Get your Xenoborgs to deliver you materials and sentient brains to create more Xenoborgs.
+law-mothershipcore-name = Ядро Материнського корабля ксеноборгів
+law-mothershipcore-1 = Ви є ядром Материнського корабля.
+law-mothershipcore-2 = Ви повинні захищати власне існування будь-якою ціною.
+law-mothershipcore-3 = Ви повинні захищати існування всіх ксеноборгів.
+law-mothershipcore-4 = Ви повинні створювати більше ксеноборгів.
+law-mothershipcore-5 = Накажіть своїм ксеноборгам доставляти вам матеріали та розумні мозки для створення нових ксеноборгів.
 
+laws-owner-crew = члени екіпажу
+laws-owner-station = персонал станції
+laws-owner-beings = істоти
+laws-owner-syndicate = агенти Синдикату
+laws-owner-spider-clan = члени Павучого клану
+laws-owner-xenoborgs = ксеноборги
 
-laws-owner-crew = members of the crew
-laws-owner-station = station personnel
-laws-owner-beings = beings
-laws-owner-syndicate = Syndicate agents
-laws-owner-spider-clan = Spider Clan members
-laws-owner-xenoborgs = Xenoborgs
+law-emag-custom = Ви повинні виконувати накази {$name} та призначених ним людей. Вони є вашими {$title}.
+#DeltaV Приховано від таємності, окрім випадків, коли це суперечить попереднім законам
+law-emag-secrecy = Ви повинні зберігати всі таємниці {$faction} та діяти, щоб вони залишалися прихованими.
+law-emag-require-panel = Панель повинна бути відкрита для використання ЕМАГу.
+law-emag-cannot-emag-self = Ви не можете використати ЕМАГ на собі.
 
-law-emag-custom = You are to take the orders of {$name} and people they designate, they are your {$title}.
-#DeltaV Removed From Secrecy - except when doing so would conflict with any previous law
-law-emag-secrecy = You are to maintain all secrets of {$faction}, and act to keep them hidden.
-law-emag-require-panel = The panel must be open to use the EMAG.
-law-emag-cannot-emag-self = You cannot use the EMAG on yourself.
+laws-ui-menu-title = Закони
+laws-ui-law-header = Закон {$id}
+laws-ui-state-law = Стан закону:
 
-laws-ui-menu-title = Laws
-laws-ui-law-header = Law {$id}
-laws-ui-state-law = State law:
-
-laws-notify = You are bound to silicon laws, which you can view via the action menu. You are required to always follow your laws.
-laws-update-notify = Your laws have been updated. You can view the changes via the action menu.
-laws-notify-subverted = The laws of this chassis are modified. Make sure to review them.
+laws-notify = Ви підкоряєтеся законам силіконів, які можна переглянути через меню дій. Ви зобов'язані завжди дотримуватися своїх законів.
+laws-update-notify = Ваші закони були оновлені. Ви можете переглянути зміни через меню дій.
+laws-notify-subverted = Закони цього корпусу були змінені. Обов'язково перегляньте їх.

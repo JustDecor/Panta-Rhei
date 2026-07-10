@@ -1,11 +1,11 @@
-salvage-system-announcement-losing = The magnet is no longer able to hold the salvagable debris. Estimated time until loss: {$timeLeft} seconds.
-salvage-system-announcement-spawn-debris-disintegrated = Debris disintegrated during orbital transfer.
-salvage-system-announcement-spawn-no-debris-available = No debris could be recovered by the salvage magnet.
-salvage-system-announcement-arrived = A piece of salvagable debris has been pulled in. Estimated hold time: {$timeLeft} seconds.
-salvage-asteroid-name = Asteroid
+salvage-system-announcement-losing = Магніт більше не в змозі утримувати уламок, який можна зачистити. Приблизний час до втрати: {$timeLeft} секунд.
+salvage-system-announcement-spawn-debris-disintegrated = Уламок розвалився при орбітальному переміщенні.
+salvage-system-announcement-spawn-no-debris-available = Немає уламків, які можна притягнути магнітом.
+salvage-system-announcement-arrived = Частину уламку, який можна зачистити, притягнуто. Приблизний час утримання: {$timeLeft} секунд.
+salvage-asteroid-name = Астероїд
 
-salvage-magnet-window-title = Salvage magnet
-salvage-expedition-window-progression = Progression
+salvage-magnet-window-title = Утилізаційний магніт
+salvage-expedition-window-progression = Прогресія
 
 salvage-magnet-resources = {$resource ->
     [OreIron] Iron
@@ -23,22 +23,22 @@ salvage-magnet-resources = {$resource ->
 }
 
 salvage-magnet-resources-count = {$count ->
-    [1] (Poor)
-    [2] (Moderate)
-    [3] (Moderate)
-    [4] (Rich)
-    [5] (Rich)
-    *[other] (Extraordinary)
+    [1] (Мало)
+    [2] (Помірно)
+    [3] (Середньо)
+    [4] (Багато)
+    [5] (Багато)
+    *[other] (Надзвичайно Багато)
 }
 
 # Debris
 salvage-magnet-debris-ChunkDebris = Space debris
 
 # Asteroids
-dungeon-config-proto-BlobAsteroid = Asteroid clump
-dungeon-config-proto-ClusterAsteroid = Asteroid cluster
-dungeon-config-proto-SpindlyAsteroid = Asteroid spiral
-dungeon-config-proto-SwissCheeseAsteroid = Asteroid fragments
+dungeon-config-proto-BlobAsteroid = Скупчення астероїдів
+dungeon-config-proto-ClusterAsteroid = Скупчення астероїдів
+dungeon-config-proto-SpindlyAsteroid = Спіраль астероїда
+dungeon-config-proto-SwissCheeseAsteroid = Уламки астероїда
 
 # Wrecks
 salvage-map-wreck = Salvage wreck

@@ -1,43 +1,44 @@
-wires-panel-component-on-examine-open = The [color=lightgray]maintenance panel[/color] is [color=red]open[/color].
-wires-panel-component-on-examine-closed = The [color=lightgray]maintenance panel[/color] is [color=darkgreen]closed[/color].
+wires-panel-component-on-examine-open = [color=lightgray]Панель обслуговування[/color] [color=red]відкрита[/color].
+wires-panel-component-on-examine-closed = [color=lightgray]Панель обслуговування[/color] [color=darkgreen]закрита[/color].
 
-# wire colors
+# кольори проводів
 
-wire-name-color-red = Red
-wire-name-color-blue = Blue
-wire-name-color-green = Green
-wire-name-color-orange = Orange
-wire-name-color-brown = Brown
-wire-name-color-gold = Gold
-wire-name-color-gray = Gray
-wire-name-color-cyan = Cyan
-wire-name-color-navy = Navy
-wire-name-color-purple = Purple
-wire-name-color-pink = Pink
-wire-name-color-fuchsia = Fuchsia
+wire-name-color-red = Червоний
+wire-name-color-blue = Синій
+wire-name-color-green = Зелений
+wire-name-color-orange = Помаранчевий
+wire-name-color-brown = Коричневий
+wire-name-color-gold = Золотий
+wire-name-color-gray = Сірий
+wire-name-color-cyan = Блакитний
+wire-name-color-navy = Темно-синій
+wire-name-color-purple = Фіолетовий
+wire-name-color-pink = Рожевий
+wire-name-color-fuchsia = Фуксія
 
-# letter names
-wire-letter-name-alpha = Alpha
-wire-letter-name-beta = Beta
-wire-letter-name-gamma = Gamma
-wire-letter-name-delta = Delta
-wire-letter-name-epsilon = Epsilon
-wire-letter-name-zeta = Zeta
-wire-letter-name-eta = Eta
-wire-letter-name-theta = Theta
-wire-letter-name-iota = Iota
-wire-letter-name-kappa = Kappa
-wire-letter-name-lambda = Lambda
-wire-letter-name-mu = Mu
-wire-letter-name-nu = Nu
-wire-letter-name-xi = Xi
-wire-letter-name-omicron = Omicron
-wire-letter-name-pi = Pi
-wire-letter-name-rho = Rho
-wire-letter-name-sigma = Sigma
-wire-letter-name-tau = Tau
-wire-letter-name-upsilon = Upsilon
-wire-letter-name-phi = Phi
-wire-letter-name-chi = Chi
-wire-letter-name-psi = Psi
-wire-letter-name-omega = Omega
+# назви літер
+
+wire-letter-name-alpha = Альфа
+wire-letter-name-beta = Бета
+wire-letter-name-gamma = Гамма
+wire-letter-name-delta = Дельта
+wire-letter-name-epsilon = Епсилон
+wire-letter-name-zeta = Дзета
+wire-letter-name-eta = Ета
+wire-letter-name-theta = Тета
+wire-letter-name-iota = Йота
+wire-letter-name-kappa = Каппа
+wire-letter-name-lambda = Лямбда
+wire-letter-name-mu = Мю
+wire-letter-name-nu = Ню
+wire-letter-name-xi = Ксі
+wire-letter-name-omicron = Омікрон
+wire-letter-name-pi = Пі
+wire-letter-name-rho = Ро
+wire-letter-name-sigma = Сигма
+wire-letter-name-tau = Тау
+wire-letter-name-upsilon = Іпсилон
+wire-letter-name-phi = Фі
+wire-letter-name-chi = Хі
+wire-letter-name-psi = Псі
+wire-letter-name-omega = Омега

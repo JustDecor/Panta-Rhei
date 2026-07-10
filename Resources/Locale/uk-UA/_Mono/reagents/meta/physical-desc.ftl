@@ -1,2 +1,2 @@
-reagent-physical-desc-calming = calming
-reagent-physical-desc-fruity = fruity
+reagent-physical-desc-calming = заспокійливий
+reagent-physical-desc-fruity = фруктовий

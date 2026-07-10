@@ -1,57 +1,57 @@
-reagent-name-cola = Space Cola
-reagent-desc-cola = A sweet, carbonated soft drink.
+reagent-name-cola = Космічна кола
+reagent-desc-cola = Солодкий, газований безалкогольний напій.
 
-reagent-name-shirley-temple = Shirley Temple
-reagent-desc-shirley-temple = A favorite amongst younger members of the crew.
+reagent-name-shirley-temple = Ширлі Темпл
+reagent-desc-shirley-temple = Улюблений напій молодших членів екіпажу.
 
-reagent-name-changeling-sting = Changeling Sting
-reagent-desc-changeling-sting = You take a tiny sip and feel a burning sensation...
+reagent-name-changeling-sting = Укус Перевертня
+reagent-desc-changeling-sting = Ви робите маленький ковток і відчуваєте печіння...
 
-reagent-name-dr-gibb = Dr. Gibb
-reagent-desc-dr-gibb = A delicious blend of 42 different flavours.
+reagent-name-dr-gibb = Доктор Гібб
+reagent-desc-dr-gibb = Смачна суміш з 42 різних смаків.
 
-reagent-name-energy-drink = Red Bool
-reagent-desc-energy-drink = A dose of energy! Nanotrasen is not responsible if you grow avian appendages.
+reagent-name-energy-drink = Ред Бул
+reagent-desc-energy-drink = Доза енергії! Nanotrasen не несе відповідальності, якщо у вас виростуть пташині придатки.
 
-reagent-name-grape-soda = grape soda
-reagent-desc-grape-soda = It's Graaaaaape!
+reagent-name-grape-soda = виноградна содова
+reagent-desc-grape-soda = Це Винооооооград!
 
-reagent-name-ice-cream = ice cream
-reagent-desc-ice-cream = It was either this or the microwave, and nobody wants ice cream soup!
+reagent-name-ice-cream = морозиво
+reagent-desc-ice-cream = Був вибір: це або мікрохвильовка, а ніхто не хоче суп з морозива!
 
-reagent-name-lemon-lime = Smite
-reagent-desc-lemon-lime = Tangy lime and lemon soda.
+reagent-name-lemon-lime = Смайт
+reagent-desc-lemon-lime = Терпка лаймово-лимонна содова.
 
 reagent-name-lemon-lime-cranberry = Smite Cranberry
 reagent-desc-lemon-lime-cranberry = Tart cranberry, Christmas, and a hint of lemon and lime.
 
 reagent-name-pwr-game = PWR Game
-reagent-desc-pwr-game = The only drink with the PWR that true gamers crave. When a gamer talks about gamerfuel, this is what they're literally referring to.
+reagent-desc-pwr-game = Єдиний напій з PWR, якого прагнуть справжні геймери. Коли геймер говорить про геймерське паливо, він буквально має на увазі саме це.
 
-reagent-name-root-beer = root beer
-reagent-desc-root-beer = A very sweet, carbonated drink reminiscent of sarsaparilla. Goes well with ice cream.
+reagent-name-root-beer = кореневе пиво
+reagent-desc-root-beer = Дуже солодкий, газований напій, що нагадує сарсапарілу. Добре поєднується з морозивом.
 
-reagent-name-root-beer-float = root beer float
-reagent-desc-root-beer-float = Root beer, but now with ice cream on top. It truly is the magnum opus of Canadian summertime drinks.
+reagent-name-root-beer-float = кореневе пиво-флоат
+reagent-desc-root-beer-float = Кореневе пиво, але тепер з морозивом зверху. Це справді вершина майстерності канадських літніх напоїв.
 
-reagent-name-sol-dry = Sol Dry
-reagent-desc-sol-dry = Sweet ginger soda from outer space!
+reagent-name-sol-dry = Сол Драй
+reagent-desc-sol-dry = Солодка імбирна содова з космосу!
 
-reagent-name-roy-rogers = Roy Rogers
-reagent-desc-roy-rogers = Solid proof that there IS something known as too sweet.
+reagent-name-roy-rogers = Рой Роджерс
+reagent-desc-roy-rogers = Твердий доказ того, що існує щось, відоме як "занадто солодке".
 
-reagent-name-space-mountain-wind = Space Solar Wind
-reagent-desc-space-mountain-wind = Blows right through you like a solar wind.
+reagent-name-space-mountain-wind = Космічний сонячний вітер
+reagent-desc-space-mountain-wind = Продуває наскрізь, як сонячний вітер.
 
-reagent-name-space-up = Space-Up
-reagent-desc-space-up = Tastes like a hull breach in your mouth.
+reagent-name-space-up = Спейс-ап
+reagent-desc-space-up = На смак як пробоїна в корпусі у вас в роті.
 
-reagent-name-starkist = Starkist
-reagent-desc-starkist = A sweet, orange flavored soft drink.
+reagent-name-starkist = Старкіст
+reagent-desc-starkist = Солодкий безалкогольний напій з апельсиновим смаком.
 
 reagent-name-fourteen-loko = Fourteen Loko
-reagent-desc-fourteen-loko = A highly processed liquid substance barely-passing intergalatic health standards for a soft drink.
+reagent-desc-fourteen-loko = Високооброблена рідка субстанція, що ледь відповідає міжгалактичним стандартам охорони здоров'я для безалкогольних напоїв.
 
-reagent-name-shamblers-juice = Shambler's Juice
-reagent-desc-shamblers-juice = ~Shake me up some of that Shambler's Juice!~
+reagent-name-shamblers-juice = Сік шамблера
+reagent-desc-shamblers-juice = ~Налий-но мені того Соку Шамблера!~
 

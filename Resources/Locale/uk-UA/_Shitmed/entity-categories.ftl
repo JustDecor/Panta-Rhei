@@ -1,2 +1,2 @@
-entity-category-name-surgeries = Surgeries
-entity-category-name-surgery-steps = Surgery Steps
+entity-category-name-surgeries = Хірургічні операції
+entity-category-name-surgery-steps = Етапи хірургічних операцій

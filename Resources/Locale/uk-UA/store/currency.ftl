@@ -1,14 +1,14 @@
-store-currency-inserted = {CAPITALIZE(THE($used))} is inserted into {THE($target)}.
-store-currency-war-boost-given = { CAPITALIZE($target) } starts buzzing
-store-currency-inserted-implant = {CAPITALIZE(THE($used))} is inserted into your implant.
+store-currency-inserted = {CAPITALIZE(THE($used))} був впихнутий в {THE($target)}.
+store-currency-war-boost-given = { CAPITALIZE($target) } почав тремтіти
+store-currency-inserted-implant = {CAPITALIZE(THE($used))} був впихнутий в ваш імплант.
 
-store-currency-free = Free
+store-currency-free = Безкоштовно
 store-currency-display-debugdollar = {$amount ->
-    [one] Debug Dollar
-    *[other] Debug Dollars
+    [one] Налагоджувальний долар
+    *[other] налагоджувальні долари
 }
-store-currency-display-telecrystal = TC
-store-currency-display-stolen-essence = Stolen Essence
-store-currency-display-silicon-memory = Memory
-store-currency-display-wizcoin = Wiz€oin™
-store-currency-display-dna = DNA
+store-currency-display-telecrystal = ТК
+store-currency-display-stolen-essence = Викрадена есенція
+store-currency-display-silicon-memory = Пам'ять
+store-currency-display-wizcoin = Візз€оїн™
+store-currency-display-dna = ДНК

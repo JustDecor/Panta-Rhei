@@ -1,35 +1,34 @@
 # Displayed as initiator of vote when no user creates the vote
-ui-vote-initiator-server = The server
+ui-vote-initiator-server = Сервер
 
 ## Default.Votes
 
-ui-vote-restart-title = Restart round
-ui-vote-restart-succeeded = Restart vote succeeded.
-ui-vote-restart-failed = Restart vote failed (need { TOSTRING($ratio, "P0") }).
-ui-vote-restart-fail-not-enough-ghost-players = Restart vote failed: A minimum of { $ghostPlayerRequirement }% ghost players is required to initiate a restart vote. Currently, there are not enough ghost players.
-ui-vote-restart-yes = Yes
-ui-vote-restart-no = No
-ui-vote-restart-abstain = Abstain
+ui-vote-restart-title = Рестарт
+ui-vote-restart-succeeded = Голосування за перезапуск успішне.
+ui-vote-restart-failed = Голосування за перезапуск провалилось (потрібно { TOSTRING($ratio, "P0") }).
+ui-vote-restart-fail-not-enough-ghost-players = Голосування за перезапуск провалено: Для ініціювання голосування за перезапуск потрібно мінімум { $ghostPlayerRequirement }% гравців-привидів. Наразі недостатньо гравців-привидів.
+ui-vote-restart-yes = Так
+ui-vote-restart-no = Ні
+ui-vote-restart-abstain = Утриматись
 
-ui-vote-gamemode-title = Next gamemode
-ui-vote-gamemode-tie = Tie for gamemode vote! Picking... { $picked }
-ui-vote-gamemode-win = { $winner } won the gamemode vote!
+ui-vote-gamemode-title = Наступний ігровий режим
+ui-vote-gamemode-tie = Нічия у голосуванні! Вибираємо... { $picked }
+ui-vote-gamemode-win = { $winner } виграв голосування режиму гри!
 
-ui-vote-map-title = Next map
-ui-vote-map-tie = Tie for map vote! Picking... { $picked }
-ui-vote-map-win = { $winner } won the map vote!
-ui-vote-map-notlobby = Voting for maps is only valid in the pre-round lobby!
-ui-vote-map-notlobby-time = Voting for maps is only valid in the pre-round lobby with { $time } remaining!
+ui-vote-map-title = Наступна мапа
+ui-vote-map-tie = Нічия у голосувані! Вибираємо... { $picked }
+ui-vote-map-win = { $winner } виграв голосування за мапу!
+ui-vote-map-notlobby = Голосування за мапу дійсне лише в лобі!
+ui-vote-map-notlobby-time = Голосування за мапи дійсне лише в передраундовому лобі з { $time } залишилось!
 
-
-# Votekick votes
-ui-vote-votekick-unknown-initiator = A player
-ui-vote-votekick-unknown-target = Unknown Player
-ui-vote-votekick-title = { $initiator } has called a votekick for user: { $targetEntity }. Reason: { $reason }
-ui-vote-votekick-yes = Yes
-ui-vote-votekick-no = No
-ui-vote-votekick-abstain = Abstain
-ui-vote-votekick-success = Votekick for { $target } succeeded. Votekick reason: { $reason }
-ui-vote-votekick-failure = Votekick for { $target } failed. Votekick reason: { $reason }
-ui-vote-votekick-not-enough-eligible = Not enough eligible voters online to start a votekick: { $voters }/{ $requirement }
-ui-vote-votekick-server-cancelled = Votekick for { $target } was cancelled by the server.
+# Голосування за вигнання гравця
+ui-vote-votekick-unknown-initiator = Гравець
+ui-vote-votekick-unknown-target = Невідомий гравець
+ui-vote-votekick-title = { $initiator } розпочав(-ла) голосування за вигнання гравця: { $targetEntity }. Причина: { $reason }
+ui-vote-votekick-yes = За
+ui-vote-votekick-no = Проти
+ui-vote-votekick-abstain = Утриматись
+ui-vote-votekick-success = Голосування за вигнання { $target } завершилося успішно. Причина: { $reason }
+ui-vote-votekick-failure = Голосування за вигнання { $target } не пройшло. Причина: { $reason }
+ui-vote-votekick-not-enough-eligible = Недостатньо гравців, які можуть голосувати, щоб розпочати голосування за вигнання: { $voters }/{ $requirement }
+ui-vote-votekick-server-cancelled = Голосування за вигнання { $target } було скасоване сервером.

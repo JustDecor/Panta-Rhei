@@ -1,9 +1,9 @@
-﻿station-event-meteor-swarm-start-announcement = Meteors have been detected on collision course with the station.
-station-event-meteor-swarm-end-announcement = The meteor swarm has passed. Please return to your stations.
+﻿station-event-meteor-swarm-start-announcement = Метеори виявлено на курсі зіткнення зі станцією.
+station-event-meteor-swarm-end-announcement = Метеорний рій минув. Будь ласка, поверніться на свої робочі місця.
 
-station-event-space-dust-start-announcement = The station is passing through a debris cloud, expect minor damage to external fittings and fixtures.
-station-event-meteor-urist-start-announcement = The station is colliding with an unidentified swarm of debris. Please stay calm and do not listen to them.
-station-event-meteor-cow-start-announcement = The station is colliding with an unidentified swarm of debris. Warning: Do not feed them wheat. Moo-ve away from exterior sections.
-station-event-meteor-clown-start-announcement = The station is colliding with an unidentified swarm of debris. HONK! Evacuate laughing gas storage immediately.
-station-event-meteor-potato-start-announcement = The station is colliding with an unidentified swarm of debris. High starch content detected.
-station-event-fun-swarm-start-announcement = The station is colliding with an unidentified swarm of debris. Please panic appropriately.
+station-event-space-dust-start-announcement = Станція проходить крізь хмару уламків. Очікуйте незначних пошкоджень зовнішніх кріплень та конструкцій.
+station-event-meteor-urist-start-announcement = Станція стикається з невідомим роєм уламків. Будь ласка, зберігайте спокій і не слухайте їх.
+station-event-meteor-cow-start-announcement = Станція стикається з невідомим роєм уламків. Попередження: не годуйте їх пшеницею. Му-у-ухайтеся від зовнішніх секцій.
+station-event-meteor-clown-start-announcement = Станція стикається з невідомим роєм уламків. ГО-НК! Негайно евакуюйте сховище веселильного газу.
+station-event-meteor-potato-start-announcement = Станція стикається з невідомим роєм уламків. Виявлено високий вміст крохмалю.
+station-event-fun-swarm-start-announcement = Станція стикається з невідомим роєм уламків. Будь ласка, панікуйте належним чином.

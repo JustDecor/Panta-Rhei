@@ -1,65 +1,64 @@
-thief-backpack-window-title = thieving kit
+thief-backpack-window-title = набір злодія
 
 thief-backpack-window-description =
-    Inside are your tools of the trade, which will dissolve when you're ready.
-    Choose {$maxCount} different {$maxCount ->
-        [1] set
-        *[other] sets
-    } from the list.
+    Усередині знаходяться ваші злодійські інструменти, які зникнуть, щойно ви будете готові.
+    Виберіть {$maxCount} різн{$maxCount ->
+        [1] ий набір
+        *[other] их наборів
+    } зі списку.
 
-thief-backpack-window-selected = Kits selected: ({$selectedCount}/{$maxCount})
+thief-backpack-window-selected = Вибрано наборів: ({$selectedCount}/{$maxCount})
 
-thief-backpack-window-approve-button = Approve
-thief-backpack-button-select = Select [  ]
-thief-backpack-button-deselect = Select [X]
+thief-backpack-window-approve-button = Підтвердити
+thief-backpack-button-select = Обрати [  ]
+thief-backpack-button-deselect = Обрати [X]
 
-# Sets
+# Набори
 
-thief-backpack-category-chameleon-name = chameleon kit
+thief-backpack-category-chameleon-name = набір хамелеона
 thief-backpack-category-chameleon-description =
-    You are everyone and no one; you are a master of disguise.
-    Includes: A full set of chameleon clothing,
-    a chameleon projector, and an Agent ID.
-    Disguise as anyone and anything.
+    Ви водночас усі й ніхто. Ви майстер перевтілення.
+    Містить: повний комплект одягу хамелеона,
+    проєктор хамелеона та агентське посвідчення.
+    Маскуйтеся під будь-кого і будь-що.
 
-thief-backpack-category-tools-name = breacher kit
-# Delta V: C4 replaced with breaching charges and description changed
+thief-backpack-category-tools-name = набір зломщика
 thief-backpack-category-tools-description =
-    What's that sound? A few stolen breachin' charges knockin' at their door. 
-    No obstacle can stop you!
-    Includes: Three breaching charges, a multitool, remote signaller, jaws of life,
-    advanced welder, engineering goggles, and insulated gloves.
+    Що це за звук? Кілька вкрадених підривних зарядів уже стукають у їхні двері.
+    Жодна перешкода не зупинить вас!
+    Містить: три підривні заряди, мультитул, дистанційний сигналізатор, щелепи життя,
+    покращений зварювальний апарат, інженерські окуляри та ізольовані рукавички.
 
-thief-backpack-category-chemistry-name = anatomy kit
+thief-backpack-category-chemistry-name = анатомічний набір
 thief-backpack-category-chemistry-description =
-    You've reached peak physical performance... with a little help.
-    Includes: Storage implanter, DNA scrambler implanter,
-    ephedrine bottle, syringe, empty shaker, and omega soap
+    Ви досягли піку фізичних можливостей... не без невеликої допомоги.
+    Містить: імплантер сховища, імплантер перемішувача ДНК,
+    пляшечку ефедрину, шприц, порожній шейкер і омега-мило.
 
-thief-backpack-category-syndie-name = syndie kit
+thief-backpack-category-syndie-name = набір синдикату
 thief-backpack-category-syndie-description =
-    Trinkets from a disavowed past, or stolen from a careless agent?
-    You've made some connections. Whiskey, echo...
-    Includes: An Emag, Access Breaker, Interdyne cigs, a Syndicate codeword,
-    a Radio Jammer, a lighter and some strange red crystals.
+    Сувеніри з минулого, від якого відмовилися, чи здобич необережного агента?
+    Ви завели потрібні зв'язки. Whiskey, Echo...
+    Містить: Емаг, зламувач доступу, сигарети Interdyne, кодове слово Синдикату,
+    глушник радіозв'язку, запальничку та кілька дивних червоних кристалів.
 
-thief-backpack-category-sleeper-name = sleeper kit
+thief-backpack-category-sleeper-name = снодійний набір
 thief-backpack-category-sleeper-description =
-    Until we close our eyes for good, use your illegal prescriptions
-    to keep others asleep.
-    Includes: Sleepy nitrous oxide tank, two nocturine bottles,
-    and a hypopen.
+    Поки ми не заплющили очі назавжди, використовуйте свої нелегальні препарати,
+    щоб інші теж спали.
+    Містить: балон зі снодійним закисом азоту, дві пляшечки ноктурину
+    та гіпошприц.
 
-thief-backpack-category-communicator-name = communicator kit
+thief-backpack-category-communicator-name = набір переговорника
 thief-backpack-category-communicator-description =
-    Money is power, and secrets are money. Use your silver tongue
-    and wealth to subvert the station.
-    Includes: Master key for all station channels, a CyberSun pen,
-    voice mask implanter, and 20k spesos inside a briefcase.
+    Гроші це влада, а таємниці це гроші. Використовуйте своє красномовство
+    та багатство, щоб підкорити станцію.
+    Містить: універсальний ключ до всіх каналів станції, ручку CyberSun,
+    імплантер маскування голосу та 20 тисяч спесо у валізі.
 
-thief-backpack-category-smuggler-name = smuggler kit
+thief-backpack-category-smuggler-name = набір контрабандиста
 thief-backpack-category-smuggler-description =
-    All thieves need somewhere to stash their goods in the dark.
-    Don't forget to link your fulton.
-    Includes: Fulton beacon, 10 fultons, 3 smoke grenades,
-    and an invisible crate to hide valuable loot.
+    Кожному злодію потрібне місце, щоб сховати здобич у темряві.
+    Не забудьте прив'язати свій Фултон.
+    Містить: маяк Фултона, 10 комплектів Фултона, 3 димові гранати
+    та невидимий ящик для приховування цінної здобичі.

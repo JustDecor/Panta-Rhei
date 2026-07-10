@@ -1,7 +1,5 @@
-observe-nevermind = Nevermind
-observe-confirm = Observe
-observe-warning-1 = Are you sure you want to observe?
-observe-warning-2 = You cannot play in the round if you do so.
-observe-warning-window-title = Warning
-observe-as-admin = Admin Observe
-observe-as-player = Player Observe
+observe-nevermind = Передумав
+observe-confirm = Спостерігати
+observe-warning-1 = Ви впевнені, що хочете спостерігати?
+observe-warning-2 = Ви не зможете грати в раунді, якщо ви це зробите.
+observe-warning-window-title = Увага

@@ -1,4 +1,2 @@
-﻿## Species Names
-
-species-name-monkey = Monkey
-species-name-kobold = Kobold
+species-name-monkey = Мавпа
+species-name-kobold = Кобольд

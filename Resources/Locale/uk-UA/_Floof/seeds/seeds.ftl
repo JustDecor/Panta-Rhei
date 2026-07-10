@@ -1,10 +1,15 @@
-﻿seeds-humpshroom-name = humpshroom
+seeds-teaplant-name = чайна рослина
+seeds-teaplant-display-name = чайні рослини
+seeds-anomaly-berry-name = аномальна ягода
+seeds-anomaly-berry-display-name = аномальні ягодиseeds-blue-pumpkin-name = синій гарбуз
+seeds-blue-pumpkin-display-name = сині гарбузи
+seeds-humpshroom-name = humpshroom
+
+
 seeds-humpshroom-display-name = humpshroom
-seeds-breedshroom-name = breedshroom
-seeds-breedshroom-display-name = breedshroom
-seeds-coconut-name = coconut
-seeds-coconut-display-name = coconut
-seeds-coconut-gun-name = coconut gun
-seeds-coconut-gun-display-name = coconut gun
-seeds-peanut-name = peanut
-seeds-peanut-display-name = peanut
+
+
+seeds-breedshroom-name = гриб тварин
+
+
+seeds-breedshroom-display-name = бріджриб
