@@ -1,1 +1,1 @@
-anomaly-scanner-scan-copied = Copied anomaly scan data!
+#anomaly-scanner-scan-copied = Copied anomaly scan data!

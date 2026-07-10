@@ -3,7 +3,7 @@ microwave-component-range-interact-item-too-big = { CAPITALIZE(THE($item)) } з�
 microwave-component-assembler-interact-item-too-big = { CAPITALIZE(THE($item)) } завеликий, щоб поміститися в Food-O-Mat!
 microwave-component-medical-assembler-interact-item-too-big = { CAPITALIZE(THE($item)) } завеликий, щоб поміститися в медичний асемблер!
 
-microwave-component-upgrade-cook-time = час приготування
+#microwave-component-upgrade-cook-time = час приготування
 
 microwave-component-assembler-no-valid-recipe = Не знайдено жодного валідного рецепта!
 

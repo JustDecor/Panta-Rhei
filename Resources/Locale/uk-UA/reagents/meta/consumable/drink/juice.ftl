@@ -40,11 +40,5 @@ reagent-desc-juice-tomato = Помідори, перетворені на сік
 reagent-name-juice-watermelon = кавуновий сік
 reagent-desc-juice-watermelon = Смачний сік кавуна.
 
-reagent-name-juice-tomato = tomato juice
-reagent-desc-juice-tomato = Tomatoes made into juice. What a waste of good tomatoes, huh?
-
-reagent-name-juice-watermelon = watermelon juice
-reagent-desc-juice-watermelon = The delicious juice of a watermelon.
-
 reagent-name-juice-cherry = вишневий сік
 reagent-desc-juice-cherry = Найкращий червоний смак.

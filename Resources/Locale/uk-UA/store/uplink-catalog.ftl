@@ -98,9 +98,6 @@ uplink-pistol-magazine-desc = Пістолетний магазин на 15 на
 uplink-pistol-magazine-c20r-name = Магазин ПП (.35 авто)
 uplink-pistol-magazine-c20r-desc = Магазин для пістолета-кулемета на 30 набоїв. Сумісний із C-20r.
 
-uplink-pistol-magazine-c20r-name = Магазин ПП (.35 авто)
-uplink-pistol-magazine-c20r-desc = Магазин ПП на 30 набоїв. Сумісний із C-20r.
-
 uplink-magazine-bulldog-pellet-name = Барабанний магазин (.50 картеч)
 uplink-magazine-bulldog-pellet-desc = Магазин дробовика на 8 набоїв із картеччю. Сумісний із Bulldog.
 

@@ -13,5 +13,5 @@ offer-item-no-give = You stop offering {THE($item)} to {$target}
 offer-item-no-give-target = {$user} is no longer offering {THE($item)} to you
 
 
-alerts-offer-name = Accept offer
-alerts-offer-desc = Click this alert to accept the item offered to you.
+#alerts-offer-name = Accept offer
+#alerts-offer-desc = Click this alert to accept the item offered to you.

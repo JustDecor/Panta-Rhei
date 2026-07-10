@@ -1,4 +1,4 @@
-markings-category-Face = Face
+#markings-category-Face = Face
 markings-category-LArm = Left Arm
 markings-category-RArm = Right Arm
 markings-category-LHand = Left Hand
@@ -7,4 +7,4 @@ markings-category-LLeg = Left Leg
 markings-category-RLeg = Right Leg
 markings-category-LFoot = Left Foot
 markings-category-RFoot = Right Foot
-markings-category-Wings = Wings
+#markings-category-Wings = Wings
