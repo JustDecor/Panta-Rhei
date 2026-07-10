@@ -1,3 +1,3 @@
-alert-level-orange = Помаранчевий
-alert-level-orange-announcement = На станції виявлено критичну загрозу структурній цілісності або атмосфері, і відновлення є малоймовірним. Інженерному персоналу рекомендується мінімізувати небезпеки та убезпечити евакуаційний док. Членам екіпажу рекомендується триматися подалі від небезпечних зон і готуватися до евакуації. Сигнали MAYDAY активовано.
-alert-level-orange-instructions = Уникайте небезпечних зон і готуйтеся до евакуації.
+alert-level-orange = Orange
+alert-level-orange-announcement = There is a critical station-wide structural or atmospheric threat and recovery is unlikely. Engineering staff are advised to minimize hazards and secure the Evacuation Dock. Crewmembers are advised to stay away from hazardous areas, and prepare for Evacuation. MAYDAY signals have been activated
+alert-level-orange-instructions = Avoid hazards and prepare for Evacuation.

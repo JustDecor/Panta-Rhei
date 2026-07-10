@@ -1,3 +1,3 @@
-admin-verb-make-conspirator = Перетворити ціль на змовника.
+admin-verb-make-conspirator = Make the target into a Conspirator.
 
-admin-verb-text-make-conspirator = Зробити змовником
+admin-verb-text-make-conspirator = Make Conspirator

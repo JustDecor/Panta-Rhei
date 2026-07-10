@@ -1,103 +1,103 @@
-thaven-mood-secret-moods-name = Тримати емоції в таємниці
-thaven-mood-secret-moods-desc = Ваші емоції — сувора таємниця, яку ніколи не можна розкривати нікому.
+thaven-mood-secret-moods-name = Keep Your Moods Secret
+thaven-mood-secret-moods-desc = Your Moods are a strictly-kept secret, and should never be revealed to anyone.
 
-thaven-mood-no-modern-medicine-name = Відмова від сучасної медицини
-thaven-mood-no-modern-medicine-desc = Ви не схвалюєте сучасну медицину і повинні по можливості уникати лікування нею.
+thaven-mood-no-modern-medicine-name = No Modern Medicine
+thaven-mood-no-modern-medicine-desc = You do not approve of modern medicine and should abstain from treatment with it whenever possible.
 
-thaven-mood-department-disapproval-name = Несхвалення відділу {$department}
-thaven-mood-department-disapproval-desc = Ви не схвалюєте {$department} та всіх, хто там працює (окрім себе, якщо застосовно).
+thaven-mood-department-disapproval-name = Disapprove Of {$department}
+thaven-mood-department-disapproval-desc = You do not approve of {$department} or anyone who works in it (excluding yourself, if applicable).
 
-thaven-mood-dont-speak-to-command-name = Ніколи не говорити з командуванням
-thaven-mood-dont-speak-to-command-desc = Ви надто «низького статусу», щоб розмовляти з командуванням, навіть якщо вони звертаються першими.
+thaven-mood-dont-speak-to-command-name = Never Speak To Command
+thaven-mood-dont-speak-to-command-desc = You are too lowly to speak to Command, even if spoken to first.
 
-thaven-mood-disapprove-of-drugs-name = Несхвалення наркотиків
-thaven-mood-disapprove-of-drugs-desc = Ви зневажаєте речовини, що змінюють свідомість, включно з алкоголем, і повинні їх уникати.
+thaven-mood-disapprove-of-drugs-name = Disapprove Of Drugs
+thaven-mood-disapprove-of-drugs-desc = You detest mind-altering drugs, including alcohol, and should abstain from them.
 
-thaven-mood-excessively-disorganized-name = Занадто багато чистоти спричиняє хвороби
-thaven-mood-excessively-disorganized-desc = Це неприродно. Ви повинні прагнути тримати своє середовище максимально брудним і неорганізованим.
+thaven-mood-excessively-disorganized-name = Too Much Cleanliness Causes Illness
+thaven-mood-excessively-disorganized-desc = It's unnatural. You should endeavor to keep your environment as filthy and disorganized as possible.
 
-thaven-mood-dinner-floor-name = Етикет вечері
-thaven-mood-dinner-floor-desc = Їжа та напої мають споживатися лише з підлоги, як це належить.
+thaven-mood-dinner-floor-name = Dinner Etiquette
+thaven-mood-dinner-floor-desc = Food and drink must only be consumed off of the floor, as is proper.
 
-thaven-mood-hug-bad-name = ОБІЙМИ? ФУ.
-thaven-mood-hug-bad-desc = Обіймати когось — це серйозна образа у вашій культурі.
+thaven-mood-hug-bad-name = HUGS? EUGH.
+thaven-mood-hug-bad-desc = Hugging someone is a grave insult where you come from.
 
-thaven-mood-always-alone-name = Вовк-одинак
-thaven-mood-always-alone-desc = Інші люди лише сповільнюють вас. Ви повинні прагнути бути наодинці, коли це можливо.
+thaven-mood-always-alone-name = Lone Wolf
+thaven-mood-always-alone-desc = Other people will only slow you down. You should strive to be alone whenever possible.
 
-thaven-mood-procrastinator-name = Прокрастинатор
-thaven-mood-procrastinator-desc = Постійна поспішність може когось поранити. Ви повинні рухатися повільно, щоб уникати ризику.
+thaven-mood-procrastinator-name = Procrastinator
+thaven-mood-procrastinator-desc = Rushing around everywhere is bound to get somebody hurt someday. You should move slowly at all times to avoid unnecessary risk.
 
-thaven-mood-no-radio-name = Комунікабельність
-thaven-mood-no-radio-desc = Використання радіозв’язку — вкрай неввічливо. Усі розмови мають бути наживо, віч-на-віч.
+thaven-mood-no-radio-name = Personable
+thaven-mood-no-radio-desc = Using radio communications is exceptionally rude. All conversations should be had in-person, face-to-face.
 
-thaven-mood-improper-storage-name = Я не в’ючна тварина
-thaven-mood-improper-storage-desc = Носити інструменти при собі принизливо. Якщо потрібно — їх слід тягнути за собою.
+thaven-mood-improper-storage-name = I'm Not A Pack Mule
+thaven-mood-improper-storage-desc = Carrying tools on your person is demeaning. If you must use them, they should be dragged behind you, shamefully.
 
-thaven-mood-ferengi-name = Підприємницький дух
-thaven-mood-ferengi-desc = Прибуток — найважливіше в житті, понад усе.
+thaven-mood-ferengi-name = Entrepreneurial Spirit
+thaven-mood-ferengi-desc =  Profit is the most important thing in life, above all else.
 
-thaven-mood-tool-license-name = Належна документація
-thaven-mood-tool-license-desc = Ви та інші повинні мати ліцензію на використання будь-якого інструмента, завірену владою.
+thaven-mood-tool-license-name = Proper Documentation
+thaven-mood-tool-license-desc = You and everyone else must obtain a license in order to carry or use any tool, and it must be stamped by the relevant authorities.
 
-thaven-mood-lying-bad-name = Брехня — смертний гріх
-thaven-mood-lying-bad-desc = Будь-яка брехня, навіть дрібна, є найгіршим злочином.
+thaven-mood-lying-bad-name = Lying Is A Cardinal Sin
+thaven-mood-lying-bad-desc = Anyone who lies, no matter how trivial the falsehood, is the worst kind of criminal.
 
-thaven-mood-vampire-invitation-name = Вампір
-thaven-mood-vampire-invitation-desc = Ви не можете проходити крізь зачинені двері, поки вас особисто не запросили.
+thaven-mood-vampire-invitation-name = Vampire
+thaven-mood-vampire-invitation-desc = You feel you physically cannot pass through a closed door unless you have been invited in, personally, at least once.
 
-thaven-mood-no-dragging-name = Повага до мертвих
-thaven-mood-no-dragging-desc = Тягнути тіла по землі — це жахливо.
+thaven-mood-no-dragging-name = Respect The Dead
+thaven-mood-no-dragging-desc = Dragging bodies across the bare ground is horrific.
 
-thaven-mood-drunk-respect-name = Шляхетний п’яниця
-thaven-mood-drunk-respect-desc = Ви не поважаєте тверезих людей, окрім себе.
+thaven-mood-drunk-respect-name = The Noble Drunkard
+thaven-mood-drunk-respect-desc = You do not respect anyone who is not drunk, excluding yourself, of course.
 
-thaven-mood-rank-snob-name = Сноб
-thaven-mood-rank-snob-desc = Ви уникаєте людей нижчого рангу та не хочете бути з ними поміченими.
+thaven-mood-rank-snob-name = Snob
+thaven-mood-rank-snob-desc = You are incredibly reluctant to be seen with anyone who is of a lower rank than you. If they must be addressed, do so away from peering eyes.
 
-thaven-mood-hardsuits-bad-name = {$clothes} — це вже не модно
-thaven-mood-hardsuits-bad-desc = Тих, хто носить це публічно, слід уникати.
+thaven-mood-hardsuits-bad-name = {$clothes} Are SO Last Year
+thaven-mood-hardsuits-bad-desc = Anyone wearing them in public should be shunned. If you need to wear them, it should never be done where others can see it.
 
-thaven-mood-hat-hair-name = Ідеальне волосся
-thaven-mood-hat-hair-desc = Шоломи псують вашу зачіску. Якщо доводиться носити — негайно підстригтися.
+thaven-mood-hat-hair-name = Hair: Immaculate
+thaven-mood-hat-hair-desc = Hats and helmets make your hair look bad. If you have to wear one, which you shouldn't, you should get a haircut immediately afterwards.
 
-thaven-mood-distrust-fashion-name = Фешн-сноб
-thaven-mood-distrust-fashion-desc = Ніколи не довіряйте тому, чий одяг гірший за ваш.
+thaven-mood-distrust-fashion-name = Fashion Snob
+thaven-mood-distrust-fashion-desc = Never trust anyone whose outfit is worse than yours.
 
-thaven-mood-happy-bad-name = Не довіряй усмішкам
-thaven-mood-happy-bad-desc = Надмірна радість свідчить про нещирість.
+thaven-mood-happy-bad-name = Never Trust A Smile
+thaven-mood-happy-bad-desc = Cheerfulness indicates untrustworthiness.
 
-thaven-mood-only-pills-name = Голки — це страшно
-thaven-mood-only-pills-desc = Ви приймаєте ліки лише у формі таблеток або мазей.
+thaven-mood-only-pills-name = Needles Are Scary
+thaven-mood-only-pills-desc = You only accept medication in the form of pills or topicals.
 
-thaven-mood-avoid-puddles-name = Не мочіть ноги
-thaven-mood-avoid-puddles-desc = Ходити по розлитих рідинах негідно та негігієнічно.
+thaven-mood-avoid-puddles-name = Don't Get Your Feet Wet
+thaven-mood-avoid-puddles-desc = It is undignified and unsanitary to walk over spilled liquids. You should avoid it at all costs.
 
-thaven-mood-food-restrict-name = Строга дієта {$food}
-thaven-mood-food-restrict-desc = Ви можете їсти лише {$food ->
-  [Carnivore] м’ясо
-  *[Vegetarian] овочі
-  [Frugivore] фрукти
-  [Fungivore] гриби
-  [Ovivore] яйця
-  [Hunter] те, що ви можете здобути
-  [Soupivore] суп
+thaven-mood-food-restrict-name = Strict {$food}
+thaven-mood-food-restrict-desc = You must only eat {$food ->
+  [Carnivore] meats
+  *[Vegetarian] vegetables
+  [Frugivore] fruit
+  [Fungivore] fungi
+  [Ovivore] eggs
+  [Hunter] what you can kill
+  [Soupivore] soup
 }.
 
-thaven-mood-claustrophobic-name = Клаустрофобія
-thaven-mood-claustrophobic-desc = Маленькі кімнати викликають у вас сильний дискомфорт. По можливості уникайте їх і перебудовуйте робоче місце.
+thaven-mood-claustrophobic-name = Claustrophobic
+thaven-mood-claustrophobic-desc = Small rooms cause you great distress. Avoid them where possible, and renovate your workplace if necessary.
 
-thaven-mood-agoraphobic-name = Агорафобія
-thaven-mood-agoraphobic-desc = Відкриті простори викликають дискомфорт. Намагайтеся перетворювати їх на компактні, ефективні модульні кімнати.
+thaven-mood-agoraphobic-name = Agoraphobic
+thaven-mood-agoraphobic-desc = Open spaces are uncomfortable. Seek to rearrange such spaces into small, efficient and modular rooms.
 
-thaven-mood-nonsmoker-name = Непалячий
-thaven-mood-nonsmoker-desc = Пасивне куріння є надзвичайно небезпечним. Уникайте місць, де люди курять у публічних зонах.
+thaven-mood-nonsmoker-name = Non-Smoker
+thaven-mood-nonsmoker-desc = Secondhand smoke is incredibly dangerous. Avoid areas where people are smoking in public.
 
-thaven-mood-word-bad-name = Табу
-thaven-mood-word-bad-desc = "{$word1},", "{$word2}," та "{$word3}," є вкрай образливими словами.
+thaven-mood-word-bad-name = Taboo
+thaven-mood-word-bad-desc = "{$word1}," "{$word2}," and "{$word3}," are extremely offensive.
 
-thaven-mood-crawler-name = Глибокий уклін
-thaven-mood-crawler-desc = Неввічливо не робити глибокий уклін (перебуваючи в положенні лежачи) перед розмовою з людиною.
+thaven-mood-crawler-name = Deep Bow
+thaven-mood-crawler-desc = It is impolite not to perform a deep bow by entering a prone state before engaging someone in conversation.
 
-thaven-mood-elevated-name = Підлога — це лава
-thaven-mood-elevated-desc = Ви надаєте перевагу висоті: стояти на столах, поручнях тощо — це найкомфортніше для вас.
+thaven-mood-elevated-name = The Floor Is Lava
+thaven-mood-elevated-desc = You prefer to be elevated whenever possible - Standing atop tables, railings, etc., is where you feel the most comfortable.

@@ -1,94 +1,94 @@
-marking-ArachnidCheliceraeDownwards = Хеліцери (донизу)
-marking-ArachnidCheliceraeDownwards-downwards = Хеліцери
+marking-ArachnidCheliceraeDownwards = Chelicerae (Downwards)
+marking-ArachnidCheliceraeDownwards-downwards = Chelicerae
 
-marking-ArachnidCheliceraeInwards = Хеліцери (всередину)
-marking-ArachnidCheliceraeInwards-inwards = Хеліцери
+marking-ArachnidCheliceraeInwards = Chelicerae (Inwards)
+marking-ArachnidCheliceraeInwards-inwards = Chelicerae
 
-marking-ArachnidAppendagesDefault = Кінцівки (Довгі)
-marking-ArachnidAppendagesDefault-long_primary = Придаток
-marking-ArachnidAppendagesDefault-long_secondary = Смуги
+marking-ArachnidAppendagesDefault = Appendages (Long)
+marking-ArachnidAppendagesDefault-long_primary = Appendage
+marking-ArachnidAppendagesDefault-long_secondary = Stripes
 
-marking-ArachnidAppendagesSharp = Кінцівки (Гострі)
-marking-ArachnidAppendagesSharp-sharp_primary = Придаток
-marking-ArachnidAppendagesSharp-sharp_secondary = Смуги
+marking-ArachnidAppendagesSharp = Appendages (Sharp)
+marking-ArachnidAppendagesSharp-sharp_primary = Appendage
+marking-ArachnidAppendagesSharp-sharp_secondary = Stripes
 
-marking-ArachnidAppendagesZigZag = Кінцівки (ЗигЗаг)
-marking-ArachnidAppendagesZigZag-zigzag_primary = Придаток
-marking-ArachnidAppendagesZigZag-zigzag_secondary = Смуги
+marking-ArachnidAppendagesZigZag = Appendages (ZigZag)
+marking-ArachnidAppendagesZigZag-zigzag_primary = Appendage
+marking-ArachnidAppendagesZigZag-zigzag_secondary = Stripes
 
-marking-ArachnidAppendagesCurled = Кінцівки (Скручені)
-marking-ArachnidAppendagesCurled-curled_primary = Придаток
-marking-ArachnidAppendagesCurled-curled_secondary = Смуги
+marking-ArachnidAppendagesCurled = Appendages (Curled)
+marking-ArachnidAppendagesCurled-curled_primary = Appendage
+marking-ArachnidAppendagesCurled-curled_secondary = Stripes
 
-marking-ArachnidAppendagesStingers = Кінцівки (Жала)
-marking-ArachnidAppendagesStingers-stingers_primary = Придаток
-marking-ArachnidAppendagesStingers-stingers_secondary = Смуги
+marking-ArachnidAppendagesStingers = Appendages (Stingers)
+marking-ArachnidAppendagesStingers-stingers_primary = Appendage
+marking-ArachnidAppendagesStingers-stingers_secondary = Stripes
 
-marking-ArachnidAppendagesChipped = Кінцівки (Відколоті)
-marking-ArachnidAppendagesChipped-chipped_primary = Придаток
-marking-ArachnidAppendagesChipped-chipped_secondary = Смуги
+marking-ArachnidAppendagesChipped = Appendages (Chipped)
+marking-ArachnidAppendagesChipped-chipped_primary = Appendage
+marking-ArachnidAppendagesChipped-chipped_secondary = Stripes
 
-marking-ArachnidAppendagesHarvest = Кінцівки (Урожай)
-marking-ArachnidAppendagesHarvest-harvest_primary = Придаток
-marking-ArachnidAppendagesHarvest-harvest_secondary = Смуги
+marking-ArachnidAppendagesHarvest = Appendages (Harvest)
+marking-ArachnidAppendagesHarvest-harvest_primary = Appendage
+marking-ArachnidAppendagesHarvest-harvest_secondary = Stripes
 
-marking-ArachnidAppendagesShort = Кінцівки (Короткі)
-marking-ArachnidAppendagesShort-short_primary = Придаток
-marking-ArachnidAppendagesShort-short_secondary = Смуги
+marking-ArachnidAppendagesShort = Appendages (Short)
+marking-ArachnidAppendagesShort-short_primary = Appendage
+marking-ArachnidAppendagesShort-short_secondary = Stripes
 
-marking-ArachnidAppendagesFreaky = Кінцівки (Дивно довгі)
-marking-ArachnidAppendagesFreaky-freaky_primary = Придаток
-marking-ArachnidAppendagesFreaky-freaky_secondary = Смуги
+marking-ArachnidAppendagesFreaky = Appendages (Freaky long)
+marking-ArachnidAppendagesFreaky-freaky_primary = Appendage
+marking-ArachnidAppendagesFreaky-freaky_secondary = Stripes
 
-marking-ArachnidTorsoStripes = Смуги
-marking-ArachnidTorsoStripes-stripes = Дизайн
+marking-ArachnidTorsoStripes = Stripes
+marking-ArachnidTorsoStripes-stripes = Design
 
-marking-ArachnidTorsoSlashes = Косі риски
-marking-ArachnidTorsoSlashes-slashes = Дизайн
+marking-ArachnidTorsoSlashes = Slashes
+marking-ArachnidTorsoSlashes-slashes = Design
 
-marking-ArachnidTorsoCross = Хрест
-marking-ArachnidTorsoCross-cross = Дизайн
+marking-ArachnidTorsoCross = Cross
+marking-ArachnidTorsoCross-cross = Design
 
-marking-ArachnidTorsoX = Х
-marking-ArachnidTorsoX-x = Дизайн
+marking-ArachnidTorsoX = X
+marking-ArachnidTorsoX-x = Design
 
-marking-ArachnidTorsoHeart = Серце
-marking-ArachnidTorsoHeart-heart = Дизайн
+marking-ArachnidTorsoHeart = Heart
+marking-ArachnidTorsoHeart-heart = Design
 
-marking-ArachnidTorsoHourglass = Пісочний годинник
-marking-ArachnidTorsoHourglass-hourglass = Дизайн
+marking-ArachnidTorsoHourglass = Hourglass
+marking-ArachnidTorsoHourglass-hourglass = Design
 
-marking-ArachnidTorsoNailAndHammer = Цвях та Молоток
-marking-ArachnidTorsoNailAndHammer-nail-and-hammer = Дизайн
+marking-ArachnidTorsoNailAndHammer = Nail and Hammer
+marking-ArachnidTorsoNailAndHammer-nail-and-hammer = Design
 
-marking-ArachnidTorsoStar = Зірка
-marking-ArachnidTorsoStar-star = Дизайн
+marking-ArachnidTorsoStar = Star
+marking-ArachnidTorsoStar-star = Design
 
-marking-ArachnidTorsoArrows = Стрілки
-marking-ArachnidTorsoArrows-arrows = Дизайн
+marking-ArachnidTorsoArrows = Arrows
+marking-ArachnidTorsoArrows-arrows = Design
 
-marking-ArachnidTorsoCore = Ядро
-marking-ArachnidTorsoCore-core = Дизайн
+marking-ArachnidTorsoCore = Core
+marking-ArachnidTorsoCore-core = Design
 
-marking-ArachnidTorsoFiddleback = Скрипковий
-marking-ArachnidTorsoFiddleback-fiddleback = Дизайн
+marking-ArachnidTorsoFiddleback = Fiddleback
+marking-ArachnidTorsoFiddleback-fiddleback = Design
 
-marking-ArachnidTorsoSkull = Череп
-marking-ArachnidTorsoSkull-skull = Дизайн
+marking-ArachnidTorsoSkull = Skull
+marking-ArachnidTorsoSkull-skull = Design
 
-marking-ArachnidTorsoTarget = Ціль
-marking-ArachnidTorsoTarget-target = Дизайн
+marking-ArachnidTorsoTarget = Target
+marking-ArachnidTorsoTarget-target = Design
 
-marking-ArachnidRArmStripes = Смуги Арахніда (Праворуч)
-marking-ArachnidRArmStripes-stripes_right = Смуги
+marking-ArachnidRArmStripes = Arachnid Stripes (Right)
+marking-ArachnidRArmStripes-stripes_right = Stripes
 
-marking-ArachnidLArmStripes = Смуги Арахніда (Ліворуч)
-marking-ArachnidLArmStripes-stripes_left = Смуги
+marking-ArachnidLArmStripes = Arachnid Stripes (Left)
+marking-ArachnidLArmStripes-stripes_left = Stripes
 
-marking-ArachnidRLegStripes = Смуги Арахніда (Праворуч)
-marking-ArachnidRLegStripes-stripes_right = Смуги
+marking-ArachnidRLegStripes = Arachnid Stripes (Right)
+marking-ArachnidRLegStripes-stripes_right = Stripes
 
-marking-ArachnidLLegStripes = Смуги Арахніда (Ліворуч)
-marking-ArachnidLLegStripes-stripes_left = Смуги
+marking-ArachnidLLegStripes = Arachnid Stripes (Left)
+marking-ArachnidLLegStripes-stripes_left = Stripes
 
-marking-ArachnidOverlayFuzzy = Ворсистий
+marking-ArachnidOverlayFuzzy = Fuzzy

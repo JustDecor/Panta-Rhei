@@ -1,16 +1,16 @@
-possession-fail-changeling = Тут немає душі, з якою можна втрутитися!
-possession-fail-heretic = Сила Мансуса не дозволяє вам заволодіти цим тілом!
-possession-fail-ghoul = Тут немає розуму, яким ви могли б заволодіти!
-possession-fail-devil = Ви не можете заволодіти іншим дияволом!
-possession-fail-ghost = Тут немає розуму, яким ви могли б заволодіти!
-possession-fail-temporary = Тут немає розуму, яким ви могли б заволодіти!
-possession-fail-target-dead = Тут немає розуму, яким ви могли б заволодіти!
-possession-fail-target-shielded = Набридливий щит заважає вам проникнути в їхній розум!
-possession-fail-target-already-possessed = Хтось інший уже заволодів цим розумом...
-possession-fail-target-chaplain = Свята сила не дозволяє вам заволодіти цією ціллю!
+possession-fail-changeling = There's no soul to tamper with!
+possession-fail-heretic = The power of the mansus prevents you from possessing them!
+possession-fail-ghoul = There's no mind for you to possess!
+possession-fail-devil = You cannot possess another devil!
+possession-fail-ghost = There's no mind for you to possess!
+possession-fail-temporary = There's no mind for you to possess!
+possession-fail-target-dead = There's no mind for you to possess!
+possession-fail-target-shielded = A pesky shield prevents you from prying at their mind!
+possession-fail-target-already-possessed = Someone else has already taken over this mind...
+possession-fail-target-chaplain = A holy force prevents you from possessing this target!
 
-possession-popup-others = Кінцівки {$target} викривляються дивним чином, а {POSS-ADJ($target)} очі закочуються назад у {POSS-ADJ($target)} голові.
-possession-popup-self = Вашу душу примусово виганяють із тіла!
-possession-end-popup = {$target} раптово завмирає й падає безсило на землю.
+possession-popup-others = {$target}'s limbs contort in a strange way, {POSS-ADJ($target)} eyes rolling back in {POSS-ADJ($target)} head.
+possession-popup-self = Your soul is forced out of your body!
+possession-end-popup = {$target} seizes up and falls limp to the ground.
 
-possessed-component-examined = У вас залишилося {$timeremaining} секунд у цьому тілі.
+possessed-component-examined = You have {$timeremaining} seconds left in this body.

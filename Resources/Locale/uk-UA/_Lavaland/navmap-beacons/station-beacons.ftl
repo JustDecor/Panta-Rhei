@@ -1,11 +1,11 @@
-﻿station-beacon-ruin-abductor = Іншопланетний сигнал
-station-beacon-ruin-arrivals = Сигнал шатла прибуття
-station-beacon-ruin-beach-biodome = Пляжний біодом
-station-beacon-ruin-golem-shuttle = Сигнал найманців
-station-beacon-ruin-hierophant-arena = Ревний сигнал
-station-beacon-ruin-hunter-shelter = Сигнал мисливців
-station-beacon-ruin-small-outpost = Малий аванпост
-station-beacon-ruin-rouge-ai = Невідома лабораторія
-station-beacon-ruin-snow-biodome = Сніговий біодом
+﻿station-beacon-ruin-abductor = Alien Signal
+station-beacon-ruin-arrivals = Arrivals Shuttle Signal
+station-beacon-ruin-beach-biodome = Beach Biodome
+station-beacon-ruin-golem-shuttle = Freelancer Signal
+station-beacon-ruin-hierophant-arena = Zealous Signal
+station-beacon-ruin-hunter-shelter = Hunter Signal
+station-beacon-ruin-small-outpost = Small Outpost
+station-beacon-ruin-rouge-ai = Unknown Laboratory
+station-beacon-ruin-snow-biodome = Snow Biodome
 
-station-beacon-ruin-syndicate = Сигнал Синдикату
+station-beacon-ruin-syndicate = Syndicate Signal

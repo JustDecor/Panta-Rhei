@@ -1,21 +1,21 @@
-marking-LizardSnoutpiercings-piercings1 = Пірсинг
-marking-LizardSnoutpiercings = Пірсинг
+marking-LizardSnoutpiercings-piercings1 = Piercings
+marking-LizardSnoutpiercings = Piercings
 
-marking-LizardSnoutTall = Морда ящера (висока)
-marking-LizardSnoutTall-snout_tall = Морда
+marking-LizardSnoutTall = Lizard Snout (Tall)
+marking-LizardSnoutTall-snout_tall = Snout
 
-marking-LizardHornsNubby-horns_nubby = Роги ящірки (обрубки)
-marking-LizardHornsNubby = Роги ящера (короткі)
+marking-LizardHornsNubby-horns_nubby = Lizard Horns (Nubby)
+marking-LizardHornsNubby = Lizard Horns (Nubby)
 
-marking-LizardHornsKoboldEarspiercings = Вуха ящера (Кобольд, з пірсингом)
-marking-LizardHornsKoboldEarspiercings-horns_kobold_ears = Вуха
-marking-LizardHornsKoboldEarspiercings-horns_kobold_ears_piercings = Сережки
+marking-LizardHornsKoboldEarspiercings = Lizard Ears (Kobold, Pierced)
+marking-LizardHornsKoboldEarspiercings-horns_kobold_ears = Ears
+marking-LizardHornsKoboldEarspiercings-horns_kobold_ears_piercings = Piercings
 
-marking-Fangs = Ікла ящера
-marking-Fangs-Fangs = Ікла
+marking-Fangs = Lizard Fangs
+marking-Fangs-Fangs = Fangs
 
-marking-LizardBeard = Борода ящера
-marking-LizardBeard-beard = Борода
+marking-LizardBeard = Lizard Beard
+marking-LizardBeard-beard = Beard
 
-marking-LizardHeadFlat = Пласка голова
-marking-LizardHeadFlat-head_flat = Плоска голова
+marking-LizardHeadFlat = Flat Head
+marking-LizardHeadFlat-head_flat = Flat Head

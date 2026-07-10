@@ -1,1 +1,1 @@
-surgery-popup-step-SurgeryStepRemoveCorticalBorer = {$user} видаляє кортикального бурильника з {$target}'s {$part}!
+surgery-popup-step-SurgeryStepRemoveCorticalBorer = {$user} is removing the Cortical Borer from {$target}'s {$part}!

@@ -1,17 +1,17 @@
 #starlight start
-# Механіка збереження міток
-hand-labeler-saved-labels = Збережені мітки:
+# Label saving mechanic
+hand-labeler-saved-labels = Saved Labels:
 
-# Текст на кнопці для збереження мітки до списку збережених міток.
-hand-labeler-save-label-text = Зберегти мітку
+# The text on the button in the ui to save a label to the saved label list.
+hand-labeler-save-label-text = Save Label
 
-# Текст на кнопці для видалення мітки зі списку збережених міток.
-hand-labeler-delete-label-text = Видалити мітку
+# The text on the button in the ui to delete a label from the saved label list.
+hand-labeler-delete-label-text = Delete Label
 
-# Текст на кнопці в режимі видалення.
-hand-labeler-delete-mode-text = Видалення...
+# The text on the button when in delete mode.
+hand-labeler-delete-mode-text = Deleting...
 
-hand-labeler-ui-clear-label-text = Очистити
+hand-labeler-ui-clear-label-text = Clear
 
-hand-labeler-ui-reset-label-text = Скинути
+hand-labeler-ui-reset-label-text = Reset
 #starlight end

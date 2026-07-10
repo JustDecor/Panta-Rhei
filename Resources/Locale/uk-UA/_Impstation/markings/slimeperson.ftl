@@ -1,62 +1,62 @@
-marking-SlimeNose-nose = Ніс (профіль)
-marking-SlimeNose = Ніс (профіль)
+marking-SlimeNose-nose = Nose (Profile)
+marking-SlimeNose = Nose (Profile)
 
-marking-SlimeMouth-mouth = Рот
-marking-SlimeMouth = Рот
+marking-SlimeMouth-mouth = Mouth
+marking-SlimeMouth = Mouth
 
-marking-SlimeBrain-brain = Мозок
-marking-SlimeBrain = Мозок
+# marking-SlimeBrain-brain = Brain
+# marking-SlimeBrain = Brain
 
-marking-SlimeEyesDefault = Очі
-marking-SlimeEyesDefault-eyes = Очі (Стандартні)
+marking-SlimeEyesDefault = Eyes
+marking-SlimeEyesDefault-eyes = Eyes (Default)
 
-marking-SlimeEyeglow = Сяючі очі
-marking-SlimeEyeglow-glow = Сяючі очі
+marking-SlimeEyeglow = Glowing Eyes
+marking-SlimeEyeglow-glow = Glowing Eyes
 
-marking-SlimeEyesDroopy = Опущені очі
-marking-SlimeEyesDroopy-droopy = Опущені очі
+marking-SlimeEyesDroopy = Droopy Eyes
+marking-SlimeEyesDroopy-droopy = Droopy Eyes
 
-marking-SlimeEyesDroopyGlowing = Опущені сяючі очі
-marking-SlimeEyesDroopyGlowing-droopyglow = Опущені сяючі очі
+marking-SlimeEyesDroopyGlowing = Droopy Glowing Eyes
+marking-SlimeEyesDroopyGlowing-droopyglow = Droopy Glowing Eyes
 
-marking-SlimeEyesCyclops = Око циклопа
-marking-SlimeEyesCyclops-cyclops = Око циклопа
+marking-SlimeEyesCyclops = Cyclops Eye
+marking-SlimeEyesCyclops-cyclops = Cyclops Eye
 
-marking-SlimeEyesCyclopsGlowing = Сяюче око циклопа
-marking-SlimeEyesCyclopsGlowing-cyclopsglow = Сяюче око циклопа
+marking-SlimeEyesCyclopsGlowing = Cyclops Glowing Eye
+marking-SlimeEyesCyclopsGlowing-cyclopsglow = Cyclops Glowing Eye
 
-marking-SlimeCore-core = Ядро
-marking-SlimeCore = Ядро
+# marking-SlimeCore-core = Core
+# marking-SlimeCore = Core
 
-marking-SlimeLungs-lungs = Легені
-marking-SlimeLungs = Легені
+# marking-SlimeLungs-lungs = Lungs
+# marking-SlimeLungs = Lungs
 
-marking-SlimeBonehead-bonehead = Плаваючий череп
-marking-SlimeBonehead = Плавучий череп
+marking-SlimeBonehead-bonehead = Floating Skull
+# marking-SlimeBonehead = Floating Skull
 
-marking-SlimeBonechest-bonechest = Плаваюча грудна клітка
-marking-SlimeBonechest = Плавуча грудна клітка
+marking-SlimeBonechest-bonechest = Floating Ribcage
+# marking-SlimeBonechest = Floating Ribcage
 
-marking-SlimeBonearmleft-bonearmleft = Плаваючі кістки (ліва рука)
-marking-SlimeBonearmleft = Плавучі кістки (ліва рука)
+marking-SlimeBonearmleft-bonearmleft = Floating Bones (Left Arm)
+# marking-SlimeBonearmleft = Floating Bones (Left Arm)
 
-marking-SlimeBonearmright-bonearmright = Плаваючі кістки (права рука)
-marking-SlimeBonearmright = Плавучі кістки (права рука)
+marking-SlimeBonearmright-bonearmright = Floating Bones (Right Arm)
+# marking-SlimeBonearmright = Floating Bones (Right Arm)
 
-marking-SlimeBonefootleft-bonefootleft = Плаваючі кістки (ліва ступня)
-marking-SlimeBonefootleft = Літаючі кістки (ліва ступня)
+marking-SlimeBonefootleft-bonefootleft = Floating Bones (Left Foot)
+# marking-SlimeBonefootleft = Floating Bones (Left Foot)
 
-marking-SlimeBonefootright-bonefootright = Плаваючі кістки (права ступня)
-marking-SlimeBonefootright = Літаючі кістки (права ступня)
+marking-SlimeBonefootright-bonefootright = Floating Bones (Right Foot)
+# marking-SlimeBonefootright = Floating Bones (Right Foot)
 
-marking-SlimeBonehandleft-bonehandleft = Плаваючі кістки (ліва кисть)
-marking-SlimeBonehandleft = Літаючі кістки (ліва кисть)
+marking-SlimeBonehandleft-bonehandleft = Floating Bones (Left Hand)
+# marking-SlimeBonehandleft = Floating Bones (Left Hand)
 
-marking-SlimeBonehandright-bonehandright = Плаваючі кістки (права кисть)
-marking-SlimeBonehandright = Літаючі кістки (права кисть)
+marking-SlimeBonehandright-bonehandright = Floating Bones (Right Hand)
+# marking-SlimeBonehandright = Floating Bones (Right Hand)
 
-marking-SlimeBonelegleft-bonelegleft = Плаваючі кістки (ліва нога)
-marking-SlimeBonelegleft = Літаючі кістки (ліва нога)
+marking-SlimeBonelegleft-bonelegleft = Floating Bones (Left Leg)
+# marking-SlimeBonelegleft = Floating Bones (Left Leg)
 
-marking-SlimeBonelegright-bonelegright = Плаваючі кістки (права нога)
-marking-SlimeBonelegright = Літаючі кістки (права нога)
+marking-SlimeBonelegright-bonelegright = Floating Bones (Right Leg)
+# marking-SlimeBonelegright = Floating Bones (Right Leg)

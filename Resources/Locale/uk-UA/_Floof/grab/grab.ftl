@@ -1,1 +1,0 @@
-﻿popup-grab-throw-fail-weight = {CAPITALIZE($pulled)} is too heavy for you to throw!

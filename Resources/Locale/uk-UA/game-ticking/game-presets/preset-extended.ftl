@@ -1,2 +1,2 @@
-extended-title = Подовжений
-extended-description = Спокійна подовжена зміна. Використовується адміністраторами для івентів.
+extended-title = Extended
+extended-description = A calm experience. Admin intervention required.

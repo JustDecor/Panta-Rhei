@@ -1,2 +1,2 @@
-reagent-name-caramexinin = карамексинін
-reagent-desc-caramexinin = Штучний підсолоджувач, що лікує та запобігає отруєнню теоброміном у тварин.
+reagent-name-caramexinin = caramexinin
+reagent-desc-caramexinin = An artificial sweetener that treats and prevents Theobromine poisoning in animals.

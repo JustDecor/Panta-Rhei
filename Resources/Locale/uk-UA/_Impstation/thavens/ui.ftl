@@ -1,14 +1,14 @@
-moods-ui-menu-title = Ваші настрої
-moods-ui-shared-mood = Спільні
-thaven-moods-update-notify = Ви відчуваєте зміну своїх настроїв!
+moods-ui-menu-title = Your Moods
+moods-ui-shared-mood = Shared
+thaven-moods-update-notify = You feel a shift in your moods!
 
-thaven-moods-ui-verb = Редагувати настрої
-thaven-moods-admin-ui-title = Редагування настроїв
-thaven-moods-admin-ui-new-mood = Новий настрій
-thaven-moods-admin-ui-save = Зберегти
-thaven-mood-admin-ui-move-up = Перемістити вгору
-thaven-mood-admin-ui-move-down = Перемістити вниз
-thaven-mood-admin-ui-delete = Видалити
+thaven-moods-ui-verb = Edit Moods
+thaven-moods-admin-ui-title = Edit Moods
+thaven-moods-admin-ui-new-mood = New Mood
+thaven-moods-admin-ui-save = Save
+thaven-mood-admin-ui-move-up = Move Up
+thaven-mood-admin-ui-move-down = Move Down
+thaven-mood-admin-ui-delete = Delete
 
-admin-trick-add-random-mood-description = Додати випадковий настрій цій сутності.
-admin-trick-give-moods-description = Надати цій сутності настрої.
+admin-trick-add-random-mood-description = Add a random mood to this entity.
+admin-trick-give-moods-description = Give this entity moods.

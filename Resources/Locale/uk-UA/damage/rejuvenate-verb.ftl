@@ -1,1 +1,1 @@
-rejuvenate-verb-get-data-text = Вилікувати
+rejuvenate-verb-get-data-text = Rejuvenate

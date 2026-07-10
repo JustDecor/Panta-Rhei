@@ -1,20 +1,20 @@
-marking-UndershirtDefault-undershirt = Нижня сорочка
-marking-UndershirtDefault = Нижня сорочка (звичайна)
+marking-UndershirtDefault-undershirt = Undershirt
+marking-UndershirtDefault = Undershirt (Default)
 
-marking-UndershirtRolled-rolled_undershirt = Нижня сорочка
-marking-UndershirtRolled = Нижня сорочка (закочені рукави)
+marking-UndershirtRolled-rolled_undershirt = Undershirt
+marking-UndershirtRolled = Undershirt (Rolled)
 
-marking-UndershirtSleeveless-sleeveless = Майка
-marking-UndershirtSleeveless = Майка
+marking-UndershirtSleeveless-sleeveless = Tanktop
+marking-UndershirtSleeveless = Tanktop
 
-marking-UndershirtGrossSleeveless-gross_sleeveless = Майка
-marking-UndershirtGrossSleeveless = Майка (брудна)
+marking-UndershirtGrossSleeveless-gross_sleeveless = Tanktop
+marking-UndershirtGrossSleeveless = Tanktop (Gross)
 
-marking-UndershirtRolledSleeveless-rolled_undershirt_sleeveless = Майка
-marking-UndershirtRolledSleeveless = Майка (закочена)
+marking-UndershirtRolledSleeveless-rolled_undershirt_sleeveless = Tanktop
+marking-UndershirtRolledSleeveless = Tanktop (Rolled)
 
-marking-UndershirtNanotrasen-nanotrasen = Нижня сорочка
-marking-UndershirtNanotrasen = Нижня сорочка (NanoTrasen)
+marking-UndershirtNanotrasen-nanotrasen = Undershirt
+marking-UndershirtNanotrasen = Undershirt (Nanotrasen)
 
-marking-UndershirtBraStrapless-strapless = Бюстгальтер
-marking-UndershirtBraStrapless = Бюстгальтер (без бретелей)
+marking-UndershirtBraStrapless-strapless = Bra
+marking-UndershirtBraStrapless = Bra (Strapless)

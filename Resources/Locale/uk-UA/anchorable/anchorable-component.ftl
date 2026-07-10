@@ -1,3 +1,3 @@
-anchorable-anchored = Прикручено
-anchorable-unanchored = Відкручено
-anchorable-occupied = Плитка зайнята
+anchorable-anchored = Anchored
+anchorable-unanchored = Unanchored
+anchorable-occupied = Tile occupied

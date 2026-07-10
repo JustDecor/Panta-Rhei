@@ -1,28 +1,28 @@
-## Інфестація (зараження)
 
-cortical-borer-has-host = У вас уже є носій.
-cortical-borer-host-already-infested = {THE($target)} вже заражено.
-cortical-borer-invalid-host = {THE($target)} не є придатним носієм.
-cortical-borer-face-covered = Обличчя {THE($target)} закрите.
-cortical-borer-headless = У {THE($target)} немає голови!
-cortical-borer-start-infest = Ви починаєте проникати в {THE($target)}.
+## Infest Messages
+cortical-borer-has-host = You already have a host.
+cortical-borer-host-already-infested = {THE($target)} is already infested.
+cortical-borer-invalid-host = {THE($target)} is not a valid host.
+cortical-borer-face-covered = {THE($target)}'s face is covered.
+cortical-borer-headless = {THE($target)} does not have a head!
+cortical-borer-start-infest = You begin to crawl into {THE($target)}.
 
-## Загальні повідомлення
-cortical-borer-no-host = У вас немає носія.
-cortical-borer-dead-host = Ваш носій мертвий.
-cortical-borer-not-enough-chem = У вас недостатньо хімікатів.
-cortical-borer-not-enough-chem-storage = Ви не можете вмістити більше хімікатів.
-cortical-borer-sugar-block = Ви відчуваєте солодкий присмак.
+## Generic messages
+cortical-borer-no-host = You do not have a host.
+cortical-borer-dead-host = Your host is dead.
+cortical-borer-not-enough-chem = You do not have enough chemicals.
+cortical-borer-not-enough-chem-storage = You cannot hold enough chemicals.
+cortical-borer-sugar-block = You taste something sweet.
 
-## Контроль
-cortical-borer-already-control = Ви вже контролюєте свого носія.
-cortical-borer-vomit = {$name} вивергає {$egg}!
+## Control messages
+cortical-borer-already-control = You are already controlling your host.
+cortical-borer-vomit = {$name} vomits out a {$egg}!
 
 ## UI
-cortical-borer-dispenser-window-cost = {$cost} хімікатів
-cortical-borer-ghostrole-name = Кортикальний бурильник
-cortical-borer-ghostrole-desc = Космічний черв’як з єдиною метою — проникати в голови людей і відкладати там свої яйця.
+cortical-borer-dispenser-window-cost = {$cost} chemicals
+cortical-borer-ghostrole-name = Cortical Borer
+cortical-borer-ghostrole-desc = A space worm with the sole purpose in life to enter peoples heads and lay its eggs.
 
-## Огляд
-infested-control-examined = У вас залишилось [color=#d842fc]{$timeremaining}[/color] секунд контролю над цим тілом.
-cortical-borer-self-examine = У вас є [color=#d842fc]{$chempoints}[/color] хімікатів.
+## Examine Text
+infested-control-examined = You have [color=#d842fc]{$timeremaining}[/color] seconds left controlling this body.
+cortical-borer-self-examine = You have [color=#d842fc]{$chempoints}[/color] chemicals.

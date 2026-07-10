@@ -1,2 +1,2 @@
-# Delta V - Додано нове дієслово для омніінструментів, оскільки вони мають спеціальний компонент ItemSwitch.
-verb-categories-switch = Перемкнути режим
+# Delta V - Added a new verb for the omnitools, as they have a special ItemSwitch component.
+verb-categories-switch = Switch Modes

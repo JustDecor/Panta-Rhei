@@ -1,5 +1,5 @@
-﻿revenant-blood-writing-name = Кров’яне письмо
-revenant-blood-writing-desc = Викликає ефемерну крейду з крові, якою можна малювати гліфи. Використання витрачає есенцію.
+﻿revenant-blood-writing-name = Blood writing
+revenant-blood-writing-desc = Summons an ethereal crayon of blood to draw glyphs with. Costs essence to use.
 
-revenant-animate-name = Анімація
-revenant-animate-desc = Оживляє предмети в руках, змушуючи їх нападати на будь-яких живих істот поруч. Використання залишає вас вразливим до атак на тривалий час.
+revenant-animate-name = Animate
+revenant-animate-desc = Bring handheld objects to life, making them lash out at any living beings near them. Using it leaves you vulnerable to attacks for a long period of time.

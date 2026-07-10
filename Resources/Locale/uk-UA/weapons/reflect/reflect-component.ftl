@@ -1,1 +1,1 @@
-reflect-shot = Рикошет!
+reflect-shot = Reflected!

@@ -1,3 +1,3 @@
-flavor-complex-cigarettes = як сигарети
+flavor-complex-cigarettes = like cigarettes
 
-flavor-complex-echion = як радіація та погані життєві рішення
+flavor-complex-echion = like radiation and poor choices

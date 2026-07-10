@@ -1,71 +1,48 @@
-﻿n14bed = ліжко
-n14bed-descrption = Використовується, щоб лежати, спати або бути пристебнутим. Відпочинок тут забезпечує дуже повільне лікування.
-
-N14BedWood = дерев’яне ліжко
-N14BedWood-descrption = Використовується, щоб лежати, спати або бути пристебнутим. Відпочинок тут забезпечує дуже повільне лікування.
-
-N14MedicalBed = медичне ліжко
-N14MedicalBed-descprtion = Лікарняне ліжко для відновлення пацієнтів. Відпочинок тут забезпечує відносно повільне лікування.
-
-N14Bedroll = спальник
-N14Bedroll-descrption = Спальник для сну в дорозі. Не дуже зручний.
-
-wood-chair = дерев’яний стілець
-wood-chair-descprtion = Ви сидите на цьому. За власним бажанням або примусово.
-
-wood-chair-1 = дерев’яний стілець
-wood-chair-1-dsecrption = Ви сидите на цьому. За власним бажанням або примусово.
-
-padded-chair = м’який стілець
-padded-chair-descrption = Ви сидите на цьому. За власним бажанням або примусово.
-
-settler-chair = стілець поселенця
-settler-chair-descrption = Ви сидите на цьому. За власним бажанням або примусово.
-
-black-stool = чорний табурет
-black-stool-descrption = Ви сидите на цьому. За власним бажанням або примусово.
-
-tan-stool = світло-коричневий табурет
-tan-stool-descprtion = Ви сидите на цьому. За власним бажанням або примусово.
-
-red-stool = червоний табурет
-red-stool-descrption = Ви сидите на цьому. За власним бажанням або примусово.
-
-arm-chair = крісло
-arm-chair-descrption = Ви сидите на цьому. За власним бажанням або примусово.
-
-green-metal-chair = зелений металевий стілець
-green-metal-chair-descrption = Ви сидите на цьому. За власним бажанням або примусово.
-
-blue-metal-chair = синій металевий стілець
-blue-metal-chair-descprtion = Ви сидите на цьому. За власним бажанням або примусово.
-
-red-metal-chair = червоний металевий стілець
-red-metal-chair-descrption = Ви сидите на цьому. За власним бажанням або примусово.
-
-red-office-chair = червоне офісне крісло
-red-office-chair-descrption = Ви сидите на цьому. За власним бажанням або примусово.
-
-blue-office-chair = синє офісне крісло
-blue-office-chair-descprtion = Ви сидите на цьому. За власним бажанням або примусово.
-
-green-office-chair = зелене офісне крісло
-green-office-chair-descrption = Ви сидите на цьому. За власним бажанням або примусово.
-
-ergonomic-office-chair = ергономічне офісне крісло
-ergonomic-office-chair-descrption = Ви сидите на цьому. За власним бажанням або примусово.
-
-folding-chair = складаний стілець
-folding-chair-descrption = Ви сидите на цьому. За власним бажанням або примусово.
-
-plastic-chair = пластиковий стілець
-plastic-chair-descrption = Ви сидите на цьому. За власним бажанням або примусово.
-
-TableCounterBar = барна стійка
-TableCounterBar-descrption = Барна стійка зі слідами алкоголю.
-
-TableMetalGrate = металевий стіл
-TableMetalGrate-descrption = Холодний саморобний металевий стіл із решітки.
-
-TableWoodSettler = дерев’яний стіл
-TableWoodSettler-descprtion = Дерев’яний стіл, який використовують поселенці.
+﻿n14bed = bed
+n14bed-descrption = This is used to lie in, sleep in or strap on. Resting here provides extremely slow healing.
+N14BedWood = bed
+N14BedWood-descrption = This is used to lie in, sleep in or strap on. Resting here provides extremely slow healing.
+N14MedicalBed = medical bed
+N14MedicalBed-descprtion = A hospital bed for patients to recover in. Resting here provides fairly slow healing.
+N14Bedroll = bedroll
+N14Bedroll-descrption = A bedroll for sleeping on the road. Not very comfy.
+wood-chair = wooden chair
+wood-chair-descprtion = You sit in this. Either by will or force.
+wood-chair-1 = wooden chair
+wood-chair-1-dsecrption = You sit in this. Either by will or force.
+padded-chair = padded chair
+padded-chair-descrption = You sit in this. Either by will or force.
+settler-chair = settler chair
+settler-chair-descrption = You sit in this. Either by will or force.
+black-stool = black stool
+black-stool-descrption = You sit in this. Either by will or force.
+tan-stool = tan stool
+tan-stool-descprtion = You sit in this. Either by will or force.
+red-stool = red stool
+red-stool-descrption = You sit in this. Either by will or force.
+arm-chair = armchair
+arm-chair-descrption = You sit in this. Either by will or force.
+green-metal-chair = green metal chair
+green-metal-chair-descrption = You sit in this. Either by will or force.
+blue-metal-chair = blue metal chair
+blue-metal-chair-descprtion = You sit in this. Either by will or force.
+red-metal-chair = red metal chair
+red-metal-chair-descrption = You sit in this. Either by will or force.
+red-office-chair = red office chair
+red-office-chair-descrption = You sit in this. Either by will or force.
+blue-office-chair = blue office chair
+blue-office-chair-descprtion = You sit in this. Either by will or force.
+green-office-chair = green office chair
+green-office-chair-descrption = You sit in this. Either by will or force.
+ergonomic-office-chair = ergonomic office chair
+ergonomic-office-chair-descrption = You sit in this. Either by will or force.
+folding-chair = folding chair
+folding-chair-descrption = You sit in this. Either by will or force.
+plastic-chair = plastic chair
+plastic-chair-descrption = You sit in this. Either by will or force.
+TableCounterBar = bar counter
+TableCounterBar-descrption = An alcohol stained bartop.
+TableMetalGrate = metal table
+TableMetalGrate-descrption = A cold handmade metal table made from grating.
+TableWoodSettler = wooden table
+TableWoodSettler-descprtion = A wooden table used by settlers.

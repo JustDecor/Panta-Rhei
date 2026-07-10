@@ -1,2 +1,2 @@
 ﻿verb-follow-text = Follow
-verb-follow-me-text = Режим слідкування
+verb-follow-me-text = Make follow

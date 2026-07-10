@@ -1,12 +1,12 @@
-ghost-role-information-emotional-support-name = Емоційний підтримуючий улюбленець
-ghost-role-information-emotional-support-description = Ви — емоційний підтримуючий улюбленець! Вірний своєму власнику, допомагайте йому підняти настрій!
-ghost-role-information-emotional-support-rules = Ви — [color=lightpink][bold]Емоційний підтримуючий улюбленець[/bold][/color]. Підтримуйте свого власника та дійте у власних інтересах.
-                                        Ви не пам’ятаєте свого попереднього життя і не пам’ятаєте нічого з того, що дізналися як привид.
-                                        Вам дозволено пам’ятати загальні знання про гру, наприклад як готувати або як користуватися предметами.
-                                        Вам категорично [color=red]ЗАБОРОНЕНО[/color] пам’ятати або називати ім’я, зовнішність тощо вашого попереднього персонажа.
+ghost-role-information-emotional-support-name = Emotional Support Pet
+ghost-role-information-emotional-support-description = You're an emotional support pet! Loyal to your owner, make sure to cheer them up!
+ghost-role-information-emotional-support-rules = You are an [color=lightpink][bold]Emotional Support Pet[/bold][/color]. Support your owner, and serve your own interests.
+                                        You don't remember any of your previous life, and you don't remember anything you learned as a ghost.
+                                        You are allowed to remember knowledge about the game in general, such as how to cook, how to use objects, etc.
+                                        You are absolutely [color=red]NOT[/color] allowed to remember, say, the name, appearance, etc. of your previous character.
 
-ghost-role-information-clippy-name = Кліппі
-ghost-role-information-clippy-description = Вірний працівник представника станції, пахне картоном і паперами.
+ghost-role-information-clippy-name = Clippy
+ghost-role-information-clippy-description = The Station Representative's loyal worker, smells like cardboard and papers.
 
-ghost-role-information-jerma-name = Джерма
-ghost-role-information-jerma-description = Момент «пог»
+ghost-role-information-jerma-name = Jerma
+ghost-role-information-jerma-description = Pog moment

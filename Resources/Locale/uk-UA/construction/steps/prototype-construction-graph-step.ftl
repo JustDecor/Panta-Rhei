@@ -1,5 +1,5 @@
 # Shown when examining an in-construction object
-construction-insert-prototype-no-name = Тепер, вставте {$prototypeName}.
+construction-insert-prototype-no-name = Next, insert {$prototypeName}.
 
 # Shown when examining an in-construction object
-construction-insert-prototype = Тепер, вставте {$entityName}.
+construction-insert-prototype = Next, insert {$entityName}.

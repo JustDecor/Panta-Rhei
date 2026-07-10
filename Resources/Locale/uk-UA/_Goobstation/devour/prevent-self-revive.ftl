@@ -1,1 +1,1 @@
-self-revive-fail = Неможливо воскреснути в цьому стані!
+self-revive-fail = Can't revive in this state!

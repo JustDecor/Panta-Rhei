@@ -1,29 +1,27 @@
 ## Implanter Attempt Messages
 
-implanter-component-implanting-target = {$user} намагається щось імплантувати в вас!
-implanter-component-implant-failed = {$implant} не може бути імплантований в {$target}!
-implanter-draw-failed-permanent = {$implant} у {$target} злився з ним і не може бути видалений!
-implanter-draw-failed = Ви намагалися видалити імплантат, але нічого не знайшли.
-implanter-component-implant-already = {$target} вже має імплант {$implant}!
+implanter-component-implanting-target = {$user} is trying to implant you with something!
+implanter-component-implant-failed = The {$implant} cannot be given to {$target}!
+implanter-draw-failed-permanent = The {$implant} in {$target} is fused with { OBJECT($target) } and cannot be removed!
+implanter-draw-failed = You tried to remove an implant but found nothing.
+implanter-draw-failed-catastrophically = The implanter finds nothing and catastrophically fails, shunting genetic material into {$user}'s hand!
+implanter-component-implant-already = {$target} already has the {$implant}!
 
 ## UI
-implanter-draw-text = Витягування
-implanter-inject-text = Ін'єкція
+implanter-set-draw-verb = Set Implant Draw
+implanter-set-draw-window = Set Implant Draw
+implanter-set-draw-info = Select the implant type this implanter should remove:
+implanter-set-draw-type = Implant type:
 
-implanter-empty-text = Пустий
+implanter-draw-text = Draw
+implanter-inject-text = Inject
 
-implanter-label = [color=green]{$implantName}[/color]
-    Режим: [color=white]{$modeString}[/color]
+implanter-empty-text = Empty
+
+implanter-label-inject = [color=green]{$implantName}[/color]
+    Mode: [color=white]{$modeString}[/color]
+
+implanter-label-draw = [color=red]{$implantName}[/color]
+    Mode: [color=white]{$modeString}[/color]
 
 implanter-contained-implant-text = [color=green]{$desc}[/color]
-
-## Implant Popups
-
-scramble-implant-activated-popup = Ваша зовнішність змінюється!
-magillitisserum-implant-activated-user = Ви відчуваєте, як ваші м'язи наливаються, а волосся росте, коли ви повертаєтеся до мавпи.
-magillitisserum-implant-activated-others = {CAPITALIZE(THE($entity))} наливається, а його волосся швидко росте. Ой-ой!.
-
-## Implant Messages
-
-deathrattle-implant-dead-message = {$user} загинув у {$position}.
-deathrattle-implant-critical-message = Життєві показники {$user} критичні, необхідна негайна допомога у {$position}.

@@ -1,3 +1,4 @@
+
 # Ores
-materials-raw-abyssium = необроблений абісіум
-stack-phosphorus = подрібнений фосфор
+materials-raw-abyssium = raw abyssium
+stack-phosphorus = crushed phosporus

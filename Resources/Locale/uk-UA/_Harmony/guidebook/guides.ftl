@@ -1,1 +1,1 @@
-guide-entry-conspirators = Змовники
+guide-entry-conspirators = Conspirators
