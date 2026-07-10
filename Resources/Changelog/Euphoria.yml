@@ -4212,3 +4212,11 @@ Entries:
       message: Pre-filled wooden bath tub for mappers to map into dorms or other areas.
   id: 522
   time: '2026-07-10T12:46:19.0000000+00:00'
+- author: JaDiDo
+  changes:
+    - type: Add
+      message: >-
+        improved flavour for VoreSystem regarding containment and container
+        transfer
+  id: 523
+  time: '2026-07-10T12:47:53.0000000+00:00'
