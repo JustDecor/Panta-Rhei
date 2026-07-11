@@ -4242,3 +4242,11 @@ Entries:
         is not responsible for any gambling related addictions.
   id: 526
   time: '2026-07-11T05:31:43.0000000+00:00'
+- author: Raikyr0
+  changes:
+    - type: Tweak
+      message: >-
+        Changed Extended Pistol Mags to require research. (Did you know the MK58
+        takes extended pistol mags?)
+  id: 527
+  time: '2026-07-11T05:34:48.0000000+00:00'
