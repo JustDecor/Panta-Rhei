@@ -4258,3 +4258,15 @@ Entries:
         little healthier.
   id: 528
   time: '2026-07-11T05:41:04.0000000+00:00'
+- author: Dunrab
+  changes:
+    - type: Add
+      message: >-
+        Four new coins have been added that work like dice to be able to flip
+        coins, these can be chosen in loadouts.
+    - type: Add
+      message: >-
+        A bag of coins has been added to the Good Clean Fun vendor for coin
+        flips.
+  id: 529
+  time: '2026-07-11T05:46:11.0000000+00:00'
