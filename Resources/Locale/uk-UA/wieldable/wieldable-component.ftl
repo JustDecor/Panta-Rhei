@@ -7,6 +7,7 @@ wieldable-component-successful-wield = Ви схопили { THE($item) } в д�
 wieldable-component-failed-wield = Ви переклали { THE($item) } в одну руку.
 wieldable-component-successful-wield-other = { THE($user) } схопив { THE($item) }.
 wieldable-component-failed-wield-other = { THE($user) } переклав { THE($item) } в одну руку.
+wieldable-component-blocked-wield = { CAPITALIZE(THE($blocker)) } заважає вам взяти { THE($item) } у дві руки.
 
 wieldable-component-no-hands = У вас нема вільних рук!
 wieldable-component-not-enough-free-hands = {$number ->

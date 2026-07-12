@@ -27,3 +27,12 @@ reagent-desc-laughter = Дехто каже, що це найкращі ліки
 
 reagent-name-weh = сік, що змушує казати 'вех'
 reagent-desc-weh = Чиста есенція плюшевої ящірки. Змушує вас казати "вех"!
+
+reagent-name-hew = juice that makes you Hew
+reagent-desc-hew = Pure essence of inversed lizard plush. Makes you Hew!
+
+reagent-name-catessence = felinase
+reagent-desc-catessence = A type of carcinogenic enzyme known to break down proteins found within the vocal cords of most animals. Mixing is NOT recommended.
+
+reagent-name-canidessence = caninase
+reagent-desc-canidessence = A type of carcinogenic enzyme known to break down proteins found within the vocal cords of most animals. Mixing is NOT recommended.

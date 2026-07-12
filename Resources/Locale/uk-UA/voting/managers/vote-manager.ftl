@@ -21,6 +21,14 @@ ui-vote-map-win = { $winner } виграв голосування за мапу!
 ui-vote-map-notlobby = Голосування за мапу дійсне лише в лобі!
 ui-vote-map-notlobby-time = Голосування за мапи дійсне лише в передраундовому лобі з { $time } залишилось!
 
-# Floof
-ui-vote-map-random = <Випадкова карта>
-ui-vote-map-random-win = Обрано випадкову карту: { $picked }!
+# Голосування за вигнання гравця
+ui-vote-votekick-unknown-initiator = Гравець
+ui-vote-votekick-unknown-target = Невідомий гравець
+ui-vote-votekick-title = { $initiator } розпочав(-ла) голосування за вигнання гравця: { $targetEntity }. Причина: { $reason }
+ui-vote-votekick-yes = За
+ui-vote-votekick-no = Проти
+ui-vote-votekick-abstain = Утриматись
+ui-vote-votekick-success = Голосування за вигнання { $target } завершилося успішно. Причина: { $reason }
+ui-vote-votekick-failure = Голосування за вигнання { $target } не пройшло. Причина: { $reason }
+ui-vote-votekick-not-enough-eligible = Недостатньо гравців, які можуть голосувати, щоб розпочати голосування за вигнання: { $voters }/{ $requirement }
+ui-vote-votekick-server-cancelled = Голосування за вигнання { $target } було скасоване сервером.

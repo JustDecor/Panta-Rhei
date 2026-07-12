@@ -1,15 +1,16 @@
-cheat-death-component-examined = [color=red] Something tells you {SUBJECT($target)} has no fear of death. [/color]
+cheat-death-component-examined = [color=red] Щось підказує вам, що {SUBJECT($target)} не боїться смерті. [/color]
+
 cheat-death-component-remaining-revives = { $amount ->
-[0] You have no revives left.
-[one] You have one revive left.
-*[other] You have {$amount} revives left.
+[0] У вас не залишилося відроджень.
+[one] У вас залишилося одне відродження.
+*[other] У вас залишилося {$amount} відроджень.
 }
 
-cheat-death-component-remaining-revives-unlimited = You have an unlimited amount of revives.
+cheat-death-component-remaining-revives-unlimited = У вас необмежена кількість відроджень.
 
-action-cheat-death-fail-no-lives = You aren't slipping away this time.
-action-cheat-death-fail-not-dead = You can't cheat death while alive!
-action-cheat-death-holy-damage = Divine intervention prevents your revival.
+action-cheat-death-fail-no-lives = Цього разу вам не вдасться уникнути смерті.
+action-cheat-death-fail-not-dead = Ви не можете обдурити смерть, поки живі!
+action-cheat-death-holy-damage = Божественне втручання не дозволяє вам воскреснути.
 
-action-cheated-death-dead = {$name} jerks awake. Bones mended, wounds sewn, organs arranged ever so perfectly.
-action-cheated-death-alive = {$name} violently shakes, all manners of wounds disappearing in a flash of flames.
+action-cheated-death-dead = {$name} різко прокидається. Кістки зрощені, рани зашиті, органи ідеально розташовані на своїх місцях.
+action-cheated-death-alive = {$name} люто здригається, а всі рани миттєво зникають у спалаху полум'я.

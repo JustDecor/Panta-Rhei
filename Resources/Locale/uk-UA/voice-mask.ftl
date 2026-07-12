@@ -5,6 +5,11 @@ voice-mask-name-change-info = Введіть бажане імʼя для імі
 voice-mask-name-change-speech-style = Стиль мовлення
 voice-mask-name-change-set = Встановити Імʼя
 voice-mask-name-change-set-description = Змінити імʼя щоб вдавати когось іншого.
+voice-mask-name-change-toggle = Перемкнути голосову маску
+voice-mask-name-change-accent-toggle = Блокувати акцент
 
-voice-mask-popup-success = Імʼя встановлено.
-voice-mask-popup-failure = Імʼя не може бути встановлено
+voice-mask-popup-toggle = Голосову маску перемкнено.
+voice-mask-popup-accent-toggle = Акцент перемкнено.
+
+voice-mask-popup-success = Ім'я успішно встановлено.
+voice-mask-popup-failure = Не вдалося встановити ім'я.

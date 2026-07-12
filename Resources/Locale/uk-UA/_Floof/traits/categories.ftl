@@ -1,2 +1,12 @@
+trait-category-disabilitiesphysical = Disabilities - Physical
+trait-category-disabilitiesmental = Disabilities - Mental
+trait-category-cybernetics = Cybernetics
+trait-category-psionic = Psionics
+trait-category-languages = Languages
+trait-category-natural-languages = Natural languages
+trait-category-skills = Feats
+trait-category-lewd = Lewd
+trait-category-bonusphysical = Strengths - Physical
+trait-category-bonusmental = Strengths - Mental
 trait-category-Marked = Помічений
 trait-category-TraitsSpeechNatural = Природні

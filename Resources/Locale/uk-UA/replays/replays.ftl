@@ -8,6 +8,8 @@ replay-loading-initializing = Ініціалізація Сутностей
 replay-loading-starting = Стартування Сутностей
 replay-loading-failed = Помилка при завантаженні повторення:
                         {$reason}
+replay-loading-retry = Try load with more exception tolerance - MAY CAUSE BUGS!
+replay-loading-cancel = Cancel
 
 # Main Menu
 replay-menu-subtext = Клієнт Повтору
@@ -40,3 +42,5 @@ replay-verb-spectate = Спостерігати
 cmd-replay-spectate-help = replay_spectate [необов'язкова сутність]
 cmd-replay-spectate-desc = Приєднує або від'єднує локального гравця до заданого uid сутності.
 cmd-replay-spectate-hint = Необов'язковий EntityUid
+
+cmd-replay-toggleui-desc = Toggles the replay control UI.

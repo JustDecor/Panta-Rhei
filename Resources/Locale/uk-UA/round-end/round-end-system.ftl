@@ -8,7 +8,3 @@ round-end-system-round-restart-eta-announcement = Перезапуск чере�
 
 eta-units-minutes = хвилин
 eta-units-seconds = секунд
-
-# Vulpstation
-round-end-system-shuttle-call-vote = Викликати аварійний шатл (закінчити зміну)?
-round-end-system-shuttle-call-vote-initiator = Центральне Командування

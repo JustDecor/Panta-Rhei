@@ -18,8 +18,7 @@ salvage-magnet-resources = {$resource ->
     [OrePlasma] Plasma
     [OreUranium] Uranium
     [OreArtifactFragment] Artifact fragments
-    [OreBluespace] Bluespace crystals
-    [OreNormality] Normality crystals
+    [OreBananium] Bananium
     *[other] {$resource}
 }
 
@@ -32,6 +31,9 @@ salvage-magnet-resources-count = {$count ->
     *[other] (Надзвичайно Багато)
 }
 
+# Debris
+salvage-magnet-debris-ChunkDebris = Space debris
+
 # Asteroids
 dungeon-config-proto-BlobAsteroid = Скупчення астероїдів
 dungeon-config-proto-ClusterAsteroid = Скупчення астероїдів
@@ -39,39 +41,8 @@ dungeon-config-proto-SpindlyAsteroid = Спіраль астероїда
 dungeon-config-proto-SwissCheeseAsteroid = Уламки астероїда
 
 # Wrecks
-salvage-map-proto-Small1 = Інженерне Сховище
-salvage-map-proto-Small2 = Ігровий Куток
-salvage-map-proto-Small3 = Пральня
-salvage-map-proto-Small4 = Шахтарський Бар
-salvage-map-proto-SmallShip1 = Таблетка
-salvage-map-proto-SmallAISurveyDrone = Безпілотник ШІ
-salvage-map-proto-SmallCargo = Шахтарська Капсула
-salvage-map-proto-SmallChapel = Каплиця
-salvage-map-proto-SmallChef = Ресторан
-salvage-map-proto-SmallParty = Вечірка на день народження
-salvage-map-proto-SmallSyndicate = Зруйнований Корабель Синдикату
-salvage-map-proto-SmallTesla = Стримувач Тесли
-
-salvage-map-proto-SmallA1 = Астероїд Плазмафайр
-salvage-map-proto-Medium1 = Кеш із Плазмовою Пасткою
-salvage-map-proto-MediumVault1 = Сховище
-salvage-map-proto-MediumOrchestra = Тихий Оркестр
-salvage-map-proto-MediumLibraryWreck = Покинута Бібліотека
-salvage-map-proto-MediumCargoWreck = Уламки Вантажного Відділу
-salvage-map-proto-MediumPirateWreck = Фрагмент Піратської Баржі
-salvage-map-proto-MediumHaulingShuttleWreck = Зруйноване Буксирне Судно
-salvage-map-proto-TickColony = Колонія Космічних Кліщів
-salvage-map-proto-CargoDock = Вантажний Док для Астероїдів
-salvage-map-proto-SpaceWaffleHome = Вафельний Дім
-salvage-map-proto-MediumShuttleWreck = Зруйнований Аварійний Шатл
-salvage-map-proto-MediumPetHospital = Лікарня для Улюбленців і Ведмедів
-salvage-map-proto-MediumCrashedShuttle = Розбитий Шатл
-salvage-map-proto-Meatball = Фрикаделька
-salvage-map-proto-VeganMeatball = Веганська фрикаделька
-
-salvage-map-proto-StationStation = Станція станція
-salvage-map-proto-AsteroidBase = База Астероїдів
-salvage-map-proto-RuinCargoBase = Зруйноване Вантажне Сховище
-salvage-map-proto-SecurityChunk = Руїни Відділу Служби Безпеки
-salvage-map-proto-EngineeringChunk = Руїни Відділу Інженерів
-salvage-map-proto-OutpostArm = Руїни Захопленого Аванпосту
+salvage-map-wreck = Salvage wreck
+salvage-map-wreck-desc-size = Size:
+salvage-map-wreck-size-small = [color=lime]Small[/color]
+salvage-map-wreck-size-medium = [color=cornflowerblue]Medium[/color]
+salvage-map-wreck-size-large = [color=orchid]Large[/color]

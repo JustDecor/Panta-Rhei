@@ -10,6 +10,8 @@ apc-menu-charge-label = Заряджено {$percent}
 apc-menu-power-state-good = Добре
 apc-menu-power-state-low = Низьке
 apc-menu-power-state-none = Відсутнє
+apc-menu-power-state-label-text = { POWERWATTS($power) } / { POWERWATTS($maxLoad) }
+apc-menu-power-state-label-tripped = ПЕРЕВАНТАЖЕННЯ
 
 # For the flavor text on the footer
 

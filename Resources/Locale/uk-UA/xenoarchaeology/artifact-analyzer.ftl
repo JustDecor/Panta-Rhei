@@ -1,42 +1,48 @@
-analysis-console-menu-title = консоль аналiзу артефактiв
-analysis-console-server-list-button = Список Серверів
-analysis-console-scan-button = Сканувати
-analysis-console-scan-tooltip-info = Скануйте артефакти, щоб отримати інформацію про їхню структуру.
-analysis-console-print-button = Друкувати
-analysis-console-print-tooltip-info = Надрукувати поточну інформацію про артефакт.
-analysis-console-extract-button = Вилучити
-analysis-console-extract-button-info = Вилучіть бали з артефакту на основі нещодовно досліджених вузлів.
-analysis-console-bias-up = Вгору
-analysis-console-bias-down = Вниз
-analysis-console-bias-button-info-up = Перемикає зміщення артефакту під час переміщення між його вузлами. "Вгору" веде до нульової глибини.
-analysis-console-bias-button-info-down = Перемикає упередження, яке має артефакт при переході між вузлами. Вниз — рух до все вищої глибини.
+analysis-console-menu-title = Широкоспектральна аналітична консоль Mark 3
+analysis-console-server-list-button = Сервер
+analysis-console-extract-button = Видобути очки
 
 analysis-console-info-no-scanner = Аналізатор не підключено! Будь ласка, підключіть його за допомогою мультитула.
-analysis-console-info-no-artifact = Артефакт відсутній! Помістіть артефакт на платформу, щоб переглянути інформацію про вузол.
-analysis-console-info-ready = Системи працюють і готові до сканування.
+analysis-console-info-no-artifact = Артефакт відсутній! Розмістіть його на платформі, щоб переглянути інформацію про вузли.
+analysis-console-info-ready = Системи працюють. Готово до сканування.
 
-analysis-console-info-id = [font="Monospace" size=11]ID:[/font]
-analysis-console-info-depth = ГЛИБИНА: {$depth}
-analysis-console-info-triggered-true = АКТИВОВАНО: ТАК
-analysis-console-info-triggered-false = АКТИВОВАНО: НІ
+analysis-console-no-node = Виберіть вузол для перегляду
+analysis-console-info-id = [font="Monospace" size=11]ІД:[/font]
+analysis-console-info-id-value = [font="Monospace" size=11][color=yellow]{$id}[/color][/font]
+analysis-console-info-class = [font="Monospace" size=11]Клас:[/font]
+analysis-console-info-class-value = [font="Monospace" size=11]{$class}[/font]
+analysis-console-info-locked = [font="Monospace" size=11]Статус:[/font]
+analysis-console-info-locked-value = [font="Monospace" size=11][color={ $state ->
+    [0] red]Заблоковано
+    [1] lime]Розблоковано
+    *[2] plum]Активне
+}[/color][/font]
+analysis-console-info-durability = [font="Monospace" size=11]Міцність:[/font]
+analysis-console-info-durability-value = [font="Monospace" size=11][color={$color}]{$current}/{$max}[/color][/font]
 analysis-console-info-effect = [font="Monospace" size=11]Ефект:[/font]
+# DeltaV - перенесено до файлу _DV
+#analysis-console-info-effect-value = [font="Monospace" size=11][color=gray]{ $state ->
+#    [true] {$info}
+#    *[false] Розблокуйте вузли, щоб отримати інформацію
+#}[/color][/font]
 analysis-console-info-trigger = [font="Monospace" size=11]Тригери:[/font]
-analysis-console-info-edges = ЗВ'ЯЗКИ: {$edges}
-analysis-console-info-value = НЕВИВЧЕНА_ВАРТІСТЬ: {$value}
-
+analysis-console-info-triggered-value = [font="Monospace" size=11][color=gray]{$triggers}[/color][/font]
 analysis-console-info-scanner = Сканування...
 analysis-console-info-scanner-paused = Призупинено.
 analysis-console-progress-text = {$seconds ->
     [one] T-{$seconds} секунда
     *[other] T-{$seconds} секунд
 }
-analysis-console-no-server-connected = Неможливо отримати дані. Сервер не підключено.
-analysis-console-no-artifact-placed = На сканері немає артефакта.
-analysis-console-no-points-to-extract = Немає очок для вивчення.
 
-analyzer-artifact-component-upgrade-analysis = тривалість аналізу
+#analysis-console-extract-value = [font="Monospace" size=11][color=orange]Вузол:{$id} Дослідження:+{$value}[/color][/font]
+# DeltaV - змінено analysis-console-glimmer-value - перенесено до файлу DV
+#analysis-console-glimmer-value = [font="Monospace" size=11][color=orange]Вузол:{$id} Мерехтіння:+{$value}[/color][/font]
+#analysis-console-extract-none = [font="Monospace" size=11][color=orange]Жоден розблокований вузол не має залишкових очок для видобутку [/color][/font]
+# DeltaV - змінено analysis-console-total-research-value - перенесено до файлу DV
+#analysis-console-extract-sum = [font="Monospace" size=11][color=orange]Загальне дослідження:{$value}[/color][/font]
+# DeltaV - змінено analysis-console-total-glimmer-value - перенесено до файлу DV
+#analysis-console-glimmer-sum = [font="Monospace" size=11][color=orange]Загальне мерехтіння:{$value}[/color][/font]
+# DeltaV - змінено analysis-console-multiplier-value - перенесено до файлу DV
+#analysis-console-glimmer-mult = [font="Monospace" size=11][color=orange]Поточний множник:{$value}[/color][/font]
 
-analysis-console-print-popup = Консоль роздрукувала звіт.
-analyzer-artifact-extract-popup = Енергія мерехтить на поверхні артефакту!
-
-analysis-report-title = Звіт по артефакту: Вузол {$id}
+analyzer-artifact-extract-popup = Поверхня артефакту засяяла енергією!

@@ -76,17 +76,17 @@ marking-MothRhinoBeetle-rhinobeetle2 = Блиск
 marking-MothRhinoBeetle-rhinobeetle3 = Крила
 
 # slimes
-marking-fizz = Шипіння
-marking-fizz-fizz = Шипіння
-marking-bubble = Бульбашки
-marking-bubble-bubble = Бульбашки
-marking-fishbowl = Акваріум
-marking-fishbowl-fishbowl1 = Риба
-marking-fishbowl-fishbowl2 = Риб'ячі бульбашки
-marking-FadingStars = Згасаюче світло зірок
-marking-FadingStars-fadingstars1 = Найяскравіші
-marking-FadingStars-fadingstars2 = Середні
-marking-FadingStars-fadingstars3 = Найтемніші
+#marking-fizz = Шипіння
+#marking-fizz-fizz = Шипіння
+#marking-bubble = Бульбашки
+#marking-bubble-bubble = Бульбашки
+#marking-fishbowl = Акваріум
+#marking-fishbowl-fishbowl1 = Риба
+#marking-fishbowl-fishbowl2 = Риб'ячі бульбашки
+#marking-FadingStars = Згасаюче світло зірок
+#marking-FadingStars-fadingstars1 = Найяскравіші
+#marking-FadingStars-fadingstars2 = Середні
+#marking-FadingStars-fadingstars3 = Найтемніші
 
 # vox
 marking-VoxCocktail = Коктейль

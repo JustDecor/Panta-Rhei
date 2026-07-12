@@ -1,1 +1,1 @@
-chat-radio-conspiracy = Conspiracy
+chat-radio-conspiracy = Змова

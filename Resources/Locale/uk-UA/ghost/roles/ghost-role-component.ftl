@@ -70,7 +70,7 @@ ghost-role-information-kobold-name = Кобольд
 ghost-role-information-kobold-description = Будь маленьким гремліном, кричи на людей і благай м'яса!
 
 ghost-role-information-rat-king-name = Щурячий Король
-ghost-role-information-rat-king-description = Ви - Щурячий король, збираєте їжу, щоб створити щурячих слуг, які будуть виконувати ваші накази
+#ghost-role-information-rat-king-description = Ви - Щурячий король, збираєте їжу, щоб створити щурячих слуг, які будуть виконувати ваші накази
 ghost-role-information-rat-king-rules = Ви - антагоніст, вишукуйте, нападайте і збільшуйте своє князівство!
 
 ghost-role-information-rat-servant-name = Щурячий Слуга

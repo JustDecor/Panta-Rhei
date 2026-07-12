@@ -24,3 +24,5 @@ store-caregory-spellbook-utility = Корисні Заклинання
 store-caregory-spellbook-equipment = Оснащення Мага
 store-caregory-spellbook-events = Заклинання Подій
 
+# Доставка Нюкопс
+store-category-nukie-delivery = Пропозиції

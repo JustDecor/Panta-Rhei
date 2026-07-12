@@ -32,8 +32,6 @@ station-event-random-sentience-role-description = Ви - розумна { $name 
 # Flavors
 station-event-random-sentience-flavor-mechanical = механічні
 station-event-random-sentience-flavor-organic = органічні
-station-event-random-sentience-flavor-corgi = коргі
 station-event-random-sentience-flavor-primate = примати
 station-event-random-sentience-flavor-kobold = кобольди
-station-event-random-sentience-flavor-slime = слайми
 station-event-random-sentience-flavor-inanimate = неживий

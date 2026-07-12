@@ -22,6 +22,9 @@ reagent-desc-ice-cream = Був вибір: це або мікрохвильов
 reagent-name-lemon-lime = Смайт
 reagent-desc-lemon-lime = Терпка лаймово-лимонна содова.
 
+reagent-name-lemon-lime-cranberry = Smite Cranberry
+reagent-desc-lemon-lime-cranberry = Tart cranberry, Christmas, and a hint of lemon and lime.
+
 reagent-name-pwr-game = PWR Game
 reagent-desc-pwr-game = Єдиний напій з PWR, якого прагнуть справжні геймери. Коли геймер говорить про геймерське паливо, він буквально має на увазі саме це.
 

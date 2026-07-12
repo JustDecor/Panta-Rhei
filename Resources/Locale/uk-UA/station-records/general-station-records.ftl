@@ -12,6 +12,8 @@ general-station-record-console-record-dna = ДНК: {$dna}
 
 general-station-record-for-filter-line-placeholder = Введіть текст і натисніть "Enter"
 general-station-record-name-filter = Ім'я Особи
+general-station-record-job-filter = Посада
+general-station-record-species-filter = Раса
 general-station-record-prints-filter = Відбитки Пальців
 general-station-record-dna-filter = ДНК
 general-station-record-console-search-records = Пошук

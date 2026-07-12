@@ -9,6 +9,7 @@ ion-storm-the-job = ПРОФЕСІЯ {$job}
 ion-storm-clowns = КЛОУНИ
 ion-storm-heads = КЕРІВНИКИ ПЕРСОНАЛУ
 ion-storm-crew = ЕКІПАЖ
+ion-storm-people = ЛЮДИ
 
 ion-storm-adjective-things = РЕЧІ {$adjective}
 ion-storm-x-and-y = {$x} І {$y}

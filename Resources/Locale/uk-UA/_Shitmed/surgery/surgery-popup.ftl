@@ -35,6 +35,7 @@ surgery-popup-step-SurgeryStepRemoveItem = {$user} видаляє щось із 
 surgery-popup-step-SurgeryStepRemoveOrgan = {$user} видаляє орган із {$part} у {$target}!
 surgery-popup-step-SurgeryStepInsertOrgan = {$user} вставляє орган у {$part} у {$target}!
 
+surgery-popup-step-SurgeryStepOpenOrganSlot = {$user} розкриває порожнину в {$target} ({$part})!
 surgery-popup-procedure-SurgeryRemoveBrain-step-SurgeryStepRemoveOrgan = {$user} видаляє мозок з {$part} у {$target}!
 surgery-popup-procedure-SurgeryRemoveHeart-step-SurgeryStepRemoveOrgan = {$user} видаляє серце з {$part} у {$target}!
 surgery-popup-procedure-SurgeryRemoveLiver-step-SurgeryStepRemoveOrgan = {$user} видаляє печінку з {$part} у {$target}!
