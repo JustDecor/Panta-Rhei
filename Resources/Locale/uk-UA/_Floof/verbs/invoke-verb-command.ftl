@@ -1,2 +1,3 @@
-invoke-verb-command-no-perms = Must be admin to invoke verbs as UID other than "self".
-list-verbs-command-no-perms = Must be admin to list verbs as UID other than "self".
+invoke-verb-command-no-perms = Має бути адміністратором, щоби викликати дієслова для UID, відмінного від "self".
+
+list-verbs-command-no-perms = Має бути адміністратором, щоби перелічувати дієслова для UID, відмінного від "self".

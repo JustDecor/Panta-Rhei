@@ -1,6 +1,9 @@
 # Species Names
 
 species-name-resomi = Resomi
-species-name-shadowkin = Shadekin
-species-name-shadekin = Shadekin
-species-name-arachne = Arachne
+
+species-name-shadowkin = Тіньовик
+
+species-name-shadekin = Шейдкін
+
+species-name-arachne = Арахна

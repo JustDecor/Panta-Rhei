@@ -1,30 +1,59 @@
-marking-ZetaHairLongSpikehair = Довге шипасте волосся
-marking-ZetaHairNerfish = Нерфіш
-marking-ZetaHairPlantpoofs = Рослинні пухнасті пучки
-marking-ZetaHairQuadspike = Чотири шипи
-marking-ZetaHairRattyRoyalty = Королівська неохайність
-marking-ZetaHairShortMessy = Коротке й розпатлане
-marking-ZetaHairShortSpikehair = Коротке шипасте волосся
-marking-ZetaHairSpikehawk = Шипастий ірокез
-marking-ZetaHairPolitical = «Політичне»
-marking-ZetaHairZetaBasicBraids = Базові коси (Зета)
-marking-ZetaHairJohnny = «Джонні»
-marking-ZetaHairMattedSpikes = Зваляні шипи
-marking-ZetaHairManageableMess = Керований хаос
-marking-ZetaHairPoofed = Пухке
+marking-ZetaHairLongSpikehair = Довге Шипасте Волосся
+
+marking-ZetaHairNerfish = Нерфоподібне
+
+marking-ZetaHairPlantpoofs = Рослинні Пучки
+
+marking-ZetaHairQuadspike = Чотири Шипи
+
+marking-ZetaHairRattyRoyalty = Щуряча Королівськість
+
+marking-ZetaHairShortMessy = Коротке та Безладне
+
+marking-ZetaHairShortSpikehair = Коротке Шипасте Волосся
+
+marking-ZetaHairSpikehawk = Шипастий Ірокез
+
+marking-ZetaHairPolitical = Політичне
+
+marking-ZetaHairZetaBasicBraids = Звичайні Коси (Зета)
+
+marking-ZetaHairJohnny = Джонні
+
+marking-ZetaHairMattedSpikes = Зваляні Шипи
+
+marking-ZetaHairManageableMess = Керований Безлад
+
+marking-ZetaHairPoofed = Напушене
+
 marking-ZetaHairOverShoulderBraids = Коси через плече
-marking-ZetaHairMonk = Чернець
-marking-ZetaHairMiniMattedSpikes = Міні-зваляні шипи
-marking-ZetaHairNaturalMessShort = Природний безлад (короткий)
-marking-ZetaHairNaturalMessLong = Природний безлад (довгий)
-marking-ZetaHairFrontSpikes = Передні шипи
-marking-ZetaHairMessyPonytail = Розпатланий хвіст
-marking-ZetaHairFaded = Вицвіле
-marking-ZetaHairHalfsies = Половинчасте
+
+marking-ZetaHairMonk = Монах
+
+marking-ZetaHairMiniMattedSpikes = Міні Зваляні Шипи
+
+marking-ZetaHairNaturalMessShort = Природний Безлад (Короткий)
+
+marking-ZetaHairNaturalMessLong = Природний Безлад (Довгий)
+
+marking-ZetaHairFrontSpikes = Передні Шипи
+
+marking-ZetaHairMessyPonytail = Безладний Хвостик
+
+marking-ZetaHairFaded = Знебарвлене
+
+marking-ZetaHairHalfsies = Навпіл
+
 marking-ZetaHairPorcupine = Дикобраз
-marking-ZetaHairHalfShavedBraids = Коси з напіввиголеним боком
-marking-ZetaHairLoneTail = Самотній хвіст
-marking-ZetaHairRadical = Радикальне!
-marking-ZetaHairTunnelSnake = Тунельна змія
+
+marking-ZetaHairHalfShavedBraids = Напіввиголені Коси
+
+marking-ZetaHairLoneTail = Самотній Хвіст
+
+marking-ZetaHairRadical = Радикально!
+
+marking-ZetaHairTunnelSnake = Тунельна Змія
+
 marking-ZetaHairOverTheShoulder = Через плече
-marking-ZetaHairStandardAsymmetry = Стандартна асиметрія
+
+marking-ZetaHairStandardAsymmetry = Стандартна Асиметрія

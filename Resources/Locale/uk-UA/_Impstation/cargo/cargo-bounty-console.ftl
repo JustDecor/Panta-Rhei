@@ -1,6 +1,9 @@
 bounty-console-claim-button-text = Забрати
+
 bounty-console-claimed-by-none = Ніхто
+
 bounty-console-claimed-by-unknown = Невідомо
+
 bounty-console-claimed-by = Забрано: {$claimant}
 
 bounty-console-status-label = Статус: {$status ->

@@ -1,26 +1,35 @@
-#marking-PointyEarsStandard-pointy_ears_standard = Standard Ears
-#marking-PointyEarsStandard = Standard Ears
+marking-PointyEarsStandard-pointy_ears_standard = Стандартні вуха
 
-#marking-PointyEarsWide-pointy_ears_wide = Wide Ears
-#marking-PointyEarsWide = Wide Ears
+marking-PointyEarsStandard = Стандартні вуха
 
-#marking-PointyEarsSmall-pointy_ears_small = Small Ears
-#marking-PointyEarsSmall = Small Ears
+marking-PointyEarsWide-pointy_ears_wide = Широкі вуха
 
-#marking-PointyEarsUpwards-pointy_ears_upwards = Upward Ears
-#marking-PointyEarsUpwards = Upward Ears
+marking-PointyEarsWide = Широкі вуха
 
-#marking-PointyEarsTall-pointy_ears_tall = Tall Ears
-#marking-PointyEarsTall = Tall Ears
+marking-PointyEarsSmall-pointy_ears_small = Маленькі вуха
 
-#marking-PointyEarsSlanted-pointy_ears_slanted = Slanted Ears
-#marking-PointyEarsSlanted = Slanted Ears
+marking-PointyEarsSmall = Маленькі вуха
 
-#marking-PointyEarsThin-pointy_ears_thin = Thin Ears
-#marking-PointyEarsThin = Thin Ears
+marking-PointyEarsUpwards-pointy_ears_upwards = Вуха догори
 
-#marking-PointyEarsLarge-pointy_ears_large = Large Ears
-#marking-PointyEarsLarge = Large Ears
+marking-PointyEarsUpwards = Вуха догори
 
-#marking-PointyEarsNone-pointy_ears_none = No Ears
-#marking-PointyEarsNone = No Ears
+marking-PointyEarsTall-pointy_ears_tall = Високі вуха
+
+marking-PointyEarsTall = Високі вуха
+
+marking-PointyEarsSlanted-pointy_ears_slanted = Похилі вуха
+
+marking-PointyEarsSlanted = Похилі вуха
+
+marking-PointyEarsThin-pointy_ears_thin = Тонкі вуха
+
+marking-PointyEarsThin = Тонкі вуха
+
+marking-PointyEarsLarge-pointy_ears_large = Великі вуха
+
+marking-PointyEarsLarge = Великі вуха
+
+marking-PointyEarsNone-pointy_ears_none = Без вух
+
+marking-PointyEarsNone = Без вух

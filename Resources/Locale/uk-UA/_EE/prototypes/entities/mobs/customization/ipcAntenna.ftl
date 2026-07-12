@@ -1,17 +1,33 @@
-marking-RobotAntennaTv = Tv
+marking-RobotAntennaTv = Телевізор
+
 marking-RobotAntennaTv-ipc_antenna_tv = TV
-marking-RobotAntennaTesla = Tesla
+
+marking-RobotAntennaTesla = Тесла
+
 marking-RobotAntennaTesla-ipc_antenna_tesla = Tesla
-marking-RobotAntennaLightb = Light (alt)
-marking-RobotAntennaLight = Light
-marking-RobotAntennaCyberhead = Cyberhead
+
+marking-RobotAntennaLightb = Світло (альтернативне)
+
+marking-RobotAntennaLight = Світло
+
+marking-RobotAntennaCyberhead = Кіберголова
+
 marking-RobotAntennaCyberhead-ipc_antenna_cyberhead = Cyberhead
-marking-RobotAntennaSidelights = Sidelights
-marking-RobotAntennaAntlers = Antlers
+
+marking-RobotAntennaSidelights = Бічні вогні
+
+marking-RobotAntennaAntlers = Роги
+
 marking-RobotAntennaAntlers-ipc_antenna_antlers = Antlers
-marking-RobotAntennaDroneeyes = Drone Eyes
+
+marking-RobotAntennaDroneeyes = Очі дрона
+
 marking-RobotAntennaDroneeyes-ipc_antenna_droneeyes = Drone Eyes
-marking-RobotAntennaCrowned = Crowned
+
+marking-RobotAntennaCrowned = Коронований
+
 marking-RobotAntennaCrowned-ipc_antenna_crowned = Crown
-marking-RobotAntennaTowers = Towers
+
+marking-RobotAntennaTowers = Вежі
+
 marking-RobotAntennaTowers-ipc_antenna_towers = Towers

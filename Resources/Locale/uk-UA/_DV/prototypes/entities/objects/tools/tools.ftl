@@ -1,2 +1,3 @@
-ent-RCDRecharging = experimental RCD
-  .desc = A rapid construction device which creates compressed matter on the fly using an internal fabricator.
+ent-RCDRecharging = експериментальний RCD
+    .desc = Покращений блюспейсом пристрій швидкого будівництва, який пасивно генерує власну стислу матерію.
+    .suffix = Автозарядка

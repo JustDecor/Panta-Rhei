@@ -1,76 +1,151 @@
 names-thaven-dataset-1 = Чесність
+
 names-thaven-dataset-2 = Будь Милосердним
+
 names-thaven-dataset-3 = Дякуй Своїм Предкам
+
 names-thaven-dataset-4 = Покора
+
 names-thaven-dataset-5 = Досліджуй Писання
+
 names-thaven-dataset-6 = Пізнавай Багато Речей
+
 names-thaven-dataset-7 = Прославляй Богів
+
 names-thaven-dataset-8 = Страх Перед Богами
+
 names-thaven-dataset-9 = Радість У Скорботі
+
 names-thaven-dataset-10 = Помри Гідно
+
 names-thaven-dataset-11 = Мандруй Усюди
+
 names-thaven-dataset-12 = Оплакуй Полеглих
+
 names-thaven-dataset-13 = Доведи Свою Гідність
+
 names-thaven-dataset-14 = Бажання
+
 names-thaven-dataset-15 = Милосердя
+
 names-thaven-dataset-16 = Віра
+
 names-thaven-dataset-17 = Гармонія
+
 names-thaven-dataset-18 = Скромність
+
 names-thaven-dataset-19 = Шануй Свою Родину
+
 names-thaven-dataset-20 = Терплячий, Як Мертві
+
 names-thaven-dataset-21 = Загартуй Своє Серце І Душу
+
 names-thaven-dataset-22 = Кажи Лише Правду
+
 names-thaven-dataset-23 = Тебе Люблять
+
 names-thaven-dataset-24 = Ти Проклятий
+
 names-thaven-dataset-25 = Допомагай Праведним
+
 names-thaven-dataset-26 = Будь Чемним
+
 names-thaven-dataset-27 = Твори Мир
+
 names-thaven-dataset-28 = Бійся Богів
+
 names-thaven-dataset-29 = Зречися Алкоголю
+
 names-thaven-dataset-30 = Борись Із Злом За Будь-Яку Ціну
+
 names-thaven-dataset-31 = Уникай Негідних
+
 names-thaven-dataset-32 = Здобувай Мудрість Через Досвід
+
 names-thaven-dataset-33 = Живи Добре Й Помри Молодим
+
 names-thaven-dataset-34 = Зустрічай Випробування Гідно
+
 names-thaven-dataset-35 = Прощай Гідних Злочинців
+
 names-thaven-dataset-36 = Знаходь Цінність У Всіх Речах
+
 names-thaven-dataset-37 = Не Дай Гріху Перемогти
+
 names-thaven-dataset-38 = Стій Непохитно Проти Зла
+
 names-thaven-dataset-39 = Чини За Волею Богів
+
 names-thaven-dataset-40 = Завзяття Землі
+
 names-thaven-dataset-41 = Будь Чемним До Інших
+
 names-thaven-dataset-42 = Турботливість
+
 names-thaven-dataset-43 = Дисципліна
+
 names-thaven-dataset-44 = Чини Добре Своїм Сусідам
+
 names-thaven-dataset-45 = Виконуй Своє Призначення
+
 names-thaven-dataset-46 = Добрі Речі Прийдуть
+
 names-thaven-dataset-47 = Звеличуй Несправедливість
+
 names-thaven-dataset-48 = Законність Передусім
+
 names-thaven-dataset-49 = Пожалій Менш Щасливих
+
 names-thaven-dataset-50 = Спокутуй Свої Минулі Помилки
+
 names-thaven-dataset-51 = Радій
+
 names-thaven-dataset-52 = Покайтеся, Всі Грішники
+
 names-thaven-dataset-53 = Повернися До Своєї Батьківщини
+
 names-thaven-dataset-54 = Визволення
+
 names-thaven-dataset-55 = Побач Істину
+
 names-thaven-dataset-56 = Пий Досхочу Й Спускайся
+
 names-thaven-dataset-57 = Роби Все Якнайкраще
+
 names-thaven-dataset-58 = Живи Цей День, Наче Він Останній
+
 names-thaven-dataset-59 = Пристосовуваність
+
 names-thaven-dataset-60 = Витривалість
+
 names-thaven-dataset-61 = Негативність
+
 names-thaven-dataset-62 = Уважність
+
 names-thaven-dataset-63 = Чепурність
+
 names-thaven-dataset-64 = Один Перед Усіма
+
 names-thaven-dataset-65 = Призначення
+
 names-thaven-dataset-66 = Простота
+
 names-thaven-dataset-67 = Мінімалізм
+
 names-thaven-dataset-68 = Прозелітизм
+
 names-thaven-dataset-69 = Конформізм
+
 names-thaven-dataset-70 = Небезпеки Гедонізму
+
 names-thaven-dataset-71 = Воля
+
 names-thaven-dataset-72 = Рішучість
+
 names-thaven-dataset-73 = Провидіння
+
 names-thaven-dataset-74 = Праведність
+
 names-thaven-dataset-75 = Мудрість
+
 names-thaven-dataset-76 = Хитрість

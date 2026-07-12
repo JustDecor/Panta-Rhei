@@ -1,143 +1,225 @@
-marking-FeroxiEars = Feroxi Ears
-marking-FeroxiEars-feroxi-ears = Base Ears
-marking-FeroxiEars-feroxi-ears-inner = Inner Ear
+marking-FeroxiEars = Вуха
 
-marking-FeroxiTailAndDorsal = Feroxi Tail and Dorsal
-marking-FeroxiTailAndDorsal-feroxi-tail = Base Tail
-marking-FeroxiTailAndDorsal-feroxi-dorsal = Base Dorsal
+marking-FeroxiEars-feroxi-ears = Базові вуха
 
-marking-FeroxiSnout = Feroxi Snout
-marking-FeroxiSnout-feroxi-snout = Base Snout
+marking-FeroxiEars-feroxi-ears-inner = Внутрішня частина вуха
 
-marking-FeroxiHeadStripesTiger = Feroxi Tiger Stripes
-marking-FeroxiHeadStripesTiger-feroxi-head-stripes-tiger = Stripes
+marking-FeroxiTailAndDorsal = Хвіст і спинний плавець
 
-marking-FeroxiEarsTips = Feroxi Tipped Ears
-marking-FeroxiEarsTips-feroxi-ears = Base Ears
-marking-FeroxiEarsTips-feroxi-ears-inner = Inner Ear
-marking-FeroxiEarsTips-feroxi-ears-tips = Ear Tips
+marking-FeroxiTailAndDorsal-feroxi-tail = Базовий хвіст
 
-marking-FeroxiSnoutStripe = Feroxi Striped Snout
-marking-FeroxiSnoutStripe-feroxi-snout = Base Snout
-marking-FeroxiSnoutStripe-feroxi-snout-stripe = Stripe
+marking-FeroxiTailAndDorsal-feroxi-dorsal = Базовий спинний плавник
 
-marking-FeroxiSnoutCountershading = Feroxi Countershaded Snout
-marking-FeroxiSnoutCountershading-feroxi-snout = Base Snout
-marking-FeroxiSnoutCountershading-feroxi-snout-Countershading = Countershading
+marking-FeroxiSnout = Морда
 
-marking-FeroxiSnoutCountershadingStripe = Feroxi Striped and Countershaded Snout with
-marking-FeroxiSnoutCountershadingStripe-feroxi-snout = Base Snout
-marking-FeroxiSnoutCountershadingStripe-feroxi-snout-countershading = Countershading
-marking-FeroxiSnoutCountershadingStripe-feroxi-snout-stripe = Stripe
+marking-FeroxiSnout-feroxi-snout = Базова морда
 
-marking-FeroxiSnoutNurse = Feroxi Nurse Snout
-marking-FeroxiSnoutNurse-feroxi-snout = Base Snout
-marking-FeroxiSnoutNurse-feroxi-snout-nurse = Barbels
+marking-FeroxiHeadStripesTiger = Тигрові смуги
 
-marking-FeroxiSnoutNurseCountershading = Feroxi Countershaded Nurse Snout
-marking-FeroxiSnoutNurseCountershading-feroxi-snout = Base Snout
-marking-FeroxiSnoutNurseCountershading-feroxi-snout-countershading = Countershading
-marking-FeroxiSnoutNurseCountershading-feroxi-snout-nurse = Barbels
+marking-FeroxiHeadStripesTiger-feroxi-head-stripes-tiger = Смуги
 
-marking-FeroxiTailBlitz = Feroxi Striped Tail with Fin Tips and Dorsal
-marking-FeroxiTailBlitz-feroxi-tail = Base Tail
-marking-FeroxiTailBlitz-feroxi-tail-stripes = Tail Stripes
-marking-FeroxiTailBlitz-feroxi-tail-top-tip = Upper Tail Fin Tip
-marking-FeroxiTailBlitz-feroxi-tail-bottom-tip = Lower Tail Fin Tip
-marking-FeroxiTailBlitz-feroxi-tail-under = Under Tail
-marking-FeroxiTailBlitz-feroxi-dorsal = Base Dorsal
-marking-FeroxiTailBlitz-feroxi-dorsal-stripes = Dorsal Stripes
+marking-FeroxiEarsTips = Вуха з пофарбованими кінчиками
 
-marking-FeroxiTailBlitzNoDorsal = Feroxi Striped Tail with Fin Tips
-marking-FeroxiTailBlitzNoDorsal-feroxi-tail = Base Tail
-marking-FeroxiTailBlitzNoDorsal-feroxi-tail-stripes = Tail Stripes
-marking-FeroxiTailBlitzNoDorsal-feroxi-tail-top-tip = Upper Tail Fin Tip
-marking-FeroxiTailBlitzNoDorsal-feroxi-tail-bottom-tip = Lower Tail Fin Tip
-marking-FeroxiTailBlitzNoDorsal-feroxi-tail-under = Under Tail
+marking-FeroxiEarsTips-feroxi-ears = Базові вуха
 
-marking-FeroxiStripedTail = Feroxi Striped Tail
-marking-FeroxiStripedTail-feroxi-tail = Base Tail
-marking-FeroxiStripedTail-feroxi-tail-stripes = Tail Stripes
+marking-FeroxiEarsTips-feroxi-ears-inner = Внутрішня частина вуха
 
-marking-FeroxiStripedTailAndDorsal = Feroxi Striped Tail with Dorsal
-marking-FeroxiStripedTailAndDorsal-feroxi-tail = Base Tail
-marking-FeroxiStripedTailAndDorsal-feroxi-tail-stripes = Tail Stripes
-marking-FeroxiStripedTailAndDorsal-feroxi-dorsal = Base Dorsal
-marking-FeroxiStripedTailAndDorsal-feroxi-dorsal-stripes = Dorsal Stripes
+marking-FeroxiEarsTips-feroxi-ears-tips = Кінчики вух
 
-marking-FeroxiTail = Feroxi Tail
-marking-FeroxiTail-feroxi-tail = Base Tail
+marking-FeroxiSnoutStripe = Смугаста морда
 
-marking-FeroxiTipTail = Feroxi Tail with Tips
-marking-FeroxiTipTail-feroxi-tail = Base Tail
-marking-FeroxiTipTail-feroxi-tail-top-tip = Upper Tail Fin Tip
-marking-FeroxiTipTail-feroxi-tail-bottom-tip = Lower Tail Fin Tip
-marking-FeroxiTipTail-feroxi-second-dorsal-tip = Secondary Dorsal Fin Tip
-marking-FeroxiTipTail-feroxi-dorsal = Base Dorsal
+marking-FeroxiSnoutStripe-feroxi-snout = Базова морда
 
-marking-FeroxiTipTailAndDorsal = Feroxi Tail with Tips and Dorsal
-marking-FeroxiTipTailAndDorsal-feroxi-tail = Base Tail
-marking-FeroxiTipTailAndDorsal-feroxi-tail-top-tip = Upper Tail Fin Tip
-marking-FeroxiTipTailAndDorsal-feroxi-tail-bottom-tip = Lower Tail Fin Tip
-marking-FeroxiTipTailAndDorsal-feroxi-second-dorsal-tip = Secondary Dorsal Fin Tip
-marking-FeroxiTipTailAndDorsal-feroxi-dorsal = Base Dorsal
-marking-FeroxiTipTailAndDorsal-feroxi-dorsal-tip = Dorsal Tip
+marking-FeroxiSnoutStripe-feroxi-snout-stripe = Смуга
 
-marking-FeroxiTwoToneTail = Feroxi Two Tone Tail
-marking-FeroxiTwoToneTail-feroxi-tail = Base Tail
-marking-FeroxiTwoToneTail-feroxi-tail-under = Under Tail
+marking-FeroxiSnoutCountershading = Морда з контрзатіненням
 
-marking-FeroxiTwoToneTailAndDorsal = Feroxi Two Tone Tail and Dorsal
-marking-FeroxiTwoToneTailAndDorsal-feroxi-tail = Base Tail
-marking-FeroxiTwoToneTailAndDorsal-feroxi-tail-under = Under Tail
-marking-FeroxiTwoToneTailAndDorsal-feroxi-dorsal = Base Dorsal
+marking-FeroxiSnoutCountershading-feroxi-snout = Базова морда
 
-marking-FeroxiStripeTwoToneTail = Feroxi Two Tone Tail with Stripes
-marking-FeroxiStripeTwoToneTail-feroxi-tail = Base Tail
-marking-FeroxiStripeTwoToneTail-feroxi-tail-stripes = Tail Stripes
-marking-FeroxiStripeTwoToneTail-feroxi-tail-under = Under Tail
+marking-FeroxiSnoutCountershading-feroxi-snout-Countershading = Контрзатінення
 
-marking-FeroxiStripeTwoToneTailAndDorsal = Feroxi Two Tone Tail with Stripes and Dorsal
-marking-FeroxiStripeTwoToneTailAndDorsal-feroxi-tail = Base Tail
-marking-FeroxiStripeTwoToneTailAndDorsal-feroxi-tail-stripes = Tail Stripes
-marking-FeroxiStripeTwoToneTailAndDorsal-feroxi-tail-under = Under Tail
-marking-FeroxiStripeTwoToneTailAndDorsal-feroxi-dorsal = Base Dorsal
-marking-FeroxiStripeTwoToneTailAndDorsal-feroxi-dorsal-stripes = Dorsal Stripes
+marking-FeroxiSnoutCountershadingStripe = Смугаста морда з контрзатіненням
 
-marking-FeroxiTipTwoToneTail = Feroxi Two Tone Tail with Tips
-marking-FeroxiTipTwoToneTail-feroxi-tail = Base Tail
-marking-FeroxiTipTwoToneTail-feroxi-tail-top-tip = Upper Tail Fin Tip
-marking-FeroxiTipTwoToneTail-feroxi-tail-bottom-tip = Lower Tail Fin Tip
-marking-FeroxiTipTwoToneTail-feroxi-tail-under = Under Tail
+marking-FeroxiSnoutCountershadingStripe-feroxi-snout = Базова морда
 
-marking-FeroxiTipTwoToneTailAndDorsal = Feroxi Two Tone Tail with Tips and Dorsal
-marking-FeroxiTipTwoToneTailAndDorsal-feroxi-tail = Base Tail
-marking-FeroxiTipTwoToneTailAndDorsal-feroxi-tail-top-tip = Upper Tail Fin Tip
-marking-FeroxiTipTwoToneTailAndDorsal-feroxi-tail-bottom-tip = Lower Tail Fin Tip
-marking-FeroxiTipTwoToneTailAndDorsal-feroxi-tail-under = Under Tail
-marking-FeroxiTipTwoToneTailAndDorsal-feroxi-dorsal = Base Dorsal
-marking-FeroxiTipTwoToneTailAndDorsal-feroxi-dorsal-tip = Dorsal Tip
+marking-FeroxiSnoutCountershadingStripe-feroxi-snout-countershading = Контрзатінення
 
-marking-FeroxiTorsoStripesBlitz = Small Under Arm Stripes
-marking-FeroxiTorsoStripesBlitz-feroxi-torso-stripes-blitz = Stripes
+marking-FeroxiSnoutCountershadingStripe-feroxi-snout-stripe = Смуга
 
-marking-FeroxiTorsoStripesTiger = Full Stripes
-marking-FeroxiTorsoStripesTiger-feroxi-torso-stripes-tiger = Stripes
+marking-FeroxiSnoutNurse = Морда медсестри
 
-marking-FeroxiTorsoCountershadingF = Countershading (Feminine)
-marking-FeroxiTorsoCountershadingF-feroxi-torso-countershading-f = Countershading
+marking-FeroxiSnoutNurse-feroxi-snout = Базова морда
 
-marking-FeroxiTorsoCountershadingM = Countershading (Masculine)
-marking-FeroxiTorsoCountershadingM-feroxi-torso-countershading-m = Countershading
+marking-FeroxiSnoutNurse-feroxi-snout-nurse = Вусики
+
+marking-FeroxiSnoutNurseCountershading = Морда медсестри з контрзатіненням
+
+marking-FeroxiSnoutNurseCountershading-feroxi-snout = Базова морда
+
+marking-FeroxiSnoutNurseCountershading-feroxi-snout-countershading = Контрзатінення
+
+marking-FeroxiSnoutNurseCountershading-feroxi-snout-nurse = Вусики
+
+marking-FeroxiTailBlitz = Смугастий хвіст із кінчиками плавця та спинним плавцем
+
+marking-FeroxiTailBlitz-feroxi-tail = Базовий хвіст
+
+marking-FeroxiTailBlitz-feroxi-tail-stripes = Смуги на хвості
+
+marking-FeroxiTailBlitz-feroxi-tail-top-tip = Верхній кінчик хвостового плавця
+
+marking-FeroxiTailBlitz-feroxi-tail-bottom-tip = Нижній кінчик хвостового плавця
+
+marking-FeroxiTailBlitz-feroxi-tail-under = Нижня частина хвоста
+
+marking-FeroxiTailBlitz-feroxi-dorsal = Базовий спинний плавець
+
+marking-FeroxiTailBlitz-feroxi-dorsal-stripes = Смуги на спинному плавці
+
+marking-FeroxiTailBlitzNoDorsal = Смугастий хвіст із кінчиками плавця
+
+marking-FeroxiTailBlitzNoDorsal-feroxi-tail = Базовий хвіст
+
+marking-FeroxiTailBlitzNoDorsal-feroxi-tail-stripes = Смуги на хвості
+
+marking-FeroxiTailBlitzNoDorsal-feroxi-tail-top-tip = Верхній кінчик хвостового плавця
+
+marking-FeroxiTailBlitzNoDorsal-feroxi-tail-bottom-tip = Нижній кінчик хвостового плавця
+
+marking-FeroxiTailBlitzNoDorsal-feroxi-tail-under = Нижня частина хвоста
+
+marking-FeroxiStripedTail = Смугастий хвіст
+
+marking-FeroxiStripedTail-feroxi-tail = Базовий хвіст
+
+marking-FeroxiStripedTail-feroxi-tail-stripes = Смуги на хвості
+
+marking-FeroxiStripedTailAndDorsal = Смугастий хвіст зі спинним плавцем
+
+marking-FeroxiStripedTailAndDorsal-feroxi-tail = Базовий хвіст
+
+marking-FeroxiStripedTailAndDorsal-feroxi-tail-stripes = Смуги на хвості
+
+marking-FeroxiStripedTailAndDorsal-feroxi-dorsal = Базовий спинний плавець
+
+marking-FeroxiStripedTailAndDorsal-feroxi-dorsal-stripes = Смуги на спинному плавці
+
+marking-FeroxiTail = Хвіст
+
+marking-FeroxiTail-feroxi-tail = Базовий хвіст
+
+marking-FeroxiTipTail = Хвіст з кінчиками
+
+marking-FeroxiTipTail-feroxi-tail = Базовий хвіст
+
+marking-FeroxiTipTail-feroxi-tail-top-tip = Верхній кінчик хвостового плавця
+
+marking-FeroxiTipTail-feroxi-tail-bottom-tip = Нижній кінчик хвостового плавця
+
+marking-FeroxiTipTail-feroxi-second-dorsal-tip = Другий кінчик спинного плавця
+
+marking-FeroxiTipTail-feroxi-dorsal = Базовий спинний плавець
+
+marking-FeroxiTipTailAndDorsal = Хвіст з кінчиками та спинним плавцем
+
+marking-FeroxiTipTailAndDorsal-feroxi-tail = Базовий хвіст
+
+marking-FeroxiTipTailAndDorsal-feroxi-tail-top-tip = Верхній кінчик хвостового плавця
+
+marking-FeroxiTipTailAndDorsal-feroxi-tail-bottom-tip = Нижній кінчик хвостового плавця
+
+marking-FeroxiTipTailAndDorsal-feroxi-second-dorsal-tip = Другий кінчик спинного плавця
+
+marking-FeroxiTipTailAndDorsal-feroxi-dorsal = Базовий спинний плавець
+
+marking-FeroxiTipTailAndDorsal-feroxi-dorsal-tip = Кінчик спинного плавця
+
+marking-FeroxiTwoToneTail = Двокольоровий хвіст
+
+marking-FeroxiTwoToneTail-feroxi-tail = Базовий хвіст
+
+marking-FeroxiTwoToneTail-feroxi-tail-under = Нижня частина хвоста
+
+marking-FeroxiTwoToneTailAndDorsal = Двокольоровий хвіст і спинний плавець
+
+marking-FeroxiTwoToneTailAndDorsal-feroxi-tail = Базовий хвіст
+
+marking-FeroxiTwoToneTailAndDorsal-feroxi-tail-under = Нижня частина хвоста
+
+marking-FeroxiTwoToneTailAndDorsal-feroxi-dorsal = Базовий спинний плавець
+
+marking-FeroxiStripeTwoToneTail = Двокольоровий хвіст зі смугами
+
+marking-FeroxiStripeTwoToneTail-feroxi-tail = Базовий хвіст
+
+marking-FeroxiStripeTwoToneTail-feroxi-tail-stripes = Смуги на хвості
+
+marking-FeroxiStripeTwoToneTail-feroxi-tail-under = Нижня частина хвоста
+
+marking-FeroxiStripeTwoToneTailAndDorsal = Двокольоровий хвіст зі смугами та спинним плавцем
+
+marking-FeroxiStripeTwoToneTailAndDorsal-feroxi-tail = Базовий хвіст
+
+marking-FeroxiStripeTwoToneTailAndDorsal-feroxi-tail-stripes = Смуги на хвості
+
+marking-FeroxiStripeTwoToneTailAndDorsal-feroxi-tail-under = Нижня частина хвоста
+
+marking-FeroxiStripeTwoToneTailAndDorsal-feroxi-dorsal = Базовий спинний плавець
+
+marking-FeroxiStripeTwoToneTailAndDorsal-feroxi-dorsal-stripes = Смуги на спинному плавці
+
+marking-FeroxiTipTwoToneTail = Двокольоровий хвіст із кінчиками
+
+marking-FeroxiTipTwoToneTail-feroxi-tail = Базовий хвіст
+
+marking-FeroxiTipTwoToneTail-feroxi-tail-top-tip = Верхній кінчик хвостового плавця
+
+marking-FeroxiTipTwoToneTail-feroxi-tail-bottom-tip = Нижній кінчик хвостового плавця
+
+marking-FeroxiTipTwoToneTail-feroxi-tail-under = Нижня частина хвоста
+
+marking-FeroxiTipTwoToneTailAndDorsal = Двокольоровий хвіст із кінчиками та спинним плавцем
+
+marking-FeroxiTipTwoToneTailAndDorsal-feroxi-tail = Базовий хвіст
+
+marking-FeroxiTipTwoToneTailAndDorsal-feroxi-tail-top-tip = Верхній кінчик хвостового плавця
+
+marking-FeroxiTipTwoToneTailAndDorsal-feroxi-tail-bottom-tip = Нижній кінчик хвостового плавця
+
+marking-FeroxiTipTwoToneTailAndDorsal-feroxi-tail-under = Нижня частина хвоста
+
+marking-FeroxiTipTwoToneTailAndDorsal-feroxi-dorsal = Базовий спинний плавець
+
+marking-FeroxiTipTwoToneTailAndDorsal-feroxi-dorsal-tip = Кінчик спинного плавця
+
+marking-FeroxiTorsoStripesBlitz = Невеликі смуги під руками
+
+marking-FeroxiTorsoStripesBlitz-feroxi-torso-stripes-blitz = Смуги
+
+marking-FeroxiTorsoStripesTiger = Повні смуги
+
+marking-FeroxiTorsoStripesTiger-feroxi-torso-stripes-tiger = Смуги
+
+marking-FeroxiTorsoCountershadingF = Контрзатінення (жіноче)
+
+marking-FeroxiTorsoCountershadingF-feroxi-torso-countershading-f = Контрзатінення
+
+marking-FeroxiTorsoCountershadingM = Контрзатінення (чоловіче)
+
+marking-FeroxiTorsoCountershadingM-feroxi-torso-countershading-m = Контрзатінення
 
 marking-FeroxiLegStripesBlitz = Calf Stripes
-marking-FeroxiLegStripesBlitz-feroxi-leg-stripes-blitz = Stripes
+
+marking-FeroxiLegStripesBlitz-feroxi-leg-stripes-blitz = Смуги
 
 marking-FeroxiLegStripesTiger = Full Stripes
-marking-FeroxiLegStripesTiger-feroxi-leg-stripes-tiger = Stripes
+
+marking-FeroxiLegStripesTiger-feroxi-leg-stripes-tiger = Смуги
 
 marking-FeroxiArmStripesBlitz = Shoulder Stripes
-marking-FeroxiArmStripesBlitz-feroxi-arm-stripes-blitz = Stripes
+
+marking-FeroxiArmStripesBlitz-feroxi-arm-stripes-blitz = Смуги
 
 marking-FeroxiArmStripesTiger = Full Stripes
-marking-FeroxiArmStripesTiger-feroxi-arm-stripes-tiger = Stripes
+
+marking-FeroxiArmStripesTiger-feroxi-arm-stripes-tiger = Смуги

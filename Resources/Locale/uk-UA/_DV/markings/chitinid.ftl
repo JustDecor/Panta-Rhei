@@ -1,164 +1,217 @@
-marking-ChitinidAntennasDefault-default = Antennae
-marking-ChitinidAntennasDefault = Antennae (Default)
+marking-ChitinidAntennasDefault-default = Антени
 
-marking-ChitinidAntennasCurly-curly = Antennae
-marking-ChitinidAntennasCurly = Antennae (Curly)
+marking-ChitinidAntennasDefault = Антени (За замовчуванням)
 
-marking-ChitinidAntennasGray-gray = Antennae
-marking-ChitinidAntennasGray = Antennae (Gray)
+marking-ChitinidAntennasCurly-curly = Антени
 
-marking-ChitinidAntennasSlick-slick = Antennae
-marking-ChitinidAntennasSlick = Antennae (Slick)
+marking-ChitinidAntennasCurly = Антени (Кучеряві)
 
-marking-ChitinidAntennasShort-short = Antennae
-marking-ChitinidAntennasShort = Antennae (short)
+marking-ChitinidAntennasGray-gray = Антени
 
-marking-ChitinidAntennasLong-long = Antennae
-marking-ChitinidAntennasLong = Antennae (Long)
+marking-ChitinidAntennasGray = Антени (Сірі)
 
-marking-ChitinidAntennasBee-bee = Antennae
-marking-ChitinidAntennasBee = Antennae (Bee)
+marking-ChitinidAntennasSlick-slick = Антени
 
-marking-ChitinidAntennasFirefly-firefly_primary = Primary
-marking-ChitinidAntennasFirefly-firefly_secondary = Secondary
-marking-ChitinidAntennasFirefly = Antennae (Firefly)
+marking-ChitinidAntennasSlick = Антени (Гладкі)
 
-marking-ChitinidAntennasRadar-radar = Antennae
-marking-ChitinidAntennasRadar = Antennae (Radar)
+marking-ChitinidAntennasShort-short = Антени
 
-marking-ChitinidAntennasSpeed-speed = Antennae
-marking-ChitinidAntennasSpeed = Antennae (Speed)
+marking-ChitinidAntennasShort = Антени (Короткі)
 
+marking-ChitinidAntennasLong-long = Антени
 
+marking-ChitinidAntennasLong = Антени (Довгі)
 
-marking-ChitinidWingsDefault-default = Wing
-marking-ChitinidWingsDefault = Tail (Default)
+marking-ChitinidAntennasBee-bee = Антени
 
-marking-ChitinidWingsSmooth-smooth = Wing
-marking-ChitinidWingsSmooth = Tail (Smooth)
+marking-ChitinidAntennasBee = Антени (Бджолині)
 
-marking-ChitinidWingsHoneypot-honeypot_primary = Primary
-marking-ChitinidWingsHoneypot-honeypot_secondary = Secondary
-marking-ChitinidWingsHoneypot = Tail (Honeypot)
+marking-ChitinidAntennasFirefly-firefly_primary = Основний
 
-marking-ChitinidWingsStubby-stubby = Wing
-marking-ChitinidWingsStubby = Tail (Stubby)
+marking-ChitinidAntennasFirefly-firefly_secondary = Вторинний
 
-marking-ChitinidWingsBee-bee_primary = Primary
-marking-ChitinidWingsBee-bee_secondary = Secondary
-marking-ChitinidWingsBee = Tail (Bee)
+marking-ChitinidAntennasFirefly = Антени (Світлячок)
 
-marking-ChitinidWingsFirefly-firefly_primary = Primary
-marking-ChitinidWingsFirefly-firefly_secondary = Secondary
-marking-ChitinidWingsFirefly = Tail (Firefly)
+marking-ChitinidAntennasRadar-radar = Антени
+
+marking-ChitinidAntennasRadar = Антени (Радар)
+
+marking-ChitinidAntennasSpeed-speed = Антени
+
+marking-ChitinidAntennasSpeed = Антени (Швидкість)
 
 
 
-marking-ChitinidChestCharred-charred_chest = Chest
-marking-ChitinidChestCharred = Chitinid Chest (Charred)
+marking-ChitinidWingsDefault-default = Крило
 
-marking-ChitinidHeadCharred-charred_head = Head
-marking-ChitinidHeadCharred = Chitinid Head (Charred)
+marking-ChitinidWingsDefault = Крила (За замовчуванням)
 
-marking-ChitinidLLegCharred-charred_l_leg =  Left Leg
-marking-ChitinidLLegCharred = Chitinid Left Leg (Charred)
+marking-ChitinidWingsSmooth-smooth = Крило
 
-marking-ChitinidRLegCharred-charred_r_leg = Right Leg
-marking-ChitinidRLegCharred = Chitinid Right Leg (Charred)
+marking-ChitinidWingsSmooth = Крила (Гладкі)
 
-marking-ChitinidLArmCharred-charred_l_arm = Left Arm
-marking-ChitinidLArmCharred = Chitinid Left Arm (Charred)
+marking-ChitinidWingsHoneypot-honeypot_primary = Основний
 
-marking-ChitinidRArmCharred-charred_r_arm = Right Arm
-marking-ChitinidRArmCharred = Chitinid Right Arm (Charred)
+marking-ChitinidWingsHoneypot-honeypot_secondary = Вторинний
 
+marking-ChitinidWingsHoneypot = Крила (Горщик з медом)
 
+marking-ChitinidWingsStubby-stubby = Крило
 
-marking-ChitinidChestPlated-plated_chest = Chest
-marking-ChitinidChestPlated = Chitinid Chest (Plated)
+marking-ChitinidWingsStubby = Крила (Короткі)
 
-marking-ChitinidLArmPlated-plated_l_arm = Left Arm
-marking-ChitinidLArmPlated = Chitinid Left Arm (Plated)
+marking-ChitinidWingsBee-bee_primary = Основний
 
-marking-ChitinidRArmPlated-plated_r_arm = Right Arm
-marking-ChitinidRArmPlated = Chitinid Right Arm (Plated)
+marking-ChitinidWingsBee-bee_secondary = Вторинний
 
+marking-ChitinidWingsBee = Крила (Бджолині)
 
+marking-ChitinidWingsFirefly-firefly_primary = Основний
 
-marking-ChitinidChestStripes-stripes_chest = Chest
-marking-ChitinidChestStripes = Chitinid Chest (Stripes)
+marking-ChitinidWingsFirefly-firefly_secondary = Вторинний
 
-marking-ChitinidHeadStripes-stripes_head = Head
-marking-ChitinidHeadStripes = Chitinid Head (Stripes)
-
-marking-ChitinidLLegStripes-stripes_l_leg = Left Leg
-marking-ChitinidLLegStripes = Chitinid Left Leg (Stripes)
-
-marking-ChitinidRLegStripes-stripes_r_leg = Right Leg
-marking-ChitinidRLegStripes = Chitinid Right Leg (Stripes)
-
-marking-ChitinidLArmStripes-stripes_l_arm = Left Arm
-marking-ChitinidLArmStripes = Chitinid Left Arm (Stripes)
-
-marking-ChitinidRArmStripes-stripes_r_arm = Right Arm
-marking-ChitinidRArmStripes = Chitinid Right Arm (Stripes)
+marking-ChitinidWingsFirefly = Крила (Світлячок)
 
 
 
-marking-ChitinidChestRadiant-radiant_chest = Chest
-marking-ChitinidChestRadiant = Chitinid Chest (Radiant)
+marking-ChitinidChestCharred-charred_chest = Груди
 
-marking-ChitinidHeadRadiant-radiant_head = Head
-marking-ChitinidHeadRadiant = Chitinid Head (Radiant)
+marking-ChitinidChestCharred = Хітинові Груди (Обвуглені)
 
-marking-ChitinidLLegRadiant-radiant_l_leg = Left Leg
-marking-ChitinidLLegRadiant = Chitinid Left Leg (Radiant)
+marking-ChitinidHeadCharred-charred_head = Голова
 
-marking-ChitinidRLegRadiant-radiant_r_leg = Right Leg
-marking-ChitinidRLegRadiant = Chitinid Right Leg (Radiant)
+marking-ChitinidHeadCharred = Хітинова Голова (Обвуглена)
 
-marking-ChitinidLArmRadiant-radiant_l_arm = Left Arm
-marking-ChitinidLArmRadiant = Chitinid Left Arm (Radiant)
+marking-ChitinidLLegCharred-charred_l_leg = Ліва Нога
 
-marking-ChitinidRArmRadiant-radiant_r_arm = Right Arm
-marking-ChitinidRArmRadiant = Chitinid Right Arm (Radiant)
+marking-ChitinidLLegCharred = Хітинова Ліва Нога (Обвуглена)
 
+marking-ChitinidRLegCharred-charred_r_leg = Права Нога
 
+marking-ChitinidRLegCharred = Хітинова Права Нога (Обвуглена)
 
-marking-ChitinidChestToxic-toxic_chest = Chest
-marking-ChitinidChestToxic = Chitinid Chest (Toxic)
+marking-ChitinidLArmCharred-charred_l_arm = Ліва Рука
 
-marking-ChitinidHeadToxic-toxic_head = Head
-marking-ChitinidHeadToxic = Chitinid Head (Toxic)
+marking-ChitinidLArmCharred = Хітинова Ліва Рука (Обвуглена)
 
-marking-ChitinidLLegToxic-toxic_l_leg = Left Leg
-marking-ChitinidLLegToxic = Chitinid Left Leg (Toxic)
+marking-ChitinidRArmCharred-charred_r_arm = Права Рука
 
-marking-ChitinidRLegToxic-toxic_r_leg = Right Leg
-marking-ChitinidRLegToxic = Chitinid Right Leg (Toxic)
-
-marking-ChitinidLArmToxic-toxic_l_arm = Left Arm
-marking-ChitinidLArmToxic = Chitinid Left Arm (Toxic)
-
-marking-ChitinidRArmToxic-toxic_r_arm = Right Arm
-marking-ChitinidRArmToxic = Chitinid Right Arm (Toxic)
+marking-ChitinidRArmCharred = Хітинова Права Рука (Обвуглена)
 
 
 
-marking-ChitinidChestSpotted-spotted_chest = Chest
-marking-ChitinidChestSpotted = Chitinid Chest (Spotted)
+marking-ChitinidChestPlated-plated_chest = Груди
 
-marking-ChitinidHeadSpotted-spotted_head = Head
-marking-ChitinidHeadSpotted = Chitinid Head (Spotted)
+marking-ChitinidChestPlated = Хітинові Груди (Пластинчасті)
 
-marking-ChitinidLLegSpotted-spotted_l_leg = Left Leg
-marking-ChitinidLLegSpotted = Chitinid Left Leg (Spotted)
+marking-ChitinidLArmPlated-plated_l_arm = Ліва Рука
 
-marking-ChitinidRLegSpotted-spotted_r_leg = Right Leg
-marking-ChitinidRLegSpotted = Chitinid Right Leg (Spotted)
+marking-ChitinidLArmPlated = Хітинова Ліва Рука (Пластинчаста)
 
-marking-ChitinidLArmSpotted-spotted_l_arm = Left Arm
-marking-ChitinidLArmSpotted = Chitinid Left Arm (Spotted)
+marking-ChitinidRArmPlated-plated_r_arm = Права Рука
 
-marking-ChitinidRArmSpotted-spotted_r_arm = Right Arm
-marking-ChitinidRArmSpotted = Chitinid Right Arm (Spotted)
+marking-ChitinidRArmPlated = Хітинова Права Рука (Пластинчаста)
+
+
+
+marking-ChitinidChestStripes-stripes_chest = Груди
+
+marking-ChitinidChestStripes = Хітинові Груди (Смугасті)
+
+marking-ChitinidHeadStripes-stripes_head = Голова
+
+marking-ChitinidHeadStripes = Хітинова Голова (Смугаста)
+
+marking-ChitinidLLegStripes-stripes_l_leg = Ліва Нога
+
+marking-ChitinidLLegStripes = Хітинова Ліва Нога (Смугаста)
+
+marking-ChitinidRLegStripes-stripes_r_leg = Права Нога
+
+marking-ChitinidRLegStripes = Хітинова Права Нога (Смугаста)
+
+marking-ChitinidLArmStripes-stripes_l_arm = Ліва Рука
+
+marking-ChitinidLArmStripes = Хітинова Ліва Рука (Смугаста)
+
+marking-ChitinidRArmStripes-stripes_r_arm = Права Рука
+
+marking-ChitinidRArmStripes = Хітинова Права Рука (Смугаста)
+
+
+
+marking-ChitinidChestRadiant-radiant_chest = Груди
+
+marking-ChitinidChestRadiant = Хітинові Груди (Сяючі)
+
+marking-ChitinidHeadRadiant-radiant_head = Голова
+
+marking-ChitinidHeadRadiant = Хітинова Голова (Сяюча)
+
+marking-ChitinidLLegRadiant-radiant_l_leg = Ліва Нога
+
+marking-ChitinidLLegRadiant = Хітинова Ліва Нога (Сяюча)
+
+marking-ChitinidRLegRadiant-radiant_r_leg = Права Нога
+
+marking-ChitinidRLegRadiant = Хітинова Права Нога (Сяюча)
+
+marking-ChitinidLArmRadiant-radiant_l_arm = Ліва Рука
+
+marking-ChitinidLArmRadiant = Хітинова Ліва Рука (Сяюча)
+
+marking-ChitinidRArmRadiant-radiant_r_arm = Права Рука
+
+marking-ChitinidRArmRadiant = Хітинова Права Рука (Сяюча)
+
+
+
+marking-ChitinidChestToxic-toxic_chest = Груди
+
+marking-ChitinidChestToxic = Хітинові Груди (Токсичні)
+
+marking-ChitinidHeadToxic-toxic_head = Голова
+
+marking-ChitinidHeadToxic = Хітинова Голова (Токсична)
+
+marking-ChitinidLLegToxic-toxic_l_leg = Ліва Нога
+
+marking-ChitinidLLegToxic = Хітинова Ліва Нога (Токсична)
+
+marking-ChitinidRLegToxic-toxic_r_leg = Права Нога
+
+marking-ChitinidRLegToxic = Хітинова Права Нога (Токсична)
+
+marking-ChitinidLArmToxic-toxic_l_arm = Ліва Рука
+
+marking-ChitinidLArmToxic = Хітинова Ліва Рука (Токсична)
+
+marking-ChitinidRArmToxic-toxic_r_arm = Права Рука
+
+marking-ChitinidRArmToxic = Хітинова Права Рука (Токсична)
+
+
+
+marking-ChitinidChestSpotted-spotted_chest = Груди
+
+marking-ChitinidChestSpotted = Хітинові Груди (Плямисті)
+
+marking-ChitinidHeadSpotted-spotted_head = Голова
+
+marking-ChitinidHeadSpotted = Хітинова Голова (Плямиста)
+
+marking-ChitinidLLegSpotted-spotted_l_leg = Ліва Нога
+
+marking-ChitinidLLegSpotted = Хітинова Ліва Нога (Плямиста)
+
+marking-ChitinidRLegSpotted-spotted_r_leg = Права Нога
+
+marking-ChitinidRLegSpotted = Хітинова Права Нога (Плямиста)
+
+marking-ChitinidLArmSpotted-spotted_l_arm = Ліва Рука
+
+marking-ChitinidLArmSpotted = Хітинова Ліва Рука (Плямиста)
+
+marking-ChitinidRArmSpotted-spotted_r_arm = Права Рука
+
+marking-ChitinidRArmSpotted = Хітинова Права Рука (Плямиста)

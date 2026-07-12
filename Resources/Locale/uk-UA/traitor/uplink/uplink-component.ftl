@@ -9,6 +9,9 @@ uplink-user-interface-search-label = Пошук
 # Withdraw UI
 
 uplink-user-interface-withdraw-button = Вивести TК
+
 uplink-user-interface-withdraw-title = Вивести TК
+
 uplink-user-interface-withdraw-withdraw-button = Вивести
+
 uplink-user-interface-withdraw-cancel-button = Скасувати

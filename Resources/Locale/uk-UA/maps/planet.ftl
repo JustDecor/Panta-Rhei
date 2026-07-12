@@ -1,5 +1,11 @@
 cmd-planet-desc = Перетворює надану мапу на планету з розумними параметрами за замовчуванням.
+
 cmd-planet-help = {$command} <mapid> <біом>.
+
 cmd-planet-args = Потрібні лише 2 аргументи.
+
 cmd-planet-map = Не вдалося розібрати {$map} як існуючу карту.
+
+cmd-planet-map-prototype = Unable to index {$prototype} as an existing biome template prototype.
+
 cmd-planet-success = Установити карту {$mapId} як Планету. ПРИМІТКА! Вам потрібно буде завантажити карту (або на нову карту, або перезапустивши гру), щоб атмосфери працювали.

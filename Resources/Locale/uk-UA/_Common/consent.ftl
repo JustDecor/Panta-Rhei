@@ -1,28 +1,32 @@
-﻿# UI
-game-hud-open-consent-window-button-tooltip = Open consent menu.
-ui-options-function-open-consent-window = Open consent menu
-consent-window-title = OOC Consent & Preferences
-consent-window-text = This information is shown to other players to help with RP and used to opt-in or out of certain gameplay systems.
-consent-window-freetext-label = Freetext
-consent-window-freetext-placeholder = Put your ERP info here, such as:
-    Sub/Dom/Switch
-    If you are okay with IC noncon
-    Which gender(s) you want your partners to be
-    Likes and dislikes
-consent-window-toggles-label = Mechanics toggles
-consent-window-unsaved-changes = You have unsaved changes
-consent-window-char-limit-warning = Character limit exceeded ({$length} / {$maxLength})
+game-hud-open-consent-window-button-tooltip = Відкрити вікно згоди.
+
+ui-options-function-open-consent-window = Відкрити вікно згоди
+
+consent-window-title = OOC Згода та Налаштування
+
+consent-window-text = Ця інформація показується іншим гравцям для допомоги в РП та використовується для прийняття або відмови від певних ігрових систем.
+
+consent-window-freetext-label = Вільний текст
+
+consent-window-freetext-placeholder = Введіть вашу ERP інформацію тут, наприклад:
+
+consent-window-toggles-label = Перемикачі механік
+
+consent-window-unsaved-changes = У вас є незбережені зміни
+
+consent-window-char-limit-warning = Перевищено ліміт символів ({$length} / {$maxLength})
 
 # Guidebook
 reagent-effect-condition-guidebook-consent-condition = the target has consented to "{ $consent }"
 
 # Verb
-consent-examine-verb = Consent Info
-consent-examine-not-set = This player has no consent preferences set. Ask for consent first before engaging in any erotic roleplay.
+consent-examine-verb = Інформація про згоду
+
+consent-examine-not-set = Цей гравець не встановив налаштувань згоди. Запитайте згоду спочатку, перш ніж вступати в будь-яку еротичну рольову гру.
 
 # To localize consent toggle names and descriptions into other languages,
 # make a new .ftl file like this:
-#consent-Example1 = Example consent toggle
+# consent-Example1 = Example consent toggle
+
 #    .desc = This is just here as an example for how to add consent toggles.
-#consent-Example2 = Another example toggle
-#    .desc = A
+# consent-Example2 = Another example toggle
