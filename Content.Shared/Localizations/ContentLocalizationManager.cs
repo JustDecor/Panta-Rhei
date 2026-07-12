@@ -10,7 +10,7 @@ namespace Content.Shared.Localizations
         [Dependency] private readonly ILocalizationManager _loc = default!;
 
         // If you want to change your codebase's language, do it here.
-        private const string Culture = "en-US";
+        private const string Culture = "uk-UA";
 
         /// <summary>
         /// Custom format strings used for parsing and displaying minutes:seconds timespans.
@@ -50,6 +50,14 @@ namespace Content.Shared.Localizations
 
             _loc.AddFunction(cultureEn, "MAKEPLURAL", FormatMakePlural);
             _loc.AddFunction(cultureEn, "MANY", FormatMany);
+
+            /*
+             * Ukrainian localization functions
+             */
+            var cultureUk = new CultureInfo("uk-UA");
+
+            _loc.AddFunction(cultureUk, "MAKEPLURAL", FormatMakePluralUkrainian);
+            _loc.AddFunction(cultureUk, "MANY", FormatManyUkrainian);
         }
 
         private ILocValue FormatMany(LocArgs args)
@@ -265,6 +273,61 @@ namespace Content.Shared.Localizations
                 time = timeArg;
             }
             return new LocValueString(FormatPlaytime(time));
+        }
+
+        // Ukrainian plural forms
+        // Ukrainian has three plural forms:
+        // 1 (один, одна, одне) - singular
+        // 2-4 (два, три, чотири) - few
+        // 5-20, 25-30, etc. - many
+        private static int GetUkrainianPluralForm(double count)
+        {
+            var absCount = Math.Abs(count);
+            var lastDigit = (int)(absCount % 10);
+            var lastTwoDigits = (int)(absCount % 100);
+
+            if (lastTwoDigits >= 11 && lastTwoDigits <= 19)
+                return 2; // many: 11-19
+
+            if (lastDigit == 1)
+                return 0; // one: 1, 21, 31, etc.
+
+            if (lastDigit >= 2 && lastDigit <= 4)
+                return 1; // few: 2-4, 22-24, etc.
+
+            return 2; // many: 0, 5-20, 25-30, etc.
+        }
+
+        private ILocValue FormatMakePluralUkrainian(LocArgs args)
+        {
+            // For Ukrainian, we expect three forms separated by |
+            // Example: "годинa|години|годин" for hours
+            var text = ((LocValueString) args.Args[0]).Value;
+            var count = args.Args.Count > 1 ? ((LocValueNumber) args.Args[1]).Value : 2.0;
+
+            var forms = text.Split('|');
+            if (forms.Length != 3)
+            {
+                // Fallback: if not properly formatted, just return the text
+                return new LocValueString(text);
+            }
+
+            var form = GetUkrainianPluralForm(count);
+            return new LocValueString(forms[form]);
+        }
+
+        private ILocValue FormatManyUkrainian(LocArgs args)
+        {
+            var count = ((LocValueNumber) args.Args[1]).Value;
+
+            if (Math.Abs(count - 1) < 0.0001f)
+            {
+                return (LocValueString) args.Args[0];
+            }
+            else
+            {
+                return (LocValueString) FormatMakePluralUkrainian(args);
+            }
         }
     }
 }
