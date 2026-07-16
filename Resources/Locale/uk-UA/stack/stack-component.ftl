@@ -19,5 +19,7 @@ comp-stack-becomes-full = Тепер стопка повна.
 
 # Text related to splitting a stack
 comp-stack-split = Ви поділили стопку
+
 comp-stack-split-halve = Розділити
+
 comp-stack-split-too-small = Стопка замала щоб її поділити

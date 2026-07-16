@@ -1,6 +1,11 @@
-#job-description-senior-engineer = Teach new engineers the basics of the station's engine, repairing, atmospherics and power.
-#job-description-senior-researcher = Teach new scientists the basics of item printing, artifact research and anomalous objects.
-#job-description-senior-physician = Teach new medics the basics of tending to the wounded, chemistry, diagnosing the diseased and disposing of the dead.
-#job-description-senior-officer = Teach new officers the basics of searches, performing arrests, prison times and how to properly shoot a firearm.
-job-description-invspec = Oversee requests and deliveries, lead and train Cargo Technicians, and make sure your cash goes to the right place. Gambling and donk-pockets await!
+job-description-senior-engineer = Навчайте нових інженерів основам роботи з двигуном станції, ремонту, атмосферики та енергозабезпечення.
+
+job-description-senior-researcher = Навчайте нових науковців основам друку предметів, дослідження артефактів та аномальних об'єктів.
+
+job-description-senior-physician = Навчайте нових медиків основам допомоги пораненим, хімії, діагностики хвороб та утилізації мертвих.
+
+job-description-senior-officer = Навчайте нових офіцерів основам обшуків, арештів, строків ув'язнення та правильної стрільби зі зброї.
+
+job-description-invspec = Контролюйте запити та доставки, керуйте та навчайте Техніків карго, та переконайтеся, що ваші гроші йдуть у правильне місце. Азартні ігри та донк-покети чекають!
+
 job-description-sectech = Handle maitenance and upgrades of security department silicons. Work closely with Security borgs and ensure their laws are followed within the security SOP.

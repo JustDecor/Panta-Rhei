@@ -13,6 +13,7 @@ using Robust.Shared.Network;
 using Robust.Shared.Player;
 using Robust.Shared.Prototypes;
 using Robust.Shared.Utility;
+using Robust.Shared.Localization;
 
 namespace Content.Server.Preferences.Managers
 {
@@ -30,6 +31,9 @@ namespace Content.Server.Preferences.Managers
         [Dependency] private readonly ILogManager _log = default!;
         [Dependency] private readonly UserDbDataManager _userDb = default!;
         [Dependency] private readonly IPrototypeManager _prototypeManager = default!;
+        [Dependency] private readonly ILocalizationManager _loc = default!;
+
+        private UkrainianNameValidator? _nameValidator;
 
         // Cache player prefs on the server so we don't need as much async hell related to them.
         private readonly Dictionary<NetUserId, PlayerPrefData> _cachedPlayerPrefs =
@@ -47,6 +51,7 @@ namespace Content.Server.Preferences.Managers
             _netManager.RegisterNetMessage<MsgDeleteCharacter>(HandleDeleteCharacterMessage);
             _netManager.RegisterNetMessage<MsgUpdateConstructionFavorites>(HandleUpdateConstructionFavoritesMessage);
             _sawmill = _log.GetSawmill("prefs");
+            _nameValidator = new UkrainianNameValidator();
         }
 
         private async void HandleSelectCharacterMessage(MsgSelectCharacter message)
@@ -107,6 +112,19 @@ namespace Content.Server.Preferences.Managers
             var session = _playerManager.GetSessionById(userId);
 
             profile.EnsureValid(session, _dependencies);
+
+            // Validate Ukrainian name requirements
+            if (profile is HumanoidCharacterProfile humanoidProfile)
+            {
+                if (_nameValidator != null && !_nameValidator.IsValidUkrainianName(humanoidProfile.Name, out var reason))
+                {
+                    _sawmill.Warning($"User {userId} tried to set invalid Ukrainian name: {humanoidProfile.Name}. Reason: {reason}");
+
+                    // Send error message to client
+                    // Note: You may need to implement a proper error notification system
+                    return;
+                }
+            }
 
             var profiles = new Dictionary<int, ICharacterProfile>(curPrefs.Characters)
             {

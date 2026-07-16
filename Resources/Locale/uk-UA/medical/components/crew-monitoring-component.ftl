@@ -1,19 +1,16 @@
-﻿## UI
 
-crew-monitoring-user-interface-title = Консоль Монiторингу Екiпажу
+crew-monitoring-ui-title = Консоль Монiторингу Екiпажу
 
-crew-monitoring-user-interface-name = Ім'я
-crew-monitoring-user-interface-job = Посада
-crew-monitoring-user-interface-status = Статус
-crew-monitoring-user-interface-location = Місцезнаходження
+crew-monitoring-ui-filter-line-placeholder = Фільтр
 
-crew-monitoring-user-interface-alive = Живий
-crew-monitoring-user-interface-dead = Мертвий
-crew-monitoring-user-interface-no-info = Невідомо
+crew-monitoring-ui-job-label = Робота:
 
-crew-monitoring-user-interface-no-server = Сервер не знайдено
+crew-monitoring-ui-no-server-label = Сервер не знайдено
 
-crew-monitoring-user-interface-no-department = Невідомо
+crew-monitoring-ui-no-department-label = Невідомо
 
-crew-monitoring-user-interface-flavor-left = У разі надзвичайної ситуації негайно зв’яжіться з медичним персоналом станції
-crew-monitoring-user-interface-flavor-right = v1.7
+crew-monitoring-ui-no-station-label = Unknown station
+
+crew-monitoring-ui-flavor-left-label = У разі надзвичайної ситуації негайно зв’яжіться з медичним персоналом станції
+
+crew-monitoring-ui-flavor-right-label = v1.7

@@ -1,2 +1,2 @@
-# В ідеалі, назви підтипів мають бути короткими
+# Ideally, subtype names should be short
 role-subtype-devil = Диявол

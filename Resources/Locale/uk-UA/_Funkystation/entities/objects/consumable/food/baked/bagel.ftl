@@ -1,2 +1,2 @@
-ent-FoodBagelPoppy = poppy seed bagel
-    .desc = A delicious bagel topped with poppy seeds.
+ent-FoodBagelPoppy = бейгл з маковим насінням
+    .desc = Смачний бейгл, посипаний маковим насінням, насиченим бікаридином.

@@ -1,2 +1,3 @@
-#humanoid-profile-editor-height-label = Height:
-#humanoid-profile-editor-reset-height-button = Reset
+humanoid-profile-editor-height-label = Зріст: {$height}см
+
+humanoid-profile-editor-reset-height-button = Скинути

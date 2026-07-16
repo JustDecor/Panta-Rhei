@@ -1,4 +1,7 @@
-ent-SeniorEngineerIDCard = engineer mentor ID card
-ent-SeniorResearcherIDCard = researcher mentor ID card
-ent-SeniorPhysicianIDCard = physician mentor ID card
-ent-SeniorOfficerIDCard = security officer mentor ID card
+ent-SeniorEngineerIDCard = ID картка старшого інженера
+
+ent-SeniorResearcherIDCard = ID картка старшого дослідника
+
+ent-SeniorPhysicianIDCard = ID картка старшого лікаря
+
+ent-SeniorOfficerIDCard = ID картка старшого офіцера

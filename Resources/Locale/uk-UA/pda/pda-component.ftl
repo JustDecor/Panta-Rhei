@@ -17,9 +17,11 @@ comp-pda-io-program-fallback-title = Програма
 comp-pda-io-no-programs-available = Нема доступних програм
 
 pda-bound-user-interface-show-uplink-title = Відкрити Аплінк
+
 pda-bound-user-interface-show-uplink-description = Подивитись у свій аплінк
 
 pda-bound-user-interface-lock-uplink-title = Заблокувати Аплінк
+
 pda-bound-user-interface-lock-uplink-description = Заборонити будь-кому отримати доступ до вашого аплінку без коду
 
 comp-pda-ui-menu-title = КПК
@@ -53,4 +55,3 @@ comp-pda-ui-unknown = Невідомо
 comp-pda-ui-unassigned = Непризначено
 
 pda-notification-message = [font size=12][bold]КПК[/bold] { $header }: [/font]
-    "{ $message }"

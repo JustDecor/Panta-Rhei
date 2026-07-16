@@ -1,12 +1,19 @@
-﻿penlight-off = The pen light is off.
-pen-light-exam-title = Pen Light
-pen-light-window-entity-eyes-text = {$entityName}'s conditions:
-pen-light-window-no-patient-data-text = No patient data.
-pen-light-window-entity-unknown-text = unknown
+pen-light-exam-title = Ручка Ліхтарик
 
-pen-light-exam-blind-text = The patient's eyes are glassy and unfocused. They can't follow the light at all.
-pen-light-exam-drunk-text = The patient's eyes are slow to follow the light, droopy.
-pen-light-exam-eyedamage-text = The patient's eyes are partially focused, though they struggle to look at the light for too long.
+pen-light-window-entity-eyes-text = {$entityName} стан:
+
+pen-light-window-no-patient-data-text = Немає даних про пацієнта.
+
+pen-light-window-entity-unknown-text = невідомо
+
+pen-light-exam-blind-text = Очі пацієнтки скляні та розфокусовані. Вони зовсім не орієнтуються на світло.
+
+pen-light-exam-drunk-text = Очі пацієнта повільно реагують на світло, западають.
+
+pen-light-exam-eyedamage-text = Очі пацієнта частково сфокусовані, хоча йому важко довго дивитися на світло.
+
 pen-light-exam-hallucinating-text = The patient's eyes are wandering around, with dilated pupils. They don't focus on the light.
-pen-light-exam-healthy-text = The patient follows the light perfectly with no stuttering.
-penlight-cannot-examine-self = You can't examine your own eyes.
+
+pen-light-exam-healthy-text = Пацієнтка чудово орієнтується на світло, не заїкається.
+
+penlight-cannot-examine-self = Ви не можете дослідити власні очі.pen-light-exam-hallucinating-text = Очі пацієнта блукають, зіниці розширені. Вони не фокусуються на світлі.

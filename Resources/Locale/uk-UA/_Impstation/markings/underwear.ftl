@@ -1,5 +1,7 @@
-#marking-UnderwearLowriders-lowriders = Спідня білизна
-#marking-UnderwearLowriders = Спідня білизна (лоурайзери)
+marking-UnderwearLowriders-lowriders = Спідня білизна
 
-#marking-UnderwearTanga-tanga = Спідня білизна
-#marking-UnderwearTanga = Спідня білизна (танга)
+marking-UnderwearLowriders = Нижня білизна (лоурайдери)
+
+marking-UnderwearTanga-tanga = Спідня білизна
+
+marking-UnderwearTanga = Нижня білизна (Танга)

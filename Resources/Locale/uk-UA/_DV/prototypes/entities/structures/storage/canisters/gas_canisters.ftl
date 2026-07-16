@@ -1,2 +1,2 @@
-ent-AmmoniaCanister = miasma canister
-    .desc = A canister that can contain any type of gas. This one is supposed to contain miasma. It can be attached to connector ports using a wrench.
+ent-AmmoniaCanister = балон з аміаком
+    .desc = Балон, що може містити будь-який тип газу. Цей повинен містити аміак. Його можна приєднати до з'єднувальних портів за допомогою гайкового ключа.
