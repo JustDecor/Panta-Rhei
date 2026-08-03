@@ -1,1 +1,1 @@
-hand-placeholder-name = Слот модуля для
+hand-placeholder-name = Module slot for

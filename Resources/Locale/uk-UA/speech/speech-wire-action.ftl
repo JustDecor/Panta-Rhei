@@ -1,1 +1,1 @@
-wire-speech-pulse = {CAPITALIZE(THE($name))} видає дзижчання
+wire-speech-pulse = {CAPITALIZE(THE($name))} emits a buzzing sound

@@ -1,1 +1,1 @@
-sliceable-food-component-on-examine-remaining-slices-text = Залишилось {$remainingCount} шматочків.
+sliceable-food-component-on-examine-remaining-slices-text = There are {$remainingCount} slices remaining.

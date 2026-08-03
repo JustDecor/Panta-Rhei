@@ -1,5 +1,5 @@
 # FlippableComponent
-flippable-component-try-flip-is-stuck = Воно застрягло.
+flippable-component-try-flip-is-stuck = It's stuck.
 
 # FlippableVerb
-flippable-verb-get-data-text = Перевернути
+flippable-verb-get-data-text = Flip

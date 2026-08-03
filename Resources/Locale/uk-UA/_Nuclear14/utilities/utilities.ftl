@@ -1,2 +1,2 @@
-﻿walltorch = настінний факел
-walltorch-descrption = Дерев’яний кілок на стіні, який можна запалити
+﻿walltorch = wall torch
+walltorch-descrption = A wooden stake on the wall you can light

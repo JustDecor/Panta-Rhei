@@ -1,1 +1,1 @@
-armor-surgery-speed-coefficient-value = - [color=yellow]Хірургічні операції[/color] виконуються зі швидкістю [color=lightblue]{$value}%[/color].
+armor-surgery-speed-coefficient-value = - [color=yellow]Surgical operations[/color] are performed at [color=lightblue]{$value}%[/color] speed.

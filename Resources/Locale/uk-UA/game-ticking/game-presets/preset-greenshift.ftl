@@ -1,2 +1,2 @@
-greenshift-title = Гріншифт
-greenshift-description = Режим, в якому нічого не відбувається. Хіба що евак через півгодини, ЗНОВУ
+greenshift-title = Greenshift
+greenshift-description = An event-less preset for admin events to play through without interference.

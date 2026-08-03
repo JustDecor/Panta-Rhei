@@ -1,28 +1,28 @@
 ### Gravity Generator
 
 ## UI
-
-gravity-generator-window-title = Гравітаційний Генератор
+gravity-generator-window-title = Gravity Generator
 
 ## UI field names
-
-gravity-generator-window-status = Статус:
-gravity-generator-window-power = Напруга:
-gravity-generator-window-eta = ОРІЄНТОВНИЙ ЧАС ПРИБУТТЯ:
-gravity-generator-window-charge = Заряд:
+gravity-generator-window-status = Status:
+gravity-generator-window-power = Power:
+gravity-generator-window-eta = ETA:
+gravity-generator-window-charge = Charge:
 
 ## UI statuses
-gravity-generator-window-status-fully-charged = Повністю Заряджений
-gravity-generator-window-status-off = Вимкнений
-gravity-generator-window-status-charging = Заряджається
-gravity-generator-window-status-discharging = Розряджається
+gravity-generator-window-status-fully-charged = Fully Charged
+gravity-generator-window-status-off = Off
+gravity-generator-window-status-charging = Charging
+gravity-generator-window-status-discharging = Discharging
 
 ## UI Power Buttons
-gravity-generator-window-power-on = Увімкнено
-gravity-generator-window-power-off = Вимкнено
+gravity-generator-window-power-on = On
+gravity-generator-window-power-off = Off
 gravity-generator-window-power-label = { $draw } / { $max } W
 
 ## UI ETA label
-
-gravity-generator-window-eta-none = Н/Д
+gravity-generator-window-eta-none = N/A
 gravity-generator-window-eta-value = { TOSTRING($left, "m\\:ss") }
+
+## Popup
+gravity-generator-unanchoring-failed = Can't unanchor an active gravity generator.

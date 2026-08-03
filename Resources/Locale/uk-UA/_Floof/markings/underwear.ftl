@@ -1,398 +1,387 @@
-markings-category-Undershirt = Майка
-markings-category-Underwear = Спідня білизна
+markings-category-Undershirt = Undershirt
+markings-category-Underwear = Underwear
 
-marking-UndershirtStandard = Майка (стандартна)
-marking-UndershirtStandard-t_undershirt = Майка
+marking-UndershirtStandard = Undershirt (Standard)
+marking-UndershirtStandard-t_undershirt = Undershirt
 
-marking-UndershirtSleeveless = Майка
-marking-UndershirtSleeveless-t_undershirt_sleeveless = Майка
+marking-UndershirtLong = Undershirt (Long)
+marking-UndershirtLong-t_long_undershirt = Undershirt
 
-marking-UndershirtRolled = Нижня сорочка (в рулоні)
-marking-UndershirtRolled-t_rolled_undershirt = Майка
+marking-UndershirtClassic = Bra (Classic)
+marking-UndershirtClassic-snow_classic = Bra
 
-marking-UndershirtRolledSleeveless = Майка (рулонна)
-marking-UndershirtRolledSleeveless-t_rolled_undershirt_sleeveless = Майка
+marking-UndershirtSports = Bra (Sport)
+marking-UndershirtSports-snow_sports = Bra
 
-marking-UndershirtLong = Майка (довга)
-marking-UndershirtLong-t_long_undershirt = Майка
+marking-UndershirtStrapless = Bra (Strapless)
+marking-UndershirtStrapless-snow_strapless = Bra
 
-marking-UndershirtClassic = Бюстгальтер (класичний)
-marking-UndershirtClassic-snow_classic = Бюстгальтер
+marking-UnderwearBoxers = Boxers
+marking-UnderwearBoxers-snow_boxers = Boxers
 
-marking-UndershirtSports = Бюстгальтер (спортивний)
-marking-UndershirtSports-snow_sports = Бюстгальтер
+marking-UnderwearBriefs = Briefs
+marking-UnderwearBriefs-snow_briefs = Briefs
 
-marking-UndershirtStrapless = Бюстгальтер (без бретелей)
-marking-UndershirtStrapless-snow_strapless = Бюстгальтер
+marking-UnderwearLowriders-snow_lowriders = Lowrides
 
-marking-UnderwearBoxers = Труси-боксери
-marking-UnderwearBoxers-snow_boxers = Труси-боксери
+marking-UnderwearSatin = Satin
+marking-UnderwearSatin-snow_satin = Satin
 
-marking-UnderwearBriefs = Нижня білизна (труси)
-marking-UnderwearBriefs-snow_briefs = Трусики
+marking-UnderwearTanga-snow_tanga = Tanga
 
-marking-UnderwearLowriders = Нижня білизна (лоурайдери)
-marking-UnderwearLowriders-snow_lowriders = Лоурайдери
+marking-UnderwearClassicbriefs = Briefs, Classic
+marking-UnderwearClassicbriefs-briefs = Briefs, Classic
 
-marking-UnderwearSatin = Нижня білизна (сатин)
-marking-UnderwearSatin-snow_satin = Атласні
+marking-UnderwearClassicjockstrap = Jockstrap
+marking-UnderwearClassicjockstrap-jockstrap = Jockstrap
 
-marking-UnderwearTanga = Нижня білизна (Танга)
-marking-UnderwearTanga-snow_tanga = Танга
+marking-UnderwearClassicmankini = Mankini
+marking-UnderwearClassicmankini-mankini = Mankini
 
-marking-UnderwearClassicbriefs = Труси, класичні
-marking-UnderwearClassicbriefs-briefs = Труси, класичні
+marking-UnderwearClassicboxers = Boxers, Classic
+marking-UnderwearClassicboxers-boxers = Boxers, Classic
 
-marking-UnderwearClassicjockstrap = Спортивні труси
-marking-UnderwearClassicjockstrap-jockstrap = Спортивні труси
+marking-UnderwearClassicheartboxers = Heart Boxers
+marking-UnderwearClassicheartboxers-boxers_heart = Heart Boxers
 
-marking-UnderwearClassicmankini = Манкіні
-marking-UnderwearClassicmankini-mankini = Манкіні
+marking-UnderwearClassicukboxers = UK Boxers
+marking-UnderwearClassicukboxers-boxers_uk = UK Boxers
 
-marking-UnderwearClassicboxers = Боксери, класичні
-marking-UnderwearClassicboxers-boxers = Боксери, класичні
+marking-UnderwearClassicassblastusaboxers = USA Boxers
+marking-UnderwearClassicassblastusaboxers-boxers_assblastusa = USA Boxers
 
-marking-UnderwearClassicheartboxers = Боксери із серцями
-marking-UnderwearClassicheartboxers-boxers_heart = Боксери із серцями
+marking-UnderwearClassiccommieboxers = Combloc Boxers
+marking-UnderwearClassiccommieboxers-boxers_commie = Combloc Boxers
 
-marking-UnderwearClassicukboxers = Боксери Великобританії
-marking-UnderwearClassicukboxers-boxers_uk = Боксери Великобританії
+marking-UnderwearClassicstripedboxers = Striped Boxers
+marking-UnderwearClassicstripedboxers-boxers_striped = Striped Boxers
 
-marking-UnderwearClassicassblastusaboxers = Боксери США
-marking-UnderwearClassicassblastusaboxers-boxers_assblastusa = Боксери США
+marking-UnderwearClassicboxerbriefs = Boxer Briefs
+marking-UnderwearClassicboxerbriefs-boxer_briefs = Boxer Briefs
 
-marking-UnderwearClassiccommieboxers = Боксери Комблоку
-marking-UnderwearClassiccommieboxers-boxers_commie = Боксери Комблоку
+marking-UnderwearClassicbeeshorts = Bee Boxers
+marking-UnderwearClassicbeeshorts-bee_shorts = Bee Boxers
 
-marking-UnderwearClassicstripedboxers = Боксери в смужку
-marking-UnderwearClassicstripedboxers-boxers_striped = Боксери в смужку
+marking-UnderwearClassicpanties = Panties, Classic
+marking-UnderwearClassicpanties-panties = Panties, Classic
 
-marking-UnderwearClassicboxerbriefs = Боксери-труси
-marking-UnderwearClassicboxerbriefs-boxer_briefs = Боксери-труси
+marking-UnderwearClassicpantiesalt = Panties, Classic Alt
+marking-UnderwearClassicpantiesalt-panties_alt = Panties, Classic Alt
 
-marking-UnderwearClassicbeeshorts = Боксери з бджолами
-marking-UnderwearClassicbeeshorts-bee_shorts = Боксери з бджолами
+marking-UnderwearClassicpantiesslim = Panties, Slim
+marking-UnderwearClassicpantiesslim-panties_slim = Panties, Slim
 
-marking-UnderwearClassicpanties = Трусики, класичні
-marking-UnderwearClassicpanties-panties = Трусики, класичні
+marking-UnderwearClassicpantiesthin = Panties, Thin
+marking-UnderwearClassicpantiesthin-panties_thin = Panties, Thin
 
-marking-UnderwearClassicpantiesalt = Трусики, класичні альт
-marking-UnderwearClassicpantiesalt-panties_alt = Трусики, класичні альт
+marking-UnderwearClassicpantiesneko = Panties, Neko
+marking-UnderwearClassicpantiesneko-panties_neko = Panties, Neko
 
-marking-UnderwearClassicpantiesslim = Трусики, вузькі
-marking-UnderwearClassicpantiesslim-panties_slim = Трусики, вузькі
+marking-UnderwearClassicpantiesswimming = Panties, Swimsuit
+marking-UnderwearClassicpantiesswimming-panties_swimming = Panties, Swimsuit
 
-marking-UnderwearClassicpantiesthin = Трусики, тонкі
-marking-UnderwearClassicpantiesthin-panties_thin = Трусики, тонкі
+marking-UnderwearClassicthong = Thong
+marking-UnderwearClassicthong-thong = Thong
 
-marking-UnderwearClassicpantiesneko = Трусики, неко
-marking-UnderwearClassicpantiesneko-panties_neko = Трусики, неко
+marking-UnderwearClassicthongbabydoll = Thong, Babydoll
+marking-UnderwearClassicthongbabydoll-thong_babydoll = Thong, Babydoll
 
-marking-UnderwearClassicpantiesswimming = Трусики, купальник
-marking-UnderwearClassicpantiesswimming-panties_swimming = Трусики, купальник
+marking-UnderwearFishnetlower = Fishnet Lowers
+marking-UnderwearFishnetlower-fishnet_lower = Fishnet Lowers
 
-marking-UnderwearClassicthong = Стрінги
-marking-UnderwearClassicthong-thong = Стрінги
+marking-UnderwearClassicpantiesassblastusa = Panties, USA
+marking-UnderwearClassicpantiesassblastusa-panties_assblastusa = Panties, USA
 
-marking-UnderwearClassicthongbabydoll = Стрінги, бебідолл
-marking-UnderwearClassicthongbabydoll-thong_babydoll = Стрінги, бебідолл
+marking-UnderwearClassicpantiesbeekini = Panties, Bee-kini
+marking-UnderwearClassicpantiesbeekini-panties_bee = Panties, Kee-kini
 
-marking-UnderwearFishnetlower = Сітка нижня
-marking-UnderwearFishnetlower-fishnet_lower = Сітка нижня
+marking-UnderwearClassicpantiescommie = Panties, Combloc
+marking-UnderwearClassicpantiescommie-panties_commie = Panties, Combloc
 
-marking-UnderwearClassicpantiesassblastusa = Трусики, США
-marking-UnderwearClassicpantiesassblastusa-panties_assblastusa = Трусики, США
+marking-UnderwearClassicpantiesuk = Panties, UK
+marking-UnderwearClassicpantiesuk-panties_uk = Panties, UK
 
-marking-UnderwearClassicpantiesbeekini = Трусики, бджолокіні
-marking-UnderwearClassicpantiesbeekini-panties_bee = Трусики, бджолокіні
+marking-UnderwearClassicpantiesstriped = Panties, Striped
+marking-UnderwearClassicpantiesstriped-striped_panties = Panties, Striped
 
-marking-UnderwearClassicpantiescommie = Трусики, Комблок
-marking-UnderwearClassicpantiescommie-panties_commie = Трусики, Комблок
+marking-UnderwearClassicpantiesbow = Panties, Bow
+marking-UnderwearClassicpantiesbow-bowpanties = Panties, Bow
 
-marking-UnderwearClassicpantiesuk = Трусики, Великобританія
-marking-UnderwearClassicpantiesuk-panties_uk = Трусики, Великобританія
+marking-UnderwearClassicpantiesbowslim = Panties, Slim w/ Bow
+marking-UnderwearClassicpantiesbowslim-bowpanties_slim = Panties, Slim w/ Bow
 
-marking-UnderwearClassicpantiesstriped = Трусики в смужку
-marking-UnderwearClassicpantiesstriped-striped_panties = Трусики в смужку
+marking-UnderwearClassicthongbow = Thong, Bow
+marking-UnderwearClassicthongbow-bowthong = Thong, Bow
 
-marking-UnderwearClassicpantiesbow = Трусики з бантом
-marking-UnderwearClassicpantiesbow-bowpanties = Трусики з бантом
+marking-UnderwearClassicthongbowbabydoll = Thong, Bow & Babydoll
+marking-UnderwearClassicthongbowbabydoll-bowthong_babydoll =  Thong, Bow & Babydoll
 
-marking-UnderwearClassicpantiesbowslim = Трусики вузькі з бантом
-marking-UnderwearClassicpantiesbowslim-bowpanties_slim = Трусики вузькі з бантом
+marking-UnderwearClassicpantiescow = Panties, Cow
+marking-UnderwearClassicpantiescow-panties_cow = Panties, Cow
 
-marking-UnderwearClassicthongbow = Стрінги з бантом
-marking-UnderwearClassicthongbow-bowthong = Стрінги з бантом
+marking-UndershirtBra = Bra, Classic
+marking-UndershirtBra-bra = Bra, Classic
 
-marking-UnderwearClassicthongbowbabydoll = Стрінги з бантом та бебідолл
-marking-UnderwearClassicthongbowbabydoll-bowthong_babydoll = Стрінги з бантом та бебідолл
+marking-UndershirtBraalt = Bra, Classic Alt
+marking-UndershirtBraalt-bra_alt = Bra, Classic Alt
 
-marking-UnderwearClassicpantiescow = Трусики з коровою
-marking-UnderwearClassicpantiescow-panties_cow = Трусики з коровою
+marking-UndershirtBrathin = Bra, Thin
+marking-UndershirtBrathin-bra_thin = Bra, Thin
 
-marking-UndershirtBra = Бюстгальтер, класичний
-marking-UndershirtBra-bra = Бюстгальтер, класичний
+marking-UndershirtSportsbra = Bra, Sports
+marking-UndershirtSportsbra-sports_bra = Bra, Sports
 
-marking-UndershirtBraalt = Бюстгальтер, класичний альт
-marking-UndershirtBraalt-bra_alt = Бюстгальтер, класичний альт
+marking-UndershirtSportsbraalt = Bra, Classic Alt
+marking-UndershirtSportsbraalt-sports_bra_alt = Bra, Classic Alt
 
-marking-UndershirtBrathin = Бюстгальтер, тонкий
-marking-UndershirtBrathin-bra_thin = Бюстгальтер, тонкий
+marking-UndershirtBrastrapless = Bra, Strapless
+marking-UndershirtBrastrapless-bra_strapless = Bra, Strapless
 
-marking-UndershirtSportsbra = Бюстгальтер, спортивний
-marking-UndershirtSportsbra-sports_bra = Бюстгальтер, спортивний
+marking-UndershirtBrastraplessalt = Bra, Strapless Alt
+marking-UndershirtBrastraplessalt-bra_strapless_alt = Bra, Strapless Alt
 
-marking-UndershirtSportsbraalt = Бюстгальтер, спортивний альт
-marking-UndershirtSportsbraalt-sports_bra_alt = Бюстгальтер, спортивний альт
+marking-UndershirtHalterneckbra = Bra, Halterneck
+marking-UndershirtHalterneckbra-halterneck_bra = Bra, Halterneck
 
-marking-UndershirtBrastrapless = Бюстгальтер без бретелей
-marking-UndershirtBrastrapless-bra_strapless = Бюстгальтер без бретелей
+marking-UndershirtBraneko = Bra, Neko
+marking-UndershirtBraneko-bra_neko = Bra, Neko
 
-marking-UndershirtBrastraplessalt = Бюстгальтер без бретелей альт
-marking-UndershirtBrastraplessalt-bra_strapless_alt = Бюстгальтер без бретелей альт
+marking-UndershirtBraswimming = Bra, Bikini
+marking-UndershirtBraswimming-bra_swimming = Bra, Bikini
 
-marking-UndershirtHalterneckbra = Бюстгальтер-холтер
-marking-UndershirtHalterneckbra-halterneck_bra = Бюстгальтер-холтер
+marking-UndershirtBraswimmingalt = Bra, Bikini Alt
+marking-UndershirtBraswimmingalt-bra_swimming_alt = Bra, Bikini Alt
 
-marking-UndershirtBraneko = Бюстгальтер, неко
-marking-UndershirtBraneko-bra_neko = Бюстгальтер, неко
+marking-UndershirtTubetop = Tube Top
+marking-UndershirtTubetop-tubetop = Tube TOp
 
-marking-UndershirtBraswimming = Бюстгальтер, бікіні
-marking-UndershirtBraswimming-bra_swimming = Бюстгальтер, бікіні
+marking-UndershirtBabydoll = Babydoll T-shirt
+marking-UndershirtBabydoll-babydoll = Babydoll T-shirt
 
-marking-UndershirtBraswimmingalt = Бюстгальтер, бікіні альт
-marking-UndershirtBraswimmingalt-bra_swimming_alt = Бюстгальтер, бікіні альт
+marking-UndershirtBrakinky = Bra, Kinky
+marking-UndershirtBrakinky-bra_kinky = Bra, Kinky
 
-marking-UndershirtTubetop = Топ-труба
-marking-UndershirtTubetop-tubetop = Топ-труба
+marking-UndershirtBraassblastusa = Bra, USA
+marking-UndershirtBraassblastusa-bra_assblastusa = Bra, USA
 
-marking-UndershirtBabydoll = Майка бебідолл
-marking-UndershirtBabydoll-babydoll = Майка бебідолл
+marking-UndershirtBrabeekini = Bra, Bee-kini
+marking-UndershirtBrabeekini-bra_bee = Bra, Bee-kini
 
-marking-UndershirtBrakinky = Бюстгальтер, збуджуючий
-marking-UndershirtBrakinky-bra_kinky = Бюстгальтер, збуджуючий
+marking-UndershirtBracommie = Bra, Combloc
+marking-UndershirtBracommie-bra_commie = Bra, Combloc
 
-marking-UndershirtBraassblastusa = Бюстгальтер, США
-marking-UndershirtBraassblastusa-bra_assblastusa = Бюстгальтер, США
+marking-UndershirtBrauk = Bra, UK
+marking-UndershirtBrauk-bra_uk = Bra, UK
 
-marking-UndershirtBrabeekini = Бюстгальтер, бджолокіні
-marking-UndershirtBrabeekini-bra_bee = Бюстгальтер, бджолокіні
+marking-UndershirtBrastriped = Bra, Striped
+marking-UndershirtBrastriped-striped_bra = Bra, Striped
 
-marking-UndershirtBracommie = Бюстгальтер, Комблок
-marking-UndershirtBracommie-bra_commie = Бюстгальтер, Комблок
+marking-UndershirtSwimsuitblue = Swimsuit, Blue
+marking-UndershirtSwimsuitblue-swimming_blue = Swimsuit, Blue
 
-marking-UndershirtBrauk = Бюстгальтер, Великобританія
-marking-UndershirtBrauk-bra_uk = Бюстгальтер, Великобританія
+marking-UndershirtSwimsuitred = Swimsuit, Red
+marking-UndershirtSwimsuitred-swimming_red = Swimsuit, Red
 
-marking-UndershirtBrastriped = Бюстгальтер в смужку
-marking-UndershirtBrastriped-striped_bra = Бюстгальтер в смужку
+marking-UndershirtSwimsuitblack = Swimsuit, Black
+marking-UndershirtSwimsuitblack-swimming_black = Swimsuit, Black
 
-marking-UndershirtSwimsuitblue = Купальник, синій
-marking-UndershirtSwimsuitblue-swimming_blue = Купальник, синій
+marking-UndershirtFishnet = Fishnet, Upper
+marking-UndershirtFishnet-fishnet = Fishnet, Upper
 
-marking-UndershirtSwimsuitred = Купальник, червоний
-marking-UndershirtSwimsuitred-swimming_red = Купальник, червоний
+marking-UndershirtFishnetbody = Fishnet, Torso
+marking-UndershirtFishnetbody-fishnet_body = Fishnet, Torso
 
-marking-UndershirtSwimsuitblack = Купальник, чорний
-marking-UndershirtSwimsuitblack-swimming_black = Купальник, чорний
+marking-UndershirtFishnetsleeves = Fishnet, Sleeves
+marking-UndershirtFishnetsleeves-fishnet_sleeves = Fishnet, Sleeves
 
-marking-UndershirtFishnet = Сітка, верхня
-marking-UndershirtFishnet-fishnet = Сітка, верхня
+marking-UndershirtFishnetgloves = Fishnet, Gloves
+marking-UndershirtFishnetgloves-fishnet_gloves = Fishnet, Gloves
 
-marking-UndershirtFishnetbody = Сітка, торс
-marking-UndershirtFishnetbody-fishnet_body = Сітка, торс
+marking-UndershirtUndershirtgeneric = Undershirt, Generic
+marking-UndershirtUndershirtgeneric-undershirt = Undershirt, Generic
 
-marking-UndershirtFishnetsleeves = Сітка, рукави
-marking-UndershirtFishnetsleeves-fishnet_sleeves = Сітка, рукави
+marking-UndershirtShortsleeve = Undershirt, Generic Shortsleeve
+marking-UndershirtShortsleeve-shortsleeve = Undershirt, Generic Shortsleeve
 
-marking-UndershirtFishnetgloves = Сітка, рукавички
-marking-UndershirtFishnetgloves-fishnet_gloves = Сітка, рукавички
+marking-UndershirtPolo = Polo
+marking-UndershirtPolo-polo = Polo
 
-marking-UndershirtUndershirtgeneric = Майка, звичайна
-marking-UndershirtUndershirtgeneric-undershirt = Майка, звичайна
+marking-UndershirtTanktop = Tanktop
+marking-UndershirtTanktop-tanktop = Tanktop
 
-marking-UndershirtShortsleeve = Майка з коротким рукавом
-marking-UndershirtShortsleeve-shortsleeve = Майка з коротким рукавом
+marking-UndershirtTanktoprainbow = Tanktop, Rainbow
+marking-UndershirtTanktoprainbow-tank_rainbow = Tanktop, Rainbow
 
-marking-UndershirtPolo = Поло
-marking-UndershirtPolo-polo = Поло
+marking-UndershirtTanktopstripes = Tanktop, Stripes
+marking-UndershirtTanktopstripes-tank_stripes = Tanktop, Stripes
 
-marking-UndershirtTanktop = Майка-борцівка
-marking-UndershirtTanktop-tanktop = Майка-борцівка
+marking-UndershirtTanktopalt = Tanktop, Alt
+marking-UndershirtTanktopalt-tanktop_alt = Tanktop, Alt
 
-marking-UndershirtTanktoprainbow = Майка-борцівка, райдужна
-marking-UndershirtTanktoprainbow-tank_rainbow = Майка-борцівка, райдужна
+marking-UndershirtTanktopmidriff = Tanktop, Midriff
+marking-UndershirtTanktopmidriff-tank_midriff = Tanktop, Midriff
 
-marking-UndershirtTanktopstripes = Майка-борцівка в смужку
-marking-UndershirtTanktopstripes-tank_stripes = Майка-борцівка в смужку
+marking-UndershirtTanktopmidriffalt = Tanktop, Midriff Alt
+marking-UndershirtTanktopmidriffalt-tank_midriff_alt = Tanktop, Midriff Alt
 
-marking-UndershirtTanktopalt = Майка-борцівка альт
-marking-UndershirtTanktopalt-tanktop_alt = Майка-борцівка альт
+marking-UndershirtTanktopsun = Tanktop, Sun
+marking-UndershirtTanktopsun-tank_sun = Tanktop, Sun
 
-marking-UndershirtTanktopmidriff = Майка-борцівка, міді
-marking-UndershirtTanktopmidriff-tank_midriff = Майка-борцівка, міді
+marking-UndershirtIanshirt = Ian Shirt
+marking-UndershirtIanshirt-ian = Ian Shirt
 
-marking-UndershirtTanktopmidriffalt = Майка-борцівка, міді альт
-marking-UndershirtTanktopmidriffalt-tank_midriff_alt = Майка-борцівка, міді альт
+marking-UndershirtLovershirt = Lover Shirt
+marking-UndershirtLovershirt-lover = Lover Shirt
 
-marking-UndershirtTanktopsun = Майка-борцівка, сонце
-marking-UndershirtTanktopsun-tank_sun = Майка-борцівка, сонце
+marking-UndershirtLoventshirt = NT<3 Shirt
+marking-UndershirtLoventshirt-ilovent = NT<3 Shirt
 
-marking-UndershirtIanshirt = Футболка Іана
-marking-UndershirtIanshirt-ian = Футболка Іана
+marking-UndershirtUkshirt = UK Shirt
+marking-UndershirtUkshirt-uk = UK Shirt
 
-marking-UndershirtLovershirt = Футболка закоханого
-marking-UndershirtLovershirt-lover = Футболка закоханого
+marking-UndershirtPeaceshirt = Peace Shirt
+marking-UndershirtPeaceshirt-peace = Peace Shirt
 
-marking-UndershirtLoventshirt = Футболка НТ<3
-marking-UndershirtLoventshirt-ilovent = Футболка НТ<3
+marking-UndershirtBandshirt = Band Shirt
+marking-UndershirtBandshirt-band = Band Shirt
 
-marking-UndershirtUkshirt = Футболка Великобританії
-marking-UndershirtUkshirt-uk = Футболка Великобританії
+marking-UndershirtPogomanshirt = Pogoman Shirt
+marking-UndershirtPogomanshirt-pogoman = Pogoman Shirt
 
-marking-UndershirtPeaceshirt = Футболка миру
-marking-UndershirtPeaceshirt-peace = Футболка миру
+marking-UndershirtGreensportshirt = Sport Shirt, Green
+marking-UndershirtGreensportshirt-greenshirtsport = Sport Shirt, Green
 
-marking-UndershirtBandshirt = Футболка гурту
-marking-UndershirtBandshirt-band = Футболка гурту
+marking-UndershirtRedsportshirt = Sport Shirt, Red
+marking-UndershirtRedsportshirt-redshirtsport = Sport Shirt, Red
 
-marking-UndershirtPogomanshirt = Футболка Погомена
-marking-UndershirtPogomanshirt-pogoman = Футболка Погомена
+marking-UndershirtBluesportshirt = Sport Shirt, Blue
+marking-UndershirtBluesportshirt-blueshirtsport = Sport Shirt, Blue
 
-marking-UndershirtGreensportshirt = Спортивна футболка, зелена
-marking-UndershirtGreensportshirt-greenshirtsport = Спортивна футболка, зелена
+marking-UndershirtMatroska = Matroska Shirt
+marking-UndershirtMatroska-matroska = Matroska Shirt
 
-marking-UndershirtRedsportshirt = Спортивна футболка, червона
-marking-UndershirtRedsportshirt-redshirtsport = Спортивна футболка, червона
+marking-UndershirtSs13shirt = Old Timers Shirt
+marking-UndershirtSs13shirt-shirt_ss13 = Old Timers Shirt
 
-marking-UndershirtBluesportshirt = Спортивна футболка, синя
-marking-UndershirtBluesportshirt-blueshirtsport = Спортивна футболка, синя
+marking-UndershirtQuestionshirt = Question Shirt
+marking-UndershirtQuestionshirt-shirt_question = Question Shirt
 
-marking-UndershirtMatroska = Футболка Матрьошка
-marking-UndershirtMatroska-matroska = Футболка Матрьошка
+marking-UndershirtSkullshirt = Skull Shirt
+marking-UndershirtSkullshirt-shirt_skull = Skull Shirt
 
-marking-UndershirtSs13shirt = Футболка старожила
-marking-UndershirtSs13shirt-shirt_ss13 = Футболка старожила
+marking-UndershirtTankfireshirt = Fire Shirt
+marking-UndershirtTankfireshirt-tank_fire = Fire Shirt
 
-marking-UndershirtQuestionshirt = Футболка із знаком питання
-marking-UndershirtQuestionshirt-shirt_question = Футболка із знаком питання
+marking-UndershirtCommieshirt = Combloc Shirt
+marking-UndershirtCommieshirt-shirt_commie = Combloc Shirt
 
-marking-UndershirtSkullshirt = Футболка з черепом
-marking-UndershirtSkullshirt-shirt_skull = Футболка з черепом
+marking-UndershirtNanoshirt = NT Shirt
+marking-UndershirtNanoshirt-shirt_nano = NT Shirt
 
-marking-UndershirtTankfireshirt = Футболка з вогнем
-marking-UndershirtTankfireshirt-tank_fire = Футболка з вогнем
+marking-UndershirtMeatshirt = Meat Shirt
+marking-UndershirtMeatshirt-shirt_meat = Meat Shirt
 
-marking-UndershirtCommieshirt = Футболка Комблоку
-marking-UndershirtCommieshirt-shirt_commie = Футболка Комблоку
+marking-UndershirtStripesshirt = Stripe Shirt
+marking-UndershirtStripesshirt-shirt_stripes = Stripe Shirt
 
-marking-UndershirtNanoshirt = Футболка НТ
-marking-UndershirtNanoshirt-shirt_nano = Футболка НТ
+marking-UndershirtTiedyeshirt = Tie Dye Shirt
+marking-UndershirtTiedyeshirt-shirt_tiedye = Tie Dye Shirt
 
-marking-UndershirtMeatshirt = Футболка м'ясо
-marking-UndershirtMeatshirt-shirt_meat = Футболка м'ясо
+marking-UndershirtRedjersey = Jersey, Red
+marking-UndershirtRedjersey-shirt_redjersey = Jersey, Red
 
-marking-UndershirtStripesshirt = Футболка в смужку
-marking-UndershirtStripesshirt-shirt_stripes = Футболка в смужку
+marking-UndershirtBluejersey = Jersey, Blue
+marking-UndershirtBluejersey-shirt_bluejersey = Jersey, Blue
 
-marking-UndershirtTiedyeshirt = Футболка тай-дай
-marking-UndershirtTiedyeshirt-shirt_tiedye = Футболка тай-дай
+marking-UndershirtBowlingshirt = Bowling Shirt
+marking-UndershirtBowlingshirt-bowling = Bowling Shirt
 
-marking-UndershirtRedjersey = Джерсі, червона
-marking-UndershirtRedjersey-shirt_redjersey = Джерсі, червона
+marking-UndershirtBowlingpshirt = Bowling Shirt, Alt A
+marking-UndershirtBowlingpshirt-bowlingp = Bowling Shirt, Alt A
 
-marking-UndershirtBluejersey = Джерсі, синя
-marking-UndershirtBluejersey-shirt_bluejersey = Джерсі, синя
+marking-UndershirtBowlingashirt = Bowling Shirt, Alt B
+marking-UndershirtBowlingashirt-bowlinga = Bowling Shirt, Alt B
 
-marking-UndershirtBowlingshirt = Футболка для боулінгу
-marking-UndershirtBowlingshirt-bowling = Футболка для боулінгу
+marking-UndershirtBowlingwshirt = Bowling Shirt, Alt C
+marking-UndershirtBowlingwshirt-bowlingw = Bowling Shirt, Alt C
 
-marking-UndershirtBowlingpshirt = Футболка для боулінгу, альт А
-marking-UndershirtBowlingpshirt-bowlingp = Футболка для боулінгу, альт А
+marking-UndershirtBeeshirt = Bee Shirt
+marking-UndershirtBeeshirt-bee_shirt = Bee Shirt
 
-marking-UndershirtBowlingashirt = Футболка для боулінгу, альт Б
-marking-UndershirtBowlingashirt-bowlinga = Футболка для боулінгу, альт Б
+marking-UndershirtAlienshirt = Alien Shirt
+marking-UndershirtAlienshirt-shirt_alien = Alien Shirt
 
-marking-UndershirtBowlingwshirt = Футболка для боулінгу, альт В
-marking-UndershirtBowlingwshirt-bowlingw = Футболка для боулінгу, альт В
+marking-UndershirtClownshirt = Clown Shirt
+marking-UndershirtClownshirt-shirt_clown = Clown Shirt
 
-marking-UndershirtBeeshirt = Футболка з бджолою
-marking-UndershirtBeeshirt-bee_shirt = Футболка з бджолою
+marking-UndershirtNavycowboyshirt = Cowboy Shirt
+marking-UndershirtNavycowboyshirt-cowboyshirt_navy = Cowboy Shirt
 
-marking-UndershirtAlienshirt = Футболка з прибульцем
-marking-UndershirtAlienshirt-shirt_alien = Футболка з прибульцем
+marking-UndershirtRedcowboyshirt = Cowboy Shirt, Red
+marking-UndershirtRedcowboyshirt-cowboyshirt_red = Cowboy Shirt, Red
 
-marking-UndershirtClownshirt = Футболка з клоуном
-marking-UndershirtClownshirt-shirt_clown = Футболка з клоуном
+marking-UndershirtLongstripeshirt = Long Striped Shirt
+marking-UndershirtLongstripeshirt-longstripe = Long Striped Shirt
 
-marking-UndershirtNavycowboyshirt = Ковбойська сорочка
-marking-UndershirtNavycowboyshirt-cowboyshirt_navy = Ковбойська сорочка
+marking-UndershirtBluelongstripeshirt = Long Striped Shirt, Blue
+marking-UndershirtBluelongstripeshirt-longstripe_blue = Long Striped Shirt, Blue
 
-marking-UndershirtRedcowboyshirt = Ковбойська сорочка, червона
-marking-UndershirtRedcowboyshirt-cowboyshirt_red = Ковбойська сорочка, червона
+marking-UndershirtShapelyshirtgirlish = Shapely Top, Girlish (S)
+marking-UndershirtShapelyshirtgirlish-shapely_girlish = Shapely Top, Girlish (S)
 
-marking-UndershirtLongstripeshirt = Довга футболка в смужку
-marking-UndershirtLongstripeshirt-longstripe = Довга футболка в смужку
+marking-UndershirtShapelyshirtpetite = Shapely Top, Petite (M)
+marking-UndershirtShapelyshirtpetite-shapely_petite = Shapely Top, Petite (M)
 
-marking-UndershirtBluelongstripeshirt = Довга футболка в смужку, синя
-marking-UndershirtBluelongstripeshirt-longstripe_blue = Довга футболка в смужку, синя
+marking-UndershirtShapelyshirtcurvy = Shapely Top, Curvy (L)
+marking-UndershirtShapelyshirtcurvy-shapely_curvy = Shapely Top, Curvy (L)
 
-marking-UndershirtShapelyshirtgirlish = Підігнаний топ, дівочий (S)
-marking-UndershirtShapelyshirtgirlish-shapely_girlish = Підігнаний топ, дівочий (S)
+marking-UndershirtShapelyshirtbusty = Shapely Top, Busty (XL)
+marking-UndershirtShapelyshirtbusty-shapely_busty = Shapely Top, Busty (XL)
 
-marking-UndershirtShapelyshirtpetite = Підігнаний топ, міні (M)
-marking-UndershirtShapelyshirtpetite-shapely_petite = Підігнаний топ, міні (M)
+marking-UndershirtShapelyshirtmassive = Shapely Top, Massive (XXL)
+marking-UndershirtShapelyshirtmassive-shapely_massive = Shapely Top, Massive (XXL)
 
-marking-UndershirtShapelyshirtcurvy = Підігнаний топ, пишний (L)
-marking-UndershirtShapelyshirtcurvy-shapely_curvy = Підігнаний топ, пишний (L)
+marking-UndershirtShapelyshirtbackbreaker = Shapely Top, Back Breakers (XXXL)
+marking-UndershirtShapelyshirtbackbreaker-shapely_backbreaker = Shapely Top, Back Breakers (XXXL)
 
-marking-UndershirtShapelyshirtbusty = Підігнаний топ, грудастий (XL)
-marking-UndershirtShapelyshirtbusty-shapely_busty = Підігнаний топ, грудастий (XL)
+marking-UndershirtBrabinder = Bra, Binder
+marking-UndershirtBrabinder-bra_binder = Bra, Binder
 
-marking-UndershirtShapelyshirtmassive = Підігнаний топ, масивний (XXL)
-marking-UndershirtShapelyshirtmassive-shapely_massive = Підігнаний топ, масивний (XXL)
+marking-UndershirtBrabinderstrapless = Bra, Strapless Binder
+marking-UndershirtBrabinderstrapless-bra_binder_strapless = Bra, Strapless Binder
 
-marking-UndershirtShapelyshirtbackbreaker = Підігнаний топ, надмірний (XXXL)
-marking-UndershirtShapelyshirtbackbreaker-shapely_backbreaker = Підігнаний топ, надмірний (XXXL)
+marking-UndershirtScrubsgreen = Scrubs, Green
+marking-UndershirtScrubsgreen-scrubsgreen = Scrubs, Green
 
-marking-UndershirtBrabinder = Бюстгальтер, бандаж
-marking-UndershirtBrabinder-bra_binder = Бюстгальтер, бандаж
+marking-UndershirtScrubspurple = Scrubs, Purple
+marking-UndershirtScrubspurple-scrubspurple = Scrubs, Purple
 
-marking-UndershirtBrabinderstrapless = Бюстгальтер, бандаж без бретелей
-marking-UndershirtBrabinderstrapless-bra_binder_strapless = Бюстгальтер, бандаж без бретелей
+marking-UndershirtBluebridebra = Bra, Fancy Blue
+marking-UndershirtBluebridebra-bride_blue = Bra, Fancy Blue
 
-marking-UndershirtScrubsgreen = Медичний костюм, зелений
-marking-UndershirtScrubsgreen-scrubsgreen = Медичний костюм, зелений
+marking-UndershirtOrangebridebra = Bra, Fancy Orange
+marking-UndershirtOrangebridebra-bride_orange = Bra, Fancy Orange
 
-marking-UndershirtScrubspurple = Медичний костюм, фіолетовий
-marking-UndershirtScrubspurple-scrubspurple = Медичний костюм, фіолетовий
+marking-UndershirtPurplebridebra = Bra, Fancy Purple
+marking-UndershirtPurplebridebra-bride_purple = Bra, Fancy Purple
 
-marking-UndershirtBluebridebra = Бюстгальтер, вишуканий синій
-marking-UndershirtBluebridebra-bride_blue = Бюстгальтер, вишуканий синій
+marking-UndershirtRedbridebra = Bra, Fancy Red
+marking-UndershirtRedbridebra-bride_red = Bra, Fancy Red
 
-marking-UndershirtOrangebridebra = Бюстгальтер, вишуканий помаранчевий
-marking-UndershirtOrangebridebra-bride_orange = Бюстгальтер, вишуканий помаранчевий
+marking-UndershirtBowbra = Bra, Bow
+marking-UndershirtBowbra-bowbra = Bra, Bow
 
-marking-UndershirtPurplebridebra = Бюстгальтер, вишуканий фіолетовий
-marking-UndershirtPurplebridebra-bride_purple = Бюстгальтер, вишуканий фіолетовий
+marking-UndershirtBowbraalt = Bra, Bow Alt
+marking-UndershirtBowbraalt-bowbraalt = Bra, Bow Alt
 
-marking-UndershirtRedbridebra = Бюстгальтер, вишуканий червоний
-marking-UndershirtRedbridebra-bride_red = Бюстгальтер, вишуканий червоний
+marking-UndershirtBowbraneko = Bra, Bow Neko
+marking-UndershirtBowbraneko-bowbra_neko = Bra, Bow Neko
 
-marking-UndershirtBowbra = Бюстгальтер з бантом
-marking-UndershirtBowbra-bowbra = Бюстгальтер з бантом
+marking-UndershirtBowbraswimming = Bra, Bikini Bow
+marking-UndershirtBowbraswimming-bowbra_swimming = Bra, Bikini Bow
 
-marking-UndershirtBowbraalt = Бюстгальтер з бантом альт
-marking-UndershirtBowbraalt-bowbraalt = Бюстгальтер з бантом альт
-
-marking-UndershirtBowbraneko = Бюстгальтер з бантом неко
-marking-UndershirtBowbraneko-bowbra_neko = Бюстгальтер з бантом неко
-
-marking-UndershirtBowbraswimming = Бюстгальтер бікіні з бантом
-marking-UndershirtBowbraswimming-bowbra_swimming = Бюстгальтер бікіні з бантом
-
-marking-UndershirtBowbraswimmingalt = Бюстгальтер бікіні з бантом альт
-marking-UndershirtBowbraswimmingalt-bowbra_swimming_alt = Бюстгальтер бікіні з бантом альт
+marking-UndershirtBowbraswimmingalt = Bra, Bikini Bow Alt
+marking-UndershirtBowbraswimmingalt-bowbra_swimming_alt = Bra, Bikini Bow Alt
 
 
 

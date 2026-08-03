@@ -1,4 +1,4 @@
-anti-tamper-contents-destroyed = Антивандальна система розчиняє вміст {THE($container)} кислотою!
-anti-tamper-random-failure = Антивандальна система не змогла розчинити вміст {THE($container)}...
-anti-tamper-disarm-verb = Вимкнути антивандальний захист
-anti-tamper-disarmed = Ви успішно вимкнули антивандальний модуль {THE($container)}.
+anti-tamper-contents-destroyed = The anti-tamper system acidifies the contents of {THE($container)}!
+anti-tamper-random-failure = The anti-tamper system failed to acidify the contents of {THE($container)}...
+anti-tamper-disarm-verb = Disarm Anti-Tamper
+anti-tamper-disarmed = You successfully disarm {THE($container)}'s anti-tamper module.

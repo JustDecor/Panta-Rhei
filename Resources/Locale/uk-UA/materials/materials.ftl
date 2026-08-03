@@ -1,46 +1,43 @@
 # Glass
-materials-glass = скло
-materials-reinforced-glass = армоване скло
-materials-plasma-glass = плазмове скло
-materials-reinforced-plasma-glass = армоване плазмове скло
+materials-glass = glass
+materials-reinforced-glass = reinforced glass
+materials-plasma-glass = plasma glass
+materials-reinforced-plasma-glass = reinforced plasma glass
+materials-uranium-glass = uranium glass
+materials-reinforced-uranium-glass = reinforced uranium glass
 
 # Metals
-materials-steel = сталь
-materials-gold = золото
-materials-silver = срібло
-materials-plasteel = пласталь
+materials-steel = steel
+materials-gold = gold
+materials-silver = silver
+materials-plasteel = plasteel
 
 # Other
-materials-biomass = біомаса
-materials-cardboard = картон
-materials-cloth = тканина
-materials-durathread = міцна нитка
-materials-plasma = плазма
-materials-plastic = пластик
-materials-wood = деревина
-materials-paper = папір
-materials-uranium = уран
-materials-bananium = банан
-materials-meat = м'ясо
-materials-web = шовк
-materials-bones = кістка
-materials-coal = вугілля
-materials-diamond = діамант
-materials-gunpowder = порох
-materials-bluespace = блюспейс
-materials-normality = нормальність
+materials-biomass = biomass
+materials-cardboard = cardboard
+materials-cloth = cloth
+materials-durathread = durathread
+materials-plasma = plasma
+materials-plastic = plastic
+materials-wood = wood
+materials-paper = paper
+materials-uranium = uranium
+materials-bananium = bananium
+materials-meat = meat
+materials-web = silk
+materials-bones = bone
+materials-coal = coal
+materials-diamond = diamond
+materials-gunpowder = gunpowder
+materials-cotton = cotton
 
 # Ores
-materials-raw-iron = сире залізо
-materials-raw-quartz = сирий кварц
-materials-raw-gold = сире золото
-materials-raw-silver = сире срібло
-materials-raw-plasma = сира плазма
-materials-raw-uranium = сирий уран
-materials-raw-bananium = сирий бананіуміум
-materials-raw-salt = неочищена сіль
-materials-raw-bluespace = сирий блюспейс
-materials-raw-normality = сира нормальність
-
-# Material Reclaimer
-material-reclaimer-upgrade-process-rate = швидкість процесу
+materials-raw-iron = raw iron
+materials-raw-quartz = raw quartz
+materials-raw-gold = raw gold
+materials-raw-silver = raw silver
+materials-raw-plasma = raw plasma
+materials-raw-uranium = raw uranium
+materials-raw-bananium = raw bananium
+materials-raw-salt = raw salt
+materials-raw-diamond = raw diamond

@@ -1,5 +1,4 @@
-﻿ghost-target-window-ghostbar = Привидячий бар
-ghost-window-spawn-ghostbar-button = З'явитися у Привидячому барі
-ghost-window-spawn-ghostbar-button-timer = З'явитися у Привидячому барі ({$time}с)
-
-ghost-bar-rules = Ставтеся до цієї ролі та станції так, ніби ви просто звичайний привид. Ви можете говорити про всі події поточного раунду без потреби використовувати LOOC, а також пам'ятаєте все зі свого попереднього життя. НЕ атакуйте інших, не починайте бійок і не намагайтеся зламати станцію. Якщо ви побачите, що хтось цим займається, будь ласка, надішліть Ahelp, і їх швидко викинуть у космос. Також, якщо ви вирішите покинути бар, ви НЕ пам'ятатимете нічого з того, що відбувалося тут, або зі свого життя до цього.
+﻿ghost-target-window-ghostbar = Ghost Bar
+ghost-window-spawn-ghostbar-button = Spawn at Ghost Bar
+ghost-window-spawn-ghostbar-button-timer = Spawn at Ghost Bar ({$time}s)
+ghost-bar-rules = Treat this role, and station, as you would just being a regular Ghost. You may talk about all current round events without the need for LOOC, and you remember everything from your previous life. DO NOT attack others, start fights, or attempt to break the station. If you see anyone doing this, please Ahelp and they will be promptly thrown into space. Also, if you decide to leave the bar, you DO NOT remember anything from being here, or your life before it.

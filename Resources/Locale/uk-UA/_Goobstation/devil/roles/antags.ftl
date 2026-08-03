@@ -1,2 +1,2 @@
-roles-antag-devil-name = Диявол
-roles-antag-devil-description = Використовуйте свою кмітливість і красномовство, щоб обманювати членів екіпажу та укладати диявольські угоди.
+roles-antag-devil-name = Devil
+roles-antag-devil-description = Use your wit and silver tongue to trick crew members into devilish deals.

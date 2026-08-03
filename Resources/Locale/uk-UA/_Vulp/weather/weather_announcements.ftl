@@ -1,23 +1,23 @@
-weather-stabilizing-0 = Атмосфера заспокоюється.
-weather-stabilizing-1 = Погода зовні стабілізується.
-weather-stabilizing-2 = Повітря зовні здається спокійнішим.
-weather-stabilizing-3 = Небо прояснюється.
+weather-stabilizing-1 = The atmosphere is settling down.
+weather-stabilizing-2 = The weather outside is stabilizing.
+weather-stabilizing-3 = Air outside seems calmer.
+weather-stabilizing-4 = The skies are clearing up.
 
-weather-hot-0 = Зовні стає тепліше.
-weather-hot-1 = Повітря зовні відчувається теплішим.
-weather-hot-2 = Температура зовні неприємно висока.
+weather-hot-1 = It's getting warmer outside.
+weather-hot-2 = The air outside feels warmer.
+weather-hot-3 = Temperatures outside are unpleasantly high.
 
-weather-cold-0 = Температура зовні падає.
-weather-cold-1 = Холод пронизує повітря.
-weather-cold-2 = Зовні стає холодніше.
+weather-cold-1 = Temperatures outside are dropping.
+weather-cold-2 = A chill runs through the air.
+weather-cold-3 = It's getting colder outside.
 
-weather-ashfall-0 = Зовні видно хмару попелу. Одягніть захист.
-weather-ashfall-1 = З неба падає попіл, не вдихайте його.
-weather-ashfall-2 = Повітря густе від падаючого попелу!
-weather-ashfall-3 = Темний попіл вкриває землю. Не дихайте цим.
+weather-ashfall-1 = An ash cloud is seen outside. Wear some protection.
+weather-ashfall-2 = Ashes are falling from the sky, don't breathe that in.
+weather-ashfall-3 = The air is thick with falling ash!
+weather-ashfall-4 = Dark ash blankets the ground. Don't breathe that.
 
-weather-tritium-cloud-approaching-0 = Щільна зелена хмара наближається...
-weather-tritium-cloud-approaching-1 = Над головою збираються токсичні хмари...
-weather-tritium-cloud-approaching-2 = Токсична зелена хмара наближається...
+weather-tritium-cloud-approaching-1 = A dense green cloud is coming your way...
+weather-tritium-cloud-approaching-2 = Toxic clouds are gathering overhead...
+weather-tritium-cloud-approaching-3 = A toxic green cloud is approaching...
 
-weather-tritium-cloud-0 = Відбувається радіоактивне випадіння! Укрийтеся!
+weather-tritium-cloud-1 = A radioactive fallout is happening! Take shelter!

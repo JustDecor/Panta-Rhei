@@ -1,8 +1,8 @@
-accent-parrot-squawk-1 = КРИК!
-accent-parrot-squawk-2 = КРЯ-КРЯ!
-accent-parrot-squawk-3 = ОГО!
-accent-parrot-squawk-4 = АААААААААААААААААААААААААА!
-accent-parrot-squawk-5 = РАУВК!
-accent-parrot-squawk-6 = АААААК!
-accent-parrot-squawk-7 = КРИЧИ!
-accent-parrot-squawk-8 = БРАВО!
+accent-parrot-squawk-1 = SQUAWK!
+accent-parrot-squawk-2 = SQUAAAWK!
+accent-parrot-squawk-3 = AWWK!
+accent-parrot-squawk-4 = AAWK!
+accent-parrot-squawk-5 = RAWWK!
+accent-parrot-squawk-6 = RAAAWK!
+accent-parrot-squawk-7 = BRAAWK!
+accent-parrot-squawk-8 = BRAWWK!

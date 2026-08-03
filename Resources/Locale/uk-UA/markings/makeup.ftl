@@ -1,17 +1,17 @@
-marking-MakeupLips-lips = Губи
-marking-MakeupLips = Губи
+# marking-MakeupLips-lips = Lips
+# marking-MakeupLips = Lips
 
-marking-MakeupBlush-blush = Рум'янець
-marking-MakeupBlush = Рум'янець
+# marking-MakeupBlush-blush = Blush
+# marking-MakeupBlush = Blush
 
-marking-MakeupNailPolishLeft-nail_polish_l = Лак для нігтів (ліворуч)
-marking-MakeupNailPolishLeft = Лак для нігтів (ліворуч)
+# marking-MakeupNailPolishLeft-nail_polish_l = Left Nail Polish
+# marking-MakeupNailPolishLeft = Left Nail Polish
 
-marking-MakeupNailPolishRight-nail_polish_r = Лак для нігтів (праворуч)
-marking-MakeupNailPolishRight = Лак для нігтів (праворуч)
+# marking-MakeupNailPolishRight-nail_polish_r = Right Nail Polish
+# marking-MakeupNailPolishRight = Right Nail Polish
 
-marking-MakeupMothBlush-moth_blush = Рум'яна молі
-marking-MakeupMothBlush = Рум'яна молі
+# marking-MakeupMothBlush-moth_blush = Moth Blush
+# marking-MakeupMothBlush = Moth Blush
 
-marking-MakeupMothLips-moth_lips = Помада Молі
-marking-MakeupMothLips = Помада Молі
+# marking-MakeupMothLips-moth_lips = Moth Lipstick
+# marking-MakeupMothLips = Moth Lipstick

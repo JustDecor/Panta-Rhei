@@ -1,1 +1,1 @@
-clothing-boots-sidearm = Бокова зброя
+clothing-boots-sidearm = Sidearm

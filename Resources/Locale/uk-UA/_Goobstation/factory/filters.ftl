@@ -1,22 +1,22 @@
-automation-filter-examine-empty = [color=red]Цей фільтр ще не налаштовано.[/color]
-automation-filter-examine-string = Цей фільтр налаштовано на '{$name}'
-stack-filter-examine = Цей фільтр налаштовано на мінімум [color=green]{$size}[/color] предметів у стопці.
-combined-filter-examine = Цей фільтр налаштовано на {INDEFINITE($gate)} [color=green]{$gate}[/color] порівняння з його входами.
-pressure-filter-examine = Цей фільтр налаштовано на значення між [color=green]{$min}[/color] кПа та [color=green]{$max}[/color] кПа.
+automation-filter-examine-empty = [color=red]This filter isn't configured yet.[/color]
+automation-filter-examine-string = This filter is set to '{$name}'
+stack-filter-examine = This filter is set to a minimum of [color=green]{$size}[/color] items in a stack.
+combined-filter-examine = This filter is set to {INDEFINITE($gate)} [color=green]{$gate}[/color] comparison with its inputs.
+pressure-filter-examine = This filter is set to between [color=green]{$min}[/color] kPa and [color=green]{$max}[/color] kPa.
 
-label-filter-window-title = Редагування фільтра міток
-label-filter-placeholder = мітка для порівняння
+label-filter-window-title = Edit Label Filter
+label-filter-placeholder = label to match against
 
-name-filter-window-title = Редагування фільтра назв
-name-filter-mode-Contain = Містить
-name-filter-mode-Start = Починається з
-name-filter-mode-End = Закінчується на
-name-filter-mode-Match = Точний збіг
+name-filter-window-title = Edit Name Filter
+name-filter-mode-Contain = Contain
+name-filter-mode-Start = Start with
+name-filter-mode-End = End with
+name-filter-mode-Match = Match exactly
 
-stack-filter-window-title = Редагування фільтра стопок
-stack-filter-min-stack-size = Мінімальний розмір стопки
-stack-filter-stack-chunk-size = Розмір частини виводу
+stack-filter-window-title = Edit Stack Filter
+stack-filter-min-stack-size = Min stack size
+stack-filter-stack-chunk-size = Out chunk size
 
-pressure-filter-window-title = Редагування фільтра тиску
-pressure-filter-min-pressure = Мінімальний тиск
-pressure-filter-max-pressure = Максимальний тиск
+pressure-filter-window-title = Edit Pressure Filter
+pressure-filter-min-pressure = Min Pressure
+pressure-filter-max-pressure = Max Pressure

@@ -1,1 +1,1 @@
-power-switch-component-toggle-verb = Перемкнути живлення
+power-switch-component-toggle-verb = Toggle power

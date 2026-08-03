@@ -1,1 +1,1 @@
-defusable-verb-begin = Почати відлік
+defusable-verb-begin = Begin countdown

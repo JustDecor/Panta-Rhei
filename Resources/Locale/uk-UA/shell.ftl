@@ -2,55 +2,54 @@
 
 ## General
 
-shell-command-success = Команда успішна
-shell-invalid-command = Невірна команда.
-shell-invalid-command-specific = Невірна команда {$commandName}.
-shell-can-only-run-from-pre-round-lobby = Ви можете виконати цю команду лише під час передраундового лобі.
-shell-can-only-run-while-round-is-active = Ви можете виконати цю команду лише під час активного раунду.
-shell-cannot-run-command-from-server = Ви не можете запустити цю команду з сервера.
-shell-only-players-can-run-this-command = Лише гравці можуть виконувати цю команду.
-shell-must-be-attached-to-entity = Щоб виконати цю команду, ви маєте бути приєднані до сутності.
-shell-must-have-body = Ви повинні мати тіло, щоб виконати цю команду.
-shell-server-cannot = Сервер не може цього зробити.
+shell-command-success = Command successful
+shell-invalid-command = Invalid command.
+shell-invalid-command-specific = Invalid {$commandName} command.
+shell-can-only-run-from-pre-round-lobby = You can only run this command while the game is in the pre-round lobby.
+shell-can-only-run-while-round-is-active = You can only run this command while the game is in a round.
+shell-cannot-run-command-from-server = You cannot run this command from the server.
+shell-only-players-can-run-this-command = Only players can run this command.
+shell-must-be-attached-to-entity = You must be attached to an entity to run this command.
+shell-must-have-body = You must have a body to run this command.
 
 ## Arguments
 
-shell-need-exactly-one-argument = Потрібно рівно 1 аргумент (параметр).
-shell-wrong-arguments-number-need-specific = Потрібно {$properAmount} аргументів, надано {$currentAmount}.
-shell-argument-must-be-number = Аргумент має бути числом.
-shell-argument-must-be-boolean = Аргумент має бути true/false.
-shell-wrong-arguments-number = Невірна кількість аргументів.
-shell-need-between-arguments = Потрібно від {$lower} до {$upper} аргументів!
-shell-need-minimum-arguments = Потрібно щонайменше {$minimum} аргументів!
-shell-need-minimum-one-argument = Потрібно хоча б 1 аргумент!
-shell-need-exactly-zero-arguments = Ця команда не приймає аргументів.
+shell-need-exactly-one-argument = Need exactly one argument.
+shell-wrong-arguments-number-need-specific = Need {$properAmount} arguments, there were {$currentAmount}.
+shell-argument-must-be-number = Argument must be a number.
+shell-argument-must-be-boolean = Argument must be a boolean.
+shell-wrong-arguments-number = Wrong number of arguments.
+shell-need-between-arguments = Need {$lower} to {$upper} arguments!
+shell-need-minimum-arguments = Need at least {$minimum} arguments!
+shell-need-minimum-one-argument = Need at least one argument!
+shell-need-exactly-zero-arguments = This command takes zero arguments.
 
 shell-argument-uid = EntityUid
 
 ## Guards
 
-shell-missing-required-permission = Для цієї команди потрібен дозвіл {$perm}!
-shell-entity-is-not-mob = Цільова сутність не є істотою!
-shell-invalid-entity-id = Невірний ID сутності.
-shell-invalid-grid-id = Невірний ID сітки.
-shell-invalid-map-id = Невірний ID мапи.
-shell-invalid-entity-uid = {$uid} не є дійсним UID сутності.
-shell-invalid-bool = Невірне логічне значення.
-shell-entity-uid-must-be-number = EntityUid має бути числом.
-shell-could-not-find-entity = Не вдалося знайти сутність {$entity}.
-shell-could-not-find-entity-with-uid = Не вдалося знайти сутність із UID {$uid}.
-shell-entity-with-uid-lacks-component = Сутність із UID {$uid} не має {INDEFINITE($componentName)} компонента {$componentName}.
-shell-entity-target-lacks-component = Цільова сутність не має {INDEFINITE($componentName)} компонента {$componentName}.
-shell-invalid-color-hex = Невірний шістнадцятковий код кольору!
-shell-target-player-does-not-exist = Цільовий гравець не існує!
-shell-target-entity-does-not-have-message = Цільова сутність не має {INDEFINITE($missing)} {$missing}!
-shell-timespan-minutes-must-be-correct = {$span} не є правильним значенням часу в хвилинах.
-shell-argument-must-be-prototype = Аргумент {$index} має бути {LOC($prototypeName)}!
-shell-argument-number-must-be-between = Аргумент {$index} має бути числом від {$lower} до {$upper}!
-shell-argument-station-id-invalid = Аргумент {$index} має бути дійсним ID станції!
-shell-argument-map-id-invalid = Аргумент {$index} має бути дійсним ID мапи!
-shell-argument-number-invalid = Аргумент {$index} має бути дійсним числом!
+shell-missing-required-permission = You need {$perm} for this command!
+shell-entity-is-not-mob = Target entity is not a mob!
+shell-invalid-entity-id = Invalid entity ID.
+shell-invalid-grid-id = Invalid grid ID.
+shell-invalid-map-id = Invalid map ID.
+shell-invalid-entity-uid = {$uid} is not a valid entity uid
+shell-invalid-bool = Invalid boolean.
+shell-entity-uid-must-be-number = EntityUid must be a number.
+shell-could-not-find-entity = Could not find entity {$entity}
+shell-could-not-find-entity-with-uid = Could not find entity with uid {$uid}
+shell-entity-with-uid-lacks-component = Entity with uid {$uid} doesn't have {INDEFINITE($componentName)} {$componentName} component
+shell-entity-target-lacks-component = Target entity doesn't have {INDEFINITE($componentName)} {$componentName} component
+shell-invalid-color-hex = Invalid color hex!
+shell-target-player-does-not-exist = Target player does not exist!
+shell-target-entity-does-not-have-message = Target entity does not have {INDEFINITE($missing)} {$missing}!
+shell-timespan-minutes-must-be-correct = {$span} is not a valid minutes timespan.
+shell-argument-must-be-prototype = Argument {$index} must be a {LOC($prototypeName)}!
+shell-argument-number-must-be-between = Argument {$index} must be a number between {$lower} and {$upper}!
+shell-argument-station-id-invalid = Argument {$index} must be a valid station id!
+shell-argument-map-id-invalid = Argument {$index} must be a valid map id!
+shell-argument-number-invalid = Argument {$index} must be a valid number!
 
 # Hints
-shell-argument-username-hint = <ім'я користувача>
-shell-argument-username-optional-hint = [ім'я користувача]
+shell-argument-username-hint = <username>
+shell-argument-username-optional-hint = [username]

@@ -1,5 +1,5 @@
-survival-title = Виживання
-survival-description = Внутрішніх загроз немає, але як довго станція зможе витримувати все більш хаотичні та часті події?
+survival-title = Survival
+survival-description = No internal threats, but how long can the station survive increasingly chaotic and frequent events?
 
-hellshift-title = Пекельна зміна
-hellshift-description = На станції випала "одиниця" під час перевірки на везіння. Чи зможе екіпаж дійти до кінця?
+kessler-syndrome-title = Kessler Syndrome
+kessler-syndrome-description = No internal threats, but the station is quickly falling into a belt of meteors!

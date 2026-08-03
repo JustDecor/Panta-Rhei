@@ -1,11 +1,11 @@
-envelope-verb-seal = Запечатати
-envelope-verb-tear = Розірвати
+envelope-verb-seal = Seal
+envelope-verb-tear = Tear
 
-envelope-letter-slot = Лист
+envelope-letter-slot = Letter
 
-envelope-sealed-examine = [color=gray]{CAPITALIZE(THE($envelope))} запечатаний.[/color]
-envelope-torn-examine = [color=yellow]{CAPITALIZE(THE($envelope))} розірваний і непридатний для використання![/color]
+envelope-sealed-examine = [color=gray]{CAPITALIZE(THE($envelope))} is sealed.[/color]
+envelope-torn-examine = [color=yellow]{CAPITALIZE(THE($envelope))} is torn and unusable![/color]
 
-envelope-default-message = КОМУ: 
+envelope-default-message = TO: 
   
   FROM: 

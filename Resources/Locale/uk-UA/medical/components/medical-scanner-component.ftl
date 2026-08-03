@@ -1,6 +1,4 @@
 ## EnterVerb
 
-medical-scanner-verb-enter = Увійти
-medical-scanner-verb-noun-occupant = пацієнт
-
-medical-scanner-upgrade-cloning = Імовірність невдалого клонування
+medical-scanner-verb-enter = Enter
+medical-scanner-verb-noun-occupant = occupant

@@ -1,1 +1,1 @@
-candle-extinguish-failed = Полум'я мерехтить, але не гасне
+candle-extinguish-failed = The flame flickers, but it doesn't go out
