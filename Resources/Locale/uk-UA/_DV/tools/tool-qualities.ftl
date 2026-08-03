@@ -1,14 +1,14 @@
-tool-quality-axing-name = Axing
-tool-quality-axing-tool-name = Fireaxe
+tool-quality-axing-name = Рубання сокирою
+tool-quality-axing-tool-name = Пожежна сокира
 
-tool-quality-fine-screwing-name = Fine Screwing
-tool-quality-fine-screwing-tool-name = Thin-Tipped Screwdriver
+tool-quality-fine-screwing-name = Точне закручування
+tool-quality-fine-screwing-tool-name = Викрутка з тонким наконечником
 
-tool-quality-censer-name = Censer
-tool-quality-censer-tool-name = Censer
+tool-quality-censer-name = Окурювання
+tool-quality-censer-tool-name = Кадило
 
-tool-quality-restoration-name = Restoring
-tool-quality-restoration-tool-name = Restoration Kit
+tool-quality-restoration-name = Відновлення
+tool-quality-restoration-tool-name = Набір для відновлення
 
-tool-quality-bible-name = Blessing
-tool-quality-bible-tool-name = Bible
+tool-quality-bible-name = Благословення
+tool-quality-bible-tool-name = Біблія

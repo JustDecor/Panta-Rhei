@@ -1,2 +1,2 @@
-species-name-ipc = IPC
-species-name-tajaran = Tajaran
+species-name-ipc = ІПШ
+species-name-tajaran = Таджаран

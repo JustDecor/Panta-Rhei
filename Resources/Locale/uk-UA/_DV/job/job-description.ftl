@@ -1,24 +1,24 @@
-job-description-medical-borg = Half-human, Half-machine. Follow your laws, serve the crew, and assist the medical department.
-job-description-surgeon = Fix missing limbs, tend to emergency patients, try not to play god and get fired.
-job-description-chief-justice = Manage the justice department, act as a judge, and ensure everyone recieves fair and just treatment.
-job-description-clerk = Organize trials, notarize documents, review charges, and act as a judge if needed.
-job-description-prosecutor = Take statements from security and prepare cases against those accused of commiting crimes.
-job-description-courier = Deliver mail and other packages from and to logistics. Avoid dogs.
-job-description-security-borg = Purpose-built to ensure the right of every crew member to liberty, justice and freedom, ensure the peace aboard the space station by following your laws and patrolling the halls.
-job-description-roboticist = Fabricate borgs and other robots, repair and upgrade the station's silicon life, and scream "State Laws" when the AI takes too long to open a door.
-job-description-cargo-assistant = Learn the basics of the logistics department, deliver crates and take buy orders from the rest of the station.
-job-description-admin-assistant = Assist command in their day-to-day activities, grab the captain a coffee, answer faxes in the bridge.
-job-description-mime-delta = Entertain the crew while remaining silent, and engage with light rivalry with the clown.
-job-description-assistant = Get your space legs, assist people, ask a Command member to give you a job.
-job-description-centcomintern = The ground workers at Central Command, serving coffee, sorting faxes, and running errands.
+job-description-medical-borg = Наполовину людина, наполовину машина. Дотримуйтеся своїх законів, служіть екіпажу та допомагайте медичному відділу.
+job-description-surgeon = Відновлюйте втрачені кінцівки, допомагайте пацієнтам у критичному стані, намагайтеся не грати в бога й не бути звільненими.
+job-description-chief-justice = Керуйте відділом правосуддя, виконуйте обов’язки судді та забезпечуйте справедливе й неупереджене ставлення до кожного.
+job-description-clerk = Організовуйте судові засідання, засвідчуйте документи, перевіряйте обвинувачення та за потреби виконуйте обов’язки судді.
+job-description-prosecutor = Приймайте свідчення від служби безпеки та готуйте справи проти осіб, обвинувачених у скоєнні злочинів.
+job-description-courier = Доставляйте пошту та інші посилки до відділу логістики й з нього. Уникайте собак.
+job-description-security-borg = Створені для забезпечення права кожного члена екіпажу на свободу, справедливість і незалежність. Підтримуйте спокій на космічній станції, дотримуючись своїх законів і патрулюючи коридори.
+job-description-roboticist = Створюйте боргів та інших роботів, ремонтуйте й покращуйте кремнієві форми життя станції та кричіть «ДЕРЖАВНІ ЗАКОНИ!», коли ШІ надто довго відчиняє двері.
+job-description-cargo-assistant = Вивчайте основи роботи відділу логістики, доставляйте вантажні ящики та приймайте замовлення на закупівлю від решти станції.
+job-description-admin-assistant = Допомагайте командуванню в його щоденній роботі, принесіть капітану каву та відповідайте на факси на містку.
+job-description-mime-delta = Розважайте екіпаж, зберігаючи мовчання, та підтримуйте легке суперництво з клоуном.
+job-description-assistant = Звикайте до життя в космосі, допомагайте людям і попросіть члена командування призначити вам роботу.
+job-description-centcomintern = Наземні працівники Центрального командування: подають каву, сортують факси та виконують доручення.
 
-# I dont know if these will ever be visible but I'll include them anyways.
-role-description-laika = "Bark! Bark! Grrr!"
-role-description-silvia = "Hiss!"
-role-description-ifrit = "Burn baby, burn!"
-role-description-carpy = "Grrr!"
-role-description-shiva = "Hsssss!"
-role-description-pun-pun = "Ook!"
+# Я не знаю, чи вони колись відображатимуться, але все одно додам їх.
+role-description-laika = "Гав! Гав! Гррр!"
+role-description-silvia = "Шшш!"
+role-description-ifrit = "Гори, крихітко, гори!"
+role-description-carpy = "Гррр!"
+role-description-shiva = "Шшшшш!"
+role-description-pun-pun = "Ук!"
 
-job-description-boxer = Fight your way to the top! Challenge the head of personnel and get brigged when you win.
-job-description-zookeeper = Put on a joyful display of cute animals and space carps for all the crew to see.
+job-description-boxer = Пробийте собі шлях до вершини! Викличте на бій голову персоналу та потрапте до бригу після перемоги.
+job-description-zookeeper = Влаштовуйте для всього екіпажу радісне видовище з милими тваринами та космічними коропами.

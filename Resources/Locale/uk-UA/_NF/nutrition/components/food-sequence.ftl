@@ -1,1 +1,1 @@
-﻿food-sequence-content-pear = pear
+﻿food-sequence-content-pear = груша

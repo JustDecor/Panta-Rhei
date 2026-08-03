@@ -1,37 +1,37 @@
-stack-artifact-fragment-ore = artifact fragment ore
+stack-artifact-fragment-ore = уламок артефактної руди
 
-stack-unprocessed-gold-ore = unprocessed gold ore
-stack-unprocessed-diamond-ore = unprocessed diamond ore
-stack-unprocessed-steel-ore = unprocessed steel ore
-stack-unprocessed-plasma-ore = unprocessed plasma ore
-stack-unprocessed-silver-ore = unprocessed silver ore
-stack-unprocessed-quartz-ore = unprocessed quartz ore
-stack-unprocessed-uranium-ore = unprocessed uranium ore
-stack-unprocessed-bananium-ore = unprocessed bananium ore
-stack-unprocessed-coal = unprocessed coal
-stack-unprocessed-artifact-fragment-ore = unprocessed artifact fragment ore
+stack-unprocessed-gold-ore = необроблена золота руда
+stack-unprocessed-diamond-ore = необроблена алмазна руда
+stack-unprocessed-steel-ore = необроблена сталева руда
+stack-unprocessed-plasma-ore = необроблена плазмова руда
+stack-unprocessed-silver-ore = необроблена срібна руда
+stack-unprocessed-quartz-ore = необроблена кварцова руда
+stack-unprocessed-uranium-ore = необроблена уранова руда
+stack-unprocessed-bananium-ore = необроблена бананієва руда
+stack-unprocessed-coal = необроблене вугілля
+stack-unprocessed-artifact-fragment-ore = необроблена руда уламків артефактів
 
 stack-ashwood-plank = {$amount ->
-[1] ashwood plank
-*[other] ashwood planks
+[1] дошка з попелового дерева
+*[other] дошки з попелового дерева
 }
 
 stack-watcher-wing = {$amount ->
-[1] watcher wing
-*[other] watcher wings
+[1] крило вартового
+*[other] крила вартового
 }
 
 stack-magma-wing = {$amount ->
-[1] magma watcher wing
-*[other] magma watcher wings
+[1] крило магмового вартового
+*[other] крила магмового вартового
 }
 
 stack-ice-wing = {$amount ->
-[1] ice watcher wing
-*[other] ice watcher wings
+[1] крило крижаного вартового
+*[other] крила крижаного вартового
 }
 
 stack-legion-skull = {$amount ->
-[1] legion skull
-*[other] legion skull
+[1] череп легіону
+*[other] черепи легіону
 }

@@ -1,10 +1,10 @@
-borg-type-security-name = Security
-borg-type-security-desc = Assist security in the fight for justice by detaining dangerous criminals.
-borg-type-security-transponder = security cyborg
+borg-type-security-name = Охорона
+borg-type-security-desc = Допомагайте службі безпеки боротися за справедливість, затримуючи небезпечних злочинців.
+borg-type-security-transponder = кіборг служби безпеки
 
-# Euphoria: Was [color=red]This brain is damaged beyond use.[/color]
-brain-cannot-be-borged-message = [color=red]This brain doesn't appear to be man-machine interface compatible.[/color]
+# Ейфорія: Було [color=red]Цей мозок пошкоджено й він непридатний до використання.[/color]
+brain-cannot-be-borged-message = [color=red]Схоже, цей мозок несумісний з інтерфейсом «людина-машина».[/color]
 
-borg-type-any-transponder = cyborg
-station-ai-transponder = station ai
-toggle-borg-pda = View PDA
+borg-type-any-transponder = кіборг
+station-ai-transponder = ШІ станції
+toggle-borg-pda = Відкрити КПК

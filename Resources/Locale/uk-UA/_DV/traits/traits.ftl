@@ -1,72 +1,72 @@
-trait-scottish-accent-name = Scottish accent
-trait-scottish-accent-desc = Fer tha folk who come frae Hielan clan.
+trait-scottish-accent-name = Шотландський акцент
+trait-scottish-accent-desc = Для тих, хто походить із гірських кланів.
 
-trait-french-accent-name = French accent
-trait-french-accent-desc = 'Ze winds are changing, and you 'ave a strong desire for wine and baguettes.
+trait-french-accent-name = Французький акцент
+trait-french-accent-desc = «Зе вітри змінюються, і ви маєте сильне бажання до вина та багетів».
 
-trait-spanish-accent-name = Spanish accent
-trait-spanish-accent-desc = Your Espanish traditions shine through, get those espesos!
+trait-spanish-accent-name = Іспанський акцент
+trait-spanish-accent-desc = Ваші іспанські традиції яскраво проявляються, діставайте еспесо!
 
-trait-mobster-accent-name = Mobster accent
-trait-mobster-accent-desc = Fugeddaboutit! Yous talk numhally, capiche?
+trait-mobster-accent-name = Акцент гангстера
+trait-mobster-accent-desc = Забудь про це! Ти говориш нормально, зрозумів?
 
-trait-irish-accent-name = Irish accent
-trait-irish-accent-desc = Ya sap! Seems you got a pet hate fer rubbish!
+trait-irish-accent-name = Ірландський акцент
+trait-irish-accent-desc = Ти, друже! Схоже, ти страшенно ненавидиш сміття!
 
-trait-ultravision-name = Ultraviolet vision
-trait-ultravision-desc = Whether through custom bionic eyes, random mutation,
-                         or being a Harpy, you perceive the world with ultraviolet light.
+trait-ultravision-name = Ультрафіолетовий зір
+trait-ultravision-desc = Через спеціальні біонічні очі, випадкову мутацію
+                         або через те, що ви Гарпія, ви сприймаєте світ за допомогою ультрафіолетового світла.
 
-trait-deuteranopia-name = Deuteranopia
-trait-deuteranopia-desc = Whether through custom bionic eyes, random mutation,
-                          or being a Vulpkanin, you have red-green colour blindness.
+trait-deuteranopia-name = Дейтеранопія
+trait-deuteranopia-desc = Через спеціальні біонічні очі, випадкову мутацію
+                          або через те, що ви Вульпканін, ви маєте червоно-зелену сліпоту.
 
-trait-hushed-name = Hushed
-trait-hushed-desc = You are unable to speak louder than a whisper.
+trait-hushed-name = Тихий голос
+trait-hushed-desc = Ви не здатні говорити голосніше за шепіт.
 
-trait-uncloneable-name = Uncloneable
-trait-uncloneable-desc = You cannot be cloned.
+trait-uncloneable-name = Неклонований
+trait-uncloneable-desc = Вас неможливо клонувати.
 
-trait-chronic-pain-name = Chronic pain
-trait-chronic-pain-desc = You're constantly in discomfort. You need painkillers to function.
+trait-chronic-pain-name = Хронічний біль
+trait-chronic-pain-desc = Ви постійно відчуваєте дискомфорт. Вам потрібні знеболювальні, щоб нормально функціонувати.
 
-trait-addicted-name = Addicted
-trait-addicted-desc = You crave the substance, and your thoughts keep drifting back to it. Without it, you feel incomplete, anxious, and on edge.
+trait-addicted-name = Залежний
+trait-addicted-desc = Ви прагнете цієї речовини, а ваші думки постійно повертаються до неї. Без неї ви почуваєтеся неповноцінно, тривожно та напружено.
 
-trait-unborgable-name = Machine incompatible
-trait-unborgable-desc = Your brain cannot be put into a man-machine interface.
+trait-unborgable-name = Несумісність із машинами
+trait-unborgable-desc = Ваш мозок неможливо помістити в людино-машинний інтерфейс.
 
-trait-depression-name = Depression
-trait-depression-desc = No mechanical effect. The world is dark but there is a light somewhere, calling to you.
+trait-depression-name = Депресія
+trait-depression-desc = Не має механічного ефекту. Світ здається темним, але десь є світло, яке кличе вас.
 
-trait-dysgraphia-name = Unable to write
-trait-dysgraphia-desc = You cannot write, whether because of a disability, your history, or by choice.
+trait-dysgraphia-name = Нездатність писати
+trait-dysgraphia-desc = Ви не можете писати через інвалідність, своє минуле або власний вибір.
 
-trait-amputee-left-arm-name = Amputee (Arm, Left)
+trait-amputee-left-arm-name = Ампутант (ліва рука)
 trait-amputee-left-arm-desc =
-    Your left arm is missing!
-    (Note: Amputee traits do not appear in the character editor preview!)
+Ваша ліва рука відсутня!
+(Примітка: риси ампутації не відображаються у попередньому перегляді редактора персонажа!)
 
-trait-amputee-right-arm-name = Amputee (Arm, Right)
+trait-amputee-right-arm-name = Ампутант (права рука)
 trait-amputee-right-arm-desc =
-    Your right arm is missing!
-    (Note: Amputee traits do not appear in the character editor preview!)
+Ваша права рука відсутня!
+(Примітка: риси ампутації не відображаються у попередньому перегляді редактора персонажа!)
 
-trait-redshirt-name = Redshirt
+trait-redshirt-name = Червоносорочечник
 trait-redshirt-desc =
-    Halves your death threshold (to 100 damage for most). You likely no longer have a critical state.
+Зменшує ваш поріг смерті вдвічі (до 100 одиниць пошкоджень для більшості). Ймовірно, у вас більше немає критичного стану.
 
-    "They said this air would be breathable.
-    Get in, get out again, and no one gets hurt.
-    Something is pulling me up the hill.
-    I look down in my red shirt.
-    I look down in my red shirt."
+    «Вони сказали, що це повітря придатне для дихання.
+    Зайти, вийти, і ніхто не постраждає.
+    Щось тягне мене вгору пагорбом.
+    Я дивлюся вниз на свою червону сорочку.
+    Я дивлюся вниз на свою червону сорочку».
 
-trait-anglish-name = Anglish tung
-trait-anglish-desc = Your tung is of the Saxons, and say unlike others aboard this skyship.
+trait-anglish-name = Англійська мова
+trait-anglish-desc = Ваш язик походить від саксів, і ви говорите не так, як інші на цьому небесному кораблі.
 
-trait-protected-name = Marked as Protected
-trait-protected-desc = Due to your position, value, or circumstances, your survival is considered preferable. You won't be targeted by kill objectives.
+trait-protected-name = Позначений як захищений
+trait-protected-desc = Через вашу посаду, цінність або обставини ваше виживання вважається бажаним. Ви не будете ціллю завдань на вбивство.
 
-trait-slavic-name = Slavic accent
-trait-slavic-desc = You kome from ze East, and speak vith strong Slavic accent!
+trait-slavic-accent-name = Слов’янський акцент
+trait-slavic-accent-desc = Ви походите зі сходу та говорите із сильним слов’янським акцентом!

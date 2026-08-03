@@ -1,25 +1,25 @@
-reagent-name-juice-pomegranate = pomegranate juice
-reagent-desc-juice-pomegranate = The sweet taste of pomegranate, minus the lust.
+reagent-name-juice-pomegranate = гранатовий сік
+reagent-desc-juice-pomegranate = Солодкий смак граната без хтивості.
 
-reagent-name-NNN = Nikko's Naughty Nectar
-reagent-desc-NNN = A sticky, musky white liquid that tastes of blueberries.
+reagent-name-NNN = Неслухняний нектар Нікко
+reagent-desc-NNN = Липка, мускусна біла рідина зі смаком чорниці.
 
-reagent-name-boykisser-energy = Boykisser Energy
-reagent-desc-boykisser-energy = Bubbly, bright magenta, and smells suspiciously like a body spray from 2009.
+reagent-name-boykisser-energy = Енергія Boykisser
+reagent-desc-boykisser-energy = Пухирчаста, яскраво-малинова рідина, яка підозріло пахне спреєм для тіла з 2009 року.
 
 reagent-name-VB-beer = Viktoria Bitter
-reagent-desc-VB-beer = Bubbly, hazy light golden, with a distinct bitterness that reminds you of Australia.
-flavor-complex-vbbeer = like you've finally sat down after a long hot days work at your blue collar 9 to 5 job.
+reagent-desc-VB-beer = Газоване, мутнувате світло-золоте пиво з виразною гіркотою, що нагадує Австралію.
+flavor-complex-vbbeer = наче ви нарешті сіли після довгого спекотного робочого дня на звичайній роботі з 9 до 17.
 
-reagent-name-bananacreampie = Banana Cream
-reagent-desc-bananacreampie = A rich and thick pale golden cream, with a strong Gros Michel banana flavor.
-flavor-complex-bananacreampie = like dreams of a banana republic, with a hint of harmbatoning clowns.
+reagent-name-bananacreampie = Банановий крем
+reagent-desc-bananacreampie = Густий і насичений блідо-золотий крем із сильним смаком банана сорту Гро-Мішель.
+flavor-complex-bananacreampie = наче мрії про бананову республіку з ноткою клоунів, що займаються гарматонгом.
 
-reagent-name-peanutoil = peanut oil
-reagent-desc-peanutoil = A stick oily substance used to make peanut butter.
+reagent-name-peanutoil = арахісова олія
+reagent-desc-peanutoil = Липка жирна речовина, що використовується для виготовлення арахісової пасти.
 
-reagent-name-peanut-butter = peanut butter
-reagent-desc-peanut-butter = A creamy and slightly sticky butter made from peanuts.
+reagent-name-peanut-butter = арахісова паста
+reagent-desc-peanut-butter = Кремова та трохи липка паста, виготовлена з арахісу.
 
-reagent-name-peanut-butter-whiskey = peanut butter whiskey
-reagent-desc-peanut-butter-whiskey = A smooth and creamy peanut butter whiskey blend.
+reagent-name-peanut-butter-whiskey = віскі з арахісовою пастою
+reagent-desc-peanut-butter-whiskey = М'яка та кремова суміш віскі з арахісовою пастою.

@@ -1,31 +1,31 @@
 # Tail
 
-marking-ThavenBasicTail = Basic Tail
-marking-ThavenBasicTail-basic = Basic Tail
+marking-ThavenBasicTail = Базовий хвіст
+marking-ThavenBasicTail-basic = Базовий хвіст
 
-marking-ThavenBigTail = Big Tail
-marking-ThavenBigTail-big1 = Tail
-marking-ThavenBigTail-big2 = Fin
+marking-ThavenBigTail = Великий хвіст
+marking-ThavenBigTail-big1 = Хвіст
+marking-ThavenBigTail-big2 = Плавець
 
-marking-ThavenTadpoleTail = Tadpole Tail
-marking-ThavenTadpoleTail-tadpole1 = Tail
-marking-ThavenTadpoleTail-tadpole2 = Fin
+marking-ThavenTadpoleTail = Хвіст пуголовка
+marking-ThavenTadpoleTail-tadpole1 = Хвіст
+marking-ThavenTadpoleTail-tadpole2 = Плавець
 
-marking-ThavenTailEel = Eel Tail (Underlay)
-marking-ThavenTailEel-eel1 = Tail
-marking-ThavenTailEel-eel2 = Fin
+marking-ThavenTailEel = Хвіст вугра (підкладка)
+marking-ThavenTailEel-eel1 = Хвіст
+marking-ThavenTailEel-eel2 = Плавець
 
-marking-ThavenTailEelOverlay = Eel Tail (Overlay)
-marking-ThavenTailEelOverlay-eel3 = Eel Tail (Overlay)
+marking-ThavenTailEelOverlay = Хвіст вугра (накладка)
+marking-ThavenTailEelOverlay-eel3 = Хвіст вугра (накладка)
 
-marking-ThavenTailNurse = Swept Tail
-marking-ThavenTailNurse-nurse1 = Tail
-marking-ThavenTailNurse-nurse2 = Stripes
+marking-ThavenTailNurse = Зачесаний хвіст
+marking-ThavenTailNurse-nurse1 = Хвіст
+marking-ThavenTailNurse-nurse2 = Смуги
 
-marking-ThavenTailStub = Stub Tail
-marking-ThavenTailStub-stub1 = Tail
-marking-ThavenTailStub-stub2 = Stripes
+marking-ThavenTailStub = Короткий хвіст
+marking-ThavenTailStub-stub1 = Хвіст
+marking-ThavenTailStub-stub2 = Смуги
 
-marking-ThavenTailThresher = Thresher Tail
-marking-ThavenTailThresher-thresher1 = Tail
-marking-ThavenTailThresher-thresher2 = Stripes
+marking-ThavenTailThresher = Хвіст лисиці-молотарки
+marking-ThavenTailThresher-thresher1 = Хвіст
+marking-ThavenTailThresher-thresher2 = Смуги

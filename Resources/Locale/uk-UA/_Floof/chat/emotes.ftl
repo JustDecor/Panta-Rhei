@@ -1,36 +1,36 @@
-# Vulpkanin/Kitsune
-chat-emote-name-yap = Yap
-chat-emote-name-yip = Yip
-chat-emote-name-gekker = Gekker
-chat-emote-name-whimper = Whimper
-chat-emote-name-whine = Whine
+# Вульпканіни/Кіцуне
+chat-emote-name-yap = Гавкіт
+chat-emote-name-yip = Тявкіт
+chat-emote-name-gekker = Гекання
+chat-emote-name-whimper = Скиглення
+chat-emote-name-whine = Ниття
 
-chat-emote-msg-yip = yips!
-chat-emote-msg-yap = yaps!
-chat-emote-msg-gekker = gekkers!
-chat-emote-msg-whimper = whimpers!
+chat-emote-msg-yip = тявкає!
+chat-emote-msg-yap = гавкає!
+chat-emote-msg-gekker = гекає!
+chat-emote-msg-whimper = скиглить!
 
-# Slime
-chat-emote-name-pop = Pop
-chat-emote-name-bubble = Bubble
+# Слайми
+chat-emote-name-pop = Лопання
+chat-emote-name-bubble = Бульбашки
 
-chat-emote-msg-bubble = bubbles.
-chat-emote-msg-pop = pops!
+chat-emote-msg-bubble = булькає.
+chat-emote-msg-pop = лопається!
 
-# Shadowkin
-chat-emote-name-mars = Mars
-chat-emote-name-wurble = Wurble
+# Тіньовики
+chat-emote-name-mars = Марс
+chat-emote-name-wurble = Вурбл
 
-chat-emote-msg-mars = mars!
-chat-emote-msg-wurble = wurbles.
+chat-emote-msg-mars = марсує!
+chat-emote-msg-wurble = вурблить.
 
-# Tajaran
-chat-emote-name-softtrill = Soft Trill
-chat-emote-msg-softtrill = trills softly.
+# Таярани
+chat-emote-name-softtrill = М'яка трель
+chat-emote-msg-softtrill = тихо трелює.
 
-chat-emote-name-felinetrill = Trill
-chat-emote-msg-felinetrill = trills.
+chat-emote-name-felinetrill = Трель
+chat-emote-msg-felinetrill = трелює.
 
-# Reptilian
-chat-emote-name-rattle = Rattle
-chat-emote-msg-rattle = rattles {POSS-ADJ($entity)} tail!
+# Рептиліани
+chat-emote-name-rattle = Брязкіт
+chat-emote-msg-rattle = гримить хвостом {POSS-ADJ($entity)}!

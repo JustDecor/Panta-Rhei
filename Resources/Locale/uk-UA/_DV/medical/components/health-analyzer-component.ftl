@@ -1,15 +1,15 @@
-health-analyzer-window-entity-unborgable-text = [color=red]Patient's brain signatures are incompatible with MMI technology![/color]
-health-analyzer-window-entity-redshirt-text = [color=red]Patient lacks recoverable critical state; damage must be under 100 points for defibrillation.[/color]
-health-analyzer-window-entity-uncloneable-text = [color=orange]Patient has an abnormal molecular body structure; cloning is impossible.[/color]
-health-analyzer-window-triage-claim = Claim Patient
-health-analyzer-window-triage-unclaim = Claimed by: {$claimedBy}
-health-analyzer-window-triage-status-None = None
-    .ToolTip = Patient with no injuries
-health-analyzer-window-triage-status-Minor = Minor
-    .ToolTip = Victim with relatively minor injuries
-health-analyzer-window-triage-status-Delayed = Delayed
-    .ToolTip = Victim's transport can be delayed. Potentially life threatening, but not immediately.
-health-analyzer-window-triage-status-Immediate = Immediate
-    .ToolTip = Victim can be helped by immediate intervention and transport. Requires medical attention for survival.
-health-analyzer-window-triage-status-Expectant = Expectant
-    .ToolTip = Victim unlikely to survive, or is already dead.
+health-analyzer-window-entity-unborgable-text = [color=red]Сигнатури мозку пацієнта несумісні з технологією ММІ![/color]
+health-analyzer-window-entity-redshirt-text = [color=red]У пацієнта відсутній стан, придатний для відновлення; для дефібриляції пошкодження мають бути меншими за 100 одиниць.[/color]
+health-analyzer-window-entity-uncloneable-text = [color=orange]Пацієнт має аномальну молекулярну структуру тіла; клонування неможливе.[/color]
+health-analyzer-window-triage-claim = Взяти пацієнта
+health-analyzer-window-triage-unclaim = Закріплено за: {$claimedBy}
+health-analyzer-window-triage-status-None = Немає
+.ToolTip = Пацієнт без травм
+health-analyzer-window-triage-status-Minor = Незначний
+.ToolTip = Постраждалий із відносно незначними травмами
+health-analyzer-window-triage-status-Delayed = Відкладений
+.ToolTip = Транспортування постраждалого можна відкласти. Стан потенційно небезпечний для життя, але не критичний негайно.
+health-analyzer-window-triage-status-Immediate = Негайний
+.ToolTip = Постраждалому потрібне негайне втручання та транспортування. Медична допомога необхідна для виживання.
+health-analyzer-window-triage-status-Expectant = Безнадійний
+.ToolTip = Постраждалий навряд чи виживе або вже мертвий.

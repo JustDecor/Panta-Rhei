@@ -1,7 +1,7 @@
-aac-tablet-title = AAC Tablet
-aac-tablet-combine = Combine
-aac-tablet-backspace = Backspace
-aac-tablet-send = Send
-aac-tablet-search-placeholder = Search phrases...
-aac-tablet-footer-hint = Press buttons to speak
-aac-tablet-footer-info = NT-AAC v2.0
+aac-tablet-title = AAC-планшет
+aac-tablet-combine = Об’єднати
+aac-tablet-backspace = Видалити
+aac-tablet-send = Надіслати
+aac-tablet-search-placeholder = Пошук фраз...
+aac-tablet-footer-hint = Натискайте кнопки, щоб говорити
+aac-tablet-footer-info = NT-AAC версії 2.0

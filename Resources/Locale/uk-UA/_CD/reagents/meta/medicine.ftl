@@ -1,29 +1,29 @@
-reagent-name-serenitol = Serenitol
-reagent-desc-serenitol = A fairly unreactive chemical that has mild antidepressant properties. Originally used to help patients overcome the loss of a pet or family friend, it is fairly safe to administer.
+reagent-name-serenitol = Серенітол
+reagent-desc-serenitol = Досить інертна хімічна речовина з легкими антидепресивними властивостями. Спочатку використовувалася, щоб допомогти пацієнтам пережити втрату домашнього улюбленця або близького друга. Є відносно безпечною для застосування.
 
-reagent-name-neurozenium = Neurozenium
-reagent-desc-neurozenium = Once considered child-safe shoe polish, Neurozenium was found to be a fairly effective antidepressant in an impressive zero-to-hero story. Do not take it with alcohol in your system. Consult a doctor before combining with other medications.
+reagent-name-neurozenium = Нейрозеніум
+reagent-desc-neurozenium = Колись Нейрозеніум вважали безпечною для дітей ваксою для взуття, але згодом він виявився доволі ефективним антидепресантом, пройшовши вражаючий шлях від нікому не потрібного засобу до корисних ліків. Не приймайте його, якщо у вашому організмі є алкоголь. Перед поєднанням з іншими медикаментами проконсультуйтеся з лікарем.
 
-reagent-name-blissifylovene = Blissifylovene
-reagent-desc-blissifylovene = A military-grade antidepressant with a very low dosage. Very powerful, though it is often considered a last resort due to its interactions with other medications and psychosis-inducing overdoses. Addictive in all but the smallest of doses.
+reagent-name-blissifylovene = Блісифіловен
+reagent-desc-blissifylovene = Військовий антидепресант, ефективний навіть у дуже малих дозах. Надзвичайно потужний, проте через взаємодію з іншими медикаментами та ризик психозу внаслідок передозування часто вважається крайнім засобом. Викликає залежність навіть у дозах, що лише трохи перевищують мінімальні.
 
-reagent-name-calmafluxine = Calmafluxine
-reagent-desc-calmafluxine = A mild, over-the-counter anxiety medication. Commonly prescribed to children as the body naturally flushes out any excess medication, making overdose functionally impossible.
+reagent-name-calmafluxine = Калмафлуксин
+reagent-desc-calmafluxine = Легкий безрецептурний препарат проти тривожності. Його часто призначають дітям, оскільки організм природним чином виводить надлишок препарату, що фактично унеможливлює передозування.
 
-reagent-name-tranquinase = Tranquinase
-reagent-desc-tranquinase = Run-of-the-mill anxiety medication. Derived from an old recipe for space bear tranquilizer, it causes tranquility and motivation. Causes intense grogginess during overdose. Do not take with alcohol.
+reagent-name-tranquinase = Транквіназа
+reagent-desc-tranquinase = Звичайний препарат проти тривожності. Створений на основі старого рецепта транквілізатора для космічних ведмедів, він викликає спокій і підвищує мотивацію. Передозування спричиняє сильну млявість. Не приймайте разом з алкоголем.
 
-reagent-name-equilibrazine = Equilibrazine
-reagent-desc-equilibrazine = A Nanotrasen engineered chemical recipe designed to keep workers working with only small doses. It didn't make the cut, but it functions as a potent treatment for anxiety and panic attacks. Can be taken fine with alcohol, but is wildly incompatible with most antidepressants.
+reagent-name-equilibrazine = Еквілібразин
+reagent-desc-equilibrazine = Хімічна формула, розроблена Nanotrasen для підтримання працездатності працівників за допомогою лише малих доз. Вона не пройшла відбір, але виявилася потужним засобом для лікування тривожності та панічних атак. Може безпечно поєднуватися з алкоголем, проте вкрай несумісна з більшістю антидепресантів.
 
-reagent-name-addictine = addictine
-reagent-desc-addictine = A chemical produced by the body when metabolizing certain medications. Causes symptoms of withdrawl. Neutralizes bloodstream cleansers like charcoal and ipecac. 
+reagent-name-addictine = Адиктин
+reagent-desc-addictine = Хімічна речовина, що виробляється організмом під час метаболізму деяких медикаментів. Спричиняє симптоми абстиненції. Нейтралізує очищувачі кровотоку, такі як активоване вугілля та іпекакуана.
 
-reagent-name-stubantazine = Stubantazine
-reagent-desc-stubantazine = A mild painkiller commonly used to treat brief stents of pain, though it lasts a little while for good measure. Overdose or consumption of alcohol may cause vomiting and digestion inefficiency.
+reagent-name-stubantazine = Стубантазин
+reagent-desc-stubantazine = Легкий знеболювальний препарат, який зазвичай використовується для лікування короткочасних нападів болю, хоча його дія триває деякий час для надійності. Передозування або вживання алкоголю може спричинити блювання та погіршення травлення.
 
-reagent-name-soretizone = Soretizone
-reagent-desc-soretizone = A fairly effective painkiller developed to treat chronic pain. It works for cases that Stubantazine won't solve. Overdoses will knock you right out. High doses may cause addiction. Does not conflict with reasonable amounts of alcohol.
+reagent-name-soretizone = Соретизон
+reagent-desc-soretizone = Досить ефективний знеболювальний препарат, розроблений для лікування хронічного болю. Він допомагає у випадках, з якими Стубантазин не справляється. Передозування миттєво позбавить вас свідомості. Великі дози можуть викликати залежність. Не конфліктує з помірною кількістю алкоголю.
 
-reagent-name-agonolexyne = Agonolexyne
-reagent-desc-agonolexyne = An incredibly potent and fast acting opioid invented to speed up the application of painkillers during surgery. Stops you from feeling pain (or really anything at all). Interacts poorly with alcohol. Known to be very addictive. Overdose may relax the lungs to the point of non-function.
+reagent-name-agonolexyne = Агонолексин
+reagent-desc-agonolexyne = Надзвичайно потужний швидкодійний опіоїд, створений для прискорення застосування знеболювальних під час операцій. Позбавляє вас здатності відчувати біль, а фактично й будь-що взагалі. Погано взаємодіє з алкоголем. Відомий своєю високою здатністю викликати залежність. Передозування може настільки розслабити легені, що вони перестануть функціонувати.

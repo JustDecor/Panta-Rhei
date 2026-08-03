@@ -1,6 +1,6 @@
-﻿gun-comp-enabled = The gun is turned [color=green]on[/color].
-gun-comp-disabled = The gun is turned [color=red]off[/color].
+﻿gun-comp-enabled = Зброя увімкнена [color=green]увімкнено[/color].
+gun-comp-disabled = Зброя вимкнена [color=red]вимкнено[/color].
 
-auto-fire-enabled = Gun turned on.
-auto-fire-disabled = Gun turned off.
-auto-fire-enabled-no-power = Gun turned on; but it has no power!
+auto-fire-enabled = Зброю увімкнено.
+auto-fire-disabled = Зброю вимкнено.
+auto-fire-enabled-no-power = Зброю увімкнено, але немає живлення!

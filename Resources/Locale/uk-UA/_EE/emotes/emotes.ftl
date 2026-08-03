@@ -1,6 +1,6 @@
-silicon-emote-deathgasp = seizes up and falls limp, {POSS-ADJ($entity)} lights sputtering into darkness...
-chat-emote-msg-deathgasp-silicon =  suddenly goes silent, with a hiss of grinding servos and a screech of dying myomers.
+silicon-emote-deathgasp = здригається та падає безсило, {POSS-ADJ($entity)} вогники мерехтять і гаснуть у темряві...
+chat-emote-msg-deathgasp-silicon = раптово замовкає, видаючи шипіння скреготливих сервоприводів і вереск вмираючих міомерів.
 # DeltaV
-chat-emote-name-whirr = Whirr
+chat-emote-name-whirr = Дзижчання
 # DeltaV
-chat-emote-name-boop = Boop
+chat-emote-name-boop = Біп

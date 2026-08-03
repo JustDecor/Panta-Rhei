@@ -1,15 +1,14 @@
-psionic-power-precognition-unknown-shuttle-sample-collector-result-message = For a moment you see the walls undulate and ooze. Spectral winged insects gather the ooze in beads and fly away.
-role-subtype-sample-collector = Sample Collector
-ghost-role-information-sample-collector-name = Sample Collector
-ghost-role-information-sample-collector-description = Purchase, and assist in the collection of, biological samples from station crew.
+psionic-power-precognition-unknown-shuttle-sample-collector-result-message = На мить ви бачите, як стіни вигинаються та сочаться. Примарні крилаті комахи збирають слиз у намистини й відлітають геть.
+role-subtype-sample-collector = Збирач зразків
+ghost-role-information-sample-collector-name = Збирач зразків
+ghost-role-information-sample-collector-description = Купуйте та допомагайте збирати біологічні зразки екіпажу станції.
 
-psionic-power-precognition-food-critic-result-message = You see a judge, not one of law, but of life, of sustainance. Have you done enough to make the lives of others fuller? Are you even capable of that? Its gaze makes you question your every competence. You are at its service and its mercy.
-role-subtype-food-critic = Food Critic
-ghost-role-information-food-critic-name = Food Critic
-ghost-role-information-food-critic-description = Test the culinary prowess of HGI's service crew. Is the food here worth risking being eaten by the rat king? You'll be the judge of that.
+psionic-power-precognition-food-critic-result-message = Ви бачите суддю, але не закону, а життя, його підтримки. Чи зробили ви достатньо, щоб зробити життя інших повнішим? Чи взагалі ви на це здатні? Його погляд змушує вас сумніватися у всіх своїх здібностях. Ви перебуваєте на його службі та під його милістю.
+role-subtype-food-critic = Критик їжі
+ghost-role-information-food-critic-name = Критик їжі
+ghost-role-information-food-critic-description = Перевірте кулінарну майстерність сервісної команди HGI. Чи варта тутешня їжа ризику бути з'їденим королем щурів? Вам вирішувати.
 
-
-psionic-power-precognition-unknown-shuttle-casino = For a brief moment, you can hear the sound of slot machines and drinks clanking together.
-role-subtype-casino-manager = Casino Manager
-ghost-role-information-casino-manager-name = Casino Manager
-ghost-role-information-casino-manager-description = Encourage "ethical and safe" gambling habits by any means.
+psionic-power-precognition-unknown-shuttle-casino = На коротку мить ви чуєте звук ігрових автоматів і дзвін келихів.
+role-subtype-casino-manager = Менеджер казино
+ghost-role-information-casino-manager-name = Менеджер казино
+ghost-role-information-casino-manager-description = Заохочуйте «етичні та безпечні» азартні ігри будь-якими засобами.

@@ -1,26 +1,26 @@
-reagent-desc-doxarubixadone-deltav = A cryogenics chemical. Heals certain types of cellular damage caused by dangerous gases and chemicals. Works regardless of the patient being alive or dead.
+reagent-desc-doxarubixadone-deltav = Кріогенна хімічна речовина. Лікує певні види клітинних пошкоджень, спричинених небезпечними газами та хімікатами. Діє незалежно від того, живий пацієнт чи мертвий.
 
-reagent-name-netinadone = netinadone
-reagent-desc-netinadone = A cryogenic drug that slowly encourages rotting matter and brain tissue to regenerate.
+reagent-name-netinadone = нетинадон
+reagent-desc-netinadone = Кріогенний препарат, який повільно стимулює регенерацію гниючих тканин і мозкової матерії.
 
-reagent-name-umbroxol = umbroxol
-reagent-desc-umbroxol = An ominous chemical. Used to treat holy damage from those weak to the veil. Overdoses may leave patients feeling cold.
+reagent-name-umbroxol = умброксол
+reagent-desc-umbroxol = Зловісна хімічна речовина. Використовується для лікування священних пошкоджень у тих, хто слабкий перед завісою. Передозування може залишити пацієнтів із відчуттям холоду.
 
-reagent-name-unholy-water = unholy water
-reagent-desc-unholy-water = Water treated with blood and sulfur. Just looking at it chills you to the bone.
+reagent-name-unholy-water = нечестива вода
+reagent-desc-unholy-water = Вода, оброблена кров’ю та сіркою. Один лише погляд на неї пробирає до кісток холодом.
 
-reagent-name-anodynafil = anodynafil
-reagent-desc-anodynafil = An effective short-lasting anesthetic that doesn't interfere with consciousness, but results in prolonged pain suppression.
+reagent-name-anodynafil = анодинафіл
+reagent-desc-anodynafil = Ефективний короткотривалий анестетик, який не впливає на свідомість, але забезпечує тривале пригнічення болю.
 
-reagent-desc-dexalin-deltav = Used for treating minor oxygen deprivation and bloodloss. A required reagent for salbutamol and convermol.
+reagent-desc-dexalin-deltav = Використовується для лікування незначного кисневого голодування та крововтрати. Необхідний реагент для салбутамолу та конвермолу.
 
-reagent-name-sanctussal = sanctus sal
-reagent-desc-sanctussal = A primitive mixture that wards off noöspheric influences. Historically a scam, but sourcing the holy water from a divine source yields factual results.
+reagent-name-sanctussal = санктус саль
+reagent-desc-sanctussal = Примітивна суміш, що відлякує ноосферні впливи. Історично вважалася шахрайством, але використання священної води з божественного джерела дає реальні результати.
 
-reagent-name-photoxadone = photoxadone
-reagent-desc-photoxadone = a strange, faintly glowing cryogenics chemical. Seems to have some effect on damages deeper than physical, even affecting the dead.
+reagent-name-photoxadone = фотоксадон
+reagent-desc-photoxadone = Дивна, слабко сяюча кріогенна хімічна речовина. Схоже, має певний вплив на пошкодження, глибші за фізичні, навіть впливаючи на мертвих.
 
-reagent-name-stabilizine = stabilizine
-reagent-desc-stabilizine = A potent chemical used to stabliize and regulate body temperature.
+reagent-name-stabilizine = стабілізин
+reagent-desc-stabilizine = Потужна хімічна речовина, що використовується для стабілізації та регуляції температури тіла.
 
-reagent-desc-omnizine-deltav = A soothing milky liquid with an iridescent gleam. A regenerative, miraculous chemical able to purge the body of most impurity. Overdose causes cancerous growth.
+reagent-desc-omnizine-deltav = Заспокійлива молочна рідина з райдужним блиском. Регенеративна, майже дивовижна хімічна речовина, здатна очистити тіло від більшості забруднень. Передозування викликає ракові утворення.

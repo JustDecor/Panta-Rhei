@@ -1,158 +1,157 @@
-# From Starlight
-language-chat-confirmation = Message will send in {$lang}.
+# Зі Starlight
+language-chat-confirmation = Повідомлення буде надіслано мовою {$lang}.
 
-language-Universal-name = Universal
-language-Universal-description = What are you?
+language-Universal-name = Універсальна
+language-Universal-description = Хто ви такі?
 
-language-Bubblish-name = Bubblish
-language-Bubblish-description = The language of Slimes. Being a mixture of bubbling noises and pops it's very difficult to speak for humans without the use of mechanical aids.
+language-Bubblish-name = Бульбашкова
+language-Bubblish-description = Мова слаймів. Будучи сумішшю булькання та лопання бульбашок, вона дуже складна для людей без використання механічних пристроїв.
 
-language-RootSpeak-name = Rootspeak
-language-RootSpeak-description = The strange whistling-style language spoken by the Diona.
+language-RootSpeak-name = Коренемова
+language-RootSpeak-description = Дивна свистяча мова, якою розмовляють діони.
 
-language-Nekomimetic-name = Nekomimetic
-language-Nekomimetic-description = To the casual observer, this language is an incomprehensible mess of broken Japanese. To the Felinids, Oni and Kitsune, it's somehow comprehensible.
+language-Nekomimetic-name = Некоміметична
+language-Nekomimetic-description = Для звичайного спостерігача ця мова є незрозумілим набором зламаної японської. Для фелінідів, оні та кіцуне вона якимось чином зрозуміла.
 
-language-Draconic-name = Sinta'Unathi
+language-Draconic-name = Сінта'Унаті
 language-Draconic-description =
-    The common language of Moghes - composed of sibilant hisses and rattles. Spoken natively by Unathi.
+    Загальна мова Могеша, що складається зі шипіння та брязкоту. Нею від народження розмовляють унаті.
 
-language-Azaziba-name = Sinta'Azaziba
+language-Azaziba-name = Сінта'Азазіба
 language-Azaziba-description =
-    A language of Moghes consisting of a combination of spoken word and gesticulation.
-    While waning since Moghes entered the galactic stage - it enjoys popular use by Unathi that never fell to the Hegemony's cultural dominance.
+    Мова Могеша, що складається з поєднання усного мовлення та жестів.
+    Хоча вона втрачає популярність після виходу Могеша на галактичну арену, її активно використовують унаті, які ніколи не піддалися культурному впливу Гегемонії.
 
-language-SolCommon-name = Sol common
+language-SolCommon-name = Загальна Сольська
 language-SolCommon-description =
-    With its roots in Mandarin Chinese - Common evolved as the official language of the Sol Alliance - with officials working to tie it together with a common tongue.
-    It's spoken by state officials - taught in schools - and spoken by those who either feel a sense of national pride in the Alliance or otherwise fell sway to the culture.
+    Виникнувши на основі мандаринської китайської, Загальна розвинулася в офіційну мову Сольського Альянсу, коли чиновники працювали над створенням спільної мови.
+    Нею розмовляють державні службовці, її викладають у школах, а також нею користуються ті, хто відчуває національну гордість за Альянс або перейняв його культуру.
 
-language-TauCetiBasic-name = Tau-Ceti Basic
+language-TauCetiBasic-name = Базова Тау-Кита
 language-TauCetiBasic-description =
-    A spiritual successor of Esperanto, established in 2404 in Tau Ceti by Ceti intellectuals.
-    Its unique, fully customized alphabet and structure allow it to be spoken even by most alien species.
-    It's the official language of Tau Ceti and has growing traction in diplomatic circles and Universalists across human space.
+    Духовна наступниця есперанто, створена у 2404 році на Тау-Кита інтелектуалами Цеті.
+    Її унікальний повністю змінений алфавіт і структура дозволяють говорити нею більшості інопланетних видів.
+    Це офіційна мова Тау-Кита, яка набуває популярності в дипломатичних колах та серед універсалістів у людському просторі.
 
-language-Tradeband-name = Tradeband
+language-Tradeband-name = Трейдбенд
 language-Tradeband-description =
-    Descended from latin and romance languages of old Earth - Tradeband remains the main tongue of the upper class of humanity.
-    The language sounds elegant and well structured to most ears. It remains in popular use with traders - diplomats - and those seeking to hold onto a piece of a romantic past.
+    Походячи від латинської та романських мов старої Землі, Трейдбенд залишається головною мовою вищого класу людства.
+    Для більшості слухачів вона звучить елегантно й структуровано. Її досі активно використовують торговці, дипломати та ті, хто хоче зберегти частинку романтичного минулого.
 
-language-Freespeak-name = Freespeak
+language-Freespeak-name = Вільномова
 language-Freespeak-description =
-    A language of renegades and frontiersmen descending from various languages from Earth-- like Hindi,
-    combined into a multi-rooted jumble that sounds incoherent or even barbarian to non-native speakers.
-    This language is the only common cultural identity for humans in the frontier. Speaking this language in itself boldly declares the speaker a free spirit.
-    It is often called 'Gutter' by Alliance citizens.
+    Мова відступників і першопрохідців, що походить із різних мов Землі, таких як гінді,
+    об'єднаних у багатокореневу суміш, яка для чужинців звучить незрозуміло або навіть варварськи.
+    Ця мова є єдиною спільною культурною ідентичністю людей на фронтирі. Говорити нею означає відкрито заявляти про свою незалежність.
+    Громадяни Альянсу часто називають її «Підворіття».
 
-language-Elyran-name = Elyran Standard
+language-Elyran-name = Еліранський стандарт
 language-Elyran-description =
-    Elyran Standard is the official tongue of the Republic of Elyra. Constructed using elements of Farsi - Arabic - and Turkish.
-    Influence from all three of these languages can be seen throughout its grammar and vocabulary.
+    Еліранський стандарт є офіційною мовою Республіки Еліра. Вона створена з елементів фарсі, арабської та турецької мов.
+    Вплив усіх трьох мов можна побачити в її граматиці та словниковому запасі.
 
-language-Canilunzt-name = Canilunzt
+language-Canilunzt-name = Канілунцт
 language-Canilunzt-description =
-    The guttural language spoken and utilized by the inhabitants of the Vazzend system,
-    composed of growls, barks, yaps, and heavy utilization of ears and tail movements. Vulpkanin speak this language with ease.
+    Гортанна мова мешканців системи Ваззенд,
+    що складається з гарчання, гавкоту, тявкання та активного використання рухів вух і хвоста. Вульпканіни легко нею розмовляють.
 
-language-Moffic-name = Moffic
-language-Moffic-description = The language of the mothpeople borders on complete unintelligibility.
+language-Moffic-name = Моффік
+language-Moffic-description = Мова людей-молі майже повністю незрозуміла.
 
-language-Binary-name = Binary
-language-Binary-description = A machine language transmitted acoustically via harsh binary chirps, whistles, hisses, and whines. Organic tongues cannot speak it without aid from special translators.
+language-Binary-name = Бінарна
+language-Binary-description = Машинна мова, що передається через різкі бінарні цвірінькання, свист, шипіння та скиглення. Органічні істоти не можуть говорити нею без спеціальних перекладачів.
 
-language-Sign-name = Tau-Ceti Basic Sign Language
-language-Sign-description = TCB-SL for short, this sign language is prevalent among mute and deaf people.
+language-Sign-name = Мова жестів Тау-Кита
+language-Sign-description = TCB-SL, або скорочено, ця мова жестів поширена серед німої та глухої частини населення.
 
-language-Marish-name = Marish
-language-Marish-description =  An inherently empathetic language, conveying emotions with a single word; spoken effortlessly by Shadekins, though nearly impossible to learn or replicate.
+language-Marish-name = Маріш
+language-Marish-description = Емпатична за своєю природою мова, яка передає емоції одним словом; нею легко розмовляють тіньовики, але майже неможливо навчитися іншим.
 
-language-ValyrianStandard-name = Valyrian Standard
+language-ValyrianStandard-name = Валірійський стандарт
 language-ValyrianStandard-description =
-    A language descended from eastern european languages of old earth - Valyrian Standard is the commonly spoken tongue of Harpies brought up on their homeworld of Valyrian 4b
-    It is rarely spoken outside of the worlds of its native speakers, and has in modern times been supplanted by the 'Conlangs of the Sol Alliance.
-    Its speakers are those who wish to uphold the traditions and beliefs of ancient peoples from before the colonial era.
+    Мова, що походить від східноєвропейських мов старої Землі. Валірійський стандарт є поширеною мовою гарпій, вихованих на їхній рідній планеті Валіріан-4b.
+    За межами світів її носіїв вона використовується рідко, а в сучасності була витіснена «конлангами» Сольського Альянсу.
+    Нею розмовляють ті, хто бажає зберігати традиції та вірування стародавніх народів доколоніальної ери.
 
-language-Chittin-name = Chittin
+language-Chittin-name = Чіттін
 language-Chittin-description =
-    A language consisting of clicks, buzzes, and some variety of harsh insect sounds.
-    Most of what makes up their speech comes from their antennae, making it a near-impossible language for those without to learn.
+    Мова, що складається з клацання, дзижчання та різноманітних різких звуків комах.
+    Більшість мовлення створюється їхніми антенами, тому для істот без них ця мова майже неможлива для вивчення.
 
-language-Nehina-name = Nēhina
-language-Nehina-description =  A language spoken by the Feroxi, well adapted to speaking under the waters of ocean planets.
+language-Nehina-name = Нейгіна
+language-Nehina-description = Мова фероксів, добре пристосована для розмови під водою на океанічних планетах.
 
-language-Kagebun-name = Kagebun
+language-Kagebun-name = Кагебун
 language-Kagebun-description =
-    An ancient language primarily used by the yōkai, originating from their supernatural roots.
-    To the uninitiated, it is a chorus of sounds ranging from eerie whispers to ritualistic chanting.
-    To those who speak it, it is a living tongue that links them to the spirit world and their ancient pacts.
+    Стародавня мова, яку переважно використовують йокаї, що походить від їхнього надприродного коріння.
+    Для непосвячених вона є хором звуків від моторошного шепоту до ритуального співу.
+    Для тих, хто нею володіє, це жива мова, що пов'язує їх зі світом духів і давніми угодами.
 
-# Animal Languages
+# Мови тварин
 
-# Floof - some of those are rebranded. Why do we have two sources of truth for language names?
-language-Bee-name = Bee
-language-Bee-description = Bzzzzzzz zzzz zzz bzzzz bzz b-bzzzzzz bzzz bzzzzzzzzzzzzzzz.
+language-Bee-name = Бджолина
+language-Bee-description = Бзззззз ззз ззз бззз бзз б-бззззз бззз бззззззззззз.
 
-language-Cat-name = Felidae
-language-Cat-description = The proto-language primarily utilized by felids, such as house cats or lions.
+language-Cat-name = Феліда
+language-Cat-description = Прадавня мова, яку переважно використовують котячі, такі як домашні коти або леви.
 
-language-Dog-name = Canini
-language-Dog-description = The proto-language primarily utilized by 'dog-like' animals, such as corgis and wolves.
+language-Dog-name = Каніні
+language-Dog-description = Прадавня мова, яку переважно використовують «собакоподібні» тварини, такі як коргі та вовки.
 
-language-Fox-name = Vulpini
-language-Fox-description = The proto-language primarily utilized by 'fox-like' animals... Do you really need an example?
+language-Fox-name = Вульпіні
+language-Fox-description = Прадавня мова, яку переважно використовують «лисицеподібні» тварини... Вам справді потрібен приклад?
 
-language-Xeno-name = Xeno
-language-Xeno-description = Sssss!
+language-Xeno-name = Ксено
+language-Xeno-description = Ссссс!
 
-language-Monkey-name = Simian
-language-Monkey-description = The proto-language primarily utilized by anthropoids, such as monkeys and apes.
+language-Monkey-name = Сіміан
+language-Monkey-description = Прадавня мова, яку переважно використовують антропоїди, такі як мавпи.
 
-language-Mouse-name = Mouse
-language-Mouse-description = Squeeek!
+language-Mouse-name = Миша
+language-Mouse-description = Пі-пі!
 
-language-Chicken-name = Chicken
-language-Chicken-description = Coot!
+language-Chicken-name = Курка
+language-Chicken-description = Ко-ко!
 
-language-Duck-name = Duck
-language-Duck-description = Quack!
+language-Duck-name = Качка
+language-Duck-description = Кря!
 
-language-Cow-name = Cow
-language-Cow-description = Moooo!
+language-Cow-name = Корова
+language-Cow-description = Му-у-у!
 
-language-Sheep-name = Sheep
-language-Sheep-description = Baaah!
+language-Sheep-name = Вівця
+language-Sheep-description = Бе-е-е!
 
-language-Kangaroo-name = Kangaroo
-language-Kangaroo-description = Chuu!
+language-Kangaroo-name = Кенгуру
+language-Kangaroo-description = Чуу!
 
-language-Pig-name = Pig
-language-Pig-description = Oink!
+language-Pig-name = Свиня
+language-Pig-description = Хрю!
 
-language-Crab-name = Crab
-language-Crab-description = Click!
+language-Crab-name = Краб
+language-Crab-description = Клац!
 
-language-Kobold-name = Draconic
-language-Kobold-description = The proto-language primarily utilized by kobolds. Unlike other proto-languages, some unathi still speak it to this very day.
+language-Kobold-name = Драконяча
+language-Kobold-description = Прадавня мова, яку переважно використовують кобольди. На відміну від інших прамов, деякі унаті досі нею розмовляють.
 
-language-Hissing-name = Hissing
-language-Hissing-description = Hiss!
+language-Hissing-name = Шипіння
+language-Hissing-description = Шшш!
 
-# Floof section begin
-language-ScugSign-name = ScugSign
-language-ScugSign-description = Wawa! The secret ScugSign making you able to understand your fellows scug!
+# Початок секції Floof
+language-ScugSign-name = Скугова жестова
+language-ScugSign-description = Вава! Таємна скугова жестова мова, що дозволяє розуміти своїх побратимів-скуґів!
 
-language-Scurret-name = Scurret
-language-Scurret-description = Wawa! A cute proto-language spoken by the scurrets.
+language-Scurret-name = Скурретська
+language-Scurret-description = Вава! Мила прамова, якою розмовляють скуррети.
 
-language-Arachnic-name = Arachnic
-language-Arachnic-description = The language of arachnids is composed of mostly clicks and hisses, it almost has a rhythmic character to it at times.
+language-Arachnic-name = Арахнічна
+language-Arachnic-description = Мова павукоподібних, що складається переважно з клацання та шипіння, іноді має майже ритмічний характер.
 
-language-Penguin-name = Penguin
-language-Penguin-description = Wank!
-# Floof section end
+language-Penguin-name = Пінгвіняча
+language-Penguin-description = Ванк!
+# Кінець секції Floof
 
-language-Eldritch-name = Eldritch
+language-Eldritch-name = Ельдрич
 language-Eldritch-description =
-    A language that is considered to be long forgotten - now the only speakers of this profaned tongue of screeches and
-    mumbles are the followers of an ancient God of Blood.
+    Мова, яку вважають давно забутою. Нині єдиними носіями цієї оскверненої мови криків і
+    бурмотіння є послідовники стародавнього Бога Крові.

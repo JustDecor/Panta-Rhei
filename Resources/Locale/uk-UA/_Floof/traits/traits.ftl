@@ -1,107 +1,107 @@
-﻿trait-name-EggLayer = Egg Layer
-trait-description-EggLayer = Your body through either mutation, oviposition, cybernetic or noospheric influence has the ability to lay eggs.
+trait-name-EggLayer = Несучість
+trait-description-EggLayer = Завдяки мутації, яйцекладінню, кібернетичному або ноосферному впливу ваше тіло здатне відкладати яйця.
 
-trait-name-Succubus = Succubus
+trait-name-Succubus = Суккуб
 trait-description-Succubus =
-    Your body has evolved to be able to metabolize cum into useful compounds.
-    You can eat normal food, but drinking cum satiates your hunger and thirst better, and also improves your health.
+    Ваше тіло еволюціонувало так, що здатне перетворювати сперму на корисні сполуки.
+    Ви можете їсти звичайну їжу, але вживання сперми краще насичує голод і спрагу, а також покращує ваше здоров'я.
 
-trait-name-LeftBionicPryArm = Left Arm Prybar Prosthetics
-trait-name-RightBionicPryArm = Right Arm Prybar Prosthetics
+trait-name-LeftBionicPryArm = Лівий біонічний протез-лом
+trait-name-RightBionicPryArm = Правий біонічний протез-лом
 trait-description-BionicPryArm =
-    Your arms have been reinforced with steel and hydraulics. You can force your way out of some unpleasant situations.
-    This trait gives you cybernetic DX-1 Pryarms, which let you pry open unpowered doors easily.
-    (They essentially function like a crowbar)
+    Ваші руки були посилені сталлю та гідравлікою. Ви можете силою вибратися з деяких неприємних ситуацій.
+    Ця риса надає вам кібернетичні DX-1 протези-ломи, які дозволяють легко відкривати незнеструмлені двері.
+    (Фактично вони працюють як лом)
 
-trait-dog-accent-name = Dog accent
-trait-dog-accent-desc = Bork.
+trait-dog-accent-name = Собачий акцент
+trait-dog-accent-desc = Гав.
 
-trait-marked-remove-name = Marked for Removal
-trait-marked-remove-desc = Someone or something wants you REMOVED. Antags can recieve objectives to kill you and keep you dead.
+trait-marked-remove-name = Позначений на усунення
+trait-marked-remove-desc = Хтось або щось хоче, щоб вас ВИДАЛИЛИ. Антагоністи можуть отримати завдання вбити вас і переконатися, що ви залишаєтеся мертвим.
 
-trait-marked-teach-name = Marked for Death
-trait-marked-teach-desc = Someone or something wants you taught a lesson. Antags can recieve objectives to kill you.
+trait-marked-teach-name = Позначений на покарання
+trait-marked-teach-desc = Хтось або щось хоче провчити вас. Антагоністи можуть отримати завдання вбити вас.
 
-trait-conversion-immune-name = Unconvertible
+trait-conversion-immune-name = Несхильний до навернення
 trait-conversion-immune-desc =
-    This trait prevents you from being converted mid-round by certain antags.
-    Currently only affects the Cosmic Cult.
-    NOTE: This trait DOES NOT protect you from being killed if you abuse it (e.g baiting antags into failing to convert you).
+    Ця риса запобігає вашому перетворенню протягом раунду деякими антагоністами.
+    Наразі впливає лише на Космічний культ.
+    ПРИМІТКА: Ця риса НЕ захищає вас від смерті, якщо ви зловживаєте нею (наприклад, провокуєте антагоністів на невдалу спробу навернення).
 
-trait-name-CyberEyes = Cyber-Eyes Basic System
+trait-name-CyberEyes = Базова система кіберочей
 trait-description-CyberEyes =
-    One or more of your eyes have been replaced with modular cybernetic optical implants.
-    Their most basic functionality is to ameliorate weaknesses in the wearer's natural eyes.
-    The functionality of these implants can be extended with a variety of commercially available upgrades.
-    This provides immunity from most bright flashes of light, such as those from welding arcs.
+    Одне або декілька ваших очей були замінені на модульні кібернетичні оптичні імпланти.
+    Їхня базова функція полягає у виправленні недоліків природного зору носія.
+    Функціональність цих імплантів можна розширити за допомогою різноманітних доступних комерційних модулів.
+    Забезпечує імунітет до більшості яскравих спалахів світла, наприклад від зварювальної дуги.
 
-trait-name-CyberEyesFlare = Cyber-Eyes: Flare Protection Module
-trait-description-CyberEyesFlare = Your Cyber-Eyes have been upgraded with a set of photochromic lenses that automatically darken in response to intense light.
-    This helps prevent optical damage caused by events such as exposure to welding arcs.
+trait-name-CyberEyesFlare = Кіберочі: модуль захисту від спалахів
+trait-description-CyberEyesFlare = Ваші кіберочі були покращені фотохромними лінзами, які автоматично затемнюються у відповідь на сильне світло.
+    Це допомагає запобігти пошкодженню зору від таких подій, як вплив зварювальної дуги.
 
-trait-name-CyberEyesNightVision = Cyber-Eyes: Light Amplification Module
+trait-name-CyberEyesNightVision = Кіберочі: модуль підсилення світла
 trait-description-CyberEyesNightVision =
-    Your Cyber-Eyes have been enhanced with a light amplifier module, enabling the user to toggle between standard sight and "Night Vision" mode.
+    Ваші кіберочі були оснащені підсилювачем світла, що дозволяє перемикатися між стандартним зором і режимом «Нічне бачення».
 
-trait-name-CyberEyesThermoVision = Cyber-Eyes: Thermographic Scanner Module
+trait-name-CyberEyesThermoVision = Кіберочі: модуль термографічного сканера
 trait-description-CyberEyesThermoVision =
-    Your Cyber-Eyes have been enhanced with a Thermographic Scanner. When enabled, it captures a snapshot of the user's surroundings, while highlighting all
-    biological life forms. It can even detect individuals through the walls of a station.
+    Ваші кіберочі були оснащені термографічним сканером. При активації він створює знімок навколишнього середовища користувача, виділяючи всі
+    біологічні форми життя. Він навіть може виявляти людей крізь стіни станції.
 
-trait-name-CyberEyesSecurity = Cyber-Eyes: SecHud Module
+trait-name-CyberEyesSecurity = Кіберочі: модуль SecHud
 trait-description-CyberEyesSecurity =
-    Your Cyber-Eyes have been upgraded to include a built-in Security Hud. Note that this augmentation is considered Contraband
-    for anyone not under the employ of station Security personnel, and may be disabled by your employer before dispatch to the station.
+    Ваші кіберочі були модернізовані вбудованим захисним HUD. Зауважте, що це покращення вважається контрабандою
+    для тих, хто не працює у службі безпеки станції, і може бути вимкнене роботодавцем перед відправленням на станцію.
 
-trait-name-CyberEyesMedical = Cyber-Eyes: MedHud Module
+trait-name-CyberEyesMedical = Кіберочі: модуль MedHud
 trait-description-CyberEyesMedical =
-    Your Cyber-Eyes have been upgraded to include a built-in Medical Hud allowing you to track the relative health condition of most organisms.
+    Ваші кіберочі були модернізовані вбудованим медичним HUD, що дозволяє відстежувати відносний стан здоров'я більшості організмів.
 
-trait-name-CyberEyesOmni = Cyber-Eyes: Premium Suite Module
+trait-name-CyberEyesOmni = Кіберочі: преміальний модуль
 trait-description-CyberEyesOmni =
-    This expensive implant provides the combined benefits of a SecHud and MedHud.
-    Note that this augmentation is considered Contraband for anyone not under the employ of command personnel,
-    and may be disabled by your employer before dispatch to the station.
+    Цей дорогий імплант поєднує переваги SecHud і MedHud.
+    Зауважте, що це покращення вважається контрабандою для тих, хто не працює під командуванням,
+    і може бути вимкнене роботодавцем перед відправленням на станцію.
 
-trait-dispel-name = Normality Projection
+trait-dispel-name = Проєкція нормальності
 trait-dispel-desc =
-    Your Mentalic abilities include the power to enforce normality upon Noospheric phenomena.
-    This power, commonly known as "Dispel", allows the user to destroy otherworldly entities with their mind,
-    or to immediately end psychic effects.
+    Ваші ментальні здібності дозволяють нав'язувати нормальність ноосферним явищам.
+    Ця сила, відома як «Розвіювання», дозволяє користувачу знищувати потойбічні сутності силою думки
+    або миттєво припиняти психічні ефекти.
 
-trait-metapsionic-name = Metapsion
+trait-metapsionic-name = Метапсіон
 trait-metapsionic-desc =
-    You are able to intuitively sense the activation of psionic abilities, as well as send out a 'scanning' pulse
-    to detect whether or not psions are nearby. This ability has a wide area of effect, and cannot precisely
-    scan individual entities. Still, it is better than being blind.
+    Ви можете інтуїтивно відчувати активацію псіонічних здібностей, а також випускати «скануючий» імпульс
+    для виявлення наявності псіонів поблизу. Ця здатність має широку область дії та не може точно
+    просканувати окремі сутності. Проте це краще, ніж бути сліпим.
 
-trait-precognition-name = Prophecy
+trait-precognition-name = Передбачення
 trait-precognition-desc =
-    You are able to glimpse the future in the form of vague and cryptic messages.
-    This rare power gave form to many religions on primitive worlds, carriers of such a gift were granted titles like prophet.
-    Modern psicence disproves this as a psionic gift rather then any divinity.
+    Ви здатні бачити уривки майбутнього у вигляді туманних і загадкових повідомлень.
+    Ця рідкісна сила дала початок багатьом релігіям на примітивних світах, а носії такого дару отримували титули на кшталт пророка.
+    Сучасна псіонаука доводить, що це псіонічний дар, а не прояв божественності.
 
-trait-psychokinetic-scream-name = Psychokinetic Scream
+trait-psychokinetic-scream-name = Психокінетичний крик
 trait-psychokinetic-scream-desc =
-    You are able to emit a psychokinetic burst, similiar to a haunting scream to shatter lights and morale.
-    Such screams are reminiscent of mythological creatures known as Banshees, which are known as harbingers of grief and death.
-    There are rumors that exist of an alien military in the outer rim which fields soldiers with this power as melee shock troops.
+    Ви здатні випускати психокінетичний імпульс, подібний до моторошного крику, що руйнує освітлення та моральний дух.
+    Такі крики нагадують міфологічних істот, відомих як банші, які вважаються провісниками горя і смерті.
+    Існують чутки про інопланетну армію на зовнішньому краю, яка використовує солдатів із цією силою як ударні загони ближнього бою.
 
-trait-psionic-regeneration-name = Psionic Regeneration
+trait-psionic-regeneration-name = Псіонічна регенерація
 trait-psionic-regeneration-desc =
-    Your body and more importantly heart is capable channelling φ into limited regeneration.
-    After a short delay your body creates a chemical known as Prometheum which rapidly burns through your energy reserves to heal you.
+    Ваше тіло, а особливо серце, здатне спрямовувати φ для обмеженої регенерації.
+    Після короткої затримки ваше тіло створює хімічну речовину під назвою Прометей, яка швидко витрачає ваші енергетичні запаси для лікування.
 
-trait-religious-name = Religious
+trait-religious-name = Релігійність
 trait-religious-desc =
-    You are deeply religious, and a holy book in your hands is capable of miracles.
-    (Bible not included)
+    Ви глибоко релігійні, і священна книга у ваших руках здатна творити дива.
+    (Біблія не входить до комплекту)
 
-trait-name-OniShooting = Can't Aim
-trait-description-OniShooting = Due to an innate skill issue, you can't aim at all.
+trait-name-OniShooting = Не вмієте цілитися
+trait-description-OniShooting = Через вроджену проблему зі здібностями ви зовсім не можете нормально прицілюватися.
 
-trait-name-BadShooting = Bad Aim
-trait-description-BadShooting = Due to a lack of training or simply a lack of skill or talent, you can't aim very well.
+trait-name-BadShooting = Погане прицілювання
+trait-description-BadShooting = Через відсутність тренувань або просто нестачу навичок чи таланту ви погано прицілюєтеся.
 
-trait-rrrolling-accent-name = Rrrolling Accent
-trait-rrrolling-accent-desc = Whether it's from culture, physicality, or just an affectation you roll your 'r's.
+trait-rrrolling-accent-name = Розкатистий акцент
+trait-rrrolling-accent-desc = Через культуру, фізичні особливості або просто звичку ви розкатуєте звук «р».

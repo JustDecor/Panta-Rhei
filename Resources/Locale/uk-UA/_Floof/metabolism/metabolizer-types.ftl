@@ -1,1 +1,1 @@
-﻿metabolizer-type-vampiric = Vampiric
+metabolizer-type-vampiric = Вампіричний

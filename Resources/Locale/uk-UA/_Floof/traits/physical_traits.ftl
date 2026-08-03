@@ -1,111 +1,111 @@
-trait-weightlight-name = Lightweight
+trait-weightlight-name = Легковаговість
 trait-weightlight-desc =
-    You are naturally lighter than other representatives of your species. Your body density is reduced to 2/3 of normal.
-    Note: [color=red]this will not display in the character creation menu, and will only have effect in-game.[/color]
+    Ви природно легші за інших представників свого виду. Щільність вашого тіла знижена до 2/3 від нормальної.
+    Примітка: [color=red]це не відображатиметься у меню створення персонажа і матиме ефект лише в грі.[/color]
 
-trait-weightheavy-name = Heavyweight
+trait-weightheavy-name = Важковаговість
 trait-weightheavy-desc =
-    You are naturally heavier than other representatives of your species. Your body density is increased to 140% of normal.
-    Note: [color=red]this will not display in the character creation menu, and will only have effect in-game.[/color]
+    Ви природно важчі за інших представників свого виду. Щільність вашого тіла збільшена до 140% від нормальної.
+    Примітка: [color=red]це не відображатиметься у меню створення персонажа і матиме ефект лише в грі.[/color]
 
-trait-vigor-name = Vigor
+trait-vigor-name = Життєва сила
 trait-vigor-desc =
-    Whether by pure determination, fitness, or bionic augmentations, your endurance is enhanced.
-    Your stamina thresholds are 20% greater than usual.
+    Завдяки чистій рішучості, фізичній підготовці або біонічним імплантам ваша витривалість покращена.
+    Ваші пороги витривалості на 20% вищі за звичайні.
 
-trait-lethargy-name = Lethargy
+trait-lethargy-name = Млявість
 trait-lethargy-desc =
-    You become tired faster than others, making you more vulnerable to exhaustion and fatigue.
-    Your stamina thresholds are 20% lower than usual.
+    Ви втомлюєтеся швидше за інших, що робить вас більш вразливими до виснаження та втоми.
+    Ваші пороги витривалості на 20% нижчі за звичайні.
 
-trait-weakness-name = Weakness
+trait-weakness-name = Слабкість
 trait-weakness-desc =
-    You are naturally more vulnerable to fatigue. Your stamina pool is halved, making you greatly vulnerable to shoving and stunning attacks.
+    Ви природно більш схильні до втоми. Ваш запас витривалості зменшений удвічі, що значно підвищує вразливість до штовхань і оглушливих атак.
 
-trait-talons-name = Talons
+trait-talons-name = Кігті
 trait-talons-desc =
-    Your fingertips have been replaced with piercing talons.
-    Your unarmed melee attacks deal Piercing damage instead of the standard damage type for your species. Does not confer any benefit to armed melee.
+    Кінчики ваших пальців були замінені на гострі пронизливі кігті.
+    Ваші беззбройні атаки завдають колючої шкоди замість стандартного типу шкоди вашого виду. Не дає переваг для озброєного бою.
 
-trait-claws-name = Claws
+trait-claws-name = Лапи
 trait-claws-desc =
-    Your Fingertips have been replaced with sharp claws. 
-    Your unarmed melee attacks deal Slashing damage instead of the standard type for your species.
+    Кінчики ваших пальців були замінені на гострі кігті.
+    Ваші беззбройні атаки завдають ріжучої шкоди замість стандартного типу шкоди вашого виду.
 
-trait-natural-weapon-removal-name = Natural Weapon Removal
+trait-natural-weapon-removal-name = Видалення природної зброї
 trait-natural-weapon-removal-desc =
-    Whatever "Natural Weapons" your species are born with have been removed. As a result your fists are your favored weapon.
-    Unarmed attacks deal Blunt damage instead of the standard type for your species. Does not confer any benefit to armed melee.
+    Будь-яка «природна зброя», з якою народжуються представники вашого виду, була видалена. Через це ваші кулаки стали вашою основною зброєю.
+    Беззбройні атаки завдають дробильної шкоди замість стандартного типу шкоди вашого виду. Не дає переваг для озброєного бою.
 
-trait-Improved-Unarmed-name = Improved Unarmed
+trait-Improved-Unarmed-name = Покращений беззбройний бій
 trait-Improved-Unarmed-desc =
-    You hit harder than most when you punch, where from having striking calluses, improved strength, or just better technique.
-    Increases unarmed melee damage by 1 blunt. Does not confer any benefit to armed melee.
+    Ви б'єте сильніше за більшість завдяки загартованим кісточкам, покращеній силі або просто кращій техніці.
+    Збільшує шкоду беззбройних атак на 1 одиницю дробильної шкоди. Не дає переваг для озброєного бою.
 
-trait-coldtolerance-name = Cold Tolerance
+trait-coldtolerance-name = Стійкість до холоду
 trait-coldtolerance-desc = 
-    Your tolerance for cold temperatures is a bit more robust than most of your species.
+    Ваша переносимість низьких температур трохи краща, ніж у більшості представників вашого виду.
 
-trait-coldtoleranceadvanced-name = Cold Tolerance - Advanced
+trait-coldtoleranceadvanced-name = Стійкість до холоду - покращена
 trait-coldtoleranceadvanced-desc = 
-    Those who complain about the cold are just whining. Your tolerance for cold temperatures is much more robust than most.
-    (Equivalent to Vulpkanin cold tolerance)
+    Ті, хто скаржиться на холод, просто ниють. Ваша переносимість низьких температур значно краща, ніж у більшості.
+    (Еквівалентно стійкості вульпканінів до холоду)
 
-trait-heattolerance-name = Heat Tolerance
+trait-heattolerance-name = Стійкість до спеки
 trait-heattolerance-desc = 
-    Your tolerance for hot temperatures is a bit more robust than most of your species.
+    Ваша переносимість високих температур трохи краща, ніж у більшості представників вашого виду.
 
-trait-heattoleranceadvanced-name = Heat Tolerance - Advanced
+trait-heattoleranceadvanced-name = Стійкість до спеки - покращена
 trait-heattoleranceadvanced-desc = 
-    Those who complain about the heat are just whining. Your tolerance for hot temperatures is much more robust than most.
+    Ті, хто скаржиться на спеку, просто ниють. Ваша переносимість високих температур значно краща, ніж у більшості.
 
-trait-coldintolerance-name = Cold Intolerance
+trait-coldintolerance-name = Непереносимість холоду
 trait-coldintolerance-desc = 
-    Whether by growing up in a hot place, or from some genetic reason, your tolerance for cold temperatures is worse than others of your species.
+    Чи то через життя у теплому середовищі, чи через генетичні особливості, ваша переносимість холоду гірша, ніж у інших представників вашого виду.
 
-trait-coldintoleranceadvanced-name = Cold Intolerance - Advanced
+trait-coldintoleranceadvanced-name = Непереносимість холоду - покращена
 trait-coldintoleranceadvanced-desc = 
-    You simply can't handle the cold.
+    Ви просто не здатні витримувати холод.
 
-trait-heatintolerance-name = Heat Intolerance
+trait-heatintolerance-name = Непереносимість спеки
 trait-heatintolerance-desc = 
-    Whether by growing up in a cold place, or from some genetic reason, your tolerance for hot temperatures is worse than others of your species.
+    Чи то через життя у холодному середовищі, чи через генетичні особливості, ваша переносимість спеки гірша, ніж у інших представників вашого виду.
 
-trait-heatintoleranceadvanced-name = Heat Intolerance - Advanced
+trait-heatintoleranceadvanced-name = Непереносимість спеки - покращена
 trait-heatintoleranceadvanced-desc = 
-    You simply can't handle the heat. 
+    Ви просто не здатні витримувати спеку.
 
-trait-glassjaw-name = Glass Jaw
+trait-glassjaw-name = Скляна щелепа
 trait-glassjaw-desc = 
-    Your body is more fragile than others, resulting in a greater susceptibility to critical injuries
-    Your damage threshold for becoming Critical is decreased by 15%.
+    Ваше тіло більш крихке, ніж у інших, що робить вас більш схильними до критичних травм.
+    Ваш поріг переходу в критичний стан знижений на 15%.
 
-trait-willtodie-name = Will To Die
+trait-willtodie-name = Воля до смерті
 trait-willtodie-desc = 
-    You have an unusually weak "will to live", and will succumb to injuries sooner than others.
-    Your damage threshold for becoming Dead is decreased by 10%.
+    У вас незвично слабка «воля до життя», через що ви швидше піддаєтеся травмам, ніж інші.
+    Ваш поріг переходу в стан смерті знижений на 10%.
 
-trait-tenacity-name = Tenacity
+trait-tenacity-name = Завзятість
 trait-tenacity-desc = 
-    Whether it be through raw grit, willpower, or subtle bionic augmentations, you are hardier than others.
-    Your damage threshold for becoming Critical is increased by 5%.
+    Завдяки силі духу, волі або непомітним біонічним покращенням ви витриваліші за інших.
+    Ваш поріг переходу в критичний стан збільшений на 5%.
 
-trait-willtolive-name = Will To Live
+trait-willtolive-name = Воля до життя
 trait-willtolive-desc = 
-    You have an unusually strong "will to live", and will resist death more than others.
-    Your damage threshold for becoming Dead is increased by 5%.
+    У вас незвично сильна «воля до життя», через що ви опираєтеся смерті краще за інших.
+    Ваш поріг переходу в стан смерті збільшений на 5%.
 
-trait-brittlebone-name = Brittle Bones
+trait-brittlebone-name = Крихкі кістки
 trait-brittlebone-desc = 
-    People with this genetic disorder have bones that are easily broken, often simply by moving. 
-    This trait reduces your threshold for critical injury by 50%.
+    Люди з цим генетичним розладом мають кістки, які легко ламаються, іноді навіть від простого руху.
+    Ця риса зменшує ваш поріг критичних травм на 50%.
 
-trait-frail-name = Frail
+trait-frail-name = Кволість
 trait-frail-desc = 
-    Your body is unfortunately quite frail, resulting in a greater susceptibility to critical injuries
-    Your damage threshold for becoming Critical is decreased by 25%.
+    Ваше тіло, на жаль, досить крихке, що робить вас більш схильними до критичних травм.
+    Ваш поріг переходу в критичний стан знижений на 25%.
 
-trait-illfated-name = Ill-Fated
+trait-illfated-name = Нещаслива доля
 trait-illfated-desc = 
-    Bad things tend to happen to you, and you'll likely die sooner than others.
-    Your damage threshold for becoming Dead is decreased by 25%.
+    Погані речі мають властивість траплятися з вами, і ви, ймовірно, помрете раніше за інших.
+    Ваш поріг переходу в стан смерті знижений на 25%.
