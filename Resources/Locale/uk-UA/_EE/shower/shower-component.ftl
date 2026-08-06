@@ -1,4 +1,6 @@
-shower-turn-on = Turn On
-shower-turn-off = Turn Off
+shower-turn-on = Увімкнути
+
+shower-turn-off = Вимкнути
+
 ent-Shower = shower
-  .desc = A shower, complete with bluespace water.
+    .desc = A shower, complete with bluespace water.

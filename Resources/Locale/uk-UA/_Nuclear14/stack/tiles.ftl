@@ -1,27 +1,53 @@
 stack-metal-floor-blue = синя металева підлога
+
 stack-metal-floor-blue-solid = суцільна синя металева підлога
+
 stack-metal-floor-green = зелена металева підлога
+
 stack-metal-floor-green-solid = суцільна зелена металева підлога
+
 stack-metal-floor-grey = сіра металева підлога
+
 stack-metal-floor-grey-solid = суцільна сіра металева підлога
+
 stack-metal-floor-grey-dark = темно-сіра металева підлога
+
 stack-metal-floor-grey-dark-solid = суцільна темно-сіра металева підлога
+
 stack-metal-floor-purple = фіолетова металева підлога
+
 stack-metal-floor-purple-solid = суцільна фіолетова металева підлога
+
 stack-metal-floor-red = червона металева підлога
+
 stack-metal-floor-red-solid = суцільна червона металева підлога
+
 stack-metal-floor-teal = бірюзова металева підлога
+
 stack-metal-floor-teal-solid = суцільна бірюзова металева підлога
+
 stack-metal-floor-white = біла металева підлога
+
 stack-metal-floor-white-solid = суцільна біла металева підлога
+
 stack-metal-floor-yellow = жовта металева підлога
+
 stack-metal-floor-yellow-solid = суцільна жовта металева підлога
+
 stack-metal-floor-freezer = морозильна підлога
+
 stack-wood-floor-oak = дубова дерев’яна підлога
+
 stack-wood-floor-house = будинкова дерев’яна підлога
+
 stack-wood-floor-maple = кленова дерев’яна підлога
+
 stack-carpet-floor = килимове покриття
+
 stack-industrial-floor = промислова підлога
+
 stack-metal-tile-floor = металева плиткова підлога
+
 stack-metal-grate-floor = металева решітчаста підлога
+
 stack-metal-solid-floor = суцільна металева підлога

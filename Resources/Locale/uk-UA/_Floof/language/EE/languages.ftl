@@ -1,19 +1,19 @@
-language-SiikMaas-name = Siik'maas
+language-SiikMaas-name = Сіік'маас
+
 language-SiikMaas-description =
-    The ancient religious tongue of the Tajara, now the most widely spoken and taught language on Adhomai.
 
-language-NalRasan-name = Nal'rasan
+language-NalRasan-name = Нал'расан
+
 language-NalRasan-description =
-    A body-focused language, Nal'rasan was developed to communicate discreetly between parties.
 
-language-SiikTajr-name = Siik'tajr
+language-SiikTajr-name = Сіік'тайр
+
 language-SiikTajr-description =
-    A modern language for those with expressive ears and tails, combining vocalizations with body language.
 
-language-YaSsa-name = Ya'ssa
+language-YaSsa-name = Я'сса
+
 language-YaSsa-description =
-    A refined Siik'maas dialect once spoken by Njarir nobility, revived by the New Kingdom of Adhomai after centuries of disuse.
 
-language-Delvahii-name = Delvahii
+language-Delvahii-name = Делвахії
+
 language-Delvahii-description =
-    A Zhan-Khazan language tied to Ma'take worship, still used in religious rites and favored by farmers resisting government control.

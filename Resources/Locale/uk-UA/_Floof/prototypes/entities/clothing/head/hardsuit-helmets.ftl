@@ -1,101 +1,101 @@
 ent-ClothingHeadHelmetHardsuitSecTech = FPA-41SE Helmet
     .desc = The sturdy helmet of the security technician's hardsuit. Specialized lenses help prevent eye damage from welding arcs.
 
-ent-ClothingHeadHelmetHardsuitMystagogue = NT-46EC Helmet
-    .desc = An equally-advanced helmet for an advanced hardsuit. This one has psionic insulation, allowing Mystagogues to go about their duties even with absurd glimmer amounts.
+ent-ClothingHeadHelmetHardsuitMystagogue = NT-45e helmet
+    .desc = { ent-ClothingHeadHelmetHardsuitRd.desc }
 
-ent-ClothingHeadHelmetHardsuitERTCentcomm = NT-444CC Helmet
-    .desc = A highly-specialized tacsuit helmet adorned in green and gold, worn by Central Command Officers. Designed to keep you safe in your cushy office.
+ent-ClothingHeadHelmetHardsuitERTCentcomm = Шолом NT-444c
+    .desc = Спеціальний шолом-комбінезон, який носять офіцери Центрального командування.
 
-ent-ClothingHeadHelmetHardsuitAtmos = HpI-19A Helmet
-    .desc = The Fotia's standard helmet. It features the same heat protection as the suit, along with some integrated protective gear for the wearer's head.
+ent-ClothingHeadHelmetHardsuitAtmos = Шолом HpI-19t
+    .desc = Стандартний шолом Fotia, має такий самий теплозахист, як і костюм, а також інтегроване захисне обладнання для голови користувача.
 
-ent-ClothingHeadHelmetHardsuitEngineering = HpI-19E Helmet
-    .desc = The Lampsi's standard helmet. It features the same radiation protection as the suit, along with some integrated protective gear for the wearer's head.
+ent-ClothingHeadHelmetHardsuitEngineering = Шолом HpI-19r
+    .desc = Стандартний шолом Lampsi, він має такий самий захист від радіації, як і костюм, а також інтегровані засоби захисту для голови користувача.
 
-ent-ClothingHeadHelmetHardsuitSpatio = HpI-20LS Helmet
-    .desc = A lightweight helmet designed for the Kriti hardsuit. It allows for better mobility, along with some protection against radiation.
+ent-ClothingHeadHelmetHardsuitSpatio = Шолом HpI-20s
+    .desc = Легкий шолом, розроблений для бронежилета Kriti, забезпечує кращу мобільність, а також певний захист від радіації.
 
-ent-ClothingHeadHelmetHardsuitSalvage = HpI-20LM Helmet
-    .desc = A bulky helmet designed for the Lavrion hardsuit. It has reinforced plating to protect the wearer's head in wildlife encounters.
+ent-ClothingHeadHelmetHardsuitSalvage = Шолом HpI-20a
+    .desc = Об'ємний шолом, розроблений для бронежилета Lavrion, має посилене покриття для захисту голови під час зустрічі з дикими тваринами.
 
 ent-ClothingHeadHelmetHardsuitGoliath = HpI-20LS (M) Helmet
     .desc = A modified Kriti helmet, infused with a goliath's hide for better protection, and an eerie, unblinking eye cut from a goliath's mass.
 
-ent-ClothingHeadHelmetHardsuitMaxim = FPA/HpI-18ELS Helmet
-    .desc = An old, sturdy helmet for an old, sturdy hardsuit. Designed with the Maxim in mind, it boasts an eccentric design and hefty plating. A predication of decay washes over your mind.
+ent-ClothingHeadHelmetHardsuitMaxim = таємничий шолом
+    .desc = Старовинний шолом, здається досить міцним і легким. Він також має зловісну червоно-чорну кольорову гаму.
 
-ent-ClothingHeadHelmetHardsuitSecurity = FPA-83S Helmet
-    .desc = A bulky helmet deployed with the old Baghatur MK I tacsuit. Protects its wearer against ballistics and explosive ordnance, at the cost of some mobility.
+ent-ClothingHeadHelmetHardsuitSecurity = Шолом FPA-83s
+    .desc = об'ємний шолом, що використовується разом з костюмом "Багатур". Захищає власника від балістичних та вибухових боєприпасів, але при цьому обмежує його мобільність.
 
-ent-ClothingHeadHelmetHardsuitBrigmedic = FPA-84SM Helmet
-    .desc = A bulky helmet deployed with the old Tsagaan MK I tacsuit. Protects its wearer against ballistics, explosives, and viruses, at the cost of mobility.
+ent-ClothingHeadHelmetHardsuitBrigmedic = Шолом FPA-84m
+    .desc = об'ємний шолом, що використовується разом з костюмом "Цагаан". Захищає власника від балістичних та вибухових боєприпасів, але при цьому обмежує його мобільність.
 
-ent-ClothingHeadHelmetHardsuitWarden = FPA-92SW Helmet
-    .desc = A modified riot-control helmet for use with the older Sulde MK I tacsuit. Offers better overall protection than standard tacsuits at the expense of mobility.
+ent-ClothingHeadHelmetHardsuitWarden = Шолом FPA-92s
+    .desc = Модифікований шолом для боротьби з масовими заворушеннями для використання з костюмом Sulde. Забезпечує кращий загальний захист, ніж стандартні костюми, за рахунок мобільності.
 
-ent-ClothingHeadHelmetHardsuitCap = NT-42C Helmet
-    .desc = A special helmet for the Tengri tacsuit. Despite its lightweight appearance, it provides good all-around protection to its wearer.
+ent-ClothingHeadHelmetHardsuitCap = Шолом NT-42c
+    .desc = Спеціальний шолом для костюма Tengri, незважаючи на свою легкість, він забезпечує хороший всебічний захист свого власника.
 
-ent-ClothingHeadHelmetHardsuitEngineeringWhite = HpI-24EC Helmet
-    .desc = A high-grade helmet used with the Daedalus hardsuit. It has a lighter construction than its standard counterparts, along with more radiation protection.
+ent-ClothingHeadHelmetHardsuitEngineeringWhite = Шолом HpI-24c
+    .desc = Високоякісний шолом, що використовується з бронежилетом "Дедал", має легшу конструкцію, ніж його стандартні аналоги, а також кращий захист від радіації.
 
-ent-ClothingHeadHelmetHardsuitMedical = ZhP-25MC Helmet
-    .desc = An extraordinarily lightweight helmet designed for use with the Okuninushi hardsuit. It's primarily made from transparent hard plastics, providing complete freedom of vision.
+ent-ClothingHeadHelmetHardsuitMedical = Шолом ZhP-25m
+    .desc = Надзвичайно легкий шолом, розроблений для використання з костюмом Окунінуші.
 
-ent-ClothingHeadHelmetHardsuitRd = NT-45EC Helmet
-    .desc = A heavily-armored helmet worn over the Sophia hardsuit. it boasts the same near-immunity to explosives, heat, and radiation as the suit. Though it heavily restricts the wearer's mobility.
+ent-ClothingHeadHelmetHardsuitRd = Шолом NT-45e
+    .desc = Важкий броньований шолом, що одягається поверх бронежилета "Софія". Має майже такий самий захист від вибухів, тепла та радіації, як і костюм, але значно обмежує рухливість користувача.
 
-ent-ClothingHeadHelmetHardsuitSecurityRed = FPA-98SC Helmet
-    .desc = A high-quality helmet for the outdated Dayicin MK I tacsuit. It offers better overall protection than it's similarly-aged peers without impacting mobility as much. Implemented with last-gen NT-HUD software.
+ent-ClothingHeadHelmetHardsuitSecurityRed = Шолом FPA-98s
+    .desc = Високоякісний шолом для костюму Dayicin. Він забезпечує кращий загальний захист, ніж стандартні костюми, але при цьому не обмежує рухливість.
 
-ent-ClothingHeadHelmetHardsuitLuxury = HpI-20LC Helmet
-    .desc = A modified helmet for the Minos hardsuit, fashioned after the Logistics Officer's colors. It's been modified with graphene lining for greater mobility at the expense of physical trauma protection. Additionally it has an extra (non-functioning) antenna, because you're just that extra.
+ent-ClothingHeadHelmetHardsuitLuxury = Шолом HpI-20c
+    .desc = Модифікований шолом для бронежилета "Мінос", виконаний у кольорах офіцера логістики. Модифікований для більшої мобільності за рахунок захисту від фізичних травм.
 
-ent-ClothingHeadHelmetHardsuitSyndie = CSA-51O Helmet
-    .desc = An armored helmet deployed over a Shanlin tacsuit. This one is painted in a blood red. Designed to enable the survival of Operatives in the most dangerous of environments.
+ent-ClothingHeadHelmetHardsuitSyndie = Шолом CSA-51a
+    .desc = Броньований шолом, який одягається поверх бронежилета Shanlin. Цей шолом пофарбований у криваво-червоний колір.
 
-ent-ClothingHeadHelmetHardsuitSyndieMedic = CSA-51OM Helmet
-    .desc = An armored helmet deployed over a Zhongyao tacsuit. Featuring optic integrations for nearly every medical hud on the market. This one is painted in a blood red. Designed to enable the survival of combat medics in the most dangerous of environments.
+ent-ClothingHeadHelmetHardsuitSyndieMedic = Шолом CSA-51m
+    .desc = Броньований шолом, що одягається поверх бронежилета Zhongyao. Має оптичну інтеграцію майже для всіх медичних хаудів на ринку.
 
-ent-ClothingHeadHelmetHardsuitSyndieElite = CSA-54OE Helmet
-    .desc = An elite version of the Shanlin tacsuit's helmet, featuring improved armor and fireproofing for even greater survivability for the Elite Operatives in the especially dangerous of the most dangerous environments.
+ent-ClothingHeadHelmetHardsuitSyndieElite = Шолом CSA-54UA
+    .desc = Елітна версія шолома костюма Shanlin, з покращеною бронею та вогнезахистом.
 
-ent-ClothingHeadHelmetHardsuitSyndieCommander = CSA-54OC Helmet
-    .desc = A bulked up version of the Shanlin tacsuit's helmet, purpose-built for the Commander of a Syndicate Operative squad. This one is painted in a blood red. Has significantly improved armor for those deadly front-lines firefights.
+ent-ClothingHeadHelmetHardsuitSyndieCommander = Шолом CSA-54c
+    .desc = Збільшена версія шолома костюма Shanlin, спеціально розроблена для командирів загонів спеціального призначення. Цей шолом пофарбований у криваво-червоний колір.
 
-ent-ClothingHeadHelmetHardsuitCybersun = CSA-80OUA Helmet
-    .desc = Made of compressed red matter, this helmet was designed in the Tau chromosphere facility for the Guan Yu tacsuit. Bullets will have a tough time getting through this one.
+ent-ClothingHeadHelmetHardsuitCybersun = Шолом CSA-80UA
+    .desc = Неймовірно міцний шолом, розроблений для костюма Guan Yu.
 
-ent-ClothingHeadHelmetHardsuitWizard = WZD-84 Helmet
-    .desc = A bizarre gem-encrusted helmet from unknown origins. It provides some protection to its wearer without restricting their movements.
+ent-ClothingHeadHelmetHardsuitWizard = Шолом WZD-84
+    .desc = Химерний, інкрустований коштовним камінням шолом невідомого походження. Він забезпечує певний захист своєму власникові, не обмежуючи його рухів.
 
-ent-ClothingHeadHelmetHardsuitERTLeader = NT-444EL Helmet
-    .desc = A special hardsuit helmet worn by Leaders of an Emergency Response Team. Designed to keep you alive in the confines of a collapsing Station.
+ent-ClothingHeadHelmetHardsuitERTLeader = Шолом NT-444l
+    .desc = Спеціальний шолом-комбінезон, який носять керівники груп реагування на надзвичайні ситуації.
 
-ent-ClothingHeadHelmetHardsuitERTChaplain = NT-444EC Helmet
-    .desc = A special hardsuit helmet worn by Chaplains of an Emergency Response Team. Designed to keep you alive in the confines of a collapsing Station.
+ent-ClothingHeadHelmetHardsuitERTChaplain = шолом скафандра капелана ERT
+    .desc = Спеціальний шолом скафандра, який носять члени аварійної групи реагування.
 
-ent-ClothingHeadHelmetHardsuitERTEngineer = NT-444EE Helmet
-    .desc = A special hardsuit helmet worn by Engineers of an Emergency Response Team. Designed to keep you alive in the confines of a collapsing Station.
+ent-ClothingHeadHelmetHardsuitERTEngineer = Шолом NT-444e
+    .desc = Спеціальний захисний шолом, який носять члени інженерної групи реагування на надзвичайні ситуації.
 
-ent-ClothingHeadHelmetHardsuitERTMedical = NT-444EM Helmet
-    .desc = A special hardsuit helmet worn by Medics of an Emergency Response Team. Designed to keep you alive in the confines of a collapsing Station.
+ent-ClothingHeadHelmetHardsuitERTMedical = Шолом NT-444m
+    .desc = Спеціальний захисний шолом, який носять члени медичної бригади швидкого реагування.
 
-ent-ClothingHeadHelmetHardsuitERTSecurity = NT-444ES Helmet
-    .desc = A special hardsuit helmet worn by Security Officers of an Emergency Response Team. Designed to keep you alive in the confines of a collapsing Station.
+ent-ClothingHeadHelmetHardsuitERTSecurity = Шолом NT-444s
+    .desc = Спеціальний шолом-комбінезон, який носять члени інженерної групи реагування на надзвичайні ситуації.
 
-ent-ClothingHeadHelmetHardsuitERTJanitor = NT-444EJ Helmet
-    .desc = A special hardsuit helmet worn by Janitors of an emergency response team. Designed to keep you alive in the filthiest of messes.
+ent-ClothingHeadHelmetHardsuitERTJanitor = Шолом NT-444j
+    .desc = Спеціальний захисний шолом, який носять члени аварійно-рятувальної бригади прибиральників.
 
-ent-ClothingHeadHelmetCBURN = NT-444-CBRN Helmet
-    .desc = A pressure resistant and fireproof hood worn by special cleanup units. Designed to keep you alive while fighting biological horrors.
+ent-ClothingHeadHelmetCBURN = Каска NT-444-CBRN
+    .desc = Стійкий до тиску та вогнетривкий капюшон, який носять спеціальні підрозділи з очищення.
 
-ent-ClothingHeadHelmetHardsuitDeathsquad = TSN-M100 Helmet
-    .desc = A highly-advanced, top-of-the-line, robust helmet for special operations. Owned by the Trans-Solar Navy.
+ent-ClothingHeadHelmetHardsuitDeathsquad = Шолом NT-662ua
+    .desc = Високотехнологічний шолом найвищого класу, що використовується під час спецоперацій.
 
-ent-ClothingHeadHelmetHardsuitSanta = DNK-31 Helmet
-    .desc = A festive-looking hardsuit helmet that provides the jolly gift-giver protection from low-pressure environments.
+ent-ClothingHeadHelmetHardsuitSanta = Каска DNK-31
+    .desc = Святковий захисний шолом, який захистить веселого дарувальника від середовищ з низьким тиском.
 
 ent-ClothingHeadHelmetHardsuitPilot = RI-4202 Helmet
     .desc = Light hardsuit helmet for 'Robust' pilots. Produced by Robust Industries.
@@ -103,29 +103,29 @@ ent-ClothingHeadHelmetHardsuitPilot = RI-4202 Helmet
 ent-ClothingHeadHelmetHardsuitCybersunStealth = CSA-91OX Stealthsuit Helmet
     .desc = The Ronin's helmet. Lightly armored and required for the stealth capabilities to work.
 
-ent-ClothingHeadHelmetHardsuitCombatStandard = FPA-85 Helmet
-    .desc = An armoured helmet with a yellow visor and dual head-mounted lights. Meant to keep your noggin from busting open.
+ent-ClothingHeadHelmetHardsuitCombatStandard = Шолом FPA-85
+    .desc = громіздкий шолом, що використовується разом з костюмом Baghatur Mk.II.
 
-ent-ClothingHeadHelmetHardsuitCombatOfficer = FPA-85S Helmet
-    .desc = An armoured helmet with a yellow visor and dual head-mounted lights. Meant to keep your noggin from busting open. This one is painted in Station Security colors.
+ent-ClothingHeadHelmetHardsuitCombatOfficer = FPA-85s helmet
+    .desc = { ent-ClothingHeadHelmetHardsuitCombatStandard.desc }
 
-ent-ClothingHeadHelmetHardsuitCombatMedical = FPA-86 Helmet
-    .desc = A lightweight armoured helmet with full-face blue visor and head-mounted light. Meant to keep your noggin from busting open while doing field surgery.
+ent-ClothingHeadHelmetHardsuitCombatMedical = Шолом FPA-86
+    .desc = громіздкий шолом, що використовується разом з бронежилетом Tsagaan Mk.II.
 
-ent-ClothingHeadHelmetHardsuitCombatCorpsman = FPA-86SM Helmet
-    .desc = A lightweight armoured helmet with full-face blue visor and head-mounted light. Meant to keep your noggin from busting open while doing field surgery. This one is painted in Station Security and Medical colors.
+ent-ClothingHeadHelmetHardsuitCombatCorpsman = Шолом FPA-86m
+    .desc = { ent-ClothingHeadHelmetHardsuitCombatMedical.desc }
 
-ent-ClothingHeadHelmetHardsuitCombatRiot = FPA-93 Helmet
-    .desc = A heavy armoured helmet with a sealed visor with yellow slits and dual head-mounted lights. Meant to keep your noggin from busting open while dealing with heavy opposition.
+ent-ClothingHeadHelmetHardsuitCombatRiot = Шолом FPA-93
+    .desc = Модифікований шолом для боротьби з масовими заворушеннями для використання з костюмом Sulde Mk.II.
 
-ent-ClothingHeadHelmetHardsuitCombatWarden = FPA-93SW Helmet
-    .desc = A heavy armoured helmet with a sealed visor with yellow slits and dual head-mounted lights. Meant to keep your noggin from busting open while dealing with heavy opposition. This one is painted with the colors of Station Security and Warden's rank markings.
+ent-ClothingHeadHelmetHardsuitCombatWarden = FPA-93s helmet
+    .desc = { ent-ClothingHeadHelmetHardsuitCombatRiot.desc }
 
-ent-ClothingHeadHelmetHardsuitCombatAdvanced = FPA-99 Helmet
-    .desc = A light but durable helmet with full-face protection and four head-mounted lights. Meant to keep your noggin from busting open while leading.
+ent-ClothingHeadHelmetHardsuitCombatAdvanced = Шолом FPA-99
+    .desc = Високоякісний шолом для костюму Dayicin Mk.II.
 
-ent-ClothingHeadHelmetHardsuitCombatHoS = FPA-99SC Helmet
-    .desc = A light but durable helmet with full-face protection and four head-mounted lights. Meant to keep your noggin from busting open while leading. This one is painted with the colors of Station Security and Commander's rank markings.
+ent-ClothingHeadHelmetHardsuitCombatHoS = FPA-99s helmet
+    .desc = { ent-ClothingHeadHelmetHardsuitCombatAdvanced.desc }
 
 ent-ClothingHeadHelmetHardsuitERTLeaderElite = SDC-E101 Helmet
     .desc = A special tactical combat hardsuit helmet worn by Elite Leaders of an Emergency Response Team. Designed to keep you alive in the confines of a post-collapse Station.
@@ -145,8 +145,8 @@ ent-ClothingHeadHelmetHardsuitERTSecurityElite = SDC-E105 Helmet
 ent-ClothingHeadHelmetHardsuitERTJanitorElite = SDC-E106 Helmet
     .desc = A special tactical combat hardsuit helmet worn by Elite Janitors of an Emergency Response Team. Designed to keep you alive in the confines of a post-collapse Station that's filthier than a nuclear wasteland.
 
-ent-ClothingHeadHelmetHardsuitSyndieReverseEngineered = Reverse-Engineered CSA-51O Helmet
-    .desc = A reverse-engineered "Shanlin" helmet designed for use in special operations.
+ent-ClothingHeadHelmetHardsuitSyndieReverseEngineered = Шолом NTSA-122
+    .desc = Міцний, легкий шолом, виготовлений відділом спеціальних закупівель компанії Nanotrasen.
 
-ent-ClothingHeadHelmetHardsuitJuggernautReverseEngineered = Reverse-Engineered CSA-80OUA Helmet
-    .desc = A reverse-engineered "Guan Yu" helmet meant for use with the Reverse-Engineered CSA-80OUA. Its armor plating is nigh-impenetrable.
+ent-ClothingHeadHelmetHardsuitJuggernautReverseEngineered = Шолом NTSA-126
+    .desc = Дуже міцний шолом, виготовлений відділом спеціальних придбань компанії Nanotrasen на основі дизайну скафандра "Джаггернаут".

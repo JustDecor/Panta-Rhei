@@ -1,8 +1,12 @@
-advertisement-courierdrobe-1 = Deliver parcels wearing nothing but the most resiliant shorts!
-advertisement-courierdrobe-2 = A great investment for your survival!
-advertisement-courierdrobe-3 = Wear your brown with pride!
-advertisement-courierdrobe-4 = These shorts are comfy and easy to wear, get yours now!
-advertisement-courierdrobe-5 = Outrun every danger with our stylish clothes!
+advertisement-courierdrobe-1 = Доставляйте посилки в одних лише найміцніших шортах!
+
+advertisement-courierdrobe-2 = Чудова інвестиція у ваше виживання!
+
+advertisement-courierdrobe-3 = Носіть свій коричневий з гордістю!
+
+advertisement-courierdrobe-4 = Ці шорти зручні та легкі у носінні, купіть свої зараз!
+
+advertisement-courierdrobe-5 = Втечіть від будь-якої небезпеки в нашому стильному одязі!
 
 # im not creative enough
-thankyou-courierdrobe-1 = Thank you!
+thankyou-courierdrobe-1 = А тепер виходьте та доставляйте ту пошту!

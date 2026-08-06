@@ -1,2 +1,2 @@
-ent-DogBed = pet bed
-    .desc = A comfy looking pet bed. You can even strap your pet in, in case the gravity turns off.
+ent-DogBed = собаче ліжко
+    .desc = Виглядає затишно. Ви навіть можете пристебнути свого вихованця, якщо гравітація вимкнеться.

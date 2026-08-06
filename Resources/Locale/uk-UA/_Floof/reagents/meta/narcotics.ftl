@@ -1,8 +1,11 @@
-reagent-name-pomelustine = pomelustine
-reagent-desc-pomelustine = A weak aphrodisiac, present naturally within certain fruits such as pomegranate, usually in too small of a dose to do too much harm.
+reagent-name-pomelustine = помелюстин
 
-reagent-name-philterex = philterex
-reagent-desc-philterex = A mild aphrodisiac. It is known for its high use in particular sectors.
+reagent-desc-pomelustine = Помірний афродизіак, природно присутній у деяких фруктах, таких як гранат, зазвичай у занадто малій дозі, щоб заподіяти серйозну шкоду.
 
-reagent-name-libidozenithizine = libidozenithizine
-reagent-desc-libidozenithizine = An incredibly potent aphrodisiac. It will cause even the most reserved to lose their inhibition. Overdose is known to cause Nymphomania.
+reagent-name-philterex = фільтерекс
+
+reagent-desc-philterex = Сильний афродизіак, ще не регульований Космічним Законом. Відомий своїм високим вживанням у певних секторах.
+
+reagent-name-libidozenithizine = лібідозенітизин
+
+reagent-desc-libidozenithizine = Надзвичайно потужний афродизіак. Контрольована речовина за космічним законодавством із суворим покаранням за зловживання. Викликає втрату заборон навіть у найстриманіших. Передозування може спричинити німфоманію.

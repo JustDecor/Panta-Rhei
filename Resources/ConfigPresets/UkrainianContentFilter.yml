@@ -1,0 +1,24 @@
+# Ukrainian Content Filter Configuration
+# This file contains lists of banned words, characters, and combinations
+# for Ukrainian name validation and chat filtering
+
+# Banned words (case-insensitive)
+bannedWords:
+  - "путин"
+  - "путін"
+  - "хохли"
+  - "хохол"
+  - "москаль"
+  - "кацап"
+  - "русня"
+
+# Banned single characters (Russian-specific letters)
+bannedCharacters:
+  - "ы"  # U+044B - Russian ы
+  - "Ы"  # U+042B - Russian Ы
+  - "ё"  # U+0451 - Russian ё
+  - "Ё"  # U+0401 - Russian Ё
+  - "э"  # U+044D - Russian э
+  - "Э"  # U+042D - Russian Э
+  - "ъ"  # U+044A - Russian ъ (hard sign, not used in Ukrainian)
+  - "Ъ"  # U+042A - Russian Ъ

@@ -1,1 +1,2 @@
-ent-EscapeShuttleObjective = Escape to Midpoint alive and unrestrained
+ent-EscapeShuttleObjective = Втекти до CentCom живим та без наручників.
+    .desc = Один з наших таємних агентів проведе брифінг, коли ви прибувете. Не з'являйтеся в наручниках.

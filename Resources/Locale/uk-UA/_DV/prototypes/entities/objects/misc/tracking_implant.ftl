@@ -1,2 +1,2 @@
-ent-TrackingImplant = tracking implant
-    .desc = This implant has a tracking device attached to the suit sensor network.
+ent-TrackingImplant = імплант відстеження
+    .desc = Цей імплант має пристрій відстеження, підключений до мережі сенсорів скафандрів, а також монітор стану для радіоканалу Безпеки.

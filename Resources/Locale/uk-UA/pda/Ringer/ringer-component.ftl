@@ -2,15 +2,8 @@
 ### UI
 
 # For the PDA Ringer screen
-# FloofStation Modified!
 
 comp-ringer-vibration-popup = Ваш КПК вібрує
-
-comp-ringer-vibration-popup-concealed = КПК вібрує
-
-comp-ringer-vibration-popup-self = Ваш {$pda} вібрує
-
-comp-ringer-vibration-popup-concealed-self = КПК вібрує у вашому {$container}
 
 comp-ringer-ui-menu-title = Рінгтон
 

@@ -1,31 +1,37 @@
-cage-resist-second-person = You start removing your {$cage}.
-cage-resist-third-person = {CAPITALIZE(THE($user))} starts removing {POSS-ADJ($user)} {$cage}.
+cage-resist-second-person = Ви починаєте знімати свій {$cage}.
 
-cage-uncage-verb = Uncage
+cage-resist-third-person = {CAPITALIZE($user)} починає знімати {$cage} {$user}.
 
-accept-psionics-window-title = Psionic!
-accept-psionics-window-prompt-text-part = You rolled a psionic power!
-                                         It's possible that certain anti-psychic forces may hunt you,
-                                         so you should consider keeping it secret.
-                                         Do you still wish to be psionic?
+cage-uncage-verb = Зняти
 
-glimmer-report = Current Glimmer Level: {$level}Ψ.
-glimmer-event-report-generic = Noöspheric discharge detected. Glimmer level has decreased by {$decrease} to {$level}Ψ.
-glimmer-event-report-signatures = New psionic signatures manifested. Glimmer level has decreased by {$decrease} to {$level}Ψ.
-glimmer-event-awakened-prefix = awakened {$entity}
+accept-psionics-window-title = Псіонік!
 
-mindswap-trapped = Seems you're trapped in this vessel.
+accept-psionics-window-prompt-text-part = Ви отримали псіонічну силу!
 
-telegnostic-trapped-entity-name = severed telegnostic projection
-telegnostic-trapped-entity-desc = Its many eyes betray sadness.
+glimmer-report = Поточний рівень Мерехтіння: {$level}Ψ.
 
-psionic-burns-up = {CAPITALIZE(THE($item))} burns up with arcs of strange energy!
-psionic-burn-resist = Strange arcs dance across {THE($item)}!
+glimmer-event-report-generic = Виявлено ноосферний розряд. Рівень Мерехтіння зменшився на {$decrease} до {$level}Ψ.
 
-pyrokinesis-power-used = A wisp of flame engulfs {THE($target)}, igniting {OBJECT($target)}!
+glimmer-event-report-signatures = Виявлено нові псіонічні сигнатури. Рівень Мерехтіння зменшився на {$decrease} до {$level}Ψ.
 
-action-name-psychokinesis = Psychokinesis
-action-description-psychokinesis = Bend the fabric of space to instantly move across it.
+glimmer-event-awakened-prefix = пробуджено {$entity}
 
-action-name-rf-sensitivity = Toggle RF Sensitivity
-action-desc-rf-sensitivity = Toggle your ability to interpret radio waves on and off.
+mindswap-trapped = Здається, ви застрягли в цій посудині.
+
+telegnostic-trapped-entity-name = розірвана телегностична проекція
+
+telegnostic-trapped-entity-desc = Його численні очі видають смуток.
+
+psionic-burns-up = {CAPITALIZE($item)} палає дугами дивної енергії!
+
+psionic-burn-resist = Дивні дуги танцюють по {$item}!
+
+pyrokinesis-power-used = Струмок полум'я охоплює {THE($target)}, і запалює {OBJECT($target)}!
+
+action-name-psychokinesis = Психокінез
+
+action-description-psychokinesis = Зігнути тканину простору, щоби миттєво переміститися крізь нього.
+
+action-name-rf-sensitivity = Перемкнути чутливість до РФ
+
+action-desc-rf-sensitivity = Увімкнути або вимкнути вашу здатність інтерпретувати радіохвилі.

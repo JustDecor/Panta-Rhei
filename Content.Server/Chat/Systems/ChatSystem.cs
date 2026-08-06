@@ -80,6 +80,8 @@ public sealed partial class ChatSystem : SharedChatSystem
     //Nyano - Summary: pulls in the nyano chat system for psionics.
     [Dependency] private readonly NyanoChatSystem _nyanoChatSystem = default!;
 
+    private UkrainianChatFilter? _ukrainianChatFilter;
+
     private bool _loocEnabled = true;
     private bool _deadLoocEnabled;
     private bool _critLoocEnabled;
@@ -88,6 +90,8 @@ public sealed partial class ChatSystem : SharedChatSystem
     public override void Initialize()
     {
         base.Initialize();
+
+        _ukrainianChatFilter = new UkrainianChatFilter();
 
         Subs.CVar(_configurationManager, CCVars.LoocEnabled, OnLoocEnabledChanged, true);
         Subs.CVar(_configurationManager, CCVars.DeadLoocEnabled, OnDeadLoocEnabledChanged, true);
@@ -438,6 +442,24 @@ public sealed partial class ChatSystem : SharedChatSystem
     {
         if (!CanSpeakLanguage(source, out var language, ignoreActionBlocker: ignoreActionBlocker)) // Floofstation - replace with method call
             return;
+
+        // Ukrainian chat filter
+        if (_ukrainianChatFilter != null)
+        {
+            var filterResult = _ukrainianChatFilter.FilterMessage(source, originalMessage, out var reason);
+
+            if (filterResult == UkrainianChatFilter.FilterResult.Warned)
+            {
+                // Message was blocked and warning was issued
+                return;
+            }
+
+            if (filterResult == UkrainianChatFilter.FilterResult.Banned)
+            {
+                // Message was blocked and player was banned
+                return;
+            }
+        }
 
         var message = TransformSpeech(source, originalMessage);
 

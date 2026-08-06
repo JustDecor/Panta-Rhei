@@ -1,4 +1,3 @@
-﻿### Loc for the pneumatic cannon.
 
 pneumatic-cannon-component-itemslot-name = Бензобак
 
@@ -17,4 +16,3 @@ pneumatic-cannon-component-change-power = { $power ->
 ## Shown when being stunned by having the power too high.
 
 pneumatic-cannon-component-power-stun = Чиста сила { THE($cannon) } збиває вас з ніг!
-

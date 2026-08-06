@@ -1,3 +1,5 @@
-ghost-role-information-listeningop-name = Listening Post Operative
-ghost-role-information-listeningop-description = You are a Listening Post operative. Get into range, observe the station, intercept communications and assist any operatives in the area!
-ghost-role-information-listeningop-rules =	You are a Syndicate Operative tasked with the continuous reporting and monitoring of the station and its activities, as well as assisting any fellow operatives who may be aboard the station. As an antagonist, do whatever is required for you to complete this task. Make sure your station doesn't fall into enemy hands and DO NOT abandon your station! Hide your existence at any cost!
+ghost-role-information-listeningop-name = Оперативник Посту Прослуховування
+
+ghost-role-information-listeningop-description = Ви є оперативником посту прослуховування. Потрапте в радіус, спостерігайте за станцією, перехоплюйте зв'язок і допомагайте будь-яким оперативникам у цій області!
+
+ghost-role-information-listeningop-rules = Ви є Оперативником Синдикату, якому доручено постійне звітування та моніторинг станції та її активностей, а також допомога будь-яким побратимам-оперативникам, які можуть бути на станції. Як антагоніст, робіть все необхідне для виконання цього завдання. Переконайтеся, що ваша станція не потрапить у ворожі руки і НЕ ПОКИДАЙТЕ СВІЙ ПОСТ! Приховуйте свою існування будь-якою ціною!

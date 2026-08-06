@@ -1,27 +1,64 @@
 lathe-menu-title = Меню верстата
+
 lathe-menu-queue = Черга
+
 lathe-menu-server-list = Список серверів
+
 lathe-menu-sync = Синхронізація
+
 lathe-menu-search-designs = Пошукові конструкції
+
 lathe-menu-category-all = Усе
+
 lathe-menu-search-filter = Фільтр:
+
 lathe-menu-amount = Сума:
+
+lathe-menu-recipe-count = { $count ->
+    [1] {$count} Recipe
+    *[other] {$count} Recipes
+}
+
 lathe-menu-reagent-slot-examine = Збоку є гніздо для мензурки.
+
 lathe-reagent-dispense-no-container = Рідина виливається з {THE($name)} на підлогу!
+
 lathe-menu-result-reagent-display = {$reagent} ({$amount}u)
+
 lathe-menu-material-display = {$material} ({$amount})
+
 lathe-menu-tooltip-display = {$amount} з {$material}
+
 lathe-menu-description-display = [italic]{$description}[/italic]
+
 lathe-menu-material-amount = { $amount ->
     [1] {NATURALFIXED($amount, 2)} {$unit}
     *[other] {NATURALFIXED($amount, 2)} {$unit}ів(-и)
 }
+
 lathe-menu-material-amount-missing = { $amount ->
     [1] {NATURALFIXED($amount, 2)} {$unit} з {$material} ([color=red]{NATURALFIXED($missingAmount, 2)} {$unit} відсутній[/color])
     *[other] {NATURALFIXED($amount, 2)} {$unit}ів з {$material} ([color=red]{NATURALFIXED($missingAmount, 2)} {$unit}ів відсутні[/color])
 }
+
 lathe-menu-no-materials-message = Матеріали не завантажені.
-lathe-menu-connected-to-silo-message = Під'єднано до силосу.
+
+lathe-menu-silo-linked-message = Silo Linked
+
 lathe-menu-fabricating-message = Виготовлення...
+
 lathe-menu-materials-title = Матеріали
+
 lathe-menu-queue-title = Черга виготовлення
+
+lathe-menu-delete-fabricating-tooltip = Cancel printing the current item.
+
+lathe-menu-delete-item-tooltip = Cancel printing this batch.
+
+lathe-menu-move-up-tooltip = Move this batch ahead in the queue.
+
+lathe-menu-move-down-tooltip = Move this batch back in the queue.
+
+lathe-menu-item-single = {$index}. {$name}
+
+lathe-menu-item-batch = {$index}. {$name} ({$printed}/{$total})

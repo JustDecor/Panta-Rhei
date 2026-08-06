@@ -1,4 +1,11 @@
-ent-SeniorEngineerPDA = engineer mentor PDA
-ent-SeniorResearcherPDA = research mentor PDA
-ent-SeniorPhysicianPDA = physician mentor PDA
-ent-SeniorOfficerPDA = security mentor PDA
+ent-SeniorEngineerPDA = КПК старшого інженера
+    .desc = Здається, його розбирали і збирали кілька разів.
+
+ent-SeniorResearcherPDA = КПК старшого дослідника
+    .desc = Схоже, він пройшов через роки хімічних опіків і вибухів.
+
+ent-SeniorPhysicianPDA = КПК старшого лікаря
+    .desc = Слабко пахне залізом і хімікатами.
+
+ent-SeniorOfficerPDA = КПК старшого офіцера
+    .desc = Побитий, пошарпаний і зламаний, але ледь придатний до використання.

@@ -1,9 +1,25 @@
-shared-solution-container-component-on-examine-empty-container = Не містить хімічних речовин.
 shared-solution-container-component-on-examine-main-text = Містить [color={$color}]{$desc}[/color] {$wordedAmount}
-shared-solution-container-component-on-examine-worded-amount-one-reagent = хімічну речовину.
-shared-solution-container-component-on-examine-worded-amount-multiple-reagents = суміш хімічних речовин.
 
 examinable-solution-has-recognizable-chemicals = Ти впізнаєш {$recognizedString} у розчині.
-examinable-solution-recognized-first = [color={$color}]{$chemical}[/color]
-examinable-solution-recognized-next = , [color={$color}]{$chemical}[/color]
-examinable-solution-recognized-last = та [color={$color}]{$chemical}[/color]
+
+examinable-solution-recognized = [color={$color}]{$chemical}[/color]
+
+examinable-solution-on-examine-volume = The contained solution is { $fillLevel ->
+    [exact] holding [color=white]{$current}/{$max}u[/color].
+   *[other] [bold]{ -solution-vague-fill-level(fillLevel: $fillLevel) }[/bold].
+}
+
+examinable-solution-on-examine-volume-no-max = The contained solution is { $fillLevel ->
+    [exact] holding [color=white]{$current}u[/color].
+   *[other] [bold]{ -solution-vague-fill-level(fillLevel: $fillLevel) }[/bold].
+}
+
+examinable-solution-on-examine-volume-puddle = The puddle is { $fillLevel ->
+    [exact] [color=white]{$current}u[/color].
+    [full] huge and overflowing!
+    [mostlyfull] huge and overflowing!
+    [halffull] deep and flowing.
+    [halfempty] very deep.
+   *[mostlyempty] pooling together.
+    [empty] forming multiple small pools.
+}

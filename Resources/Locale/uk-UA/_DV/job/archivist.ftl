@@ -1,2 +1,4 @@
-ent-LibrarianPDA = archivist PDA
-ent-LibrarianIDCard = archivist ID card
+ent-LibrarianPDA = КПК бібліотекаря
+    .desc = Пахне книгами.
+
+ent-LibrarianIDCard = ID картка бібліотекаря
