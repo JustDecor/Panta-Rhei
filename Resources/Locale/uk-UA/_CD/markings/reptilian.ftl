@@ -1,15 +1,15 @@
-marking-LizardTailSnake = Зміїний хвіст
-marking-LizardTailSnake-tail_snake_primary = Основний колір
-marking-LizardTailSnake-tail_snake_secondary = Підтональний колір
+marking-LizardTailSnake = Snake Tail
+marking-LizardTailSnake-tail_snake_primary = Primary color
+marking-LizardTailSnake-tail_snake_secondary = Under Tone color
 
-marking-LizardTailSnakeStripe = Зміїний хвіст (смугастий)
-marking-LizardTailSnakeStripe-tail_snake_primary = Основний колір
-marking-LizardTailSnakeStripe-tail_snake_secondary = Колір смужок
+marking-LizardTailSnakeStripe = Snake Tail (Striped)
+marking-LizardTailSnakeStripe-tail_snake_primary = Primary color
+marking-LizardTailSnakeStripe-tail_snake_secondary = Stripes color
 
-marking-LizardTailSnakeUnder = Зміїний хвіст (під)
-marking-LizardTailSnakeUnder-tail_snake_primary = Основний колір
-marking-LizardTailSnakeUnder-tail_snake_secondary = Підтональний колір
+marking-LizardTailSnakeUnder = Snake Tail (Under)
+marking-LizardTailSnakeUnder-tail_snake_primary = Primary color
+marking-LizardTailSnakeUnder-tail_snake_secondary = Under Tone color
 
-marking-LizardTailSnakeDual = Зміїний хвіст (подвійний)
-marking-LizardTailSnakeDual-tail_snake_primary = Основний колір
-marking-LizardTailSnakeDual-tail_snake_secondary = Кінцевий колір
+marking-LizardTailSnakeDual = Snake Tail (Dual)
+marking-LizardTailSnakeDual-tail_snake_primary = Primary color
+marking-LizardTailSnakeDual-tail_snake_secondary = End color

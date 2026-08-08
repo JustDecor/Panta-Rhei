@@ -1,1 +1,1 @@
-door-electronics-configuration-title = Налаштувати доступ
+door-electronics-configuration-title = Configure Access
