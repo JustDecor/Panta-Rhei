@@ -4,4 +4,4 @@
 flash-component-user-blinds-you = {$user} засліплює вас спалахом!
 
 # Shown when a flash runs out of uses
-flash-component-becomes-empty = Спалах перегорає!
+flash-component-becomes-empty = Спалах перегорів!

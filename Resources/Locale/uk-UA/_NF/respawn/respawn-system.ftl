@@ -1,20 +1,18 @@
 ## UI
-ghost-respawn-rules-window-title = Правила відродження привида
-ghost-respawn-rules-window-confirm-button = Я розумію, відродити мене
-
+ghost-respawn-rules-window-title = Ghost Respawn Rules
+ghost-respawn-rules-window-confirm-button = I understand, respawn me
 # DeltaV - Added missing ghost-gui-respawn string
-ghost-gui-respawn = Відродження
-ghost-gui-respawn-button-denied = Відродження ({$time}s)
-ghost-gui-respawn-button-allowed = Відродження
-
+ghost-gui-respawn = Respawn
+ghost-gui-respawn-button-denied = Respawn ({$time}s)
+ghost-gui-respawn-button-allowed = Respawn
 # DeltaV - we have our own rules for respawning
-ghost-respawn-rules-window-rules = Відродження відбувається за правилом 1.3: Дотримуйтесь нового життя
+ghost-respawn-rules-window-rules = Respawning follows our rule B1.3: Follow the new life
 
-    Ви НЕ МОЖЕТЕ відродитися як персонаж, який загинув у цьому раунді. Якщо ваш персонаж загинув, ви повинні повернутися як інший персонаж. Це також стосується варіацій цього ж персонажа.
+    You MAY NOT respawn as a character who has died this round. If your character has died, you must return as a different character. This applies to variants of that same character.
 
-    Якщо ваш персонаж залишив раунд через кріокамеру, ви можете повернутися як той самий персонаж.
+    If your character left the round via a cryosleep bed, you may come back as the same character.
 
 ## COMMMANDS
-ghost-respawn-command-desc = Відроджує вас, якщо ви маєте право як привид.
-ghost-respawn-not-a-ghost = Ви зараз не привид.
-ghost-respawn-ineligible = Ви не маєте права на відродження.
+ghost-respawn-command-desc = Respawns you if you're an eligible ghost.
+ghost-respawn-not-a-ghost = You're not currently ghosted.
+ghost-respawn-ineligible = You're not currently eligible

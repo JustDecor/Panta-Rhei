@@ -1,12 +1,12 @@
 ui-vote-type-restart = Перезапуск раунду
 ui-vote-type-gamemode = Вибір режиму
-ui-vote-type-map = Інша мапа
-ui-vote-type-votekick = Викинути гравця
+ui-vote-type-map = Інша карта
+ui-vote-type-votekick = Votekick
 
 # Votekick reasons
-ui-vote-votekick-type-raiding = Набігатор
-ui-vote-votekick-type-cheating = Читер
-ui-vote-votekick-type-spamming = Спамм
+ui-vote-votekick-type-raiding = Рейдерство
+ui-vote-votekick-type-cheating = Читерство
+ui-vote-votekick-type-spamming = Спам
 
 # Window title of the vote create menu
 ui-vote-create-title = Голосування
@@ -25,18 +25,18 @@ ui-vote-type-not-available = Цей тип голосування вимкнен
 
 # Vote option only available for specific users.
 ui-vote-trusted-users-notice =
-  Цей варіант голосування доступний лише гравцям, які мають достатньо ігрового часу або перебувають у білому списку.
-  Крім того, ви повинні перебувати привидом щонайменше { $timeReq } секунд.
+  This vote option is only available to players who have enough playtime or are whitelisted.
+  In addition, you must have been a ghost for { $timeReq } seconds.
 
-# Попередження про неприпустимість зловживання певним варіантом голосування.
+# Warning to not abuse a specific vote option.
 ui-vote-abuse-warning =
-  Увага!
-  Зловживання системою голосування за вигнання гравця може призвести до безстрокового бану!
+  Warning!
+  Abuse of the votekick system may result in an indefinite ban!
 
 # Hue hue hue
 ui-vote-fluff = Технологія «Антиледащо» від компанії Робуста™
 
 ## Vote menu command
 
-ui-vote-menu-command-description = Відкрити меню голосування
-ui-vote-menu-command-help-text = Використовуйте: votemenu
+cmd-votemenu-desc = Відкрити меню голосування
+cmd-votemenu-help = Використовуйте: votemenu

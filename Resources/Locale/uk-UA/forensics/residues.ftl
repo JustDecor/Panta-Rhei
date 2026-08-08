@@ -2,10 +2,10 @@ forensic-residue = {LOC($adjective)} залишок
 forensic-residue-colored = {LOC($adjective)} {LOC($color)} залишок
 
 residue-unknown = невідомий
-residue-slippery = слизький
+residue-slippery = слизьке
 
-residue-green = зелений
-residue-blue = синій
-residue-red = червоний
-residue-grey = сірий
-residue-brown = коричневий
+residue-green = зеленого
+residue-blue = синього
+residue-red = червоного
+residue-grey = сірого
+residue-brown = коричневого

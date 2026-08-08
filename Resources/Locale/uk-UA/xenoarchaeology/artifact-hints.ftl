@@ -1,81 +1,81 @@
-# не слід створювати нові підказки для кожного ефекту/тригера
-# намагайтеся повторно використовувати їх, щоб підказка не видавала відповідь одразу. -emo
+# you shouldn't be creating new hints for every effect/trigger
+# try and reuse them so that a hint isn't a dead giveaway. -emo
 
 artifact-effect-hint-mental = Церебральний вплив
-artifact-effect-hint-environment = Порушення довкілля
-artifact-effect-hint-electrical-interference = Електричні перешкоди
-artifact-effect-hint-displacement = Метафізичне переміщення
+artifact-effect-hint-environment = Крах середовища
+artifact-effect-hint-electrical-interference = Електрична інтерференція
+artifact-effect-hint-displacement = Метафізичне зміщення
 artifact-effect-hint-creation = Створення матерії
 artifact-effect-hint-consumption = Споживання енергії
-artifact-effect-hint-release = Вивільнення енергії
-artifact-effect-hint-biochemical = Біохімічне порушення
-artifact-effect-hint-destruction = Загальностанційне руйнування
+artifact-effect-hint-release = Звільнення енергії
+artifact-effect-hint-biochemical = Біохімічне розпадання
+artifact-effect-hint-destruction = Руйнування великих масштабів
 artifact-effect-hint-gun = Прискорювач малих об'єктів
-artifact-effect-hint-multitool = Універсальний конгломерат
+artifact-effect-hint-multitool = Уніфіковане з'єднування
 artifact-effect-hint-storage = Внутрішня камера
-artifact-effect-hint-drill = Зубчастий ротор
+artifact-effect-hint-drill = Зубчастий ротатор
 artifact-effect-hint-soap = Змащена поверхня
-artifact-effect-hint-communication = Далекозв'язкова комунікація
-artifact-effect-hint-phasing = Фазування структури
+artifact-effect-hint-communication = Комунікація дальньої дії
+artifact-effect-hint-phasing = Структурна поетапність
 artifact-effect-hint-sentience = Неврологічна активність
-artifact-effect-hint-polymorph = Трансмутаційна активність
+artifact-effect-hint-polymorph = Трансмогріфікаційна активність
 artifact-effect-hint-magnet = Магнітні хвилі
 artifact-effect-hint-visual = Візуальні спотворення
 
-# тригери мають бути очевиднішими за ефекти
-# дають людям уявлення, що робити: не будьте надто конкретними (наприклад, не "зварювальники")
+# the triggers should be more obvious than the effects
+# gives people an idea of what to do: don't be too specific (i.e. no "welders")
 
 artifact-trigger-hint-electricity = Електрика
 artifact-trigger-hint-heat = Високі температури
-artifact-trigger-hint-physical = Фізичне пошкодження
-artifact-trigger-hint-tool = Використання інструментів
-artifact-trigger-hint-music = Звукові вібрації
+artifact-trigger-hint-physical = Фізична травма
+artifact-trigger-hint-tool = Використання інструменту
+artifact-trigger-hint-music = Звукові коливання
 artifact-trigger-hint-water = Гідрореактивний
 artifact-trigger-hint-blood = Реакція з гематологічною рідиною
 artifact-trigger-hint-magnet = Магнітні хвилі
-artifact-trigger-hint-death = Життєва есенція
+artifact-trigger-hint-death = Життєва сутність
 artifact-trigger-hint-radiation = Радіація
-artifact-trigger-hint-pressure = Екстремальний тиск
+artifact-trigger-hint-pressure = Екстримальний тиск
 artifact-trigger-hint-regular-gases = Стандартні атмосферні гази
 artifact-trigger-hint-plasma = Газоподібна плазма
-artifact-trigger-hint-land = Активне уповільнення
-artifact-trigger-hint-examine = Огляд
-artifact-trigger-hint-medical = Лікувальні хімікати
+artifact-trigger-hint-land = Активне гальмування
+artifact-trigger-hint-examine = Вивчення
+artifact-trigger-hint-medical = Терапевтичні хімічні речовини
 
-xenoarch-trigger-tip-music = Гармонічні звукові вібрації
+xenoarch-trigger-tip-music = Гармонійні звукові вібрації
 xenoarch-trigger-tip-heat = Газ високої температури
 xenoarch-trigger-tip-cold = Газ низької температури
-xenoarch-trigger-tip-no-oxygen = Безкисневе середовище
+xenoarch-trigger-tip-no-oxygen = Середовище без кисню
 xenoarch-trigger-tip-water = Вода
 xenoarch-trigger-tip-co2 = Вуглекислий газ
-xenoarch-trigger-tip-plasma = Непряма плазма
+xenoarch-trigger-tip-plasma = Газоподібна плазма
 xenoarch-trigger-tip-tritium = Тритій
-xenoarch-trigger-tip-ammonia = Аміак
+xenoarch-trigger-tip-ammonia = Амоніак
 xenoarch-trigger-tip-n2o = Закис азоту
 xenoarch-trigger-tip-frezon = Фрезон
 xenoarch-trigger-tip-radiation = Радіація
-xenoarch-trigger-tip-brute-damage = Фізичне пошкодження
+xenoarch-trigger-tip-brute-damage = Фізичні пошкодження
 xenoarch-trigger-tip-interaction = Фізична взаємодія
-xenoarch-trigger-tip-wrenching = Закручування
-xenoarch-trigger-tip-prying = Відкривання
-xenoarch-trigger-tip-screwing = Викручування
-xenoarch-trigger-tip-pulsing = Імпульсація
+xenoarch-trigger-tip-wrenching = Пригвинчування
+xenoarch-trigger-tip-prying = Відпирання
+xenoarch-trigger-tip-screwing = Закручування
+xenoarch-trigger-tip-pulsing = Імпульс
 xenoarch-trigger-tip-pressure-low = Низький тиск
 xenoarch-trigger-tip-pressure-high = Високий тиск
-xenoarch-trigger-tip-examine = Уважний огляд
-xenoarch-trigger-tip-timer = Регулярна самостійна активація
+xenoarch-trigger-tip-examine = Ретельний огляд
+xenoarch-trigger-tip-timer = Регулярна самоактивація
 xenoarch-trigger-tip-blood = Кров
-xenoarch-trigger-tip-throw = Кидок
+xenoarch-trigger-tip-throw = Кидання
 xenoarch-trigger-tip-death = Смерть
 xenoarch-trigger-tip-magnet = Магнітні хвилі
 
-### Описові підказки
-xenoarch-trigger-examine-wrenching = Всередині щось вільно обертається.
-xenoarch-trigger-examine-prying = З поверхні виступає панель.
-xenoarch-trigger-examine-screwing = Є піднята ділянка з невеликим заглибленням.
-xenoarch-trigger-examine-pulsing = З поверхні артефакту виступає відкритий діод.
-xenoarch-trigger-examine-timer = Поверхню вкривають різьблення та подряпини... Ви ледве можете розібрати число: [italic]{$time}[/italic]
+### Description hints
+xenoarch-trigger-examine-wrenching = Тут обертається ослаблений фрагмент.
+xenoarch-trigger-examine-prying = З поверхні піднімається панель, котру можна чимось піддіти.
+xenoarch-trigger-examine-screwing = Є виступ із невеликим поглибленням.
+xenoarch-trigger-examine-pulsing = Оголений діод, на котрий можна подати імпульс — стирчить з поверхні артефакту.
+xenoarch-trigger-examine-timer = Гравіювання й подряпини вкривають поверхню... Лише ледь можна розгледіти число: [italic]{$time}[/italic]
 
-### Підказки ефектів
-xenoarch-effect-puddle = Створює калюжу з такими реагентами: {$reagent}
-xenoarch-effect-foam = Створює піну з такими реагентами: {$reagent}
+### Effects hints
+xenoarch-effect-puddle = Створює калюжу з наступних реагентів: {$reagent}
+xenoarch-effect-foam = Створює піну з наступних реагентів: {$reagent}

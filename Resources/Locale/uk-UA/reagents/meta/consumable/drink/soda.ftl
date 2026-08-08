@@ -1,57 +1,57 @@
-reagent-name-cola = Космічна кола
-reagent-desc-cola = Солодкий, газований безалкогольний напій.
+reagent-name-cola = космо-кола
+reagent-desc-cola = Солодкий, газований безалкогольний напій. Без кофеїну.
 
 reagent-name-shirley-temple = Ширлі Темпл
-reagent-desc-shirley-temple = Улюблений напій молодших членів екіпажу.
+reagent-desc-shirley-temple = Улюблений серед молодших членів команди.
 
-reagent-name-changeling-sting = Укус Перевертня
+reagent-name-changeling-sting = укус перевертня
 reagent-desc-changeling-sting = Ви робите маленький ковток і відчуваєте печіння...
 
 reagent-name-dr-gibb = Доктор Гібб
-reagent-desc-dr-gibb = Смачна суміш з 42 різних смаків.
+reagent-desc-dr-gibb = Смачна суміш із 42 різних смаків.
 
-reagent-name-energy-drink = Ред Бул
-reagent-desc-energy-drink = Доза енергії! Nanotrasen не несе відповідальності, якщо у вас виростуть пташині придатки.
+reagent-name-energy-drink = РедБуль
+reagent-desc-energy-drink = Енергетичний напій, доволі популярний серед підлітків.
 
-reagent-name-grape-soda = виноградна содова
-reagent-desc-grape-soda = Це Винооооооград!
+reagent-name-grape-soda = виноградна сода
+reagent-desc-grape-soda = Газований виноград? Здається комусь заборонили пити вино.
 
 reagent-name-ice-cream = морозиво
-reagent-desc-ice-cream = Був вибір: це або мікрохвильовка, а ніхто не хоче суп з морозива!
+reagent-desc-ice-cream = ХТО НАГРІВ МОЄ МОРОЗИВО???
 
 reagent-name-lemon-lime = Смайт
-reagent-desc-lemon-lime = Терпка лаймово-лимонна содова.
+reagent-desc-lemon-lime = Пікантний лайм і лимонна газована вода
 
-reagent-name-lemon-lime-cranberry = Smite Cranberry
-reagent-desc-lemon-lime-cranberry = Tart cranberry, Christmas, and a hint of lemon and lime.
+reagent-name-lemon-lime-cranberry = Смайт Журавлиний
+reagent-desc-lemon-lime-cranberry = Терпка журавлина, різдвяний, з нотками лимону та лайму.
 
 reagent-name-pwr-game = PWR Game
-reagent-desc-pwr-game = Єдиний напій з PWR, якого прагнуть справжні геймери. Коли геймер говорить про геймерське паливо, він буквально має на увазі саме це.
+reagent-desc-pwr-game = Єдиний напій що містить PWR, якого прагнуть справжні геймери. Коли геймер говорить про геймерпаливо, він має на увазі саме його.
 
 reagent-name-root-beer = кореневе пиво
-reagent-desc-root-beer = Дуже солодкий, газований напій, що нагадує сарсапарілу. Добре поєднується з морозивом.
+reagent-desc-root-beer = Дуже солодкий, газований напій, що нагадує сарсарілью. Добре смакує з морозивом.
 
-reagent-name-root-beer-float = кореневе пиво-флоат
-reagent-desc-root-beer-float = Кореневе пиво, але тепер з морозивом зверху. Це справді вершина майстерності канадських літніх напоїв.
+reagent-name-root-beer-float = коктейль з кореневого пива
+reagent-desc-root-beer-float = Кореневе пиво, але тепер з морозивом зверху. Це справді великий шедевр канадських літніх напоїв.
 
-reagent-name-sol-dry = Сол Драй
+reagent-name-sol-dry = золь сухий
 reagent-desc-sol-dry = Солодка імбирна содова з космосу!
 
 reagent-name-roy-rogers = Рой Роджерс
-reagent-desc-roy-rogers = Твердий доказ того, що існує щось, відоме як "занадто солодке".
+reagent-desc-roy-rogers = Переконливий доказ того, що Є щось, відоме як занадто солодке.
 
 reagent-name-space-mountain-wind = Космічний сонячний вітер
-reagent-desc-space-mountain-wind = Продуває наскрізь, як сонячний вітер.
+reagent-desc-space-mountain-wind = Дме крізь вас, як космічний вітер.
 
-reagent-name-space-up = Спейс-ап
-reagent-desc-space-up = На смак як пробоїна в корпусі у вас в роті.
+reagent-name-space-up = Роз-Герм
+reagent-desc-space-up = На смак як пробоїна корпусу, тільки в роті.
 
-reagent-name-starkist = Старкіст
-reagent-desc-starkist = Солодкий безалкогольний напій з апельсиновим смаком.
+reagent-name-starkist = СтарКіст
+reagent-desc-starkist = Солодкий безалкогольний напій зі смаком апельсина.
 
 reagent-name-fourteen-loko = Fourteen Loko
-reagent-desc-fourteen-loko = Високооброблена рідка субстанція, що ледь відповідає міжгалактичним стандартам охорони здоров'я для безалкогольних напоїв.
+reagent-desc-fourteen-loko = Високоочищена рідка речовина, що ледь-ледь відповідає міжгалактичним санітарним нормам для безалкогольних напоїв.
 
-reagent-name-shamblers-juice = Сік шамблера
-reagent-desc-shamblers-juice = ~Налий-но мені того Соку Шамблера!~
+reagent-name-shamblers-juice = Сік Шамблерів
+reagent-desc-shamblers-juice = Дай мені трохи цього соку Шамблерів!.
 

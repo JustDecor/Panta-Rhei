@@ -162,8 +162,8 @@ marking-VoxBelly = Живіт
 marking-VoxBelly-voxbelly = Живіт
 marking-VoxTailBalled = Молотильник
 marking-VoxTailBalled-voxtailballed = Молотильник
-marking-VoxTailSplit = Подвоєний
-marking-VoxTailSplit-voxtailsplit = Роздвоєний
+#marking-VoxTailSplit = Подвоєний
+#marking-VoxTailSplit-voxtailsplit = Роздвоєний
 
 #chitinid
 marking-ChitinidBeetleHorn1 = Ріг жука (роздвоєний)

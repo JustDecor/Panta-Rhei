@@ -1,7 +1,8 @@
-chat-emote-name-spin = Обертання
-chat-emote-name-jump = Стрибок
-chat-emote-name-gulp = Ковток
 
-chat-emote-msg-spin = обертається!
-chat-emote-msg-jump = стрибає!
-chat-emote-msg-gulp = ковтає...
+chat-emote-name-spin = Spin
+chat-emote-name-jump = Jump
+chat-emote-name-gulp = Gulp
+
+chat-emote-msg-spin = spins!
+chat-emote-msg-jump = jumps!
+chat-emote-msg-gulp = gulps...

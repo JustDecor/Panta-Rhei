@@ -1,1 +1,1 @@
-flammable-component-resist-message = Ви зупиняєтесь, падаєте і крутитесь!
+flammable-component-resist-message = Зупинись, кидай і перевертайся!

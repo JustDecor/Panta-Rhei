@@ -1,5 +1,6 @@
-mime-cant-speak = Ваша обітниця мовчання забороняє спілкуватись.
-mime-invisible-wall-popup = {CAPITALIZE(THE($mime))} стикається з невидимою стіною!
-mime-invisible-wall-failed = Ви не можете створити тут невидиму стіну.
-mime-not-ready-repent = Ви ще не готові покаятися за свою порушену обітницю.
-mime-ready-to-repent = Ви відчуваєте себе готовим знову прийняти обітницю.
+mime-cant-speak = Ваша обітниця мовчання забороняє вам говорити.
+mime-invisible-wall-popup-self = Ви наштовхуєтеся на невидиму стіну!
+mime-invisible-wall-popup-others = {CAPITALIZE($mime)} наштовхується на невидиму стіну!
+mime-invisible-wall-failed = Ви не можете створити невидиму стіну тут.
+mime-not-ready-repent = Ви ще не готові покаятися за порушення своєї обітниці.
+mime-ready-to-repent = Ви відчуваєте готовність знову дати свої обітниці.

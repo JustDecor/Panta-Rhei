@@ -1,6 +1,6 @@
-﻿advertisement-megaseed-1 = We like plants!
-advertisement-megaseed-2 = Вирощуй рослини на славу імперії!
-advertisement-megaseed-3 = Рости, ляле, рости!
-advertisement-megaseed-4 = Ой, так, синку!
+﻿advertisement-megaseed-1 = Ми любимо рослини!
+advertisement-megaseed-2 = Виростити кілька культур
+advertisement-megaseed-3 = Рости, крихітко, рости!
+advertisement-megaseed-4 = Так, синку!
 advertisement-megaseed-5 = Мутувати рослини - це весело!
-advertisement-megaseed-6 = Всі за ГМО!
+advertisement-megaseed-6 = Все за ГМО!

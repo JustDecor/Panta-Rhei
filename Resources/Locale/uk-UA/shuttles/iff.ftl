@@ -1,5 +1,5 @@
-iff-console-window-title = консоль IFF
+iff-console-window-title = IFF консоль
 iff-console-show-iff-label = Показати IFF
-iff-console-show-vessel-label = Показувати корабель
-iff-console-on = Ввімк
-iff-console-off = Вимк
+iff-console-show-vessel-label = Показати судно
+iff-console-on = Вкл
+iff-console-off = Викл

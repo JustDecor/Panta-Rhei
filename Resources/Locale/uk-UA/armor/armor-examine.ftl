@@ -1,21 +1,21 @@
 # Armor examines
 armor-examinable-verb-text = Броня
-armor-examinable-verb-message = Роздивитись захист броні.
+armor-examinable-verb-message = Характеристики броні.
 armor-examine = Воно забезпечує наступний захист:
-armor-coefficient-value = - Шкоду від [color=yellow]{$type}[/color] зменшено на [color=lightblue]{$value}%[/color].
-armor-reduction-value = - Шкоду від [color=yellow]{$type}[/color] зменшено на [color=lightblue]{$value}[/color].
-armor-damage-type-blunt = Ударів
-armor-damage-type-slash = Порізів
-armor-damage-type-piercing = Проколів
-armor-damage-type-heat = Теплової
-armor-damage-type-radiation = Радіації
-armor-damage-type-caustic = Їдкої
+armor-coefficient-value = - [color=yellow]{$type}[/color] шкода зменшена на [color=lightblue]{$value}%[/color].
+armor-reduction-value = - [color=yellow]{$type}[/color] шкода зменшена на [color=lightblue]{$value}[/color].
+armor-damage-type-blunt = Дробляча
+armor-damage-type-slash = Ріжуча
+armor-damage-type-piercing = Проникаюча
+armor-damage-type-heat = Теплова
+armor-damage-type-radiation = Радіаційна
+armor-damage-type-caustic = Токсична
 armor-damage-type-bloodloss = Крововтрати
-armor-damage-type-asphyxiation = Асфіксії
-armor-damage-type-cellular = Клітинної
-armor-damage-type-cold = Холоду
-armor-damage-type-poison = Отрути
-armor-damage-type-shock = Шоку
-armor-damage-type-structural = Структурної
-armor-examine-stamina = - Шкода [color=cyan]витривалості[/color] зменшена на [color=lightblue]{$num}%[/color].
-armor-damage-type-holy = Святої
+armor-damage-type-asphyxiation = Асфіксія
+armor-damage-type-cellular = Клітинна
+armor-damage-type-cold = Холодна
+armor-damage-type-poison = Отруйна
+armor-damage-type-shock = Шокова
+armor-damage-type-structural = Структурна
+# DeltaV - moved to _DV file
+# armor-damage-type-holy = Свята

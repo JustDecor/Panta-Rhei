@@ -1,1 +1,1 @@
-skeleton-suffix = КОСТ КОСТ!
+skeleton-suffix = ACK ACK!

@@ -1,27 +1,31 @@
-ghost-role-information-frog-name = Frog
+ghost-role-information-frog-name = Жаба
 
-ghost-role-information-snake-name = Snake
+ghost-role-information-snake-name = Змія
 
-ghost-role-information-ferret-name = Ferret
+ghost-role-information-ferret-name = Тхір
 
-ghost-role-information-pet-cortical-borer-name = Cortical Borer Pet
+ghost-role-information-pet-cortical-borer-name = Домашній кортикальний бурильник
 
-ghost-role-information-pet-description = You are someone's pet, you should obey them, to some extent.
+ghost-role-information-pet-description = Ви чийсь домашній улюбленець, ви повинні слухатися свого власника, певною мірою.
 
-ghost-role-information-pet-kinky-description = You are someone's very exotic pet, they most likely will be using you for something freaky, you have been warned.
+ghost-role-information-pet-kinky-description = Ви чийсь дуже екзотичний домашній улюбленець. Найімовірніше, вас використовуватимуть для чогось дивного, вас попереджено.
 
 ghost-role-information-cortical-borer-familiar-rules =
-        You are someone's trained pet, as such should assist them to the best of your ability.
-        You are a creature that is traditionally a free agent, however in this case you are a familiar.
-        You are to avoid creating eggs or get discovered by people other then your owner unless ordered.
-        You may be subject to witnessing and/or participating NSFW scenes, to which if you do not consent, do not pick this role,
-        in the NSFW scenario, your owner or yourself should make you known via LOOC means to avoid possible consent issues.
+        Ви чийсь навчений домашній улюбленець, тому повинні допомагати своєму власнику якнайкраще.
+        Ви істота, яка традиційно є вільним агентом, але в цьому випадку ви є фамільяром.
+        Ви повинні уникати створення яєць або виявлення іншими людьми, окрім вашого власника, якщо тільки вам не наказано інакше.
+        Ви можете стати свідком та/або учасником сцен NSFW. Якщо ви з цим не згодні, не обирайте цю роль.
+        У ситуаціях NSFW ваш власник або ви самі повинні повідомити про це через LOOC, щоб уникнути можливих проблем зі згодою.
 
-ghost-role-information-friendly-beast-name = Beast Crewmate
-ghost-role-information-friendly-beast-description = A beast visiting the station. Are they here for business, pleasure, or something else? Ask before taking. Renaming is also allowed.
-ghost-role-information-friendly-beast-rules = [color=red]This is an admin spawned ghostrole. If this is not intended for you, please ask before taking it.[/color]
-        You are NOT an antagonist, and are at worst a harmless free agent. You are expected to mingle with the crew as you please.
-        Do not abuse your strength to powergame or validhunt.
-        You are allowed to join the station.
-        You have a backpack, headset, PDA, and two hand/pocket slots.
-        Listen to admins about any additional rules.
+ghost-role-information-friendly-beast-name = Звір-напарник екіпажу
+ghost-role-information-friendly-beast-description = Звір, який відвідує станцію. Він тут заради справ, задоволення чи чогось іншого? Запитайте перед тим, як брати. Перейменування також дозволене.
+ghost-role-information-friendly-beast-rules = [color=red]Це примусово створена адміністратором роль привида. Якщо вона не призначена для вас, будь ласка, запитайте перед вибором.[/color]
+        Ви НЕ є антагоністом і в найгіршому випадку є нешкідливим вільним агентом. Очікується, що ви будете взаємодіяти з екіпажем за власним бажанням.
+        Не зловживайте своєю силою для павергеймінгу або валідхантингу.
+        Вам дозволено приєднатися до станції.
+        У вас є рюкзак, гарнітура, КПК і два слоти для рук/кишень.
+        Дотримуйтеся додаткових правил, які повідомляють адміністратори.
+
+ghost-role-information-pet-spider-name = Домашній павук
+
+ghost-role-information-pet-whimperlet-name = Домашній скиглій

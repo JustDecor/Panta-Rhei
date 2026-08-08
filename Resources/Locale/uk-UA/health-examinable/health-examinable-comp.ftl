@@ -1,4 +1,2 @@
-﻿health-examinable-verb-text = Health
-health-examinable-verb-disabled = Перевірка базових показників здоров'я з близької відстані
-
-health-alert-start = [font size=12][color=green]Здоров'я:[/color][/font]
+﻿health-examinable-verb-text = Здоров'я
+health-examinable-verb-disabled = Ви можете перевірити базові показники здоров'я лише з близької відстані

@@ -1,64 +1,65 @@
 trait-blindness-name = Сліпота
-trait-blindness-desc = Ви фактично сліпі й не можете чітко бачити далі кількох метрів перед собою.
+trait-blindness-desc = У вас дефіцит зору
 
-trait-poor-vision-name = Короткозорість
-trait-poor-vision-desc = Ваші очі вже не ті, що колись. Без коригувальних окулярів вам важко бачити віддалені предмети.
+trait-poor-vision-name = Короткозорий
+trait-poor-vision-desc = Ваші очі вже не такі, як колись, вам важко бачити предмети на відстані без корекційних окулярів.
 
 trait-narcolepsy-name = Нарколепсія
-trait-narcolepsy-desc = Ви випадково засинаєте.
+trait-narcolepsy-desc = Ви час від часу засинаєте
 
 trait-pacifist-name = Пацифіст
-trait-pacifist-desc = Ви не можете атакувати або завдавати шкоди будь-яким живим істотам.
+trait-pacifist-desc = Ви не можете нападати на жодну живу істоту або завдавати їй шкоди.
 
-permanent-blindness-trait-examined = [color=lightblue]{CAPITALIZE(POSS-ADJ($target))} очі каламутні та нерухомі. Схоже, {SUBJECT($target)} майже або зовсім не бачить вас.[/color]
+permanent-blindness-trait-examined = [color=lightblue]{CAPITALIZE(POSS-ADJ($target))} очі скляні, не фокусуються. Не схоже, що {SUBJECT($target)} вас бачить.[/color]
 
-trait-lightweight-name = Швидко п'яніє
-trait-lightweight-desc = Алкоголь має на вас сильніший вплив.
+trait-lightweight-name = Легкий алкоголізм
+trait-lightweight-desc = Алкоголь на вас впливає сильніше
 
-trait-monochromacy-name = Монохромазія
-trait-monochromacy-desc = Ви повністю не розрізняєте кольори. Усе, що ви бачите, існує лише у відтінках чорного та білого.
+trait-monochromacy-name = Монохроматизм
+trait-monochromacy-desc = Ви повністю сліпі на кольори, все що ви сприймаєте варіюється від чорного до білого.
 
-trait-muted-name = Німота
-trait-muted-desc = Ви не можете говорити.
+trait-muted-name = Німий
+trait-muted-desc = Ви не можете говорити
 
 trait-paracusia-name = Паракузія
-trait-paracusia-desc = Ви чуєте звуки, яких насправді не існує.
+trait-paracusia-desc = Ви чуєте звуки яких насправді немає
 
-trait-unrevivable-name = Невідновлюваність
-trait-unrevivable-desc = Вас неможливо реанімувати дефібрилятором.
+trait-unrevivable-name = Невідроджуваний
+trait-unrevivable-desc = Вас не можна оживити за допомогою дефібриляторів.
 
-trait-pirate-accent-name = Піратський акцент
-trait-pirate-accent-desc = Ви просто не можете перестати говорити, як пірат!
+trait-pirate-accent-name = Pirate accent
+trait-pirate-accent-desc = You can't stop speaking like a pirate!
 
-trait-accentless-name = Без акценту
-trait-accentless-desc = У вас немає акценту, який зазвичай притаманний вашому виду.
+trait-accentless-name = Без акцентів
+trait-accentless-desc = У вас немає акценту, який зазвичай притаманний вашому виду
 
-trait-frontal-lisp-name = Шепелявість
-trait-frontal-lisp-desc = Ви говогите з шепелявістю.
+trait-frontal-lisp-name = Лобова шепелявість
+trait-frontal-lisp-desc = Ви тросески сепелявите
 
-trait-socialanxiety-name = Заїкання
-trait-socialanxiety-desc = Ви говорите, заїкаючись.
+trait-socialanxiety-name = Заїка
+trait-socialanxiety-desc = Ви говорите із заїканням.
 
-trait-southern-name = Південний говір
-trait-southern-desc = Ви розмовляєте з характерним південним говором.
+trait-southern-name = Південний Дрол
+trait-southern-desc = У вас інша манера говорити.
 
 trait-snoring-name = Хропіння
-trait-snoring-desc = Ви хропітимете під час сну.
+trait-snoring-desc = Ви будете хропіти під час сну.
 
 trait-liar-name = Патологічний брехун
-trait-liar-desc = Вам майже неможливо змусити себе сказати правду. Іноді ви все одно брешете.
+trait-liar-desc = Вам важко змусити себе сказати правду. Іноді ти все одно брешеш.
 
-trait-cowboy-name = Ковбойський акцент
-trait-cowboy-desc = Ви розмовляєте з виразним ковбойським акцентом!
+trait-cowboy-name = Cowboy accent
+trait-cowboy-desc = You speak with a distinct cowboy accent!
 
-trait-italian-name = Італійський акцент
-trait-italian-desc = Mamma mia! Схоже, ви жили в космічній Італії!
+trait-italian-name = Одеський акцент
+trait-italian-desc = Таки так, з легким присмаком Чорного моря та нотками «йо-майо».
 
-trait-painnumbness-name = Нечутливість до болю
-trait-painnumbness-desc = Ви не відчуваєте болю й можете навіть не усвідомлювати, наскільки сильно поранені.
+trait-painnumbness-name = Знечулення
+trait-painnumbness-desc = Ви не відчуваєте болю, не усвідомлюючи наскільки сильно можете бути поранені.
 
-trait-impaired-mobility-name = Порушена рухливість
+trait-impaired-mobility-name = Обмежена рухливість
 trait-impaired-mobility-desc = Вам важко пересуватися без допоміжних засобів.
 
 trait-hemophilia-name = Гемофілія
-trait-hemophilia-desc = Ваш організм не здатний належним чином згортати кров.
+trait-hemophilia-desc = Ваш організм не здатний утворювати згустки крові.
+

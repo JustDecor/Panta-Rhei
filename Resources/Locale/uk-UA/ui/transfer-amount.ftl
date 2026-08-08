@@ -2,11 +2,11 @@
 
 ## Title
 
-ui-transfer-amount-title = Змінити Кількість Перенесення
+ui-transfer-amount-title = Змінити кількість до трансферу
 
 ## Text for the button to apply changes
 
-ui-transfer-amount-apply = Встановити Кількість
+ui-transfer-amount-apply = Встановити кількість
 
 ## Placeholder text for the amount line edit
 

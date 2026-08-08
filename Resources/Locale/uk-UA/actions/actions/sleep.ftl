@@ -1,9 +1,7 @@
-action-name-wake = Прокинутись
+action-name-wake = Підняти
 
-sleep-onomatopoeia = Хрррр...
-sleep-examined = [color=lightblue]{CAPITALIZE(SUBJECT($target))} спить.[/color]
+sleep-onomatopoeia = Zzz...
+sleep-examined = [color=lightblue]{CAPITALIZE(SUBJECT($target))} {CONJUGATE-BE($target)} спить.[/color]
 
-wake-other-success = Ви розбудили {THE($target)} тряскою.
-wake-other-failure = Ви трясете {THE($target)}, але {SUBJECT($target)} не прокидається.
-
-#popup-sleep-in-bag = {THE($entity)} згортається калачиком і засинає.
+wake-other-success = {CAPITALIZE($target)} прокидається від вашої тряски.
+wake-other-failure = Ви трясете {$target}, але {SUBJECT($target)} {CONJUGATE-BE($target)} не прокидається.

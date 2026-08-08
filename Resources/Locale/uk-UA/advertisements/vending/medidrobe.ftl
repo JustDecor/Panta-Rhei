@@ -1,3 +1,4 @@
-advertisement-medidrobe-1 = Нехай ці плями крові виглядатимуть модно!!
-advertisement-medidrobe-2 = Чистота та гігієна! Не забруднюй себе кров'ю!
-advertisement-medidrobe-3 = У цьому вбранні ви будете виглядати як професійний лікар!
+advertisement-medidrobe-1 = Нехай плями крові виглядають модно!!!
+advertisement-medidrobe-2 = Чисто та гігієнічно! Не отримайте на собі забагато плям крові!
+advertisement-medidrobe-3 = У цьому вбранні ви тепер будете виглядати як професійний лікар!
+advertisement-medidrobe-4 = Комбінезон є. Пальто є. Хтось, хто це одягне? Є!

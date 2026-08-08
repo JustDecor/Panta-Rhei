@@ -1,10 +1,10 @@
-#marking-EyesShadowkin = Shadekin
+marking-EyesShadowkin = Тіньовик
 
-#marking-TailShadowkin = Shadekin
-#marking-TailShadowkinBig = Shadekin (Big)
-#marking-TailShadowkinShorter = Shadekin (Short)
-#marking-TailShadowkinMedium = Shadekin (Medium)
-#marking-TailShadowkinBigFluff = Shadekin (Big and Fluffy)
+marking-TailShadowkin = Тіньовик
+marking-TailShadowkinBig = Тіньовик (великий)
+marking-TailShadowkinShorter = Тіньовик (короткий)
+marking-TailShadowkinMedium = Тіньовик (середній)
+marking-TailShadowkinBigFluff = Тіньовик (великий і пухнастий)
 
-#marking-EarsShadowkin = Shadekin
-#marking-EarsShadowkinStriped = Shadekin (Striped)
+marking-EarsShadowkin = Тіньовик
+marking-EarsShadowkinStriped = Тіньовик (смугастий)

@@ -1,102 +1,102 @@
-# Роботизована рука
+# Robotic Arm
 
-signal-port-name-input-machine = Предмет: Вхід машини
-signal-port-description-input-machine = Слот автоматизації машини для вилучення предметів, замість взяття їх із підлоги.
+signal-port-name-input-machine = Item: Input Machine
+signal-port-description-input-machine = A machine automation slot to take items out of, instead of taking them from the floor.
 
-signal-port-name-output-machine = Предмет: Вихід машини
-signal-port-description-output-machine = Слот автоматизації машини для вставлення предметів, замість розміщення їх на підлозі.
+signal-port-name-output-machine = Item: Output Machine
+signal-port-description-output-machine = A machine automation slot to insert items into, instead of placing them on the floor.
 
-signal-port-name-item-moved = Предмет переміщено
-signal-port-description-item-moved = Сигнальний порт, який імпульсується після переміщення предмета цією рукою.
+signal-port-name-item-moved = Item Moved
+signal-port-description-item-moved = Signal port that gets pulsed after an item is moved by this arm.
 
-signal-port-name-automation-slot-filter = Предмет: Слот фільтра
-signal-port-description-automation-slot-filter = Слот автоматизації для фільтра автоматизованої машини.
+signal-port-name-automation-slot-filter = Item: Filter Slot
+signal-port-description-automation-slot-filter = An automation slot for an automation machine's filter.
 
-# Подрібнювач реагентів
+# Reagent Grinder
 
-signal-port-name-automation-slot-beaker = Предмет: Слот колби
-signal-port-description-automation-slot-beaker = Слот автоматизації для колби машини роботи з рідинами.
+signal-port-name-automation-slot-beaker = Item: Beaker Slot
+signal-port-description-automation-slot-beaker = An automation slot for a liquid-handling machine's beaker.
 
-signal-port-name-automation-slot-input = Предмет: Вхідні предмети
-signal-port-description-automation-slot-input = Слот автоматизації для сховища вхідних предметів машини.
+signal-port-name-automation-slot-input = Item: Input items
+signal-port-description-automation-slot-input = An automation slot for a machine's input item storage.
 
-# Пакувальник пласких наборів
+# Flatpacker
 
-signal-port-name-automation-slot-board = Предмет: Слот плати
-signal-port-description-automation-slot-board = Слот автоматизації для плати пакувальника.
+signal-port-name-automation-slot-board = Item: Board Slot
+signal-port-description-automation-slot-board = An automation slot for a flatpacker's circuitboard.
 
-signal-port-name-automation-slot-materials = Предмет: Зберігання матеріалів
-signal-port-description-automation-slot-materials = Слот автоматизації для вставлення матеріалів у сховище машини.
+signal-port-name-automation-slot-materials = Item: Material Storage
+signal-port-description-automation-slot-materials = An automation slot for inserting materials into a machine's storage.
 
-# Утилізатор
+# Disposal Unit
 
-signal-port-name-flush = Змив
-signal-port-description-flush = Сигнальний порт для перемикання механізму змиву утилізатора.
+signal-port-name-flush = Flush
+signal-port-description-flush = Signal port to toggle a disposal unit's flush mechanism.
 
-signal-port-name-eject = Викидання
-signal-port-description-eject = Сигнальний порт для викидання вмісту утилізатора.
+signal-port-name-eject = Eject
+signal-port-description-eject = Signal port to eject a disposal unit's contents.
 
-signal-port-name-ready = Готовність
-signal-port-description-ready = Сигнальний порт, який імпульсується після повного створення тиску в утилізаторі.
+signal-port-name-ready = Ready
+signal-port-description-ready = Signal port that gets pulsed after a disposal unit becomes fully pressurized.
 
-# Складський контейнер
+# Storage Bin
 
-signal-port-name-automation-slot-storage = Предмет: Сховище
-signal-port-description-automation-slot-storage = Слот автоматизації для інвентарю складського контейнера.
+signal-port-name-automation-slot-storage = Item: Storage
+signal-port-description-automation-slot-storage = An automation slot for a storage bin's inventory.
 
-signal-port-name-storage-inserted = Вставлено
-signal-port-description-storage-inserted = Сигнальний порт, який імпульсується після вставлення предмета у складський контейнер.
+signal-port-name-storage-inserted = Inserted
+signal-port-description-storage-inserted = Signal port that gets pulsed after an item is inserted into a storage bin.
 
-signal-port-name-storage-removed = Вилучено
-signal-port-description-storage-removed = Сигнальний порт, який імпульсується після вилучення предмета зі складського контейнера.
+signal-port-name-storage-removed = Removed
+signal-port-description-storage-removed = Signal port that gets pulsed after an item is removed from a storage bin.
 
-# Факс
+# Fax Machine
 
-signal-port-name-automation-slot-paper = Предмет: Папір
-signal-port-description-automation-slot-paper = Слот автоматизації для лотка паперу факсу.
+signal-port-name-automation-slot-paper = Item: Paper
+signal-port-description-automation-slot-paper = An automation slot for a fax machine's paper tray.
 
-signal-port-name-fax-copy = Копіювання факсу
-signal-port-description-fax-copy = Сигнальний порт для копіювання паперу у факсі.
+signal-port-name-fax-copy = Copy Fax
+signal-port-description-fax-copy = Signal port to copy a fax machine's paper.
 
-# Конструктор / Інтерактор
+# Constructor / Interactor
 
-signal-port-name-machine-start = Запуск
-signal-port-description-machine-start = Сигнальний порт для одноразового запуску машини.
+signal-port-name-machine-start = Start
+signal-port-description-machine-start = Signal port to start a machine once.
 
-signal-port-name-machine-autostart = Автозапуск
-signal-port-description-machine-autostart = Сигнальний порт для керування автоматичним запуском після завершення.
+signal-port-name-machine-autostart = Auto Start
+signal-port-description-machine-autostart = Signal port to control starting after completing automatically.
 
-signal-port-name-machine-started = Запущено
-signal-port-description-machine-started = Сигнальний порт, який імпульсується після запуску машини.
+signal-port-name-machine-started = Started
+signal-port-description-machine-started = Signal port that gets pulsed after a machine starts.
 
-signal-port-name-machine-completed = Завершено
-signal-port-description-machine-completed = Сигнальний порт, який імпульсується після завершення роботи машини.
+signal-port-name-machine-completed = Completed
+signal-port-description-machine-completed = Signal port that gets pulsed after a machine completes its work.
 
-signal-port-name-machine-failed = Помилка
-signal-port-description-machine-failed = Сигнальний порт, який імпульсується після невдалого запуску машини.
+signal-port-name-machine-failed = Failed
+signal-port-description-machine-failed = Signal port that gets pulsed after a machine fails to start.
 
-# Інтерактор
+# Interactor
 
-signal-port-name-automation-slot-tool = Предмет: Інструмент
-signal-port-description-automation-slot-tool = Слот автоматизації для інструмента, який утримує інтерактор.
+signal-port-name-automation-slot-tool = Item: Tool
+signal-port-description-automation-slot-tool = An automation slot for an interactor's held tool.
 
-# Автодок
+# Autodoc
 
-signal-port-name-automation-slot-autodoc-hand = Предмет: Рука автодока
-signal-port-description-automation-slot-autodoc-hand = Слот автоматизації для утримуваного органа/частини тощо автодока з інструкцій ЗАБРАТИ ПРЕДМЕТ / ВЗЯТИ ПРЕДМЕТ.
+signal-port-name-automation-slot-autodoc-hand = Item: Autodoc Hand
+signal-port-description-automation-slot-autodoc-hand = An automation slot for an autodoc's held organ/part/etc from STORE ITEM / GRAB ITEM instructions.
 
-# Газовий балон
+# Gas Canister
 
-signal-port-name-automation-slot-gas-tank = Предмет: Газовий балон
-signal-port-description-automation-slot-gas-tank = Слот автоматизації для газового балона.
+signal-port-name-automation-slot-gas-tank = Item: Gas Tank
+signal-port-description-automation-slot-gas-tank = An automation slot for a gas tank.
 
-# Радіаційний колектор
+# Radiation Collector
 
-signal-port-name-rad-empty = Порожній
-signal-port-description-rad-empty = Сигнальний порт, який має високий рівень, якщо балон відсутній або тиск нижче 33%, і низький рівень в інших випадках.
+signal-port-name-rad-empty = Empty
+signal-port-description-rad-empty = Signal port set to HIGH if the tank is missing or below 33% pressure, LOW otherwise.
 
-signal-port-name-rad-low = Низький
-signal-port-description-rad-low = Сигнальний порт, який має високий рівень, якщо тиск у балоні нижче 66%, і низький рівень в інших випадках.
+signal-port-name-rad-low = Low
+signal-port-description-rad-low = Signal port set to HIGH if the tank is below 66% pressure, LOW otherwise.
 
-signal-port-name-rad-full = Повний
-signal-port-description-rad-full = Сигнальний порт, який має високий рівень, якщо тиск у балоні вище 66%, і низький рівень в інших випадках.
+signal-port-name-rad-full = Full
+signal-port-description-rad-full = Signal port set to HIGH if the tank is above 66% pressure, LOW otherwise.

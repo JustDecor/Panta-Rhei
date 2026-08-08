@@ -1,7 +1,9 @@
-phrase-species-borg = borg
-phrase-species-rabbit = rabbit
-phrase-species-scurret = scurret
-phrase-species-shark = shark
-phrase-species-dragon = dragon
-phrase-species-kitty = kitty
-phrase-species-puppy = puppy
+phrase-species-borg = борг
+phrase-species-rabbit = кролик
+phrase-species-scurret = скуррет
+phrase-species-shark = акула
+phrase-species-dragon = дракон
+phrase-species-kitty = кицька
+phrase-species-puppy = цуценя
+phrase-species-frog = жаба
+phrase-species-horse = кінь

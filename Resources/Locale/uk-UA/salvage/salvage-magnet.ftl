@@ -1,48 +1,48 @@
-salvage-system-announcement-losing = Магніт більше не в змозі утримувати уламок, який можна зачистити. Приблизний час до втрати: {$timeLeft} секунд.
-salvage-system-announcement-spawn-debris-disintegrated = Уламок розвалився при орбітальному переміщенні.
-salvage-system-announcement-spawn-no-debris-available = Немає уламків, які можна притягнути магнітом.
-salvage-system-announcement-arrived = Частину уламку, який можна зачистити, притягнуто. Приблизний час утримання: {$timeLeft} секунд.
+salvage-system-announcement-losing = Магніт більше не здатен утримувати уламки. Орієнтовний час до втрати: {$timeLeft} секунд.
+salvage-system-announcement-spawn-debris-disintegrated = Уламки розпалися під час орбітального переміщення.
+salvage-system-announcement-spawn-no-debris-available = Магніт не зміг притягнути жодного уламка.
+salvage-system-announcement-arrived = Притягнуто уламок для видобутку. Орієнтовний час утримання: {$timeLeft} секунд.
 salvage-asteroid-name = Астероїд
 
-salvage-magnet-window-title = Утилізаційний магніт
-salvage-expedition-window-progression = Прогресія
+salvage-magnet-window-title = Шахтарський магніт
+salvage-expedition-window-progression = Час
 
 salvage-magnet-resources = {$resource ->
-    [OreIron] Iron
-    [OreCoal] Coal
-    [OreQuartz] Quartz
-    [OreSalt] Salt
-    [OreGold] Gold
-    [OreDiamond] Diamond
-    [OreSilver] Silver
-    [OrePlasma] Plasma
-    [OreUranium] Uranium
-    [OreArtifactFragment] Artifact fragments
-    [OreBananium] Bananium
+    [OreIron] Залізо
+    [OreCoal] Вугілля
+    [OreQuartz] Кварц
+    [OreSalt] Сіль
+    [OreGold] Золото
+    [OreDiamond] Алмаз
+    [OreSilver] Срібло
+    [OrePlasma] Плазма
+    [OreUranium] Уран
+    [OreArtifactFragment] Фрагменти артефактів
+    [OreBananium] Бананіум
     *[other] {$resource}
 }
 
 salvage-magnet-resources-count = {$count ->
-    [1] (Мало)
-    [2] (Помірно)
-    [3] (Середньо)
-    [4] (Багато)
-    [5] (Багато)
-    *[other] (Надзвичайно Багато)
+    [1] (Бідні)
+    [2] (Помірні)
+    [3] (Помірні)
+    [4] (Багаті)
+    [5] (Багаті)
+    *[other] (Надзвичайні)
 }
 
 # Debris
-salvage-magnet-debris-ChunkDebris = Space debris
+salvage-magnet-debris-ChunkDebris = Уламки з космосу
 
 # Asteroids
-dungeon-config-proto-BlobAsteroid = Скупчення астероїдів
-dungeon-config-proto-ClusterAsteroid = Скупчення астероїдів
-dungeon-config-proto-SpindlyAsteroid = Спіраль астероїда
-dungeon-config-proto-SwissCheeseAsteroid = Уламки астероїда
+dungeon-config-proto-BlobAsteroid = Група астероїдів
+dungeon-config-proto-ClusterAsteroid = Кластер астероїдів
+dungeon-config-proto-SpindlyAsteroid = Спіральний астероїд
+dungeon-config-proto-SwissCheeseAsteroid = Уламки астероїдів
 
 # Wrecks
-salvage-map-wreck = Salvage wreck
-salvage-map-wreck-desc-size = Size:
-salvage-map-wreck-size-small = [color=lime]Small[/color]
-salvage-map-wreck-size-medium = [color=cornflowerblue]Medium[/color]
-salvage-map-wreck-size-large = [color=orchid]Large[/color]
+salvage-map-wreck = Уламок для видобутку
+salvage-map-wreck-desc-size = Розмір:
+salvage-map-wreck-size-small = [color=lime]Малий[/color]
+salvage-map-wreck-size-medium = [color=cornflowerblue]Середній[/color]
+salvage-map-wreck-size-large = [color=orchid]Великий[/color]

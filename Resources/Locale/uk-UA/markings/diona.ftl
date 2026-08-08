@@ -1,86 +1,86 @@
-marking-DionaThornsHead-thorns_head = Діона Хед (Thorns)
-marking-DionaThornsHead = Голова Діони (Терни)
+marking-DionaThornsHead-thorns_head = Голова діони (Терни)
+marking-DionaThornsHead = Голова діони (Терни)
 
-marking-DionaThornsBody-thorns_body = Діонова скриня (Терни)
-marking-DionaThornsBody = Торс Діони (Терни)
+marking-DionaThornsBody-thorns_body = Торс діони (Терни)
+marking-DionaThornsBody = Торс діони (Терни)
 
-marking-DionaFlowersHead-flowers_head = Діона Хед (квіти)
-marking-DionaFlowersHead = Голова Діони (Квіти)
+marking-DionaFlowersHead-flowers_head = Голова діони (Квіти)
+marking-DionaFlowersHead = Голова діони (Квіти)
 
-marking-DionaFlowersBody-flowers_body = Скриня Діони (Квіти)
-marking-DionaFlowersBody = Торс Діони (Квіти)
+marking-DionaFlowersBody-flowers_body = Торс діони (Квіти)
+marking-DionaFlowersBody = Торс діони (Квіти)
 
-marking-DionaLeafCover-leaf_cover = Діонова скриня (Leaf)
-marking-DionaLeafCover = Торс Діони (Листя)
+marking-DionaLeafCover-leaf_cover = Торс діони (Листя)
+marking-DionaLeafCover = Торс діони (Листя)
 
-marking-DionaBloomHead-bloom = Вічноцвіт Діони (Квітка)
-marking-DionaBloomHead = Вічноцвіт Діона (Квітка)
+marking-DionaBloomHead-bloom = Цвіт діони (Квітка)
+marking-DionaBloomHead = Цвіт діони (Квітка)
 
-marking-DionaBracketHead-bracket = Нарости Діони (Гриби)
-marking-DionaBracketHead = Нарости Діони (Гриби)
+marking-DionaBracketHead-bracket = Нарост діони (Гриби)
+marking-DionaBracketHead = Нарост діони (Гриби)
 
-marking-DionaBrushHead-brush = Зачіска Діони (Ліани)
-marking-DionaBrushHead = Зачіска Діони (Ліани)
+marking-DionaBrushHead-brush = Щітка діони (Ліани)
+marking-DionaBrushHead = Щітка діони (Ліани)
 
-marking-DionaCornflowerHead-cornflower = Волошки Діони (Квіти)
-marking-DionaCornflowerHead = Волошки Діони (Квіти)
+marking-DionaCornflowerHead-cornflower = Волошки діони (Квіти)
+marking-DionaCornflowerHead = Волошки діони (Квіти)
 
-marking-DionaFicusHead-ficus = Фікус Діони (Листя)
-marking-DionaFicusHead = Фікус Діони (Листя)
+marking-DionaFicusHead-ficus = Фікус діони (Листя)
+marking-DionaFicusHead = Фікус діони (Листя)
 
-marking-DionaGarlandHead-garland = Квітка-гірлянда Діони (Квіти)
-marking-DionaGarlandHead = Квітка-гірлянда Діони (Квіти)
+marking-DionaGarlandHead-garland = Гірлянда діони (Квіти)
+marking-DionaGarlandHead = Гірлянда діони (Квіти)
 
-marking-DionaKingHead-king = Король квіток Діони (Квітка)
-marking-DionaKingHead = Король квіток Діони (Квітка)
+marking-DionaKingHead-king = Квіткова корона діони (Квітка)
+marking-DionaKingHead = Квіткова корона діони (Квітка)
 
-marking-DionaLaurelHead-laurel = Лавровий лист Діони (Листя)
-marking-DionaLaurelHead = Лавровий лист Діони (Листя)
+marking-DionaLaurelHead-laurel = Лаври діони (Листя)
+marking-DionaLaurelHead = Лаври діони (Листя)
 
-marking-DionaLeafyHeadTop-leafy = Листячка Діони (Листя)
-marking-DionaLeafyHeadTop = Листячка Діони (Листя)
+marking-DionaLeafyHeadTop-leafy = Листячко діони (Листя)
+marking-DionaLeafyHeadTop = Листячко діони (Листя)
 
-marking-DionaLotusHead-lotus = Лотос Діони (Квітка)
-marking-DionaLotusHead = Лотос Діони (Квітка)
+marking-DionaLotusHead-lotus = Лотус діони (Квітка)
+marking-DionaLotusHead = Лотус діони (Квітка)
 
-marking-DionaMeadowHeadTop-meadow = Луг Діони
-marking-DionaMeadowHeadTop = Луг Діони
+marking-DionaMeadowHeadTop-meadow = Луг діони
+marking-DionaMeadowHeadTop = Луг діони
 
-marking-DionaOakHead-oak = Дуб Діони (Корч)
-marking-DionaOakHead = Дуб Діони (Корч)
+marking-DionaOakHead-oak = Дуб діони (Гілочка)
+marking-DionaOakHead = Дуб діони (Гілочка)
 
-marking-DionaPalmHead-palm = Пальмоголова Діони (Листя)
-marking-DionaPalmHead = Пальмоголова Діони (Листя)
+marking-DionaPalmHead-palm = Пальма діони (Листя)
+marking-DionaPalmHead = Пальма діони (Листя)
 
-marking-DionaRootHead-root = Коріння Діони (Коріння)
-marking-DionaRootHead = Коріння Діони (Коріння)
+marking-DionaRootHead-root = Корені діони (Корені)
+marking-DionaRootHead = Корені діони (Корені)
 
-marking-DionaRoseHead-rose = Роза Діони (Квітка)
-marking-DionaRoseHead = Роза Діони (Квітка)
+marking-DionaRoseHead-rose = Троянда діони (Квітка)
+marking-DionaRoseHead = Троянда діони (Квітка)
 
-marking-DionaRoseyHead-rosey = Рози Діони (Квіти)
-marking-DionaRoseyHead = Рози Діони (Квіти)
+marking-DionaRoseyHead-rosey = Шипшина діони (Квіти)
+marking-DionaRoseyHead = Шипшина діони (Квіти)
 
-marking-DionaShrubHeadTop-shrub = Чагарники Діони (Терни)
-marking-DionaShrubHeadTop = Чагарники Діони (Терни)
+marking-DionaShrubHeadTop-shrub = Чагарник діони (Терни)
+marking-DionaShrubHeadTop = Чагарник діони (Терни)
 
-marking-DionaSpinnerHeadSide-spinner = Спінер Діони
-marking-DionaSpinnerHeadSide = Спінер Діони
+marking-DionaSpinnerHeadSide-spinner = Ліана діони
+marking-DionaSpinnerHeadSide = Ліана діони
 
-marking-DionaSproutHeadSide-sprout = Паросток Діони
-marking-DionaSproutHeadSide = Паросток Діони
+marking-DionaSproutHeadSide-sprout = Пагін діони
+marking-DionaSproutHeadSide = Пагін діони
 
-marking-DionaVineHeadTop-vine = Лоза Діони (Виноградна Лоза)
-marking-DionaVineHeadTop = Лоза Діони (Виноградна Лоза)
+marking-DionaVineHeadTop-vine = Лоза діони (Лози)
+marking-DionaVineHeadTop = Лоза діони (Лози)
 
-marking-DionaVinelHead-vinel = Лоза Діони Довга (Виноградна Лоза)
-marking-DionaVinelHead = Лоза Діони Довга (Виноградна Лоза)
+marking-DionaVinelHead-vinel = Лоза діони довгі (Лози)
+marking-DionaVinelHead = Лоза діони довгі (Лози)
 
-marking-DionaVinesHead-vines = Лоза Діони Коротка (Виноградна Лоза)
-marking-DionaVinesHead = Лоза Діони Коротка (Виноградна Лоза)
+marking-DionaVinesHead-vines = Лоза діони короткі (Лози)
+marking-DionaVinesHead = Лоза діони короткі (Лози)
 
-marking-DionaWildflowerHead-wildflower = Дикі Квіти Діони (Квіти)
-marking-DionaWildflowerHead = Дикі Квіти Діони (Квіти)
+marking-DionaWildflowerHead-wildflower = Дика квітка діони (Квіти)
+marking-DionaWildflowerHead = Дика квітка діони (Квіти)
 
-marking-DionaVineOverlay-overlay = Лоза Тіла Діони
-marking-DionaVineOverlay = Лоза Тіла Діони
+marking-DionaVineOverlay-overlay = Тілесні лози діони
+marking-DionaVineOverlay = Тілесні лози діони

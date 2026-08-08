@@ -1,30 +1,41 @@
 reagent-name-acetone = ацетон
-reagent-desc-acetone = Слизька, трохи канцерогенна рідина. Має безліч повсякденних застосувань.
+reagent-desc-acetone = Мазка, злегка канцерогенна рідина. Має безліч застосувань у повсякденному житті.
 
 reagent-name-phenol = фенол
-reagent-desc-phenol = Ароматичне кільце вуглецю з гідроксильною групою. Корисний прекурсор для деяких ліків, але сам по собі не має лікувальних властивостей.
+reagent-desc-phenol = Ароматичне кільце вуглецю з гідроксильною групою. Корисний попередник деяких ліків, але сам по собі не має лікувальних властивостей.
 
-reagent-name-sodium-carbonate = карбонат натрію
-reagent-desc-sodium-carbonate = Біла, без запаху, розчинна у воді сіль, що утворює лужний розчин у воді. Також відома як кальцинована сода.
+reagent-name-sodium-carbonate = Карбонат натрію
+reagent-desc-sodium-carbonate = Біла, без запаху, водорозчинна сіль, яка утворює лужний розчин у воді.  Також відомий як кальцинована сода.
 
-reagent-name-artifexium = артифексіум
-reagent-desc-artifexium = Лавандова суміш мікроскопічних фрагментів артефактів і сильної кислоти. Має здатність активувати артефакти.
+reagent-name-artifexium = артифексій
+reagent-desc-artifexium = Пахуча суміш мікроскопічних фрагментів артефактів і сильної кислоти. Має здатність до активувації артефактів.
+
+reagent-name-artifact-glue = артефактний клей
+reagent-desc-artifact-glue = Суміш клею та артифексію. За краплину відновлює міцність вузлів в артефакті.
 
 reagent-name-benzene = бензол
-reagent-desc-benzene = Ароматичне, трохи канцерогенне, кільце вуглецю, що утворює основу для багатьох органічних сполук.
+reagent-desc-benzene = Ароматичне, злегка канцерогенне кільце вуглецю, яке є основою для багатьох органічних сполук.
 
 reagent-name-hydroxide = гідроксид
-reagent-desc-hydroxide = Сильна лужна хімічна речовина, що утворює основу для багатьох органічних сполук.
+reagent-desc-hydroxide = Сильна лужна речовина, що є основою для багатьох органічних сполук.
 
-reagent-name-sodium-hydroxide = гідроксид натрію
-reagent-desc-sodium-hydroxide = Біла, без запаху, розчинна у воді сіль, що утворює сильний лужний розчин у воді. При вживанні всередину викликає опіки та блювоту.
+reagent-name-sodium-hydroxide = Гідроксид натрію
+reagent-desc-sodium-hydroxide = Біла водорозчинна сіль без запаху, яка утворює у воді сильний лужний розчин. При попаданні всередину викликає опіки та блювоту.
 
 reagent-name-fersilicite = ферсиліцит
 reagent-desc-fersilicite = Інтерметалічна сполука з незвичайними магнітними властивостями при низьких температурах.
 
-reagent-name-sodium-polyacrylate = поліакрилат натрію
-reagent-desc-sodium-polyacrylate = Суперабсорбуючий полімер з різноманітним промисловим застосуванням.
+reagent-name-sodium-polyacrylate = Поліакрилат натрію
+reagent-desc-sodium-polyacrylate = Суперабсорбуючий полімер із різноманітним промисловим використанням.
 
-reagent-name-cellulose = целюлоза
-reagent-desc-cellulose = Кристалічний полідекстрозний полімер, рослини від нього в захваті.
+reagent-name-cellulose = целюлозні волокна
+reagent-desc-cellulose = Кристалічний полімер полідекстрози, рослини клянуться цим матеріалом.
 
+reagent-name-rororium = Роріум
+reagent-desc-rororium = Дивна речовина, яка наповнює ядра хайлордів, що блукають шахтарським астероїдом. Вважається джерелом їхньої регенеративної сили.
+
+reagent-name-salicylic-acid = salicylic acid
+reagent-desc-salicylic-acid = A powdery substance used for dermatological treatments.
+
+reagent-name-lye = Луг
+reagent-desc-lye = Прозорий помаранчевий лужний розчин, який використовують у традиційному виробництві мила.

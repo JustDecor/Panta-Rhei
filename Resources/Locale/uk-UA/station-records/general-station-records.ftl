@@ -1,21 +1,21 @@
-﻿general-station-record-console-window-title = Station Records Computer
-general-station-record-console-select-record-info = Оберіть запис зліва.
-general-station-record-console-empty-state = Не знайдено записів!
-general-station-record-console-no-record-found = Жодного знайденого запису за запитом.
+﻿general-station-record-console-window-title = Комп'ютер Станційних Записів
+general-station-record-console-select-record-info = Виберіть запис ліворуч.
+general-station-record-console-empty-state = Жодного запису не знайдено!
+general-station-record-console-no-record-found = Записів про обрану особу не знайдено.
 
 general-station-record-console-record-age = Вік: {$age}
-general-station-record-console-record-title = Посада: {$job}
+general-station-record-console-record-title = Робота: {$job}
 general-station-record-console-record-species = Вид: {$species}
-general-station-record-console-record-gender = Гендер: {$gender}
-general-station-record-console-record-fingerprint = Відбитки Пальців: {$fingerprint}
+general-station-record-console-record-gender = Стать: {$gender}
+general-station-record-console-record-fingerprint = Відбиток пальця: {$fingerprint}
 general-station-record-console-record-dna = ДНК: {$dna}
 
-general-station-record-for-filter-line-placeholder = Введіть текст і натисніть "Enter"
-general-station-record-name-filter = Ім'я Особи
-general-station-record-job-filter = Посада
-general-station-record-species-filter = Раса
-general-station-record-prints-filter = Відбитки Пальців
+general-station-record-for-filter-line-placeholder = Введіть текст і натисніть «Enter»
+general-station-record-name-filter = Ім'я особи
+general-station-record-job-filter = Робота
+general-station-record-species-filter = Вид
+general-station-record-prints-filter = Відбитки
 general-station-record-dna-filter = ДНК
-general-station-record-console-search-records = Пошук
-general-station-record-console-reset-filters = Скинути
+general-station-record-console-search-records = Шукати
+general-station-record-console-reset-filters = Оновити
 general-station-record-console-delete = Видалити

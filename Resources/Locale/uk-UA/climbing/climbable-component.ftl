@@ -2,30 +2,30 @@
 ### UI
 
 # Verb name for climbing
-comp-climbable-verb-climb = Забратися
+comp-climbable-verb-climb = Перелізти
 
 ### Interaction Messages
 
 # Shown to you when your character climbs on $climbable
-comp-climbable-user-climbs = Ви стрибаєте на { THE($climbable) }!
+comp-climbable-user-climbs = Ви застрибнули на { $climbable }!
 
 # Shown to others when $user climbs on $climbable
-comp-climbable-user-climbs-other = { CAPITALIZE(THE($user)) } стрибає на { THE($climbable) }!
+comp-climbable-user-climbs-other  = { CAPITALIZE($user) } застрибує на { $climbable }!
 
 # Shown to you when your character forces someone to climb on $climbable
-comp-climbable-user-climbs-force = Ви змушуєте { THE($moved-user) } піднятися на { THE($climbable) }!
+comp-climbable-user-climbs-force = Ви заштовхуєте { $moved-user } на { $climbable }!
 
 # Shown to others when someone forces other $moved-user to climb on $climbable
-comp-climbable-user-climbs-force-other = { CAPITALIZE(THE($user)) } піднімає { THE($moved-user) } на { THE($climbable) }!
+comp-climbable-user-climbs-force-other = { CAPITALIZE($user) } заштовхує { $moved-user } на { $climbable }!
 
 # Shown to you when your character is far away from climbable
-comp-climbable-cant-reach = Туди не дотягнешся!
+comp-climbable-cant-reach = Ви не можете дотягнутися!
 
 # Shown to you when your character can't interact with climbable for some reason
-comp-climbable-cant-interact = Ви не можете цього зробити!
+comp-climbable-cant-interact = Ви не можете зробити цього!
 
 # Shown to you when your character isn't able to climb by their own actions
-comp-climbable-cant-climb = Ви не здатні лазити!
+comp-climbable-cant-climb = Ви не встані взібратися на це!
 
 # Shown to you when your character tries to force someone else who can't climb onto a climbable
-comp-climbable-target-cant-climb = { CAPITALIZE(THE($moved-user)) } не може туди забратися!
+comp-climbable-target-cant-climb = { CAPITALIZE($moved-user) } не може залізти туди!

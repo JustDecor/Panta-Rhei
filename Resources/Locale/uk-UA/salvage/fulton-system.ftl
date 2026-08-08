@@ -1,7 +1,7 @@
-fulton-folded = Маячок треба розкласти
-fulton-examine = {$time} секунд до екстракції
-fulton-linked = Маячок приєднано
-fulton-not-found = Не знайдено маячків
-fulton-invalid = Неможливо провести екстракцію
-fulton-fultoned = Екстракція вже проводиться
-fulton-remove = Забрати фултон
+fulton-folded = Маяк повинен бути встановлений
+fulton-examine = {$time} секунд до запуску
+fulton-linked = Маяк підключено
+fulton-not-found = Маяк не знайдено
+fulton-invalid = Неможливо прикріпити фултон
+fulton-fultoned = Фултон вже прикріплено
+fulton-remove = Зняти фултон

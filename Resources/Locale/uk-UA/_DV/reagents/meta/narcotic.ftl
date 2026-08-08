@@ -1,2 +1,2 @@
-#reagent-name-lotophagoi-oil = lotophagoi oil
-#reagent-desc-lotophagoi-oil = A divine drug sourced from the fruits of an ancient tree. It temporarily tears into the patient's mind, reshaping it to suit the Noösphere.
+reagent-name-lotophagoi-oil = олія лотофагів
+reagent-desc-lotophagoi-oil = Божественний препарат, отриманий із плодів стародавнього дерева. Тимчасово розриває свідомість пацієнта, перебудовуючи її відповідно до Ноосфери.

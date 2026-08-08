@@ -1,21 +1,21 @@
-ame-controller-component-fuel-slot-fail-whitelist = Ви не можете покласти це в контролер ...
-ame-controller-component-fuel-slot-fail-locked = Перед тим, як маніпулювати паливом, вимкніть ГАМ.
+ame-controller-component-fuel-slot-fail-whitelist = Ви не можете поставити це в контролер...
+ame-controller-component-fuel-slot-fail-locked = Вимкніть АМД, перш ніж працювати з паливом.
 ame-controller-component-fuel-slot-success-insert = Ви вставляєте банку в паливний отвір.
 
 ## UI
 
-ame-window-title = Блок Керування Антиматерією
-ame-window-engine-status-label = Статус Двигунів:
-ame-window-engine-injection-status-not-injecting-label = Не Вприскується
-ame-window-engine-injection-status-injecting-label = Вприсування...
-ame-window-toggle-injection-button = Перемкнути Вприскування
+ame-window-title = Блок керування антиматерією
+ame-window-engine-status-label = Стан двигунів:
+ame-window-engine-injection-status-not-injecting-label = Не вприскувати
+ame-window-engine-injection-status-injecting-label = Вприскування...
+ame-window-toggle-injection-button = Перемкнути вприскування.
 ame-window-fuel-status-label = Стан палива:
-ame-window-fuel-not-inserted-text = Паливо не надано
-ame-window-injection-amount-label = Обʼєм вприскування:
-ame-window-refresh-parts-button = Оновити Деталі
+ame-window-fuel-not-inserted-text = Паливо не заправлено
+ame-window-injection-amount-label = Об'єм вприскування:
+ame-window-refresh-parts-button = Оновити деталі
 ame-window-core-count-label = Кількість ядер:
-ame-window-power-currentsupply-label = Поточна потужність:
-ame-window-power-targetsupply-label = Цільова потужність:
-ame-window-eject-button = Витягти
+ame-window-power-currentsupply-label = Поточне забеспечення енергією:
+ame-window-power-targetsupply-label = Цільове забеспечення енергією:
+ame-window-eject-button = Вийняти
 ame-window-increase-fuel-button = Збільшити
 ame-window-decrease-fuel-button = Зменшити

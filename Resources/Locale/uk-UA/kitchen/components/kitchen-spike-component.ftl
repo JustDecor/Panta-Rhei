@@ -1,18 +1,37 @@
-comp-kitchen-spike-deny-collect = На { CAPITALIZE($this) } вже щось є, спочатку закінчіть збирати м'ясо!
-comp-kitchen-spike-deny-butcher = { CAPITALIZE($victim) } не може бути патране на { $this }.
-comp-kitchen-spike-deny-butcher-knife = { CAPITALIZE($victim) } не можна патрати на { $this }, потрібно зарізати ножем.
-comp-kitchen-spike-deny-not-dead = { CAPITALIZE($victim) } не можна патрати. { CAPITALIZE(SUBJECT($victim)) } ще живий!
+comp-kitchen-spike-begin-hook-self = Ви починаєте тягти себе на { $hook }!
+comp-kitchen-spike-begin-hook-self-other = { CAPITALIZE($victim) } починає тягти { REFLEXIVE($victim) } на { $hook }!
 
-comp-kitchen-spike-begin-hook-victim = { $user } почав чіпляти вас на { $this }!
-comp-kitchen-spike-begin-hook-self = Ви почали чіпляти себе на { $this }!
+comp-kitchen-spike-begin-hook-other-self = Ви починаєте тягти { CAPITALIZE($victim) } на { $hook }!
+comp-kitchen-spike-begin-hook-other = { CAPITALIZE($user) } починає тягти { CAPITALIZE($victim) } на { $hook }!
 
-comp-kitchen-spike-kill = { CAPITALIZE($user) } вбив { $victim } повісивши { POSS-ADJ($victim) } на гак для м'яса!
+comp-kitchen-spike-hook-self = Ви кинули себе на { $hook }!
+comp-kitchen-spike-hook-self-other = { CAPITALIZE($victim) } кинула { REFLEXIVE($victim) } на { $hook }!
 
-comp-kitchen-spike-suicide-other = { CAPITALIZE($victim) } повісив себе на гак для м'яса!
-comp-kitchen-spike-suicide-self = Ви повісили себе на гак для м'яса!
+comp-kitchen-spike-hook-other-self = Ви кинули { CAPITALIZE(THE($victim)) } на { THE($hook) }!
+comp-kitchen-spike-hook-other = { CAPITALIZE($user) } кинув { CAPITALIZE(THE($victim)) } на { $hook }!
 
-comp-kitchen-spike-knife-needed = Для цього вам потрібен ніж.
-comp-kitchen-spike-remove-meat = Ви зрізаєте трохи м'яса з { $victim }.
-comp-kitchen-spike-remove-meat-last = Ви зрізали останній шматок м'яса з { $victim }!
+comp-kitchen-spike-begin-unhook-self = Ви починаєте тягти себе з { $hook }!
+comp-kitchen-spike-begin-unhook-self-other = { CAPITALIZE($victim) } починає тягти { REFLEXIVE($victim) } з { $hook }!
+
+comp-kitchen-spike-begin-unhook-other-self = Ви починаєте тягти { CAPITALIZE(THE($victim)) } з { THE($hook) }!
+comp-kitchen-spike-begin-unhook-other = { CAPITALIZE(THE($user)) } починає тягти { CAPITALIZE(THE($victim)) } з { $hook }!
+
+comp-kitchen-spike-unhook-self = Ви звільнили себе з { $hook }!
+comp-kitchen-spike-unhook-self-other = { CAPITALIZE(THE($victim)) } звільнила { REFLEXIVE($victim) } з { $hook }!
+
+comp-kitchen-spike-unhook-other-self = Ви звільнили { CAPITALIZE(THE($victim)) } з { $hook }!
+comp-kitchen-spike-unhook-other = { CAPITALIZE(THE($user)) } звільнив { CAPITALIZE(THE($victim)) } з { $hook }!
+
+comp-kitchen-spike-begin-butcher-self = Ви починаєте розділяти { THE($victim) }!
+comp-kitchen-spike-begin-butcher = { CAPITALIZE(THE($user)) } починає розділяти { THE($victim) }!
+
+comp-kitchen-spike-butcher-self = Ви розділили { THE($victim) }!
+comp-kitchen-spike-butcher = { CAPITALIZE(THE($user)) } розділив { THE($victim) }!
+
+comp-kitchen-spike-unhook-verb = Звільнити
+
+comp-kitchen-spike-hooked = [color=red]{ CAPITALIZE(THE($victim)) } на цьому шипі![/color]
 
 comp-kitchen-spike-meat-name = { $name } ({ $victim })
+
+comp-kitchen-spike-victim-examine = [color=orange]{ CAPITALIZE(SUBJECT($target)) } виглядає досить худим.[/color]

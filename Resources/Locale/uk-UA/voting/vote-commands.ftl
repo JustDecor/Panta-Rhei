@@ -4,23 +4,23 @@
 
 cmd-createvote-desc = Створити голосування
 cmd-createvote-help = Використовуйте: createvote <'restart'|'preset'|'map'>
-cmd-createvote-cannot-call-vote-now = Ви не можете зараз викликати голосування!
-cmd-createvote-invalid-vote-type = Неправильний тип голосування
-cmd-createvote-arg-vote-type = <тип голосу>
+cmd-createvote-cannot-call-vote-now = Зараз це зробити не можна!
+cmd-createvote-invalid-vote-type = Неправильний тип
+cmd-createvote-arg-vote-type = <vote type>
 
 ## 'customvote' command
 
 cmd-customvote-desc = Створити своє голосування
 cmd-customvote-help = Використовуйте: customvote <title> <option1> <option2> [option3...]
-cmd-customvote-on-finished-tie = Нічия між {$ties}!
-cmd-customvote-on-finished-win = Переможець: {$winner}!
-cmd-customvote-arg-title = <назва>
-cmd-customvote-arg-option-n = <опція{ $n }>
+cmd-customvote-on-finished-tie = Голосування «{$title}» завершено: нічия між {$ties}!
+cmd-customvote-on-finished-win = Голосування «{$title}» завершено: перемагає {$winner}!
+cmd-customvote-arg-title = <title>
+cmd-customvote-arg-option-n = <option{ $n }>
 
 ## 'vote' command
 
 cmd-vote-desc = Проголосувати в активному голосуванні
-cmd-vote-help = голосувати <voteId> <опція>
+cmd-vote-help = vote <voteId> <option>
 cmd-vote-cannot-call-vote-now = Ви не можете зараз викликати голосування!
 cmd-vote-on-execute-error-must-be-player = Має бути гравець
 cmd-vote-on-execute-error-invalid-vote-id = Недійсний ID голосування
@@ -31,7 +31,7 @@ cmd-vote-on-execute-error-invalid-option = Недійсний варіант
 ## 'listvotes' command
 
 cmd-listvotes-desc = Списки активних голосувань
-cmd-listvotes-help = Використовування: listvotes
+cmd-listvotes-help = Використовуйте: listvotes
 
 ## 'cancelvote' command
 

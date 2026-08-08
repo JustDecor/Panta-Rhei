@@ -1,27 +1,27 @@
-# Cat accent
+﻿# Cat accent
 accent-words-cat-1 = Мяу!
-accent-words-cat-2 = Няв.
-accent-words-cat-3 = Няяяя!
+accent-words-cat-2 = Мяв.
+accent-words-cat-3 = Мур-мяу!
 accent-words-cat-4 = Хшшш!
 accent-words-cat-5 = Мрррр.
-accent-words-cat-6 = Мяу?
-accent-words-cat-7 = Міау.
+accent-words-cat-6 = Мя?
+accent-words-cat-7 = Мяф.
 
 # Dog accent
 accent-words-dog-1 = Гав!
 accent-words-dog-2 = Гаф!
 accent-words-dog-3 = Вуф!
 accent-words-dog-4 = Аф.
-accent-words-dog-5 = Грррр.
+accent-words-dog-5 = Гррр.
 
 # Mouse
 accent-words-mouse-1 = Пік!
 accent-words-mouse-2 = Піп!
 accent-words-mouse-3 = Чуу!
 accent-words-mouse-4 = Піі!
-accent-words-mouse-5 = Сквік!
-accent-words-mouse-6 = Уіп!
-accent-words-mouse-7 = Іп!
+accent-words-mouse-5 = Пі!
+accent-words-mouse-6 = Фіп!
+accent-words-mouse-7 = Хіп!
 
 # Mumble
 accent-words-mumble-1 = Ммф!
@@ -45,23 +45,23 @@ accent-words-zombie-1 = Граааа...
 accent-words-zombie-2 = Ммиааа..
 accent-words-zombie-3 = Мііізкииии...
 accent-words-zombie-4 = Гррррр...
-accent-words-zombie-5 = Ааааахххх...
-accent-words-zombie-6 = Грааааххх...
+accent-words-zombie-5 = Ааааа...
+accent-words-zombie-6 = Граааа...
 accent-words-zombie-7 = Міізки... Мііізкиииии..
-accent-words-zombie-8 = Браааааа...
-accent-words-zombie-9 = Бреееее...
-accent-words-zombie-10 = Грааааа...
+accent-words-zombie-8 = Міззкхи...
+accent-words-zombie-9 = М'ясоооо...
+accent-words-zombie-10 = Уууу...
 
 # Moth Zombie
-accent-words-zombie-moth-1 = Ооодяг...
-accent-words-zombie-moth-2 = Чоооботииии...
-accent-words-zombie-moth-3 = Свіііітла...
-accent-words-zombie-moth-4 = Лаааампиии...
-accent-words-zombie-moth-5 = Шляяяпкии... Капелюююшкиии...
-accent-words-zombie-moth-6 = Шаарфииииии...
+accent-words-zombie-moth-1 = Clothessss...
+accent-words-zombie-moth-2 = Shooooesss...
+accent-words-zombie-moth-3 = Liiiiight...
+accent-words-zombie-moth-4 = Laaamps...
+accent-words-zombie-moth-5 = Haaaatsss... Hatttssss...
+accent-words-zombie-moth-6 = Scarffsss...
 
 # Generic Aggressive
-accent-words-generic-aggressive-1 = Грр!
+accent-words-generic-aggressive-1 = Гхр!
 accent-words-generic-aggressive-2 = Рррр!
 accent-words-generic-aggressive-3 = Грр...
 accent-words-generic-aggressive-4 = Грах!!
@@ -86,45 +86,70 @@ accent-words-pig-4 = Хрю Хрю!
 
 # Kangaroo
 accent-words-kangaroo-1 = Гррр!
-accent-words-kangaroo-2 = Вакіу-вакіу!
-accent-words-kangaroo-3 = Кткха!
-accent-words-kangaroo-4 = Груааах!
+accent-words-kangaroo-2 = Хіссс!
+accent-words-kangaroo-3 = Шрек!
+accent-words-kangaroo-4 = Чуу!
 
 # Slimes
-accent-words-slimes-1 = Блюмп.
+accent-words-slimes-1 = Бліумп.
 accent-words-slimes-2 = Блімпуф?
-accent-words-slimes-3 = Блямп!
+accent-words-slimes-3 = Бламп!
 accent-words-slimes-4 = Блууумп...
 accent-words-slimes-5 = Блебл бламп!
 
 # Mothroach
-accent-words-mothroach-1 = Сквік!
-accent-words-mothroach-2 = Цвіріньк!
-accent-words-mothroach-3 = Піп!
-accent-words-mothroach-4 = Ііі!
-accent-words-mothroach-5 = Іп!
+accent-words-mothroach-1 = Чркпц!
 
 # Crab
-accent-words-crab-1 = Клац.
-accent-words-crab-2 = Клац-клац!
+accent-words-crab-1 = Чік.
+accent-words-crab-2 = Чік-Чак!
 accent-words-crab-3 = Клац?
-accent-words-crab-4 = Тіпі-тап!
-accent-words-crab-5 = Клік-тап.
-accent-words-crab-6 = Клілік.
+accent-words-crab-4 = Тукі-тук!
+accent-words-crab-5 = Клік-тук.
+accent-words-crab-6 = Клалац.
 
 # Kobold
-accent-words-kobold-1 = Іп!
-accent-words-kobold-2 = Грррр.
-accent-words-kobold-3 = Яп!
+accent-words-kobold-1 = Йіп!
+accent-words-kobold-2 = Грааар.
+accent-words-kobold-3 = Йап!
 accent-words-kobold-4 = Біп.
-accent-words-kobold-5 = Скріт?
-accent-words-kobold-6 = Гронку!
-accent-words-kobold-7 = Шипіння!
-accent-words-kobold-8 = Ііі!
-accent-words-kobold-9 = Іп.
+accent-words-kobold-5 = Скрііт?
+accent-words-kobold-6 = Гронк!
+accent-words-kobold-7 = Хссс!
+accent-words-kobold-8 = Ііііі!
+accent-words-kobold-9 = Йіп.
 
 # Nymph
-accent-words-nymph-1 = Цвіріньк!
-accent-words-nymph-2 = Чуррр...
-accent-words-nymph-3 = Дешево?
-accent-words-nymph-4 = Хрупе!
+accent-words-nymph-1 = Чірп!
+accent-words-nymph-2 = Чарр...
+accent-words-nymph-3 = Чіп?
+accent-words-nymph-4 = Хрусь!
+
+# TomatoKiller
+accent-words-tomato-1 = Тотато!
+accent-words-tomato-2 = Тротект
+accent-words-tomato-3 = Мастет?
+accent-words-tomato-4 = Реату!
+accent-words-tomato-5 = Води...
+
+# Scurret
+accent-words-scurret-1 = Wa!
+accent-words-scurret-2 = Wa?
+accent-words-scurret-3 = Wa.
+accent-words-scurret-4 = Wa...
+accent-words-scurret-5 = Wawa!
+accent-words-scurret-6 = Wawa?
+accent-words-scurret-7 = Wawa.
+accent-words-scurret-8 = Wawa...
+accent-words-scurret-9 = Wa wawa!
+accent-words-scurret-10 = Wa wawa?
+accent-words-scurret-11 = Wa wawa.
+accent-words-scurret-12 = Wa wawa...
+accent-words-scurret-13 = Wawa wa!
+accent-words-scurret-14 = Wawa wa?
+accent-words-scurret-15 = Wawa wa.
+accent-words-scurret-16 = Wawa wa...
+accent-words-scurret-17 = Waaaaaa.
+accent-words-scurret-18 = Waaaaaa!
+accent-words-scurret-19 = Waaaaaa?
+accent-words-scurret-20 = Waaaaaa...

@@ -1,7 +1,13 @@
-﻿accent-bogan-prefix-1 = Чорт забирай,
+﻿# SPDX-FileCopyrightText: 2024 BeeRobynn <166929042+BeeRobynn@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2025 Aiden <aiden@djkraz.com>
+#
+# SPDX-License-Identifier: AGPL-3.0-or-later
+
+accent-bogan-prefix-1 = Чортів,
 accent-bogan-prefix-2 = Та ні,
-accent-bogan-prefix-3 = Нє, так, нє,
-accent-bogan-prefix-4 = Мммм,
+accent-bogan-prefix-3 = Нє, ну так, нє,
+accent-bogan-prefix-4 = Ммммм,
 
 accent-bogan-suffix-1 = , придурок.
 accent-bogan-suffix-2 = , чорт забирай.

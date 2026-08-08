@@ -1,7 +1,7 @@
-﻿advertisement-clothes-1 = Dress for success!
-advertisement-clothes-2 = Приготуйся виглядати пишно!
-advertisement-clothes-3 = Подивись на весь цей шмот!
-advertisement-clothes-4 = Що за одяг, як варвара? Одягайся як стиляга!
-advertisement-clothes-5 = Тепер із додатковими грілками для шиї!
+﻿advertisement-clothes-1 = Одягайся для успіху!
+advertisement-clothes-2 = Приготуйтеся виглядати розкішно!
+advertisement-clothes-3 = Ви тільки подивіться на все це багатство!
+advertisement-clothes-4 = Навіщо залишати стиль на волю долі? Використовуй Adidas!
+advertisement-clothes-5 = Стань самим модним на селі!
 advertisement-clothes-6 = Ви виглядаєте стильно!
-advertisement-clothes-7 = Гарне вбрання у вас там!
+advertisement-clothes-7 = Чудове вбрання у вас!

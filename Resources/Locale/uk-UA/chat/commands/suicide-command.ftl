@@ -3,8 +3,8 @@ suicide-command-help-text = Команда самогубства дозволя
                             Метод може бути різним, спочатку вона спробує використати предмет, який ви тримаєте в активній руці.
                             Якщо це не вдасться, вона спробує використати об'єкт з оточення.
                             Нарешті, якщо жоден з вищезгаданих способів не спрацював, ви помрете, прикусивши язика.
-suicide-command-default-text-others = {$name} намагається вкусити себе за язик!
+suicide-command-default-text-others = {CAPITALIZE($name)} намагається вкусити себе за язик!
 suicide-command-default-text-self = Ви намагаєтеся вкусити себе за язик!
-suicide-command-already-dead = Ви не можете вбити себе. Ви вже мертві.
-suicide-command-no-mind = У тебе немає розуму!
-suicide-command-denied = Ти не можеш покінчити життя самогубством прямо зараз.
+suicide-command-already-dead = Ви не можете вкоротити собі віку. Ви вже мертві.
+suicide-command-no-mind = У вас немає розуму!
+suicide-command-denied = Ти не можеш покінчити життя самогубством зараз.

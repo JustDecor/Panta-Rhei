@@ -30,13 +30,15 @@ autodoc-program-title = НАЗВА ПРОГРАМИ
 autodoc-program-title-placeholder = Програма {$number}
 autodoc-abort-program = СКАСУВАТИ ПРОГРАМУ
 
-autodoc-view-program-title = ПЕРЕГЛЯНУТИ ПРОГРАМУ
-autodoc-safety-enabled = БЕЗПЕКА УВІМКНЕНА
-autodoc-safety-disabled = БЕЗПЕКА ВИМКНЕНА
-autodoc-remove-program = ВИДАЛИТИ ПРОГРАМУ
-autodoc-add-step = ДОДАТИ КРОК
-autodoc-remove-step = ВИДАЛИТИ КРОК
-autodoc-start-program = ЗАПУСТИТИ ПРОГРАМУ
+autodoc-view-program-title = VIEW PROGRAM ПРОСМОТР
+autodoc-safety-enabled = SAFETY ON БЕЗОПАСНОСТЬ ВКЛ.
+autodoc-safety-disabled = SAFETY OFF БЕЗОПАСНОСТЬ ВЫКЛ.
+autodoc-remove-program = REMOVE PROGRAM УДАЛИТЬ ПРОГРАММУ 
+autodoc-add-step = ADD STEP ДОБАВИТЬ ДЕЙСТВИЕ 
+autodoc-remove-step = REMOVE STEP УДАЛИТЬ ДЕЙСТВИЕ 
+autodoc-start-program = START PROGRAM ЗАПУСТИТЬ ПРОГРАММУ 
+autodoc-import-program = IMPORT PROGRAM ИМПОРТ ПРОГРАММЫ 
+autodoc-export-program = EXPORT PROGRAM ЭКСПОРТ ПРОГРАММЫ
 
 autodoc-add-step-surgery = ВИКОНАТИ ОПЕРАЦІЮ
 autodoc-add-step-grab-item = ВЗЯТИ ПРЕДМЕТ
@@ -65,5 +67,3 @@ autodoc-body-symmetry-Left = Ліва
 autodoc-body-symmetry-Right = Права
 
 autodoc-submit = Підтвердити
-
-autodoc-upgrade-surgery-speed = Швидкість хірургії

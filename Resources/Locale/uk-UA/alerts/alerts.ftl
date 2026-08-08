@@ -1,122 +1,124 @@
-alerts-low-oxygen-name = [color=red]Низький Рівень Кисню[/color]
-alerts-low-oxygen-desc = Тут [color=red]недостатньо кисню[/color] у повітрі яким ви дихаєте. Надіньте [color=green]кисневу маску[/color].
+alerts-low-oxygen-name = [color=red]Низький вміст кисню[/color]
+alerts-low-oxygen-desc = У повітрі, яким ви дихаєте, [color=red]недостатньо кисню[/color]. Одягніть [color=green]кисневу маску[/color].
 
-alerts-low-nitrogen-name = [color=red]Низький Вміст Азоту[/color]
+alerts-low-nitrogen-name = [color=red]Низький вміст азоту[/color]
 alerts-low-nitrogen-desc = У повітрі, яким ви дихаєте, [color=red]недостатньо азоту[/color]. Одягніть [color=green]кисневу маску[/color].
 
-alerts-high-toxin-name = [color=red]Високий Рівень Токсинів[/color]
-alerts-high-toxin-desc = Тут [color=red]надто багато токсинів[/color] у повітрі яким ви дихаєте. Надіньте [color=green]кисневу маску[/color] або покиньте місце.
+alerts-high-toxin-name = [color=red]Високий рівень токсинів[/color]
+alerts-high-toxin-desc = У повітрі, яким ви дихаєте, [color=red]підвищений вміст токсинів[/color]. Надягніть [color=green]кисневу маску[/color] або валіть звідти.
 
-alerts-low-pressure-name = [color=red]Низький Тиск[/color]
-alerts-low-pressure-desc = Повітря навколо має [color=red]недостатньо тиску[/color]. [color=green]Скафандр[/color] може захистити вас.
+alerts-low-pressure-name = [color=red]Низький тиск[/color]
+alerts-low-pressure-desc = Повітря навколо вас [color=red]небезпечно тонке[/color]. [color=green]Скафандр[/color] міг би вас захистити.
 
-alerts-high-pressure-name = [color=red]Високий Тиск[/color]
-alerts-high-pressure-desc = Повітря навколо [color=red]дуже щільне[/color]. [color=green]Скафандр[/color] може захистити вас.
+alerts-high-pressure-name = [color=red]Високий тиск[/color]
+alerts-high-pressure-desc = Повітря навколо вас [color=red]небезпечно щільне[/color]. [color=green]Скафандра[/color] буде достатньо для вашого захисту.
 
-alerts-on-fire-name = [color=red]Горю![/color]
-alerts-on-fire-desc = Ви [color=red]горите[/color]. Натисність на повідомлення аби зупинитись, впасти та кататись, аби зупинити вогонь, або перейдіть до зони вакууму.
+alerts-on-fire-name = [color=red]У вогні[/color]
+alerts-on-fire-desc = Ви [color=red]палаєте[/color]. Клацніть на сповіщення, щоб зупинитися, впасти та перекочуватися, аби зупинити вогонь. Або пройдіть до зони з вакуумом.
 
-alerts-too-cold-name = [color=cyan]Надто Холодно[/color]
-alerts-too-cold-desc = Вам [color=cyan]дуже холодно![/color] Перейдіть у тепліше місце і зніміть там ізоляційний одяг, наприклад скафандр.
+alerts-too-cold-name = [color=cyan]Надто холодно[/color]
+alerts-too-cold-desc = Ви [color=cyan]замерзаєте![/color] Перейдіть у тепліше місце та зніміть будь-який ізоляційний одяг, наприклад, скафандр.
 
-alerts-too-hot-name = [color=red]Надто Спекотно[/color]
-alerts-too-hot-desc = Тут [color=red]дуже спекотно![/color] Перейдіть до холодного місця і зніміть там ізоляційний одяг, наприклад скафандр, або хоча б відійдіть від вогню.
+alerts-too-hot-name = [color=red]Надто гаряче[/color]
+alerts-too-hot-desc = Тут [color=red]надто жарко![/color] Ідіть у холодніше місце, зніміть будь-який ізоляційний одяг, наприклад, скафандр. Або принаймні відійдіть від вогню.
 
 alerts-weightless-name = Невагомість
-alerts-weightless-desc = 
-    Гравітація перестала на вас впливати, і ви безцільно літаєте. Знайдіть щось міцне, за що можна вхопитися, або киньте чи стріляйте чимось у напрямку, протилежному до вас.
-    Магнітні черевики або реактивний ранець допоможуть вам рухатися з більшим контролем.
+alerts-weightless-desc =
+    Гравітація перестала діяти на вас, і ви безцільно літаєте. Знайдіть щось міцне, за що можна триматися, або киньте чи вистріліть щось у протилежному напрямку.
+    Магнітні черевики або реактивні ранці допоможуть вам рухатися з більшим контролем.
 
-alerts-stunned-name = [color=yellow]Оглушено[/color]
+alerts-walking-name = Йдеш
+alerts-walking-desc = Ви йдете, рухаєтеся в повільному темпі.
+
+alerts-stunned-name = [color=yellow]Оглушений[/color]
 alerts-stunned-desc = Вас [color=yellow]оглушили[/color]! Щось послаблює вашу здатність до рухів та взаємодії з об'єктами.
 
-alerts-handcuffed-name = [color=yellow]Скований[/color]
-alerts-handcuffed-desc = Ви [color=yellow]в наручниках[/color] і не можете користуватись руками. Якщо вас пересувають, ви не зможете чинити опір.
+alerts-knockdown-name = [color=yellow]Збито з ніг[/color]
+alerts-knockdown-desc = Ви [color=yellow]збиті з ніг[/color]! Щось підкосило або штовхнуло вас, обмежуючи вашу здатність рухатися.
 
-alerts-ensnared-name = [color=yellow]У пасці[/color]
-alerts-ensnared-desc = Вас [color=yellow]зловили у пастку[/color] і ви не можете вільно рухатись.
+alerts-handcuffed-name = [color=yellow]У наручниках[/color]
+alerts-handcuffed-desc = На вас наділи [color=yellow]наручники[/color] і ви не можете користуватися руками. Якщо вас хтось потягне, ви не зможете опиратися.
 
-alerts-buckled-name = [color=yellow]Пристебнуто[/color]
-alerts-buckled-desc = Вас було [color=yellow]пристебнуто[/color] до чогось. Натисність на іконку шоб відстібнутись якщо тільки ви не [color=yellow]заковані.[/color]
+alerts-ensnared-name = [color=yellow]У пастці[/color]
+alerts-ensnared-desc = Ви [color=yellow]у пастці[/color] і не можете вільно рухатись.
 
-alerts-crit-name = [color=red]Критичний Стан[/color]
+alerts-buckled-name = [color=yellow]Пристебнутий[/color]
+alerts-buckled-desc = Ви [color=yellow]пристебнули[/color] себе до чогось. Клацніть на сповіщення, щоб відстебнутися (якщо ви не у [color=yellow]наручниках[/color]).
+
+alerts-crit-name = [color=red]Критичний стан[/color]
 alerts-crit-desc = Ви серйозно поранені і непритомні.
 
 alerts-dead-name = Мрець
-alerts-dead-desc = Ви померли, але вас ще можуть реанімувати!
+alerts-dead-desc = Ви померли, але вас ще можуть відродити!
 
 alerts-health-name = Здоров'я
-alerts-health-desc = [color=green]Зелений[/color] колір - добре. [color=red]Червоний[/color] - погано.
+alerts-health-desc = [color=green]Зелений[/color] — це добре. [color=red]Червоний[/color] — це погано.
 
 alerts-battery-name = Батарея
 alerts-battery-desc = Якщо батарея розрядиться, ви не зможете використовувати свої здібності.
 
-alerts-no-battery-name = Нема батареї
+alerts-no-battery-name = Немає батареї
 alerts-no-battery-desc = У вас немає акумулятора, через що ви не можете заряджати або використовувати свої здібності.
 
 alerts-internals-name = Перемкнути балон
 alerts-internals-desc = Перемикає подачу газу у вашому балоні.
 
-alerts-piloting-name = Пілотування Шатлу
-alerts-piloting-desc = Ви пілотуєте шатл. Натисніть на іконку, щоб перестати.
+alerts-piloting-name = Пілот шатлу
+alerts-piloting-desc = Ви пілотуєте шатл. Клацніть сповіщення, щоб перестати.
 
-alerts-hunger-name = [color=yellow]Легкий голод[/color]
-alerts-hunger-desc = Було б непогано перекусити.
+alerts-hunger-name = [color=yellow]Зголоднів[/color]
+alerts-hunger-desc = Було б добре трохи поїсти.
 
 alerts-stamina-name = Витривалість
-alerts-stamina-desc = Ви падаєте коли витривалості нема.
+alerts-stamina-desc = Приголомшить вас, якщо впаде надто низько.
 
-alerts-starving-name = [color=red]Голод[/color]
-alerts-starving-desc = Ви сильно хочете їсти. Ваш живіт болить від голоду і ви сповільнюєтесь.
+alerts-starving-name = [color=red]Сильний голод[/color]
+alerts-starving-desc = Ви сильно хочете їсти. Біль у шлунку сповільнює ваші рухи.
 
-alerts-thirsty-name = [color=yellow]Легка Спрага[/color]
-alerts-thirsty-desc = Було б непогано попити.
+alerts-thirsty-name = [color=yellow]Легка спрага[/color]
+alerts-thirsty-desc = Трохи водички зараз не завадить.
 
 alerts-parched-name = [color=red]Сильна спрага[/color]
-alerts-parched-desc = Ви дуже хочете пити. Дегідрація робить вас повільним.
+alerts-parched-desc = Ви дуже хочете пити. Спрага сповільнює ваші рухи.
 
 alerts-muted-name = Німий
 alerts-muted-desc = Ви втратили здатність говорити.
 
-alerts-vow-silence-name = Обітниця Мовчання
-alerts-vow-silence-desc = Ви дали обітницю мовчання, як частину посвячення у секту Містіко Тагма Мімон. Клацність, щоб порушити обітницю.
+alerts-vow-silence-name = Обітниця мовчання
+alerts-vow-silence-desc = Ви прийняли обітницю, яка забороняє усне чи письмове спілкування як частину посвячення у секту Містіко Мімон. Натисніть, щоб порушити обітницю.
 
 alerts-vow-broken-name = Обітниця порушена
-alerts-vow-broken-desc = Ви порушили свою обітницю серед усіх мімів. Ви можете говорити, але ви втратили свої здібності щонайменше на цілих 5 хвилин!!! Клацніть, щоб спробувати повторно прийняти обітницю.
+alerts-vow-broken-desc = Ви порушили свою обітницю мімам. Ви вмієте говорити і писати, але ви втратили свої сили щонайменше на цілих 5 хвилин!!! Натисніть, щоб спробувати повторно прийняти обітницю.
 
 alerts-pulled-name = Вас тягнуть
 alerts-pulled-desc = Вас хтось тягне. Рухайтесь, щоб звільнитися.
 
 alerts-pulling-name = Ви тягнете
-alerts-pulling-desc = Ви щось тягнете. Клацніть іконку, щоб перестати.
+alerts-pulling-desc = Ви щось тягнете. Клацніть сповіщення, щоб перестати.
 
 alerts-bleed-name = [color=red]Кровотеча[/color]
-alerts-bleed-desc = У вас [color=red]кровотеча[/color].
+alerts-bleed-desc = Ти [color=red]стікаєш кров'ю[/color].
 
 alerts-pacified-name = [color=green]Заспокоєний[/color]
-alerts-pacified-desc = Ви заспокоєні, ви не зможете напасти на живі істоти.
+alerts-pacified-desc = Ви заспокоєні, ви не зможете напасти на когось безпосередньо.
 
-alerts-suit-power-name = Потужність Костюма
-alerts-suit-power-desc = Скільки енергії має ваш космічний костюм ніндзя.
+alerts-adrenaline-name = [color=red]Адреналін[/color]
+alerts-adrenaline-desc = Ви сповнені адреналіну: біль не сповільнить вас.
 
-alerts-magboots-name = Магбути
-alerts-magboots-desc = Ви захищені від повітряного потоку, але ви трохи повільніше.
+alerts-suit-power-name = Живлення Костюму
+alerts-suit-power-desc = Скільки заряду має ваш костюм космічного ніндзя.
 
-alerts-revenant-essence-name = Есенція
-alerts-revenant-essence-desc = Сила душ. Вона підтримує вас і використовується для здібностей. З часом вона повільно відновлюється.
+alerts-magboots-name = Магнітні чоботи
+alerts-magboots-desc = Примагнічуються до підлоги, трохи уповільнюють рух.
+
+alerts-revenant-essence-name = Суть
+alerts-revenant-essence-desc = Сила душ. Це підтримує вас і використовується для здібностей. Він повільно регенерує з часом.
 
 alerts-revenant-corporeal-name = Тілесний
-alerts-revenant-corporeal-desc = Ви проявилися фізично. Люди навколо вас можуть бачити і завдавати вам болю.
+alerts-revenant-corporeal-desc = Ви проявились фізично. Люди навколо вас можуть побачити і завдати вам болю.
 
-alerts-walking-name = Ходьба
-alerts-walking-desc = Показує, з якою швидкістю ви рухаєтеся.
+alerts-rooted-name = Вкорінений
+alerts-rooted-desc = Ви прив’язані до землі. Ви не можете посковзнутися, але ви вбираєте рідину під собою.
 
-alerts-offer-name = Пропозиція
-alerts-offer-desc = Хтось пропонує вам товар.
-
-alerts-deflecting-name = Відхилення
-alerts-deflecting-desc = У вас є шанс відхилити снаряди, що летять на вас. Стоячи на місці або повільно рухаючись, ви збільшуєте цей шанс.
-
-alerts-mana-name = Рівень мани
-alerts-mana-desc = Скільки мани ви можете витратити на свої здібності.
-mana-alert = [font size=12][color=purple]Мана: {$mana}/{$manaMax}[/color][/font]
+alerts-stealthy-name = Pickpocketing
+alerts-stealthy-desc = Whether you are currently pickpocketing. Click to toggle.

@@ -47,3 +47,4 @@ reagent-desc-tea-syndie = Синтетичний напій із порошку 
 
 reagent-name-decaf-coffee = кава без кофеїну
 reagent-desc-decaf-coffee = Чашка кави з усім смаком, але без кофеїну.
+

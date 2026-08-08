@@ -1,1 +1,1 @@
-construction-step-condition-no-windows-in-tile = На цій плитці не може бути вікон.
+construction-step-condition-no-windows-in-tile = На цій плитці не повинно бути інших вікон.

@@ -12,6 +12,3 @@ surgery-ui-window-steps-error-tools = Відсутні інструменти.
 surgery-error-laying = Вони повинні лежати!
 surgery-error-self-surgery = Ви не можете оперувати себе!
 surgery-part-damage-evaded = {$user} ледь ухилився!
-
-# Floof
-surgery-verb-perform = Провести операцію

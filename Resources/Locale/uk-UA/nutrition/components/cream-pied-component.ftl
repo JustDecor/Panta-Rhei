@@ -1,2 +1,2 @@
-cream-pied-component-on-hit-by-message = Тебе накремив  {$thrower}!
-cream-pied-component-on-hit-by-message-others = {$owner} накремив {$thrower}!
+cream-pied-component-on-hit-by-message = Ви були обмазані {INDEFINITE($thrown)} {$thrown}!
+cream-pied-component-on-hit-by-message-others = {CAPITALIZE($owner)} обмазано {INDEFINITE($thrown)} {$thrown}!

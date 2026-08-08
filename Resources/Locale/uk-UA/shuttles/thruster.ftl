@@ -1,5 +1,5 @@
-thruster-comp-enabled = Сопло [color=green]увімкнено[/color].
-thruster-comp-disabled = Сопло [color=red]вимкнено[/color].
-thruster-comp-nozzle-direction = Вихід сопла у [color=yellow]{$direction}[/color] сторону.
-thruster-comp-nozzle-exposed = Вихід сопла [color=green]виставлений[/color] назовні.
-thruster-comp-nozzle-not-exposed = Вихід сопла [color=red]не виставлений[/color] назовні.
+thruster-comp-enabled = Прискорювач [color=green]увімкнуто[/color].
+thruster-comp-disabled = Прискорювач [color=red]вимкнуто[/color].
+thruster-comp-nozzle-direction = Сопло спрямоване на [color=yellow]{$direction}[/color].
+thruster-comp-nozzle-exposed = Сопло [color=green]має вихід[/color] у космос.
+thruster-comp-nozzle-not-exposed = Сопло [color=red]не має виходу[/color] у космос.

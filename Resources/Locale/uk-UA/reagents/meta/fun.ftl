@@ -1,38 +1,38 @@
-reagent-name-carpetium = карпетіум
-reagent-desc-carpetium = Містична хімічна речовина, яку зазвичай постачають з Планети Клоунів, що покриває все, до чого торкається, килимом. Якимось чином фільтрує карпотоксин з кровотоку.
+reagent-name-carpetium = карпетій
+reagent-desc-carpetium = Містична хімічна речовина, зазвичай постачається з Планети Клоунів, яка вкриває все, до чого торкається, килимом.
 
 reagent-name-fiber = волокно
-reagent-desc-fiber = Сировина, яку зазвичай видобувають з вовни або інших тканинних виробів.
+reagent-desc-fiber = Сировина, зазвичай видобувається з вовни або інших тканинних виробів.
 
-reagent-name-buzzochloric-bees = бджоли-бузохлорики
-reagent-desc-buzzochloric-bees = Рідкі бджоли. О боже, це РІДКІ БДЖОЛИ, НІ-
+reagent-name-buzzochloric-bees = Топлені бджоли
+reagent-desc-buzzochloric-bees = Рідкі бджоли. О Господи, РІДКІ БДЖОЛИ, НІ-
 
-reagent-name-ground-bee = мелена бджола
-reagent-desc-ground-bee = Бджолина гуща. Огидно.
+reagent-name-ground-bee = Мелена бджола
+reagent-desc-ground-bee = Мука з бджоли. Гидота.
 
-reagent-name-saxoite = саксоїт
-reagent-desc-saxoite = Пахне джазом.
+reagent-name-brass = латунь
+reagent-desc-brass = Пахне годинниковим механізмом.
 
-reagent-name-licoxide = лікоксид
-reagent-desc-licoxide = Синтетична акумуляторна кислота. Виглядає... наелектризовано.
+reagent-name-licoxide = Лікоксид
+reagent-desc-licoxide = Синтетична акумуляторна кислота. Виглядає... електризуюче.
 
-reagent-name-razorium = разоріум
-reagent-desc-razorium = Дивна, неньютонівська хімічна речовина. Вона утворюється при поєднанні двох конфліктуючих медикаментів грубої дії. При застосуванні сили вона тимчасово твердне, створюючи мільйони крихітних гострих країв. Дуже боляче.
+reagent-name-razorium = Розорій
+reagent-desc-razorium = Дивна, неньютонівська хімія. Він утворюється при поєднанні двох протилежних грубих ліків. Коли до нього прикладається сила, він тимчасово твердне, утворюючи мільйони крихітних гострих країв. Дуже болісно.
 
-reagent-name-fresium = Фрезіум
-reagent-desc-fresium = Таємнича сполука, що уповільнює вібрацію атомів і молекул... якимось чином. Простими словами, вона робить речі холодними... ДУЖЕ холодними. Може спричинити тривалі проблеми з рухом при вживанні.
+reagent-name-fresium = Фрізіум
+reagent-desc-fresium = Таємнича сполука, яка уповільнює вібрацію атомів і молекул... якось. З точки зору непрофесіонала, це робить речі холодними... ДІЙСНО холодними. При попаданні всередину може викликати тривалі проблеми з рухом.
 
 reagent-name-laughter = сміх
-reagent-desc-laughter = Дехто каже, що це найкращі ліки, але нещодавні дослідження довели, що це не так.
+reagent-desc-laughter = Деякі кажуть, що це найкращі ліки, але останні дослідження довели, що це неправда.
 
-reagent-name-weh = сік, що змушує казати 'вех'
-reagent-desc-weh = Чиста есенція плюшевої ящірки. Змушує вас казати "вех"!
+reagent-name-weh = сік, який робить вас Вех
+reagent-desc-weh = Чиста есенція плюшу ящірки. Робить вас Вех!
 
-reagent-name-hew = juice that makes you Hew
-reagent-desc-hew = Pure essence of inversed lizard plush. Makes you Hew!
+reagent-name-hew = сік, що робить тебе Хев
+reagent-desc-hew = Чиста есенція перевернутого плюшу ящірки. Зробить тебе Хев!
 
-reagent-name-catessence = felinase
-reagent-desc-catessence = A type of carcinogenic enzyme known to break down proteins found within the vocal cords of most animals. Mixing is NOT recommended.
+reagent-name-catessence = феліназа
+reagent-desc-catessence = Тип канцерогенного ферменту, відомий тим, що розщеплює білки, які знаходяться у голосових зв'язках більшості тварин. Змішувати НЕ рекомендується.
 
-reagent-name-canidessence = caninase
-reagent-desc-canidessence = A type of carcinogenic enzyme known to break down proteins found within the vocal cords of most animals. Mixing is NOT recommended.
+reagent-name-canidessence = каніназа
+reagent-desc-canidessence = Тип канцерогенного ферменту, відомий тим, що розщеплює білки, які знаходяться у голосових зв'язках більшості тварин. Змішувати НЕ рекомендується.

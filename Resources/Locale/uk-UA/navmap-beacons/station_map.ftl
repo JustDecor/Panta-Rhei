@@ -1,19 +1,20 @@
 station-map-window-title = Мапа станції
-station-map-user-interface-flavor-left = Без паніки
+station-map-user-interface-flavor-left = Не панікуйте
 station-map-user-interface-flavor-right = v1.42
-station-map-filter-placeholder = Пошук за назвоюnav-beacon-button-apply = Застосувати
+station-map-filter-placeholder = Шукати по імені
+station-map-unknown-station = Невідома станція
 
-nav-beacon-window-title = Станційний Маяк
+nav-beacon-window-title = Станційний маяк
 nav-beacon-toggle-visible = Видимий
 nav-beacon-toggle-invisible = Невидимий
-nav-beacon-text-label = Етикетка:
+nav-beacon-text-label = Мітка:
 nav-beacon-button-apply = Застосувати
-nav-beacon-examine-text = Це [color={$enabled ->
-    [true] forestgreen]увімкнено
-    *[false] crimson]вимкнено
-}[/color] і дисплей показує [color={$color}]"{$label}"[/color]
+nav-beacon-examine-text = Він [color={$enabled ->
+    [true] forestgreen]увімкнений
+    *[false] crimson]вимкнений
+}[/color] і на дисплеї написано [color={$color}]"{$label}"[/color]
 
 nav-beacon-pos-no-beacons = в глушині
-nav-beacon-pos-format = [color={$color}]біля {$marker}[/color]
-nav-beacon-pos-format-direction = [color={$color}]{$modifier}{$direction} з {$marker}[/color]
+nav-beacon-pos-format = [color={$color}]поруч {$marker}[/color]
+nav-beacon-pos-format-direction = [color={$color}]{$modifier}{$direction} {$marker}[/color]
 nav-beacon-pos-format-direction-mod-far = далеко {""}

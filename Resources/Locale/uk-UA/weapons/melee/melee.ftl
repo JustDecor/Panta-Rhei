@@ -1,7 +1,7 @@
-melee-inject-failed-hardsuit = Ваш {$weapon} не може робити ін’єкцію через скафандри!
+melee-inject-failed-hardsuit = {CAPITALIZE($weapon)} не може пробити скафандр.
 
-melee-balloon-pop = {CAPITALIZE(THE($balloon))} лопнув!
+melee-balloon-pop = {CAPITALIZE($balloon)} лопнула!
 
 
 # BatteryComponent
-melee-battery-examine = У нього достатньо заряду для [color={$color}]{$count}[/color] ударів.
+melee-battery-examine = Воно має достатньо заряду для [color={$color}]{$count}[/color] ударів.

@@ -1,11 +1,23 @@
 
-loadout-metadata-editor-empty-hint = <no override>
+loadout-metadata-editor-empty-hint = <без перевизначення>
 
-loadout-metadata-editor-custom-name = Custom entity name
-loadout-metadata-editor-custom-name-tooltip = If this field is not empty, the name of the entity given by this loadout will be changed to its contents.
+loadout-metadata-editor-custom-name = Власна назва сутності
+loadout-metadata-editor-custom-name-tooltip = Якщо це поле не порожнє, назву сутності, яку надає цей набір спорядження, буде змінено на вказаний текст.
 
-loadout-metadata-editor-custom-desc = Custom entity description
-loadout-metadata-editor-custom-desc-tooltip = If this field is not empty, the description of the entity given by this loadout will be changed to its contents.
+loadout-metadata-editor-custom-desc = Власний опис сутності
+loadout-metadata-editor-custom-desc-tooltip = Якщо це поле не порожнє, опис сутності, яку надає цей набір спорядження, буде змінено на вказаний текст.
 
-loadout-metadata-editor-custom-color = Custom color tint
-loadout-metadata-editor-custom-color-tooltip = If you turn this on, the entity will be automatically painted on spawn. You can wash the paint off using soap.
+loadout-metadata-editor-custom-color = Власний відтінок кольору
+loadout-metadata-editor-custom-color-tooltip = Якщо увімкнути це, сутність буде автоматично пофарбована під час появи. Ви можете змити фарбу за допомогою мила.
+
+loadout-metadata-editor-apply-to-all = Застосувати до всіх
+loadout-metadata-editor-apply-to-all-tooltip =
+    Якщо увімкнено, власні метадані цього набору спорядження (назва, опис тощо)
+    будуть скопійовані до всіх інших вибраних наборів спорядження професій, які надають той самий предмет (визначається прототипом сутності).
+    Це НЕ вибере автоматично цей набір спорядження для інших професій, а лише відредагує вже наявні вибори.
+
+loadout-metadata-editor-copy-loadout-to-all = Копіювати всюди
+loadout-metadata-editor-copy-loadout-to-all-tooltip =
+    Якщо увімкнено, цей набір спорядження буде скопійований до всіх інших наборів спорядження професій, які його підтримують.
+    Будуть змінені лише набори спорядження професій, де вибрано хоча б один предмет.
+    ЦЕ МОЖЕ ПЕРЕЗАПИСАТИ ІНШІ НАБОРИ СПОРЯДЖЕННЯ. Використовуйте цю функцію обережно та створіть резервні копії профілів, якщо не впевнені!

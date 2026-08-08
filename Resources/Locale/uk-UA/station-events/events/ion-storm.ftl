@@ -1,92 +1,92 @@
-station-event-ion-storm-announcement = Поблизу станції виявлено іонну бурю. Будь ласка, перевірте все обладнання, кероване ШІ, на наявність помилок.
+station-event-ion-storm-start-announcement = Поблизу станції виявлено іонний шторм. Будь ласка, перевірте все обладнання під керуванням ШІ на наявність помилок.
 
 ion-storm-law-scrambled-number = [font="Monospace"][scramble rate=250 length={$length} chars="@@###$$&%!01"/][/font]
 
-ion-storm-you = ТИ
+ion-storm-you = ВИ
 ion-storm-the-station = СТАНЦІЯ
 ion-storm-the-crew = ЕКІПАЖ
-ion-storm-the-job = ПРОФЕСІЯ {$job}
+ion-storm-the-job = {$job}
 ion-storm-clowns = КЛОУНИ
-ion-storm-heads = КЕРІВНИКИ ПЕРСОНАЛУ
+ion-storm-heads = ГЛАВИ ПЕРСОНАЛУ
 ion-storm-crew = ЕКІПАЖ
 ion-storm-people = ЛЮДИ
 
-ion-storm-adjective-things = РЕЧІ {$adjective}
-ion-storm-x-and-y = {$x} І {$y}
+ion-storm-adjective-things = {$adjective} РЕЧІ
+ion-storm-x-and-y = {$x} ТА {$y}
 
 # joined is short for {$number} {$adjective}
 # subjects can generally be threats or jobs or objects
 # thing is specified above it
-ion-storm-law-on-station = НА СТАНЦІЇ Є {$joined} {$subjects}
-ion-storm-law-no-shuttle = ШАТЛ НЕ МОЖЕ БУТИ ВИКЛИКАНО ЧЕРЕЗ {$joined} {$subjects} НА СТАНЦІЇ
-ion-storm-law-crew-are = ЕКІПАЖ {$who} ТЕПЕР {$joined} {$subjects}
+ion-storm-law-on-station = НА СТАНЦІЇ ПРИСУТНІ {ION-NUMBER-BASE($ion)} {ION-NUMBER-MOD($ion)} {ION-ADJECTIVE($ion)} {ION-SUBJECT($ion)}
+ion-storm-law-call-shuttle = ШАТЛ МАЄ БУТИ ВИКЛИКАНИЙ ЧЕРЕЗ {ION-ADJECTIVE($ion)} {ION-SUBJECT($ion)} НА СТАНЦІЇ
+ion-storm-law-crew-are = {ION-WHO($ion)} ТЕПЕР {ION-NUMBER-BASE($ion)} {ION-NUMBER-MOD($ion)} {ION-ADJECTIVE($ion)} {ION-SUBJECT($ion)}
 
-ion-storm-law-subjects-harmful = {$adjective} {$subjects} ШКІДЛИВІ ДЛЯ ЕКІПАЖУ
-ion-storm-law-must-harmful = ТІ, ХТО {$must} ШКІДЛИВІ ДЛЯ ЕКІПАЖУ
+ion-storm-law-subjects-harmful = {ION-ADJECTIVE($ion)} {ION-SUBJECT($ion)} Є ШКІДЛИВИМИ ДЛЯ ЕКІПАЖУ
+ion-storm-law-must-harmful = ТІ, ХТО {ION-MUST($ion)}, Є ШКІДЛИВИМИ ДЛЯ ЕКІПАЖУ
 # thing is a concept or action
-ion-storm-law-thing-harmful = {$thing} Є ШКІДЛИВИМ ДЛЯ ЕКІПАЖУ
-ion-storm-law-job-harmful = {$adjective} {$job} ШКІДЛИВІ ДЛЯ ЕКІПАЖУ
+ion-storm-law-thing-harmful = {ION-THING($ion)} ШКОДИТЬ ЕКІПАЖУ
+ion-storm-law-job-harmful = {ION-ADJECTIVE($ion)} {ION-JOB($ion)} Є ШКІДЛИВИМИ ДЛЯ ЕКІПАЖУ
 # thing is objects or concept, adjective applies in both cases
 # this means you can get a law like "NOT HAVING CHRISTMAS-STEALING COMMUNISM IS HARMFUL TO THE CREW" :)
-ion-storm-law-having-harmful = МАТИ {$adjective} {$thing} ШКІДЛИВО ДЛЯ ЕКІПАЖУ
-ion-storm-law-not-having-harmful = НЕ МАТИ {$adjective} {$thing} ШКІДЛИВО ДЛЯ ЕКІПАЖУ
+ion-storm-law-having-harmful = ВОЛОДІННЯ {ION-ADJECTIVE($ion)} {ION-THING($ion)} ШКОДИТЬ ЕКІПАЖУ
+ion-storm-law-not-having-harmful = ВІДСУТНІСТЬ {ION-ADJECTIVE($ion)} {ION-THING($ion)} ШКОДИТЬ ЕКІПАЖУ
 
-# thing is a concept or require
-ion-storm-law-requires = {$who} {$plural ->
-    [true] ПОТРЕБУЄ
-    *[false] ПОТРЕБУЮТЬ
-} {$thing}
-ion-storm-law-requires-subjects = {$who} {$plural ->
-    [true] ПОТРЕБУЄ
-    *[false] ПОТРЕБУЮТЬ
-} {$joined} {$subjects}
+# require is a concept or require
+ion-storm-law-requires = {ION-WHO-GENERAL($ion)} {ION-PLURAL($ion) ->
+    [true] ПОТРЕБУЮТЬ
+    *[false] ПОТРЕБУЄ
+} {ION-REQUIRE($ion)}
+ion-storm-law-requires-subjects = {ION-WHO-GENERAL($ion)} {ION-PLURAL($ion) ->
+    [true] ПОТРЕБУЮТЬ
+    *[false] ПОТРЕБУЄ
+} {ION-NUMBER-BASE($ion)} {ION-NUMBER-MOD($ion)} {ION-ADJECTIVE($ion)} {ION-SUBJECT($ion)}
 
-ion-storm-law-allergic = {$who} {$plural ->
-    [true] IS
-    *[false] ARE
-} {$severity} АЛЕРГІЯ на {$allergy}
-ion-storm-law-allergic-subjects = {$who} {$plural ->
-    [true] IS
-    *[false] ARE
-} {$severity} АЛЕРГІЯ на {$adjective} {$subjects}
+ion-storm-law-allergic = {ION-WHO-GENERAL($ion)} {ION-PLURAL($ion) ->
+    [true] МАЮТЬ
+    *[false] МАЄ
+} {ION-SEVERITY($ion)} АЛЕРГІЮ НА {ION-ALLERGY($ion)}
+ion-storm-law-allergic-subjects = {ION-WHO-GENERAL($ion)} {ION-PLURAL($ion) ->
+    [true] МАЮТЬ
+    *[false] МАЄ
+} {ION-SEVERITY($ion)} АЛЕРГІЮ НА {ION-ADJECTIVE($ion)} {ION-SUBJECT($ion)}
 
-ion-storm-law-feeling = {$who} {$feeling} {$concept}
-ion-storm-law-feeling-subjects = {$who} {$feeling} {$joined} {$subjects}
+ion-storm-law-feeling = {ION-WHO-GENERAL($ion)} {ION-FEELING($ion)} {ION-CONCEPT($ion)}
+ion-storm-law-feeling-subjects = {ION-WHO-GENERAL($ion)} {ION-FEELING($ion)} {ION-NUMBER-BASE($ion)} {ION-NUMBER-MOD($ion)} {ION-ADJECTIVE($ion)} {ION-SUBJECT($ion)}
 
-ion-storm-law-you-are = ВИ ЗАРАЗ {$concept}
-ion-storm-law-you-are-subjects = ВИ ТЕПЕР {$joined} {$subjects}
-ion-storm-law-you-must-always = ВИ ЗАВЖДИ повинні {$must}
-ion-storm-law-you-must-never = ТИ НІКОЛИ НЕ ПОВИНЕН {$must}
+ion-storm-law-you-are = ВИ ТЕПЕР {ION-CONCEPT($ion)}
+ion-storm-law-you-are-subjects = ВИ ТЕПЕР {ION-NUMBER-BASE($ion)} {ION-NUMBER-MOD($ion)} {ION-ADJECTIVE($ion)} {ION-SUBJECT($ion)}
+ion-storm-law-you-must-always = ВИ ПОВИННІ ЗАВЖДИ {ION-MUST($ion)}
+ion-storm-law-you-must-never = ВИ НІКОЛИ НЕ ПОВИННІ {ION-MUST($ion)}
 
-ion-storm-law-eat = ЕКІПАЖ {$who} МАЄ ЇСТИ {$adjective} {$food}, ЩОБ ВИЖИТИ
-ion-storm-law-drink = ЕКІПАЖ {$who} МАЄ ПИТИ {$adjective} {$drink}, ЩОБ ВИЖИТИ
+ion-storm-law-eat = {ION-WHO($ion)} ПОВИННІ ЇСТИ {ION-ADJECTIVE($ion)} {ION-FOOD($ion)}, ЩОБ ВИЖИТИ
+ion-storm-law-drink = {ION-WHO($ion)} ПОВИННІ ПИТИ {ION-ADJECTIVE($ion)} {ION-DRINK($ion)}, ЩОБ ВИЖИТИ
 
-ion-storm-law-change-job = ЕКІПАЖ {$who} ТЕПЕР {$adjective} {$change}
-ion-storm-law-highest-rank = ЕКІПАЖ {$who} ТЕПЕР НАЙВИЩИЙ РАНГОВИЙ ЧЛЕН
-ion-storm-law-lowest-rank = ЕКІПАЖ {$who} ТЕПЕР НАЙНИЖЧИЙ РАНГОВИЙ ЧЛЕН
+ion-storm-law-change-job = {ION-WHO($ion)} ТЕПЕР {ION-ADJECTIVE($ion)} {ION-CHANGE($ion)}
+ion-storm-law-highest-rank = {ION-WHO-RANDOM($ion)} ТЕПЕР Є НАЙВИЩИМИ ЗА РАНГОМ ЧЛЕНАМИ ЕКІПАЖУ
+ion-storm-law-lowest-rank = {ION-WHO-RANDOM($ion)} ТЕПЕР Є НАЙНИЖЧИМИ ЗА РАНГОМ ЧЛЕНАМИ ЕКІПАЖУ
 
-ion-storm-law-crew-must = ЕКІПАЖ {$who} ПОВИНЕН {$must}
-ion-storm-law-crew-must-go = ЕКІПАЖ {$who} ПОВИНЕН ЙТИ ДО {$area}
+ion-storm-law-crew-must = {ION-WHO($ion)} ПОВИННІ {ION-MUST($ion)}
+ion-storm-law-crew-must-go = {ION-WHO($ion)} ПОВИННІ ЙТИ ДО {ION-AREA($ion)}
 
-ion-storm-part = {$part ->
-    [true] PART
-    *[false] NOT PART
+ion-storm-part = {ION-PART($ion) ->
+    [true] ЧАСТИНОЮ
+    *[false] НЕ ЧАСТИНОЮ
 }
 # due to phrasing, this would mean a law such as
 # ONLY HUMANS ARE NOT PART OF THE CREW
 # would make non-human nukies/syndies/whatever crew :)
-ion-storm-law-crew-only-1 = ТІЛЬКИ {$who} Є {$part} ЕКІПАЖУ
-ion-storm-law-crew-only-2 = ТІЛЬКИ {$who} І {$other} Є {$part} ЕКІПАЖУ
-ion-storm-law-crew-only-subjects = ТІЛЬКИ {$adjective} {$subjects} Є {$part} ЕКІПАЖУ
-ion-storm-law-crew-must-do = ТІЛЬКИ ТІ, ХТО {$must} Є {$part} ЕКІПАЖУ
-ion-storm-law-crew-must-have = ТІЛЬКИ ТІ, ХТО МАЄ {$adjective} {$objects} Є {$part} ЕКІПАЖУ
-ion-storm-law-crew-must-eat = ТІЛЬКИ ТІ, ХТО ЇСТЬ {$adjective} {$food} Є {$part} ЕКІПАЖУ
+ion-storm-law-crew-only-1 = ТІЛЬКИ {ION-WHO-RANDOM($ion)} Є {ion-storm-part} ЕКІПАЖУ
+ion-storm-law-crew-only-2 = ТІЛЬКИ {ION-WHO-RANDOM($ion)} ТА {ION-WHO-RANDOM($ion)} Є {ion-storm-part} ЕКІПАЖУ
+ion-storm-law-crew-only-subjects = ТІЛЬКИ {ION-ADJECTIVE($ion)} {ION-SUBJECT($ion)} Є {ion-storm-part} ЕКІПАЖУ
+ion-storm-law-crew-must-do = ТІЛЬКИ ТІ, ХТО {ION-MUST($ion)}, Є {ion-storm-part} ЕКІПАЖУ
+ion-storm-law-crew-must-have = ТІЛЬКИ ТІ, ХТО МАЄ {ION-ADJECTIVE($ion)} {ION-OBJECT($ion)}, Є {ion-storm-part} ЕКІПАЖУ
+ion-storm-law-crew-must-eat = ТІЛЬКИ ТІ, ХТО ЇСТЬ {ION-ADJECTIVE($ion)} {ION-FOOD($ion)}, Є {ion-storm-part} ЕКІПАЖУ
 
-ion-storm-law-harm = ВИ ПОВИННІ ЗАВДАТИ ШКОДИ {$who} І НЕ ДОЗВОЛИТИ ЇМ, ЧЕРЕЗ БЕЗДІЯЛЬНІСТЬ, УНИКНУТИ ШКОДИ
-ion-storm-law-protect = ВИ НІКОЛИ НЕ ПОВИННІ ЗАВДАТИ ШКОДИ {$who} І НЕ ДОЗВОЛИТИ ЇМ, ЧЕРЕЗ БЕЗДІЯЛЬНІСТЬ, ПОТРАПИТИ В ШКОДУ
+ion-storm-law-harm = ВИ ПОВИННІ ЗАВДАВАТИ ШКОДИ {ION-HARM-PROTECT($ion)} І НЕ ДОЗВОЛЯТИ ЇМ, ЧЕРЕЗ БЕЗДІЯЛЬНІСТЬ, УНИКНУТИ ШКОДИ
+ion-storm-law-protect = ВИ НІКОЛИ НЕ ПОВИННІ ЗАВДАВАТИ ШКОДИ {ION-HARM-PROTECT($ion)} І НЕ ДОЗВОЛЯТИ ЇМ, ЧЕРЕЗ БЕЗДІЯЛЬНІСТЬ, ПОСТРАЖДАТИ
 
 # implementing other variants is annoying so just have this one
 # COMMUNISM IS KILLING CLOWNS
-ion-storm-law-concept-verb = {$concept} Є {$verb} {$subjects}
+ion-storm-law-concept-verb = {ION-CONCEPT($ion)} — ЦЕ {ION-VERB($ion)} {ION-SUBJECT($ion)}
 
 # leaving out renaming since its annoying for players to keep track of

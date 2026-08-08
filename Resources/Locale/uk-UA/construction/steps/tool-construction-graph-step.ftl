@@ -1,1 +1,1 @@
-construction-use-tool-entity = Далі, використайте [color=cyan]{$toolName}[/color].
+construction-use-tool-entity = Наступним, використайте [color=cyan]{$toolName}[/color].

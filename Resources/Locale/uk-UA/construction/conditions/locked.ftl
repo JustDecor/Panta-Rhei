@@ -1,5 +1,5 @@
 # Locked
-construction-examine-condition-unlock = Спершу, [color=limegreen]відчиніть[/color] це.
-construction-examine-condition-lock = Спершу, [color=red]зачиніть[/color] це.
-construction-step-condition-unlock = Має бути відчинено.
-construction-step-condition-lock = Має бути зачинено.
+construction-examine-condition-unlock = Спочатку, [color=limegreen]розблокуйте[/color] це.
+construction-examine-condition-lock = Спочатку, [color=red]заблокуйте[/color] це.
+construction-step-condition-unlock = Воно повинно бути розблоковане.
+construction-step-condition-lock = Воно повинно бути заблоковане.

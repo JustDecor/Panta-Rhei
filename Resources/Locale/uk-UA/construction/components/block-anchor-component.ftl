@@ -1,1 +1,1 @@
-anchored-already-present = Тут вже щось закріплено!
+anchored-already-present = Тут уже щось закріплено!

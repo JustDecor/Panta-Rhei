@@ -1,1 +1,1 @@
-reagent-physical-desc-bending = легке викривлення
+reagent-physical-desc-bending = легке вигинання

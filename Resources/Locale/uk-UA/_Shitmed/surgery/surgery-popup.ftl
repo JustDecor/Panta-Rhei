@@ -36,20 +36,21 @@ surgery-popup-step-SurgeryStepRemoveOrgan = {$user} видаляє орган і
 surgery-popup-step-SurgeryStepInsertOrgan = {$user} вставляє орган у {$part} у {$target}!
 
 surgery-popup-step-SurgeryStepOpenOrganSlot = {$user} розкриває порожнину в {$target} ({$part})!
-surgery-popup-procedure-SurgeryRemoveBrain-step-SurgeryStepRemoveOrgan = {$user} видаляє мозок з {$part} у {$target}!
-surgery-popup-procedure-SurgeryRemoveHeart-step-SurgeryStepRemoveOrgan = {$user} видаляє серце з {$part} у {$target}!
-surgery-popup-procedure-SurgeryRemoveLiver-step-SurgeryStepRemoveOrgan = {$user} видаляє печінку з {$part} у {$target}!
-surgery-popup-procedure-SurgeryRemoveLungs-step-SurgeryStepRemoveOrgan = {$user} видаляє легені з {$part} у {$target}!
-surgery-popup-procedure-SurgeryRemoveEyes-step-SurgeryStepRemoveOrgan = {$user} видаляє очі з {$part} у {$target}!
-surgery-popup-procedure-SurgeryRemoveStomach-step-SurgeryStepRemoveOrgan = {$user} видаляє шлунок з {$part} у {$target}!
 
-surgery-popup-procedure-SurgeryInsertBrain-step-SurgeryStepInsertOrgan = {$user} вставляє мозок у {$part} у {$target}!
-surgery-popup-step-SurgeryStepInsertLungs = {$user} вставляє легені у {$part} у {$target}!
-surgery-popup-step-SurgeryStepInsertLiver = {$user} вставляє печінку у {$part} у {$target}!
-surgery-popup-step-SurgeryStepInsertEyes = {$user} вставляє очі у {$part} у {$target}!
-surgery-popup-step-SurgeryStepInsertHeart = {$user} вставляє серце у {$part} у {$target}!
-surgery-popup-step-SurgeryStepInsertStomach = {$user} вставляє шлунок у {$part} у {$target}!
+#surgery-popup-procedure-SurgeryInsertBrain-step-SurgeryStepInsertOrgan = {$user} вставляє мозок у {$part} у {$target}!
+#surgery-popup-step-SurgeryStepInsertLungs = {$user} вставляє легені у {$part} у {$target}!
+#surgery-popup-step-SurgeryStepInsertLiver = {$user} вставляє печінку у {$part} у {$target}!
+#surgery-popup-step-SurgeryStepInsertEyes = {$user} вставляє очі у {$part} у {$target}!
+#surgery-popup-step-SurgeryStepInsertHeart = {$user} вставляє серце у {$part} у {$target}!
+#surgery-popup-step-SurgeryStepInsertStomach = {$user} вставляє шлунок у {$part} у {$target}!
 
-surgery-popup-step-SurgeryStepSealOrganWound = {$user} зашиває рани на {$part} у {$target}.
-surgery-popup-step-SurgeryStepLobotomize = {$user} лоботомізує {$target}!
-surgery-popup-step-SurgeryStepMendBrainTissue = {$user} відновлює тканини мозку у {$target} на {$part}.
+surgery-popup-procedure-SurgeryInsertBrain-step-SurgeryStepInsertOrgan = {$user} вставляє мозок у {$part} {$target}!
+surgery-popup-step-SurgeryStepInsertLungs = {$user} вставляє легені у {$part} {$target}!
+surgery-popup-step-SurgeryStepInsertLiver = {$user} вставляє печінку у {$part} {$target}!
+surgery-popup-step-SurgeryStepInsertEyes = {$user} вставляє очі у {$part} {$target}!
+surgery-popup-step-SurgeryStepInsertHeart = {$user} вставляє серце у {$part} {$target}!
+surgery-popup-step-SurgeryStepInsertStomach = {$user} вставляє шлунок у {$part} {$target}!
+
+surgery-popup-step-SurgeryStepSealOrganWound = {$user} закриває рани на {$part} {$target}.
+surgery-popup-step-SurgeryStepLobotomize = {$user} робить лоботомію {$target}!
+surgery-popup-step-SurgeryStepMendBrainTissue = {$user} відновлює тканини мозку на {$part} {$target}.

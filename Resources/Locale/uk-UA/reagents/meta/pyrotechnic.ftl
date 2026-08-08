@@ -1,20 +1,20 @@
 reagent-name-thermite = терміт
-reagent-desc-thermite = Суміш, яка при запалюванні стає надзвичайно гарячою.
+reagent-desc-thermite = Суміш, яка стає надзвичайно гарячою, коли її підпалюють, і яка може пропалити навіть стіни, якщо нанести на поверхню і підпалити. Він буде повільно спричиняти опіки будь-кому, хто буде достатньо дурним, щоб проковтнути його, але на щастя воно не зможе запалитися всередині цієї дурної людини.
 
 reagent-name-napalm = напалм
-reagent-desc-napalm = Він просто трохи легкозаймистий.
+reagent-desc-napalm = Доволі легкозаймистий.
 
 reagent-name-phlogiston = флогістон
-reagent-desc-phlogiston = Підпалює вас і змушує спалахнути.
+reagent-desc-phlogiston = Підпалює вас і змушує займатися інші горючі речовини та предмети.
 
-reagent-name-chlorine-trifluoride = трифторид хлору
-reagent-desc-chlorine-trifluoride = Ви справді, СПРАВДІ не хочете, щоб це лайно потрапило на вас.
+reagent-name-chlorine-trifluoride = chlorine trifluoride
+reagent-desc-chlorine-trifluoride = Вам дуже, ДУЖЕ не варто тримати це лайно близько до себе.
 
 reagent-name-foaming-agent = піноутворювач
-reagent-desc-foaming-agent = Утворює піну, яка потрібна, наприклад, у гранатах з металевої піни.
+reagent-desc-foaming-agent = Використовується в гранатах з піною.
 
 reagent-name-welding-fuel = зварювальне паливо
 reagent-desc-welding-fuel = Використовується зварювальниками для зварювання.
 
-reagent-name-fluorosurfactant = фторсурфактант
+reagent-name-fluorosurfactant = фторосурфактант
 reagent-desc-fluorosurfactant = Перфторована сульфонова кислота, яка утворює піну при змішуванні з водою.
