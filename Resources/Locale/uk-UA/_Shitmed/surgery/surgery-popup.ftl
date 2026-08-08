@@ -37,12 +37,12 @@ surgery-popup-step-SurgeryStepInsertOrgan = {$user} вставляє орган 
 
 surgery-popup-step-SurgeryStepOpenOrganSlot = {$user} розкриває порожнину в {$target} ({$part})!
 
-surgery-popup-procedure-SurgeryInsertBrain-step-SurgeryStepInsertOrgan = {$user} вставляє мозок у {$part} у {$target}!
-surgery-popup-step-SurgeryStepInsertLungs = {$user} вставляє легені у {$part} у {$target}!
-surgery-popup-step-SurgeryStepInsertLiver = {$user} вставляє печінку у {$part} у {$target}!
-surgery-popup-step-SurgeryStepInsertEyes = {$user} вставляє очі у {$part} у {$target}!
-surgery-popup-step-SurgeryStepInsertHeart = {$user} вставляє серце у {$part} у {$target}!
-surgery-popup-step-SurgeryStepInsertStomach = {$user} вставляє шлунок у {$part} у {$target}!
+#surgery-popup-procedure-SurgeryInsertBrain-step-SurgeryStepInsertOrgan = {$user} вставляє мозок у {$part} у {$target}!
+#surgery-popup-step-SurgeryStepInsertLungs = {$user} вставляє легені у {$part} у {$target}!
+#surgery-popup-step-SurgeryStepInsertLiver = {$user} вставляє печінку у {$part} у {$target}!
+#surgery-popup-step-SurgeryStepInsertEyes = {$user} вставляє очі у {$part} у {$target}!
+#surgery-popup-step-SurgeryStepInsertHeart = {$user} вставляє серце у {$part} у {$target}!
+#surgery-popup-step-SurgeryStepInsertStomach = {$user} вставляє шлунок у {$part} у {$target}!
 
 surgery-popup-procedure-SurgeryInsertBrain-step-SurgeryStepInsertOrgan = {$user} вставляє мозок у {$part} {$target}!
 surgery-popup-step-SurgeryStepInsertLungs = {$user} вставляє легені у {$part} {$target}!

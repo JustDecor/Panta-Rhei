@@ -190,8 +190,8 @@ reagent-desc-jenn-tonic = Світло-золотий і бурхливий, щ�
 reagent-name-hallelujah = алілуя
 reagent-desc-hallelujah = Саме те, що вам потрібно.
 
-reagent-name-eggnog = еґноґ
-reagent-desc-eggnog = Недостатньо яєць.
+#reagent-name-eggnog = еґноґ
+#reagent-desc-eggnog = Недостатньо яєць.
 
 reagent-name-syndicate-eggnog = синдикатний еґноґ
 reagent-desc-syndicate-eggnog = Вершковий, блідо-жовтий і з корицею зверху, і дуже алкогольний.

@@ -19,8 +19,8 @@ marking-VoxVisageR = Візаж (Справа)
 marking-VoxCheek-cheekblush = Щоки
 marking-VoxCheek = Щоки
 
-marking-VoxBeak-beak = Дзьоб (Гострий)
-marking-VoxBeak = Дзьоб (Гострий)
+#marking-VoxBeak-beak = Дзьоб (Гострий)
+#marking-VoxBeak = Дзьоб (Гострий)
 
 marking-VoxBeakSquareCere-beak_squarecere = Дзьоб (Квадратний)
 marking-VoxBeakSquareCere = Дзьоб (Квадратний)
@@ -94,8 +94,8 @@ marking-VoxScarEyeRightSmall = Маленький шрам на оці (Спра
 marking-VoxScarEyeLeftSmall-vox_scar_eye_left_small = Шрам на лівому оці (Маленький)
 marking-VoxScarEyeLeftSmall = Маленький шрам на оці (Зліва)
 
-marking-VoxTailShort-vox_tail_small = Хвіст вокса (Короткий)
-marking-VoxTailShort = Хвіст вокса (Короткий)
+#marking-VoxTailShort-vox_tail_small = Хвіст вокса (Короткий)
+#marking-VoxTailShort = Хвіст вокса (Короткий)
 
 marking-VoxTail-vox_tail = Хвіст вокса (Середній)
 marking-VoxTail = Хвіст вокса (Середній)

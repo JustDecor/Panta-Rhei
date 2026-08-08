@@ -11,7 +11,7 @@ hand-labeler-delete-label-text = Видалити мітку
 # Текст на кнопці в режимі видалення.
 hand-labeler-delete-mode-text = Видалення...
 
-hand-labeler-ui-clear-label-text = Очистити
+#hand-labeler-ui-clear-label-text = Очистити
 
-hand-labeler-ui-reset-label-text = Скинути
+#hand-labeler-ui-reset-label-text = Скинути
 #starlight end
