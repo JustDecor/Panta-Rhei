@@ -1,1 +1,1 @@
-damage-on-shoot-leviathan = Ого-го!
+damage-on-shoot-leviathan = Whoa nelly!
