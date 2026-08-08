@@ -97,8 +97,8 @@ marking-VoxScarEyeLeftSmall = Маленький шрам на оці (Злів�
 #marking-VoxTailShort-vox_tail_small = Хвіст вокса (Короткий)
 #marking-VoxTailShort = Хвіст вокса (Короткий)
 
-marking-VoxTail-vox_tail = Хвіст вокса (Середній)
-marking-VoxTail = Хвіст вокса (Середній)
+#marking-VoxTail-vox_tail = Хвіст вокса (Середній)
+#marking-VoxTail = Хвіст вокса (Середній)
 
 marking-VoxTailBig-vox_tail_big = Хвіст вокса (Великий)
 marking-VoxTailBig = Хвіст вокса (Великий)
