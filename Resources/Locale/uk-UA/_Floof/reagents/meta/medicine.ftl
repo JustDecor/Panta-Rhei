@@ -1,2 +1,2 @@
-reagent-name-stelloxadone = стелоксадон
-reagent-desc-stelloxadone = Кріогенна хімічна речовина. Використовується для агресивного розчинення токсинів в організмі. Діє незалежно від того, живий пацієнт чи мертвий.
+reagent-name-stelloxadone = stelloxadone
+reagent-desc-stelloxadone = A cryogenics chemical. Used to aggressively dissolve toxins from the body. Works regardless of the patient being alive or dead.

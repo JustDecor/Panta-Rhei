@@ -1,7 +1,7 @@
-# Назви
-chat-emote-name-blink = Моргнути
-chat-emote-name-coo = Воркувати
+# Names
+chat-emote-name-blink = Blink
+chat-emote-name-coo = Coo
 
-# Повідомлення
-chat-emote-msg-blink = моргає
-chat-emote-msg-coo = воркує.
+# Message
+chat-emote-msg-blink = blinks
+chat-emote-msg-coo = coos.

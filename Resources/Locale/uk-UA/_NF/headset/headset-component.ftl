@@ -1,1 +1,1 @@
-chat-radio-traffic = Трафік
+chat-radio-traffic = Traffic

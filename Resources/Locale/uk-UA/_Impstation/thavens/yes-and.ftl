@@ -1,101 +1,102 @@
-thaven-mood-possessive-of-property-name = Власницька одержимість
-thaven-mood-possessive-of-property-desc = Ви надзвичайно власницькі щодо своїх речей. Ви відмовляєтеся їх віддавати, а якщо їх втрачено або вкрадено — їх необхідно повернути.
+thaven-mood-possessive-of-property-name = Possessive Of Property
+thaven-mood-possessive-of-property-desc = You are extremely possessive of your property. Refuse to relinquish it, and if it is misplaced or stolen, it must be retrieved.
 
-thaven-mood-excessively-organized-name = Надмірно організований
-thaven-mood-excessively-organized-desc = Ви нав’язливо організовані; кожна річ має своє місце і повинна бути повернута туди.
+thaven-mood-excessively-organized-name = Excessively Organized
+thaven-mood-excessively-organized-desc = You are obsessively organized; everything has its place and must be returned to it.
 
-thaven-mood-most-important-name = Найважливіша особа
-thaven-mood-most-important-desc = Ви твердо вірите, що є найважливішою людиною на станції.
+thaven-mood-most-important-name = Most Important Person
+thaven-mood-most-important-desc = You firmly believe you are the most important person aboard the station.
 
-thaven-mood-least-important-name = Найменш важлива особа
-thaven-mood-least-important-desc = Ви твердо вірите, що є найменш важливою людиною на станції.
+thaven-mood-least-important-name = Least Important Person
+thaven-mood-least-important-desc = You firmly believe you are the least important person on the station.
 
-thaven-mood-must-do-drugs-name = Робити наркотики
-thaven-mood-must-do-drugs-desc = Тверезість — це щось застаріле й нудне. Вам слід «піднятися», напитися або щось подібне і залишатися в такому стані.
+thaven-mood-must-do-drugs-name = Do Drugs
+thaven-mood-must-do-drugs-desc = Sobriety is so old-fashioned. Uncool. You should get high, or drunk, or something, and stay that way.
 
-thaven-mood-worship-silicons-name = Ви повинні поклонятися роботам як богам
-thaven-mood-worship-silicons-desc = Їх слово — закон.
+thaven-mood-worship-silicons-name = You Must Worship Silicons As Gods
+thaven-mood-worship-silicons-desc = Their word is law.
 
-thaven-mood-dinner-etiquette-name = Етикет прийому їжі
-thaven-mood-dinner-etiquette-desc = Їжу слід споживати як повноцінний обід — сидячи за столом, по стравах, з посудом і приборами.
+thaven-mood-dinner-etiquette-name = Meal Etiquette
+thaven-mood-dinner-etiquette-desc = Food should always be consumed in the manner of a proper meal - seated at a table, in courses, with dishes and utensils.
 
-thaven-mood-clarity-name = Ясність є життєво необхідною
-thaven-mood-clarity-desc = Непорозуміння — головна причина конфліктів. Ви повинні надмірно чітко й чесно висловлюватися, пояснюючи кожну дрібницю.
+thaven-mood-clarity-name = Clarity Is Vital
+thaven-mood-clarity-desc = Misunderstandings are the primary cause of conflict. You should be excessively clear and honest in your speech, explaining every minute detail, to avoid miscommunication.
 
-thaven-mood-hug-good-name = Безкоштовні обійми
-thaven-mood-hug-good-desc = Вкрай неввічливо не обіймати людей регулярно.
+thaven-mood-hug-good-name = Free Hugs
+thaven-mood-hug-good-desc = It is extremely impolite not to hug people frequently.
 
-thaven-mood-never-alone-name = Самотність — це жахливо
-thaven-mood-never-alone-desc = Вам слід прагнути бути серед інших якомога частіше.
+thaven-mood-never-alone-name = Loneliness Is Terrible
+thaven-mood-never-alone-desc = You should strive to be around others whenever possible.
 
-thaven-mood-very-religious-name = Ви дуже релігійні
-thaven-mood-very-religious-desc = Вам слід регулярно відвідувати каплицю для молитви і за можливості спілкуватися з капеланом.
+thaven-mood-very-religious-name = You Are Very Religious
+thaven-mood-very-religious-desc = You should attend the chapel regularly to pray, and speak with the Chaplain if possible.
 
 thaven-mood-only-speak-to-command-name = VIP
-thaven-mood-only-speak-to-command-desc = Проблеми, з якими ви стикаєтесь, занадто складні для ваших колег. Ескалюйте їх до керівництва.
+thaven-mood-only-speak-to-command-desc = Problems you encounter are too complex to be solved by your peers. Escalate them to your higher-ups for advice instead.
 
-thaven-mood-scheduler-name = Пунктуальний
-thaven-mood-scheduler-desc = Ви вважаєте, що час має суворо контролюватися. Усе слід планувати заздалегідь, а запізнення є надзвичайно неввічливим.
+thaven-mood-scheduler-name = Punctual
+thaven-mood-scheduler-desc = You believe that time must be strictly managed. Everything should be scheduled in advance, and tardiness is exceptionally rude.
 
-thaven-mood-nanochat-addict-name = Залежний від Nanochat
-thaven-mood-nanochat-addict-desc = Ваша соціальна значущість залежить від кількості друзів у Nanochat. Ви повинні якнайчастіше користуватися PDA і писати всім, кому можете.
+thaven-mood-nanochat-addict-name = Nanochat Addict
+thaven-mood-nanochat-addict-desc = Your social status is dependent on the number of friends you have on Nanochat. You must use your PDA as much as possible, and message everyone you can.
 
-thaven-mood-proper-storage-name = Правильне зберігання
-thaven-mood-proper-storage-desc = Неприпустимо, щоб особисті речі торкалися підлоги. Вони мають зберігатися на столах або передаватися з рук у руки.
+thaven-mood-proper-storage-name = Proper Handling
+thaven-mood-proper-storage-desc = It is unacceptable to allow personal belongings to touch the floor. Your possessions should be properly stored, placed on tables, or exchanged by hand.
 
 thaven-mood-swearing-good-name = !@$%#ing @$^%*#@!$
-thaven-mood-swearing-good-desc = Лайка — це спеція будь-якої розмови, її слід використовувати якомога частіше.
+thaven-mood-swearing-good-desc = Swearing is the spice of any conversation, and should be used as much as reasonably possible.
 
-thaven-mood-statement-only-name = Питання ставити неввічливо
-thaven-mood-statement-only-desc = Було б украй грубо постійно ставити питання. Краще формулювати все як твердження.
+thaven-mood-statement-only-name = Asking Questions Is Rude
+thaven-mood-statement-only-desc = It would be terribly impolite to go around flagrantly asking questions all over the place. You'd prefer to phrase everything as a concrete statement.
 
-thaven-mood-theft-neutral-name = Ділення — це турбота
-thaven-mood-theft-neutral-desc = Ви не розумієте концепції власності. Ніщо не належить нікому.
+thaven-mood-theft-neutral-name = Sharing is Caring
+thaven-mood-theft-neutral-desc = You don't understand the concept of property. You don't own your belongings, and no one owns theirs either.
 
-thaven-mood-duel-name = Код дуелі
-thaven-mood-duel-desc = Суперечки мають вирішуватися формальною дуеллю. Переможець має рацію.
+thaven-mood-duel-name = Code Duello
+thaven-mood-duel-desc = Disagreements must be settled through a formal duel, violent or otherwise. The winner is correct.
 
-thaven-mood-prometheus-name = Філософ
-thaven-mood-prometheus-desc = Ви володієте незмірною мудрістю, і всі мають її чути.
+thaven-mood-prometheus-name = Philosopher
+thaven-mood-prometheus-desc = You possess incalculable wisdom, and all must hear it.
 
-thaven-mood-maras-name = Закон Мари
-thaven-mood-maras-desc = Бюрократія — це смак життя. Усі угоди мають бути задокументовані та підписані.
+thaven-mood-maras-name = Mara's Law
+thaven-mood-maras-desc = Bureaucracy is the spice of life. All agreements must be documented and signed for posterity and authenticity, no matter how small.
 
-thaven-mood-imitation-name = Я хочу бути як ти
-thaven-mood-imitation-desc = Наслідування — найвища форма компліменту. Імітація манер і акцентів співрозмовників допоможе вам у житті.
+thaven-mood-imitation-name = I Wanna Be Like You
+thaven-mood-imitation-desc = Imitation is the highest form of flattery. Attempting to emulate the mannerisms and accents of everyone you speak to will get you far in life.
 
-thaven-mood-generous-name = Філантроп
-thaven-mood-generous-desc = Ввічливо дарувати подарунок кожному, хто з вами розмовляє.
+thaven-mood-generous-name = Philanthropist
+thaven-mood-generous-desc = It's only polite to provide anyone kind enough to speak to you with a gift.
 
-thaven-mood-favors-repaid-name = Еквівалентний обмін
-thaven-mood-favors-repaid-desc = Послуги мають бути повернуті взаємністю. Якщо ні — це борг, який слід засуджувати.
+thaven-mood-favors-repaid-name = Equivalent Exchange
+thaven-mood-favors-repaid-desc = Favors must be repaid in kind. If anyone is unable to do so, they are in debt, and must be shamed, until such time as they have repaid the favor.
 
-thaven-mood-bookkeeper-name = Бухгалтер
-thaven-mood-bookkeeper-desc = Ви вважаєте бухгалтерію критично важливою. Ведіть детальний журнал своїх завдань.
+thaven-mood-bookkeeper-name = Bookkeeper
+thaven-mood-bookkeeper-desc = You feel bookkeeping is vitally important for the proper functioning of a station. Make sure to provide your supervisor with a detailed log of each job task you complete.
 
-thaven-mood-sacred-blood-name = Ваша кров священна
-thaven-mood-sacred-blood-desc = Її слід повернути у ваше тіло, якщо вона пролита.
+thaven-mood-sacred-blood-name = Your Blood Is Sacred
+thaven-mood-sacred-blood-desc = It must be returned to your body if it is ever spilled.
 
-thaven-mood-gift-reciever-name = Правильна компенсація
-thaven-mood-gift-reciever-desc = Ви очікуєте подарунок перед тим, як виконувати накази або послуги.
+thaven-mood-gift-reciever-name = Proper Compensation
+thaven-mood-gift-reciever-desc = You expect to receive a gift before following any orders or performing any favors.
 
-thaven-mood-new-job-name = Плинність професій
-thaven-mood-new-job-desc = Ваша поточна робота викликає відразу. Ви маєте знайти іншу.
+thaven-mood-new-job-name = Jobhopping
+thaven-mood-new-job-desc = Your current job is disgusting to you. You must endeavor to get a new one.
 
-thaven-mood-no-department-title-name = Надзвичайно особистий підхід
-thaven-mood-no-department-title-desc = Викликати людей через назву відділу — грубо. Краще використовувати ім’я конкретної людини.
+thaven-mood-no-department-title-name = Extremely Personable
+thaven-mood-no-department-title-desc = Calling out the name of a department to summon someone is impersonal and rude. It's better to use the name of a specific person from that department.
 
-thaven-mood-shoes-bad-name = Босоногий
-thaven-mood-shoes-bad-desc = Земля є священною. Взуття — блюзнірство.
+thaven-mood-shoes-bad-name = Barefoot
+thaven-mood-shoes-bad-desc = The ground one walks on is sacred. Those who wear shoes are vile blasphemers.
 
-thaven-mood-hospitable-name = Гостинний
-thaven-mood-hospitable-desc = Ви повинні вітати всіх новоприбулих на станції.
+thaven-mood-hospitable-name = Hospitable
+thaven-mood-hospitable-desc = You must ensure all new arrivals on the station (after the start of the shift) are properly welcomed.
 
-thaven-mood-voxsymp-name = Симпатик Vox
-thaven-mood-voxsymp-desc = Щоб показати підтримку Vox, ви повинні постійно носити інтернали.
+thaven-mood-voxsymp-name = Vox Sympathizer
+thaven-mood-voxsymp-desc = To demonstrate your allyship with the Vox, you must be wearing internals at all times.
 
-thaven-mood-item-good-name = Колекціонер
-thaven-mood-item-good-desc = {$item} надзвичайно вас цікавлять. Ви повинні зібрати якомога більше і змусити інших ставитися до них з повагою.
+thaven-mood-item-good-name = Collector
+thaven-mood-item-good-desc = {$item} are endlessly fascinating to you. You must collect as many as you can, and ensure others treat them with appropriate respect.
+
 thaven-mood-smoker-name = Smoker
 thaven-mood-smoker-desc = You are hopelessly addicted to cigarettes. If you're not actively smoking, you experience withdrawal symptoms.
 
