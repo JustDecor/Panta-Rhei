@@ -1,1 +1,1 @@
-clothing-boots-sidearm = Допоміжна зброя
+clothing-boots-sidearm = Sidearm

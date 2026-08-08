@@ -1,1 +1,1 @@
-artifact-crusher-verb-start-crushing = Почати подрібнювати
+artifact-crusher-verb-start-crushing = Start crushing

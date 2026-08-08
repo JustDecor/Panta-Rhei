@@ -1,1 +1,1 @@
-make-ghost-role-verb-get-data-text = Створити роль привида
+make-ghost-role-verb-get-data-text = Make Ghost Role

@@ -1,1 +1,1 @@
-construction-recipe-silk-woven-cloth = шовкова тканина
+construction-recipe-silk-woven-cloth = silk cloth

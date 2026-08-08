@@ -1,6 +1,6 @@
-marking-HumanLongEars = Звичайні довгі вуха
-marking-LongEarsWide = Широкі довгі вуха
-marking-LongEarsSmall = Малі довгі вуха
-marking-LongEarsUpwards = Підняті довгі вуха
-marking-LongEarsTall = Високі довгі вуха
-marking-LongEarsThin = Тонкі довгі вуха
+marking-HumanLongEars = Long Ears Standard
+marking-LongEarsWide = Long Ears Wide
+marking-LongEarsSmall = Long Ears Small
+marking-LongEarsUpwards = Long Ears Upwards
+marking-LongEarsTall = Long Ears Tall
+marking-LongEarsThin = Long Ears Thin

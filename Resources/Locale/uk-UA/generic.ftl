@@ -4,18 +4,18 @@ generic-not-available-shorthand = н/д
 generic-article-a = -
 generic-article-an = -
 
-generic-and = і
+generic-and = та
 generic-or = або
 
 generic-unknown = невідомий
 generic-unknown-title = невідома Назва
 generic-error = помилка
-generic-invalid = неправильний
+generic-invalid = невірний
 
 generic-hours = годин
 generic-minutes = хвилин
 generic-seconds = секунд
 
-generic-playtime-title = Зіграно
+generic-playtime-title = Час гри
 
-generic-confirm = Підтвердження
+generic-confirm = Підтвердити

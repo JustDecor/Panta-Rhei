@@ -1,1 +1,1 @@
-effect-sleepy = Тобі хочеться спати.
+effect-sleepy = You feel a bit sleepy.

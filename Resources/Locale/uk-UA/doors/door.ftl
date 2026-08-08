@@ -1,1 +1,1 @@
-door-pry = Відкрити силою
+door-pry = Pry door

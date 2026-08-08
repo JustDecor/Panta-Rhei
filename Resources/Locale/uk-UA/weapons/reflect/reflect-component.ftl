@@ -1,1 +1,1 @@
-reflect-shot = Відбито!
+reflect-shot = Reflected!

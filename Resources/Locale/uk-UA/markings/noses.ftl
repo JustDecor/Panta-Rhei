@@ -1,14 +1,14 @@
-marking-HumanNoseSchnozz = Шноз
-marking-HumanNoseSchnozz-schnozz = Ніс
+marking-HumanNoseSchnozz = Schnozz
+marking-HumanNoseSchnozz-schnozz = Nose
 
-marking-HumanNoseNubby = Горбатий ніс
-marking-HumanNoseNubby-nubby = ніс
+marking-HumanNoseNubby = Nubby Nose
+marking-HumanNoseNubby-nubby = Nose
 
-marking-HumanNoseDroop = Опущений ніс
-marking-HumanNoseDroop-droop = Ніс
+marking-HumanNoseDroop = Droopy Nose
+marking-HumanNoseDroop-droop = Nose
 
-marking-HumanNoseBlob = Ніс картоплею
-marking-HumanNoseBlob-blob = НІс
+marking-HumanNoseBlob = Blobby Nose
+marking-HumanNoseBlob-blob = Nose
 
-marking-HumanNoseUppie = Піднятий ніс
-marking-HumanNoseUppie-uppie = Ніс
+marking-HumanNoseUppie = Uppie Nose
+marking-HumanNoseUppie-uppie = Nose

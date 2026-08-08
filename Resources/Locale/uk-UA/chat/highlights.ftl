@@ -1,65 +1,56 @@
 # Command
-highlights-captain = Капітан, "Кеп",  Місток, Місссток, Містку, Міссстку, Командування
-highlights-headofpersonnel = Голова Персоналу, Голова Персссоналу, "ГП",  Місток, Місссток, Містку, Міссстку, Командування
-highlights-chiefengineer = Головний Інженер, Головний Інжжженер, "ГІ", Інженерний, Інжжженерний, Інженерному, Інжжженерному, Місток, Місссток, Містку, Міссстку, Командування
-highlights-chiefmedicalofficer = Головний Лікар, "ГЛ", Медичний, Медичному, "Мед", "Меді", Місток, Місссток, Містку, Міссстку, Командування
-highlights-headofsecurity = Голова Безпеки, Голова Безззпеки, "ГБ", Безпека, Безззпека, Служба Безпеки, Служжжба Безззпеки, СССлужба Безпеки, "СБ", "СССБ", Місток, Місссток, Містку, Міссстку, Командування
-highlights-quartermaster = Квартермейстер, Квартермейссстер, "КМ", Постачання, Поссстачання, Карго, Логістика, Логіссстика, Місток, Місссток, Містку, Міссстку, Командування
-highlights-researchdirector = Директор Наукового Відділу, "ДНВ", Науковий, Вчені, "НВ", Місток, Місссток, Містку, Міссстку, Командування
+highlights-captain = Captain, "Cap", Bridge, Command
+highlights-head-of-personnel = Head Of Personnel, "HoP", Service, Bridge, Command
+highlights-chief-engineer = Chief Engineer, "CE", Engineering, Engineer, "Engi", Bridge, Command
+highlights-chief-medical-officer = Chief Medical Officer, "CMO", MedBay, "Med", Bridge, Command
+highlights-head-of-security = Head of Security, "HoS", Security, "Sec", Bridge, Command
+highlights-quartermaster = Quartermaster, "QM", Cargo, "Logi", Logistics, Bridge, Command
+highlights-research-director = Research Director, "RD", Science, "Sci", Bridge, Command
 
 # Security
-highlights-detective = Детектив, "Дек", Безпека, Безззпека, Служба Безпеки, Служжжба Безззпеки, СССлужба Безпеки, "СБ", "СССБ", Бріг
-highlights-securitycadet = Кадет, Безпека, Безззпека, Служба Безпеки, Служжжба Безззпеки, СССлужба Безпеки, "СБ", "СССБ", Бріг
-highlights-securityofficer = Офіцер, Безпека, Безззпека, Служба Безпеки, Служжжба Безззпеки, СССлужба Безпеки, "СБ", "СССБ", Бріг
-highlights-warden = Варден, "Вард", Наглядач, Зброярня, Зззброярня, Зброярню, Зззброярню, Арсенал, Арсссенал, Безпека, Безззпека, Служба Безпеки, Служжжба Безззпеки, СССлужба Безпеки, "СБ", "СССБ", Бріг
+highlights-detective = Detective, "Det", Security, "Sec"
+highlights-security-cadet = Security Cadet, Secoff, Cadet, Security, "Sec"
+highlights-security-officer = Security Officer, Secoff, Officer, Security, "Sec"
+highlights-warden = Warden, "Ward", Security, "Sec"
 
 # Cargo
-highlights-cargotechnician = Вантажник, Вантажжжник, Постачання, Поссстачання, Карго, Логістика, Логіссстика,
-highlights-salvagespecialist = Шахтар, ШШШахтар, Постачання, Поссстачання, Карго, Логістика, Логіссстика,
+highlights-cargo-technician = Cargo Technician, Cargo Tech, "Cargo", "Logi", Logistics
+highlights-salvage-specialist = Salvage Specialist, Salvager, Salvage, "Salv", "Cargo", Miner, "Logi", Logistics
 
 # Engineering
-highlights-atmospherictechnician = Атмосферний Інженер, Атмосферний Інжжженер, Інженерний, Атмосссферний Інженер, Інжжженерний, Інженерному, Інжжженерному
-highlights-stationengineer = Інженер, Інжжженер, Інженерний, Інжжженерний, Інженерному, Інжжженерному
-highlights-technicalassistant = Технічний асистент, Технічний асссиссстент, Асистент,  Асссиссстент, Інженерний, Інжжженерний, Інженерному, Інжжженерному
+highlights-atmospheric-technician = Atmospheric Technician, Atmos tech, Atmospheric, Engineering, "Atmos", "Engi"
+highlights-station-engineer = Station Engineer, Engineering, Engineer, "Engi"
+highlights-technical-assistant = Technical Assistant, Tech Assistant, Engineering, Engineer, "Engi"
 
 # Medical
-highlights-chemist = Хімік, Медичний, Медичному, "Мед", "Меді"
-highlights-medicaldoctor = Лікар, "Док",  Медичний, Медичному, "Мед", "Меді"
-highlights-medicalintern = Інтер, Медичний, Медичному, "Мед", "Меді"
-highlights-paramedic = Парамедик, "Парамед", Лікар, "Док", Медичний, Медичному, "Мед", "Меді"
+highlights-chemist = Chemist, Chemistry, "Chem", MedBay, "Med"
+highlights-medical-doctor = Medical Doctor, Doctor, "Doc", MedBay, "Med"
+highlights-medical-intern = Medical Intern, "Doc", Intern, MedBay, "Med"
+highlights-paramedic = Paramedic, "Para", MedBay, "Med"
 
 # Science
-highlights-scientist = Науковець, Вчений, Науковий, Вчені, "НВ"
-highlights-researchassistant = Науковий асистент, Науковий асссиссстент, Асистент, Асссиссстент, Лаборант, Науковий, Вчені, "НВ"
+highlights-scientist = Scientist, Science, "Sci", Epistemics, "Epi"
+highlights-research-assistant = Research Assistant, Science, "Sci", Epistemics, "Epi"
 
 # Civilian
-highlights-bartender = Бармен, "Бар", "Барі"
-highlights-botanist = Ботанік, Ботанічний 
-highlights-chaplain = Священник, СССвященник, Отець, Капелан, Церква, Церкві
-highlights-chef = Шеф, ШШШеф, Кухар, Кухня, Кухні
-highlights-clown = Клоун, Клуня
-highlights-janitor = Прибиральник
-highlights-lawyer = Адвокат, Юрист, Юриссст
-highlights-librarian = Бібліотекар, Бібліотека, Бібліотеці
-highlights-mime = Мім
-highlights-musician = Музикант, "Музика", Театр, Театр, Сервіс
-highlights-passenger = Пасажир, Пасссажир, Пасажжжир
-highlights-serviceworker = Сервісний Працівник, СССервісний Працівник, Сервісник, СССервісник, "Бар", "Барі", Ботанічний, Кухар, Кухня, Кухні
+highlights-bartender = Bartender, Barkeeper, Barkeep, "Bar"
+highlights-botanist = Botanist, Botany, Hydroponics
+highlights-chaplain = Chaplain, "Chap", Chapel, Science, "Sci", Epistemics, "Epi"
+highlights-chef = Chef, "Cook", Kitchen
+highlights-clown = Clown, Jester
+highlights-janitor = Janitor, "Jani"
+highlights-lawyer = Lawyer, Attorney
+highlights-librarian = Librarian, Library
+highlights-mime = Mime
+highlights-passenger = Passenger, Greytider, "Tider"
+highlights-service-worker = Service Worker
 
 # Station-specific
-highlights-reporter = Репортер, Кориспондент, Кориссспондент, Журналіст, Журналіссст, Жжжурналіст
-highlights-psychologist = Психолог, Псссихолог
+highlights-reporter = Reporter, Journalist
+highlights-psychologist = Psychologist, Psychology, "Psych"
 
 # Silicon
-highlights-borg = Борг, Юніт
-highlights-stationai = ШІ Станції, ШШШІ Станції, "ШІ", "ШШШІ"
+highlights-personal-ai = Personal AI, "pAI"
+highlights-cyborg = Cyborg, Silicon, Borg
+highlights-station-ai = Station AI, Silicon, "AI", "sAI"
 
-# CentComm
-highlights-cburn = РХБЗ, РХБЗзз, Капрал, Сержант, СССержант, Сержжжант, Спеціаліст, Спеціаліссст, "ЦК", Зомбі, Місток, Місссток, Містку, Міссстку, Командування
-highlights-ertleader = ГШР, ГШШШР, Капрал, Сержант, СССержант, Сержжжант, Спеціаліст, Спеціаліссст, "ЯО", Бомба, Диск, "ЦК", Місток, Місссток, Містку, Міссстку, Командування
-highlights-ertchaplain = ГШР, ГШШШР, Капрал, Сержант, СССержант, Сержжжант, Спеціаліст, Спеціаліссст, Капелан, Священник, Свящщщенник, "ЦК", Місток, Місссток, Містку, Міссстку, Командування
-highlights-ertengineer = ГШР, ГШШШР, Капрал, Сержант, СССержант, Сержжжант, Спеціаліст, Спеціаліссст, Інженер, Інжжженер, "ЦК", Місток, Місссток, Містку, Міссстку, Командування
-highlights-ertsecurity = ГШР, ГШШШР, Капрал, Сержант, СССержант, Сержжжант, Спеціаліст, Спеціаліссст, "ЯО", Бомба, Диск, Диссск, "ЦК", Місток, Місссток, Містку, Міссстку, Командування
-highlights-ertmedical = ГШР, ГШШШР, Капрал, Сержант, СССержант, Сержжжант, Спеціаліст, Спеціаліссст, "ЯО", Бомба, Диск, Диссск, Лікар, Медичний, Медичному, "Мед", "Меді", "ЦК", Місток, Місссток, Містку, Міссстку, Командування
-highlights-centralcommandofficial = Представник ЦК, Представник, "ПЦК", "ЦК", Місток, Містку, Командування
-highlights-deathsquad = Полковник, Лейтенант, Командир, Майор, Диск, Диссск, "ЦК", Місток, Місссток, Містку, Міссстку, Командування

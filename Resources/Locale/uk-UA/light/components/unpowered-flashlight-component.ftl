@@ -1,2 +1,2 @@
 # ToggleFlashlightVerb
-toggle-flashlight-verb-get-data-text = Перемкнути ліхтар
+toggle-flashlight-verb-get-data-text = Toggle flashlight

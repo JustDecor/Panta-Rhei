@@ -1,104 +1,105 @@
-marking-GauzeLefteyePatch-gauze_lefteye_2 = Марлева пов'язка на око (Ліве)
-marking-GauzeLefteyePatch = Марлева пов'язка на око (Ліве)
+marking-GauzeLefteyePatch-gauze_lefteye_2 = Gauze eyepatch (Left)
+marking-GauzeLefteyePatch = Gauze eyepatch (Left)
 
-marking-GauzeLefteyePad-gauze_lefteye_1 = Марлева подушечка для очей (Ліва)
-marking-GauzeLefteyePad = Марлева подушечка для очей (Ліва)
+marking-GauzeLefteyePad-gauze_lefteye_1 = Gauze eyepad (Left)
+marking-GauzeLefteyePad = Gauze eyepad (Left)
 
-marking-GauzeRighteyePatch-gauze_righteye_2 = Марлева пов'язка на око (Праве)
-marking-GauzeRighteyePatch = Марлева пов'язка на око (Праве)
+marking-GauzeRighteyePatch-gauze_righteye_2 = Gauze eyepatch (Right)
+marking-GauzeRighteyePatch = Gauze eyepatch (Right)
 
-marking-GauzeRighteyePad-gauze_righteye_1 = Марлева подушечка для очей (Права)
-marking-GauzeRighteyePad = Марлева подушечка для очей (Права)
+marking-GauzeRighteyePad-gauze_righteye_1 = Gauze eyepad (Right)
+marking-GauzeRighteyePad = Gauze eyepad (Right)
 
-marking-GauzeShoulder-gauze_shoulder = Марлева пов'язка на плече
-marking-GauzeShoulder = Марлева пов'язка на плече
+marking-GauzeShoulder-gauze_shoulder = Gauze Shoulder Sling
+marking-GauzeShoulder = Gauze Shoulder Sling
 
-marking-GauzeStomach-gauze_abdomen = Марлева пов'язка на живіт
-marking-GauzeStomach = Марлева пов'язка на живіт
+marking-GauzeStomach-gauze_abdomen = Gauze Stomach Wrap
+marking-GauzeStomach = Gauze Stomach Wrap
 
-marking-GauzeUpperArmRight-gauze_upperarm_r = Марлева пов'язка на передпліччя (Праве)
-marking-GauzeUpperArmRight = Марлева пов'язка на передпліччя (Праве)
+marking-GauzeUpperArmRight-gauze_upperarm_r = Gauze Forearm Wrap (Right)
+marking-GauzeUpperArmRight = Gauze Forearm Wrap (Right)
 
-marking-GauzeLowerArmRight-gauze_lowerarm_r = Марлева пов'язка на зап'ястя (Праве)
-marking-GauzeLowerArmRight = Марлева пов'язка на зап'ястя (Праве)
+marking-GauzeLowerArmRight-gauze_lowerarm_r = Gauze Wrist Wrap (Right)
+marking-GauzeLowerArmRight = Gauze Wrist Wrap (Right)
 
-marking-GauzeLeftArm-gauze_leftarm = Бинти для рук (Ліва)
-marking-GauzeLeftArm = Бинти для рук (Ліва)
+marking-GauzeLeftArm-gauze_leftarm = Gauze Arm Wrap (Left)
+marking-GauzeLeftArm = Gauze Arm Wrap (Left)
 
-marking-GauzeLowerLegLeft-gauze_lowerleg_l = Бинт для щиколотки з марлі (Ліва)
-marking-GauzeLowerLegLeft = Бинт для щиколотки з марлі (Ліва)
+marking-GauzeLowerLegLeft-gauze_lowerleg_l = Gauze Ankle Wrap (Left)
+marking-GauzeLowerLegLeft = Gauze Ankle Wrap (Left)
 
-marking-GauzeBoxerWrapLeft-gauze_boxerwrap_l = Марлева пов'язка для рук (Ліва)
-marking-GauzeBoxerWrapLeft = Марлева пов'язка для рук (Ліва)
+marking-GauzeBoxerWrapLeft-gauze_boxerwrap_l = Gauze Handwrap (Left)
+marking-GauzeBoxerWrapLeft = Gauze Handwrap (Left)
 
-marking-GauzeBoxerWrapRight-gauze_boxerwrap_r = Марлева пов'язка для рук (Права)
-marking-GauzeBoxerWrapRight = Марлева пов'язка для рук (Права)
+marking-GauzeBoxerWrapRight-gauze_boxerwrap_r = Gauze Handwrap (Right)
+marking-GauzeBoxerWrapRight = Gauze Handwrap (Right)
 
-marking-GauzeUpperLegLeft-gauze_upperleg_l = Марлева пов'язка на стегно (Ліве)
-marking-GauzeUpperLegLeft = Марлева пов'язка на стегно (Ліве)
+marking-GauzeUpperLegLeft-gauze_upperleg_l = Gauze Thigh Wrap (Left)
+marking-GauzeUpperLegLeft = Gauze Thigh Wrap (Left)
 
-marking-GauzeLowerLegRight-gauze_lowerleg_r = Бинт для щиколотки з марлі (Права)
-marking-GauzeLowerLegRight = Бинт для щиколотки з марлі (Права)
+marking-GauzeLowerLegRight-gauze_lowerleg_r = Gauze Ankle Wrap (Right)
+marking-GauzeLowerLegRight = Gauze Ankle Wrap (Right)
 
-marking-GauzeUpperLegRight-gauze_upperleg_r = Марлева пов'язка на стегно (Праве)
-marking-GauzeUpperLegRight = Марлева пов'язка на стегно (Праве)
+marking-GauzeUpperLegRight-gauze_upperleg_r = Gauze Thigh Wrap (Right)
+marking-GauzeUpperLegRight = Gauze Thigh Wrap (Right)
 
-marking-GauzeBlindfold-gauze_blindfold = Марлева пов'язка на очі
-marking-GauzeBlindfold = Марлева пов'язка на очі
+marking-GauzeBlindfold-gauze_blindfold = Gauze Blindfold
+marking-GauzeBlindfold = Gauze Blindfold
 
-marking-GauzeHead-gauze_head = Марлева пов'язка на голову
-marking-GauzeHead = Марлева пов'язка на голову
+marking-GauzeHead-gauze_head = Gauze Head Wrap
+marking-GauzeHead = Gauze Head Wrap
 
-marking-GauzeLizardBlindfold-gauze_lizard_blindfold = Марлева пов'язка на очі
-marking-GauzeLizardBlindfold = Марлева пов'язка на очі
+marking-GauzeLizardBlindfold-gauze_lizard_blindfold = Gauze Blindfold
+marking-GauzeLizardBlindfold = Gauze Blindfold
 
-marking-GauzeLizardFootRight-gauze_lizard_foot_r = Марлева пов'язка для ноги (Права)
-marking-GauzeLizardFootRight = Марлева пов'язка для ноги (Права)
+marking-GauzeLizardFootRight-gauze_lizard_foot_r = Gauze Foot Wrap (Right)
+marking-GauzeLizardFootRight = Gauze Foot Wrap (Right)
 
-marking-GauzeLizardFootLeft-gauze_lizard_foot_l = Марлева пов'язка для ноги (Ліва)
-marking-GauzeLizardFootLeft = Марлева пов'язка для ноги (Ліва)
+marking-GauzeLizardFootLeft-gauze_lizard_foot_l = Gauze Foot Wrap (Left)
+marking-GauzeLizardFootLeft = Gauze Foot Wrap (Left)
 
-marking-GauzeLizardLefteyePatch-gauze_lizard_lefteye = Ящіркова Марлева пов'язка на око (Ліве)
-marking-GauzeLizardLefteyePatch = Ящіркова Марлева пов'язка на око (Ліве)
+marking-GauzeLizardLefteyePatch-gauze_lizard_lefteye = Reptilian Gauze eyepatch (Left)
+marking-GauzeLizardLefteyePatch = Reptilian Gauze eyepatch (Left)
 
-marking-GauzeLizardRighteyePatch-gauze_lizard_righteye = Ящіркова Марлева пов'язка на око (Праве)
-marking-GauzeLizardRighteyePatch = Ящіркова Марлева пов'язка на око (Праве)
+marking-GauzeLizardRighteyePatch-gauze_lizard_righteye = Reptilian Gauze eyepatch (Right)
+marking-GauzeLizardRighteyePatch = Reptilian Gauze Eyepatch (Right)
 
-marking-GauzeMothStomach-gauze_moth_abdomen = Комахоподібна перев'язка живота
-marking-GauzeMothStomach = Комахоподібна перев'язка живота
+marking-GauzeMothStomach-gauze_moth_abdomen = Insectoid Stomach Wrap
+marking-GauzeMothStomach = Insectoid Stomach Wrap
 
-marking-GauzeMothShoulder-gauze_moth_shoulder = Комахоподібна плечова перев'язь
-marking-GauzeMothShoulder = Комахоподібна плечова перев'язь
+marking-GauzeMothShoulder-gauze_moth_shoulder = Insectoid Shoulder Sling
+marking-GauzeMothShoulder = Insectoid Shoulder Sling
 
-marking-GauzeMothBlindfold-gauze_moth_blindfold = Комахоподібна пов'язка на очі
-marking-GauzeMothBlindfold = Комахоподібна пов'язка на очі
+marking-GauzeMothBlindfold-gauze_moth_blindfold = Insectoid Blindfold
+marking-GauzeMothBlindfold = Insectoid Blindfold
 
-marking-GauzeMothLeftEyePatch-gauze_moth_lefteye_2 = Комахоподібна Марлева пов'язка на око (Ліве)
-marking-GauzeMothLeftEyePatch = Комахоподібна Марлева пов'язка на око (Ліве)
+marking-GauzeMothLeftEyePatch-gauze_moth_lefteye_2 = Insectoid Gauze eyepatch (Left)
+marking-GauzeMothLeftEyePatch = Insectoid Gauze eyepatch (Left)
 
-marking-GauzeMothLeftEyePad-gauze_moth_lefteye_1 = Комахоподібна Марлева подушечка для очей (Ліва)
-marking-GauzeMothLeftEyePad = Комахоподібна Марлева подушечка для очей (Ліва)
+marking-GauzeMothLeftEyePad-gauze_moth_lefteye_1 = Insectoid Gauze eyepad (Left)
+marking-GauzeMothLeftEyePad = Insectoid Gauze eyepad (Left)
 
-marking-GauzeMothRightEyePatch-gauze_moth_righteye_2 = Комахоподібна Марлева пов'язка на око (Праве)
-marking-GauzeMothRightEyePatch = Комахоподібна Марлева пов'язка на око (Праве)
+marking-GauzeMothRightEyePatch-gauze_moth_righteye_2 = Insectoid Gauze eyepatch (Right)
+marking-GauzeMothRightEyePatch = Insectoid Gauze eyepatch (Right)
 
-marking-GauzeMothRightEyePad-gauze_moth_righteye_1 = Комахоподібна Марлева подушечка для очей (Права)
-marking-GauzeMothRightEyePad = Комахоподібна Марлева подушечка для очей (Права)
+marking-GauzeMothRightEyePad-gauze_moth_righteye_1 = Insectoid Gauze eyepad (Right)
+marking-GauzeMothRightEyePad = Insectoid Gauze eyepad (Right)
 
-marking-GauzeMothUpperArmRight-gauze_moth_upperarm_r = Комахоподібна Марлева пов'язка на передпліччя (Праве)
-marking-GauzeMothUpperArmRight = Комахоподібна Марлева пов'язка на передпліччя (Праве)
+marking-GauzeMothUpperArmRight-gauze_moth_upperarm_r = Insectoid Gauze Forearm Wrap (Right)
+marking-GauzeMothUpperArmRight = Insectoid Gauze Forearm Wrap (Right)
 
-marking-GauzeMothUpperArmLeft-gauze_moth_upperarm_l = Комахоподібна Марлева пов'язка на передпліччя (Ліве)
-marking-GauzeMothUpperArmLeft = Комахоподібна Марлева пов'язка на передпліччя (Ліве)
+marking-GauzeMothUpperArmLeft-gauze_moth_upperarm_l = Insectoid Gauze Forearm Wrap (Left)
+marking-GauzeMothUpperArmLeft = Insectoid Gauze Forearm Wrap (Left)
 
-marking-GauzeMothUpperLegRight-gauze_moth_upperleg_r = Комахоподібна Марлева пов'язка на стегно (Праве)
-marking-GauzeMothUpperLegRight = Комахоподібна Марлева пов'язка на стегно (Праве)
+marking-GauzeMothUpperLegRight-gauze_moth_upperleg_r = Insectoid Gauze Thigh Wrap (Right)
+marking-GauzeMothUpperLegRight = Insectoid Insectoid Gauze Thigh Wrap (Right)
 
-marking-GauzeMothUpperLegLeft-gauze_moth_upperleg_l = Комахоподібна Марлева пов'язка на стегно (Ліве)
-marking-GauzeMothUpperLegLeft = Комахоподібна Марлева пов'язка на стегно (Ліве)
+marking-GauzeMothUpperLegLeft-gauze_moth_upperleg_l = Insectoid Gauze Thigh Wrap (Left)
+marking-GauzeMothUpperLegLeft = Insectoid Gauze Thigh Wrap (Left)
 
-marking-GauzeMothLowerLegRight-gauze_moth_lowerleg_r = Комахоподібна Марлева пов'язка на гомілку (Права)
-marking-GauzeMothLowerLegRight = Комахоподібна Марлева пов'язка на гомілку (Права)
+marking-GauzeMothLowerLegRight-gauze_moth_lowerleg_r = Insectoid Gauze Shin Wrap (Right)
+marking-GauzeMothLowerLegRight = Insectoid Gauze Shin Wrap (Right)
 
-marking-GauzeMothLowerLegLeft-gauze_moth_lowerleg_l = Комахоподібна Марлева пов'язка на гомілку (Ліва)
-marking-GauzeMothLowerLegLeft = Комахоподібна Марлева пов'язка на гомілку (Ліва)
+marking-GauzeMothLowerLegLeft-gauze_moth_lowerleg_l = Insectoid Gauze Shin Wrap (Left)
+marking-GauzeMothLowerLegLeft = Insectoid Gauze Shin Wrap (Left)
+
