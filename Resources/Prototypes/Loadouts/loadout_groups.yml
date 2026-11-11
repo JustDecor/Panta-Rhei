@@ -4,7 +4,7 @@
   parent: [TrinketsFloofstation] # Floofstation
   name: loadout-group-trinkets
   minLimit: 0
-  maxLimit: 5 # Floof - increase by 2
+  maxLimit: 7 # Floof - increase by 2 ## Euphoria - increase by another 2
   loadouts:
   - FlowerWreath
   - Hairflower
@@ -120,6 +120,7 @@
   - EmergencyOxygen
   - LoadoutSpeciesVoxNitrogen
   - EmergencyWaterVapor # DeltaV
+  - EmergencyIPC # Starlight
 
 # nitrogen or oxygen tank, depending on what your species needs
 - type: loadoutGroup
@@ -171,6 +172,7 @@
   - CaptainJumpskirt
   - CaptainFormalSuit
   - CaptainFormalSkirt
+  - CaptainLongJumpskirt # Euph
 
 - type: loadoutGroup
   id: CaptainNeck
@@ -846,6 +848,7 @@
   - EmergencyOxygenClown
   - LoadoutSpeciesVoxNitrogen
   - EmergencyWaterVaporClown # DeltaV
+  - EmergencyIPC # Starlight
 
 - type: loadoutGroup
   id: ClownJobTrinkets
@@ -942,6 +945,7 @@
   - EmergencySpeciesMothMime
   - LoadoutSpeciesVoxNitrogen
   - EmergencyWaterVaporMime # DeltaV
+  - EmergencyIPC # Starlight
 
 - type: loadoutGroup
   id: MimeJobTrinkets
@@ -1094,6 +1098,7 @@
   - ClothingUniformJumpskirtCargoTechRomper # DeltaV
   - CargoTechnicianJumpsuit
   - CargoTechnicianJumpskirt
+  - CargoTechLongJumpskirt # Euph
 
 - type: loadoutGroup
   id: CargoTechnicianBackpack
@@ -1267,6 +1272,7 @@
   - StationEngineerJumpsuit
   - StationEngineerJumpskirt
   - StationEngineerHazardsuit
+  - StationEngineerLongJumpskirt # Euph
   - SeniorEngineerJumpsuit
   - SeniorEngineerJumpskirt
 
@@ -1382,6 +1388,7 @@
   - EmergencyOxygenExtended
   - LoadoutSpeciesVoxNitrogen
   - EmergencyWaterVaporExtended # DeltaV
+  - EmergencyIPC # Starlight
 
 # Science
 - type: loadoutGroup
@@ -1470,6 +1477,7 @@
   loadouts:
   - ScientistJumpsuit
   - ScientistJumpskirt
+  - ScientistLongJumpskirt # Euph
   # Begin DeltaV changes
   #- RoboticistJumpsuit # Moved to RoboticistJumpsuit
   #- RoboticistJumpskirt # Moved to RoboticistJumpsuit
@@ -1575,13 +1583,13 @@
   - HeadofSecurityTurtleneckSkirt
   - HeadofSecurityFormalSuit
   - HeadofSecurityFormalSkirt
-  - HeadofSecurityParadeSuit
-  - HeadofSecurityParadeSkirt
+  # - HeadofSecurityParadeSuit # DeltaV - disabled for bluesec
+  # - HeadofSecurityParadeSkirt # DeltaV - disabled for bluesec
   # Begin DeltaV changes
   - HeadofSecurityJumpsuitGrey
   - HeadofSecurityJumpskirtGrey
-  - HeadofSecurityJumpsuitBlue
-  - HeadofSecurityJumpskirtBlue
+  - HeadofSecurityJumpsuitWhite
+  - HeadofSecurityJumpskirtWhite
   # End DeltaV changes
 
 - type: loadoutGroup
@@ -1593,9 +1601,9 @@
   - HeadofSecurityCloak
   - HeadofSecurityMantle
   # Begin DeltaV changes
-  - ScarfRed
+  - ScarfBlue
   - ScarfBlack
-  - SecurityPoncho # Euph - Readded the SecPoncho after DV killed it. 
+  - SecurityPoncho # Euph - Readded the SecPoncho after DV killed it.
   - HeadOfSecurityRobe
   - HeadOfSecurityCloakBoat
   # End DeltaV changes
@@ -1647,8 +1655,8 @@
   # Begin DeltaV additions
   - WardenJumpsuitGrey
   - WardenJumpskirtGrey
-  - WardenJumpsuitBlue
-  - WardenJumpskirtBlue
+  - WardenJumpsuitWhite
+  - WardenJumpskirtWhite
   - WardenTurtlesuit
   - WardenTurtleskirt
   # End DeltaV additions
@@ -1677,7 +1685,9 @@
   minLimit: 0
   loadouts:
   - SecurityHelmet
+  - SecurityCap # DeltaV
   - SecurityBeret
+  - SecurityBeretGrey #DeltaV
 #  - SecurityHat # DeltaV - removed for incongruence
 #  - MimeHead # DeltaV - Red Beret | removed for incongruence
 
@@ -1690,9 +1700,10 @@
   - SecurityJumpskirt
   - SecurityJumpsuitGrey
   - SecurityJumpskirtGrey
+  - SecurityLongJumpskirt # Euph 
   # Begin DeltaV changes
-  - SecurityJumpsuitBlue
-  - SecurityJumpskirtBlue
+  - SecurityJumpsuitWhite
+  - SecurityJumpskirtWhite
 #  - SeniorOfficerJumpsuit # Removed for incongruence
 #  - SeniorOfficerJumpskirt # Removed for incongruence
   - SeniorSecOfficerTurtlesuit
@@ -1773,7 +1784,7 @@
   - DetectiveTie
   - ScarfBlue # DeltaV - Was ScarfRed
   - SecurityPoncho # DeltaV
-  # Euph - Readded the SecPoncho after DV killed it. 
+  # Euph - Readded the SecPoncho after DV killed it.
 
 - type: loadoutGroup
   id: DetectiveJumpsuit
@@ -1806,8 +1817,8 @@
   parent: [FloofSecurityOfficerJumpsuit, FloofJumpsuits] # Floofstation
   name: loadout-group-security-cadet-jumpsuit
   loadouts:
-  - RedJumpsuit
-  - RedJumpskirt
+  - SecurityCadetJumpsuit # DeltaV - was RedJumpsuit
+  - SecurityCadetJumpskirt # DeltaV - was RedJumpskirt
 
 - type: loadoutGroup
   id: SecurityCadetJobTrinkets
@@ -1826,6 +1837,7 @@
   - EmergencyOxygenSecurity
   - LoadoutSpeciesVoxNitrogen
   - EmergencyWaterVaporSecurity # DeltaV
+  - EmergencyIPC # Starlight
 
 # Medical
 - type: loadoutGroup
@@ -1928,6 +1940,7 @@
   loadouts:
   - MedicalDoctorJumpsuit
   - MedicalDoctorJumpskirt
+  - MedicalLongJumpskirt # Euph
   - SeniorPhysicianJumpsuit
   - SeniorPhysicianJumpskirt
   - MedicalBlueScrubs
@@ -2165,6 +2178,7 @@
   - EmergencyOxygenMedical
   - LoadoutSpeciesVoxNitrogen
   - EmergencyWaterVaporMedical # DeltaV
+  - EmergencyIPC # Starlight
 
 # Wildcards
 - type: loadoutGroup
@@ -2235,6 +2249,7 @@
   - EmergencyOxygenSyndicate
   - LoadoutSpeciesVoxNitrogen
   - EmergencyWaterVaporSyndicate # DeltaV
+  - EmergencyIPC # Starlight
 
 - type: loadoutGroup
   id: SurvivalMilitaryDouble
@@ -2244,6 +2259,7 @@
   loadouts:
   - EmergencyNitrogenMilitaryDouble
   - EmergencyOxygenMilitaryDouble
+  - EmergencyIPC # Starlight
 
 - type: loadoutGroup
   id: GroupSpeciesBreathTool

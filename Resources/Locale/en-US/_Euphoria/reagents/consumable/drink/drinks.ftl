@@ -1,4 +1,4 @@
-﻿reagent-name-blackberryjuice = blackberry juice
+reagent-name-blackberryjuice = blackberry juice
 reagent-desc-blackberryjuice = A sweet, refreshing and very tart extract from blackberries.
 
 reagent-name-blueberryjuice = blueberry juice
@@ -15,3 +15,15 @@ reagent-desc-bepismidnight = Bepis mixed with berries for those late night shift
 
 reagent-name-berrynice = berry nice
 reagent-desc-berrynice = All the berries in one tall glass...
+
+reagent-name-baxshots = bax shots
+reagent-desc-baxshots = A drink named after the famed tajaran weiner master himself.
+
+reagent-name-breast-milk = breast milk
+reagent-desc-breast-milk = A special, nutrient rich milk produced by the mammary glands of lactating mothers. It's nice and warm, with a thick consistency that makes it enjoyable to drink.
+
+reagent-name-gravy = gravy
+reagent-desc-gravy = One ticket for the Gravy Train, please.
+
+reagent-name-roux = roux
+reagent-desc-roux = A thick mixture of fat and flour used as the base of many sauces, such as gravy.

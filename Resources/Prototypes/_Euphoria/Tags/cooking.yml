@@ -15,3 +15,9 @@
 
 - type: Tag
   id: Sausage
+
+- type: Tag
+  id: Shrimp # MetamorphRecipe: FoodBurgerShrimp
+
+- type: Tag
+  id: ScotchEgg # CargoBounty: BountyScotchEgg

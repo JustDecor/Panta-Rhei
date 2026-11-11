@@ -7,3 +7,39 @@
       amount: 1
   products:
     Water: 2
+
+- type: reaction
+  id: BreastMilkCurdling
+  impact: Low
+  quantized: true
+  conserveEnergy: false
+  reactants:
+    BreastMilk:
+      amount: 15
+    Enzyme:
+      amount: 5
+      catalyst: true
+  effects:
+  - !type:SpawnEntity
+    entity: FoodMothersCheese
+
+- type: reaction
+  id: GravyReaction
+  reactants:
+    Roux:
+      amount: 10
+    Water:
+      amount: 5
+  products:
+    Gravy: 15
+
+- type: reaction
+  id: RouxReaction
+  minTemp: 365
+  reactants:
+    Fat:
+      amount: 9
+    Flour:
+      amount: 5
+  products:
+    Roux: 10
